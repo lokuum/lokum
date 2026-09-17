@@ -1,7 +1,7 @@
 import type { PropertyOffer, PropertyType, Voivodeship } from 'shared';
 import { SCRAPER_CONFIG, SUPPORTED_TYPES, SUPPORTED_VOIVODESHIPS } from './config.js';
 import { mergeOffers } from './engine/merger.js';
-import { generateAndSaveSummary, loadPartition, savePartition } from './engine/storage.js';
+import { generateAndSaveSummary, generateSummaryFromAllPartitions, loadPartition, savePartition } from './engine/storage.js';
 import { fetchAdresowoPage } from './sources/adresowo.js';
 import { fetchOtodomPage } from './sources/otodom.js';
 import { randomDelay } from './utils/http.js';
@@ -12,6 +12,7 @@ interface CliArgs {
   maxPages: number;
   sources: ('otodom' | 'adresowo')[];
   dryRun: boolean;
+  summaryOnly: boolean;
 }
 
 function parseArgs(): CliArgs {
@@ -21,10 +22,13 @@ function parseArgs(): CliArgs {
   let maxPages = SCRAPER_CONFIG.maxPagesPerCategory;
   let sources: ('otodom' | 'adresowo')[] = ['otodom', 'adresowo'];
   let dryRun = false;
+  let summaryOnly = false;
 
   for (let i = 0; i < args.length; i++) {
     const arg = args[i];
-    if ((arg === '--voivodeship' || arg === '-v') && args[i + 1]) {
+    if (arg === '--summary-only') {
+      summaryOnly = true;
+    } else if ((arg === '--voivodeship' || arg === '-v') && args[i + 1]) {
       const v = args[i + 1].toLowerCase() as Voivodeship;
       if (SUPPORTED_VOIVODESHIPS.includes(v)) {
         voivodeships = [v];
@@ -59,7 +63,7 @@ function parseArgs(): CliArgs {
     }
   }
 
-  return { voivodeships, types, maxPages, sources, dryRun };
+  return { voivodeships, types, maxPages, sources, dryRun, summaryOnly };
 }
 
 async function scrapeCategory(
@@ -125,14 +129,25 @@ async function scrapeCategory(
 
 async function main() {
   const options = parseArgs();
+
+  if (options.summaryOnly) {
+    console.log(`\nGenerowanie globalnego podsumowania (summary.json) ze wszystkich partycji na dysku...`);
+    const summary = await generateSummaryFromAllPartitions();
+    console.log(`Podsumowanie wygenerowane:`);
+    console.log(`- Wszystkie domy: ${summary.totalHouses}`);
+    console.log(`- Wszystkie działki: ${summary.totalPlots}`);
+    console.log(`- Liczba obniżek cen: ${summary.totalPriceDrops}`);
+    console.log(`- Średnia cena m² dom: ${summary.avgHousePricePerM2} zł/m²`);
+    console.log(`- Średnia cena m² działka: ${summary.avgPlotPricePerM2} zł/m²`);
+    return;
+  }
+
   console.log(`Lokum Scraper uruchomiony z parametrami:`);
   console.log(`- Województwa: ${options.voivodeships.join(', ')}`);
   console.log(`- Kategorie: ${options.types.join(', ')}`);
   console.log(`- Źródła: ${options.sources.join(', ')}`);
   console.log(`- Max stron per kategoria: ${options.maxPages}`);
   console.log(`- Dry run: ${options.dryRun}`);
-
-  const allMergedOffers: PropertyOffer[] = [];
 
   for (const voivodeship of options.voivodeships) {
     for (const type of options.types) {
@@ -143,7 +158,6 @@ async function main() {
       console.log(`Pobrano łącznie ${fresh.length} ofert.`);
 
       const { merged, stats } = mergeOffers(existing, fresh);
-      allMergedOffers.push(...merged);
 
       console.log(`\n--- Statystyki aktualizacji (${voivodeship} / ${type}) ---`);
       console.log(`  Nowe oferty:       ${stats.newOffersCount}`);
@@ -160,9 +174,9 @@ async function main() {
     }
   }
 
-  if (!options.dryRun && allMergedOffers.length > 0) {
+  if (!options.dryRun) {
     console.log(`\nGenerowanie globalnego podsumowania (summary.json)...`);
-    const summary = await generateAndSaveSummary(allMergedOffers);
+    const summary = await generateSummaryFromAllPartitions();
     console.log(`Podsumowanie wygenerowane:`);
     console.log(`- Wszystkie domy: ${summary.totalHouses}`);
     console.log(`- Wszystkie działki: ${summary.totalPlots}`);

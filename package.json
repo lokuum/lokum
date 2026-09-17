@@ -11,6 +11,10 @@
     "dev": "npm run dev --workspace frontend",
     "build": "npm run build --workspace frontend",
     "scrape": "npm run scrape --workspace scraper",
+    "scrape:lubelskie": "npm run scrape --workspace scraper -- --voivodeship lubelskie",
+    "scrape:podlaskie": "npm run scrape --workspace scraper -- --voivodeship podlaskie",
+    "scrape:podkarpackie": "npm run scrape --workspace scraper -- --voivodeship podkarpackie",
+    "scrape:summary": "npm run scrape --workspace scraper -- --summary-only",
     "test": "vitest run",
     "typecheck": "npm run typecheck --workspaces --if-present"
   },

@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       voivodeship:
-        description: 'Województwo do zeskrapowania (puste = wszystkie)'
+        description: 'Województwo do zeskrapowania (puste = wszystkie po kolei)'
         required: false
         default: ''
       limit:
@@ -38,17 +38,40 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Run scraper
+      # Krok 1: Województwo Lubelskie (UA / BY)
+      - name: Scrape Lubelskie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'lubelskie' }}
+        continue-on-error: true
         run: |
-          ARGS=""
-          if [ -n "${{ github.event.inputs.voivodeship }}" ]; then
-            ARGS="$ARGS --voivodeship ${{ github.event.inputs.voivodeship }}"
-          fi
-          if [ -n "${{ github.event.inputs.limit }}" ]; then
-            ARGS="$ARGS --limit ${{ github.event.inputs.limit }}"
-          fi
-          npm run scrape --workspace scraper -- $ARGS
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Lubelskiego (limit: $LIMIT stron) ==="
+          npm run scrape:lubelskie -- --limit "$LIMIT"
 
+      # Krok 2: Województwo Podlaskie (BY / LT)
+      - name: Scrape Podlaskie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'podlaskie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Podlaskiego (limit: $LIMIT stron) ==="
+          npm run scrape:podlaskie -- --limit "$LIMIT"
+
+      # Krok 3: Województwo Podkarpackie (UA / SK)
+      - name: Scrape Podkarpackie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'podkarpackie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Podkarpackiego (limit: $LIMIT stron) ==="
+          npm run scrape:podkarpackie -- --limit "$LIMIT"
+
+      # Krok 4: Generowanie globalnego podsumowania (summary.json) ze wszystkich partycji
+      - name: Generate Summary and Global Stats
+        run: |
+          echo "=== Generowanie globalnego summary.json z aktualnych partycji ==="
+          npm run scrape:summary
+
+      # Krok 5: Commit i push zmian do repozytorium
       - name: Commit and push changes
         id: commit
         run: |
@@ -56,7 +79,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/ frontend/public/data/
           if git diff --staged --quiet; then
-            echo "No changes in property prices or offers"
+            echo "Brak nowych zmian w cenach ani ofertach do skomitowania"
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "chore: update property data $(date -u +%Y-%m-%d)"

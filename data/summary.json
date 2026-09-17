@@ -1,9 +1,9 @@
 {
-  "totalHouses": 78,
-  "totalPlots": 77,
+  "totalHouses": 7580,
+  "totalPlots": 9422,
   "totalPriceDrops": 0,
-  "avgHousePricePerM2": 6638,
-  "avgPlotPricePerM2": 88029,
-  "lastUpdated": "2026-09-17T21:55:18.643Z",
+  "avgHousePricePerM2": 5703,
+  "avgPlotPricePerM2": 41840,
+  "lastUpdated": "2026-09-17T22:21:30.552Z",
   "topPriceDrops": []
 }

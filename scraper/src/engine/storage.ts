@@ -90,3 +90,18 @@ export async function generateAndSaveSummary(allOffers: PropertyOffer[]): Promis
 
   return summary;
 }
+
+export async function generateSummaryFromAllPartitions(): Promise<SummaryStats> {
+  const allOffers: PropertyOffer[] = [];
+  const voivodeships: Voivodeship[] = ['lubelskie', 'podlaskie', 'podkarpackie'];
+  const types: PropertyType[] = ['house', 'plot'];
+
+  for (const v of voivodeships) {
+    for (const t of types) {
+      const part = await loadPartition(v, t);
+      allOffers.push(...part);
+    }
+  }
+
+  return generateAndSaveSummary(allOffers);
+}
