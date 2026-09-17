@@ -1,0 +1,2568 @@
+[
+  {
+    "id": "otodom-68432788",
+    "source": "otodom",
+    "sourceId": "68432788",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/oblizniak-plaska-dzialka-3167-m-z-mpzp-ID4D8uE",
+    "propertyType": "plot",
+    "title": "Obliźniak | płaska działka 3167 m² z Mpzp",
+    "voivodeship": "lubelskie",
+    "county": "opolski",
+    "city": "Obliźniak",
+    "coordinates": {
+      "lat": 51.30247216603655,
+      "lng": 22.528508584657267
+    },
+    "isNearBorder": false,
+    "areaM2": 3167,
+    "currentPrice": 99000,
+    "currentPricePerM2": 31.26,
+    "initialPrice": 99000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 99000,
+        "pricePerM2": 31.26
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:32:14.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV3NHl3cDJrbzRrMjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ps58yACFAZ88S_67TxhNb2kAS6nDHHpsDluD6JHnwz8/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68406270",
+    "source": "otodom",
+    "sourceId": "68406270",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-pokrowka-ul-wesolej-ID4D1AV",
+    "propertyType": "plot",
+    "title": "Działka budowlana - Pokrówka, ul. Wesołej",
+    "voivodeship": "lubelskie",
+    "county": "chełmski",
+    "city": "Pokrówka",
+    "street": "ul. Wesoła",
+    "coordinates": {
+      "lat": 51.089809968359106,
+      "lng": 22.755530619967193
+    },
+    "isNearBorder": true,
+    "areaM2": 2719,
+    "currentPrice": 400000,
+    "currentPricePerM2": 147.11,
+    "initialPrice": 400000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 400000,
+        "pricePerM2": 147.11
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T20:50:42.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFsM2RibG03cWZkbjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.XJWTfochY18Npn9rjGPOPUjBECa1QV7QtsAxL-ULxo0/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68406213",
+    "source": "otodom",
+    "sourceId": "68406213",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-inwestycyjno-mieszkaniowa-2340-m2cena-165zl-m2-ul-dlotlice-9-ID4D1A1",
+    "propertyType": "plot",
+    "title": "Działka inwestycyjno- mieszkaniowa 2340 m2;cena 165zł/m2,ul.Dłotlice 9",
+    "voivodeship": "lubelskie",
+    "city": "Lublin",
+    "street": "Dłotlice 9",
+    "coordinates": {
+      "lat": 51.05354164075821,
+      "lng": 22.451068055532044
+    },
+    "isNearBorder": false,
+    "areaM2": 2340,
+    "currentPrice": 386100,
+    "currentPricePerM2": 165,
+    "initialPrice": 386100,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 386100,
+        "pricePerM2": 165
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T20:24:13.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InczNnRkN2M3MWJjaS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Y8ELgFknhTrj8dBclqiCnEhxAeuL0u65krMr9TGQHj8/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68432593",
+    "source": "otodom",
+    "sourceId": "68432593",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-cicha-i-spokojna-okolica-ID4D8rw",
+    "propertyType": "plot",
+    "title": "Działka budowlana_Cicha i spokojna okolica.",
+    "voivodeship": "lubelskie",
+    "county": "bialski",
+    "city": "Żeszczynka",
+    "coordinates": {
+      "lat": 51.243592070857204,
+      "lng": 22.48167366879351
+    },
+    "isNearBorder": true,
+    "areaM2": 6884,
+    "currentPrice": 128000,
+    "currentPricePerM2": 18.59,
+    "initialPrice": 128000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 128000,
+        "pricePerM2": 18.59
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T19:46:27.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjlnaGt5czJodDF5bDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.INaKf_1sXDZt_bKkmy0ubJ8PofXv9Aim2JUYq0GO0Pk/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68080142",
+    "source": "otodom",
+    "sourceId": "68080142",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-w-miescie-z-mediami-ID4BEKO",
+    "propertyType": "plot",
+    "title": "Działka budowlana w mieście z mediami",
+    "voivodeship": "lubelskie",
+    "county": "krasnostawski",
+    "city": "Krasnystaw",
+    "street": "ul. Przemysłowa",
+    "coordinates": {
+      "lat": 51.10827339886034,
+      "lng": 22.653940525854562
+    },
+    "isNearBorder": true,
+    "areaM2": 5021,
+    "currentPrice": 261364.5,
+    "currentPricePerM2": 52.05,
+    "initialPrice": 261364.5,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 261364.5,
+        "pricePerM2": 52.05
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T19:19:50.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImltaXF0NWZhMDBibTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YMLtSX8A5xp77E_90lOH-LHC8I0frbA0_QaT3bWMkkg/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68432284",
+    "source": "otodom",
+    "sourceId": "68432284",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-2900m2-10-km-od-zamoscia-ID4D8mv",
+    "propertyType": "plot",
+    "title": "Działka budowlana | 2900m2 | 10 km od Zamościa",
+    "voivodeship": "lubelskie",
+    "county": "zamojski",
+    "city": "Zawada",
+    "coordinates": {
+      "lat": 51.196294569407904,
+      "lng": 22.620121681743772
+    },
+    "isNearBorder": true,
+    "areaM2": 2900,
+    "currentPrice": 255000,
+    "currentPricePerM2": 87.93,
+    "initialPrice": 255000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 255000,
+        "pricePerM2": 87.93
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T17:46:24.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdlcDBuZDhjczQ0MTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q2PzimofEeDh_NEAgL4AxfNNdePNGhyNZyMRjBpEJAo/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68014541",
+    "source": "otodom",
+    "sourceId": "68014541",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-1375-m-z-mediami-ID4BnGJ",
+    "propertyType": "plot",
+    "title": "Działka budowlana 1375 m² z mediami",
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "city": "Płouszowice",
+    "coordinates": {
+      "lat": 51.11360633415973,
+      "lng": 22.72378503687906
+    },
+    "isNearBorder": false,
+    "areaM2": 1375,
+    "currentPrice": 285000,
+    "currentPricePerM2": 207.27,
+    "initialPrice": 285000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 285000,
+        "pricePerM2": 207.27
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T17:01:51.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJhcWR0bm5lMm5yOTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JuCanayA4G6cypmA-VKpnjAineqX6n_AO09ErE1p6V0/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68432100",
+    "source": "otodom",
+    "sourceId": "68432100",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-5271-m-w-cichej-wsi-ID4D8jy",
+    "propertyType": "plot",
+    "title": "Działka siedliskowa 5271 m² w cichej wsi",
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "city": "Miłocin",
+    "coordinates": {
+      "lat": 51.1483391386939,
+      "lng": 22.517510269023695
+    },
+    "isNearBorder": false,
+    "areaM2": 5271,
+    "currentPrice": 600000,
+    "currentPricePerM2": 113.83,
+    "initialPrice": 600000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 600000,
+        "pricePerM2": 113.83
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T16:50:22.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV5NnVkNzFtZDNzZTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.L6L71_kT_203ui2KOku0H9lI8BKFwmdkqSh5tmwOqHw/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68308206",
+    "source": "otodom",
+    "sourceId": "68308206",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-rekreacyjna-o-powierzchni-913-m-w-miejscowosci-krasne-jeziora-ID4CC5g",
+    "propertyType": "plot",
+    "title": "Działka rekreacyjna o powierzchni 913 m² w miejscowości Krasne,jeziora",
+    "voivodeship": "lubelskie",
+    "county": "lubartowski",
+    "city": "Krasne",
+    "coordinates": {
+      "lat": 51.071450650652,
+      "lng": 22.576591673020985
+    },
+    "isNearBorder": false,
+    "areaM2": 913,
+    "currentPrice": 199000,
+    "currentPricePerM2": 217.96,
+    "initialPrice": 199000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 199000,
+        "pricePerM2": 217.96
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T16:43:13.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjlkZWdpNTdxeGF5by1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.yp315HUMiZqznXSz6vtP2ay6-J5JCENDLr9qt5FEMHk/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68411049",
+    "source": "otodom",
+    "sourceId": "68411049",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-tuz-przy-granicy-kocka-mozliwy-podzial-ID4D2Q1",
+    "propertyType": "plot",
+    "title": "Działka tuż przy granicy Kocka, możliwy podział.",
+    "voivodeship": "lubelskie",
+    "county": "lubartowski",
+    "city": "Białobrzegi-Kolonia",
+    "coordinates": {
+      "lat": 51.14843890555827,
+      "lng": 22.555914292449856
+    },
+    "isNearBorder": false,
+    "areaM2": 16342,
+    "currentPrice": 349000,
+    "currentPricePerM2": 21.36,
+    "initialPrice": 349000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 349000,
+        "pricePerM2": 21.36
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T16:39:06.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVyYzM2ZmxtOWx3cTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cH6Tia6FuxnCS4ebLZkrjUs4JP1wp1dZcGQovHHGns8/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68411032",
+    "source": "otodom",
+    "sourceId": "68411032",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlano-rolna-10-minut-drogi-od-lublina-wierzchowiska-drugie-ID4D2PK",
+    "propertyType": "plot",
+    "title": "Działka budowlano-rolna 10 minut drogi od Lublina-Wierzchowiska Drugie",
+    "voivodeship": "lubelskie",
+    "county": "świdnicki",
+    "city": "Wierzchowiska",
+    "coordinates": {
+      "lat": 51.34247270569342,
+      "lng": 22.378355871699792
+    },
+    "isNearBorder": false,
+    "areaM2": 13741,
+    "currentPrice": 349000,
+    "currentPricePerM2": 25.4,
+    "initialPrice": 349000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 349000,
+        "pricePerM2": 25.4
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T16:38:39.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhpZWJwaGh6bzAxNS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.EfxvXRzCx_UmktByD8ONVfg9NRQXB9GuOemRVZ2Sr1A/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68210775",
+    "source": "otodom",
+    "sourceId": "68210775",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-38-ar-rol-lesna-w-bystrzycy-gm-zakrzowe-ID4CcJN",
+    "propertyType": "plot",
+    "title": "Działka 38 ar rol.leśna w Bystrzycy, gm. Zakrzówe",
+    "voivodeship": "lubelskie",
+    "county": "kraśnicki",
+    "city": "Bystrzyca",
+    "coordinates": {
+      "lat": 51.17723586981672,
+      "lng": 22.711731888003552
+    },
+    "isNearBorder": false,
+    "areaM2": 3800,
+    "currentPrice": 12900,
+    "currentPricePerM2": 3.39,
+    "initialPrice": 12900,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 12900,
+        "pricePerM2": 3.39
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T15:42:09.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InI5Nmc3aXk4cDh2ZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.938mzbt38Zyybtf3Mzbv5OX4otvqREmOB6FWlQvnhj0/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68431842",
+    "source": "otodom",
+    "sourceId": "68431842",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/potencjal-inwestycyjny-dzialka-w-turce-k-lublina-ID4D8fo",
+    "propertyType": "plot",
+    "title": "POTENCJAŁ INWESTYCYJNY- działka w TURCE k. Lublina",
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "city": "Turka",
+    "coordinates": {
+      "lat": 51.3818410896952,
+      "lng": 22.430461794588968
+    },
+    "isNearBorder": false,
+    "areaM2": 1700,
+    "currentPrice": 240000,
+    "currentPricePerM2": 141.18,
+    "initialPrice": 240000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 240000,
+        "pricePerM2": 141.18
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T15:18:09.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVxazJwbHI5ZHB0eDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Yw8FmuS-vdEUbXru2uODsIbbzf0VG6Uul77_1NFlRQ4/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68431694",
+    "source": "otodom",
+    "sourceId": "68431694",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlano-rolna-w-wygnanowie-ID4D8d0",
+    "propertyType": "plot",
+    "title": "Działka budowlano-rolna w Wygnanowie...",
+    "voivodeship": "lubelskie",
+    "county": "radzyński",
+    "city": "Wygnanów",
+    "coordinates": {
+      "lat": 51.18815447569589,
+      "lng": 22.62866138579589
+    },
+    "isNearBorder": false,
+    "areaM2": 10080,
+    "currentPrice": 104000,
+    "currentPricePerM2": 10.32,
+    "initialPrice": 104000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 104000,
+        "pricePerM2": 10.32
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T14:41:23.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ino1Y3N1dzExcXZwejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.05xzsak-1ONkJr_1jQ6bGS1soxXcz2s03gWPLoDxEiE/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68431681",
+    "source": "otodom",
+    "sourceId": "68431681",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-908-m2-z-warunkami-zabudowy-hrud-ID4D8cN",
+    "propertyType": "plot",
+    "title": "Działka 908 m2 z warunkami zabudowy | Hrud",
+    "voivodeship": "lubelskie",
+    "county": "bialski",
+    "city": "Hrud",
+    "coordinates": {
+      "lat": 51.10179045450614,
+      "lng": 22.70086099077358
+    },
+    "isNearBorder": true,
+    "areaM2": 908,
+    "currentPrice": 99000,
+    "currentPricePerM2": 109.03,
+    "initialPrice": 99000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 99000,
+        "pricePerM2": 109.03
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T14:37:25.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ5ZHVlanUydmQxNjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nbhBcyeLEYxYNPNLltG8ts-dSLTxW9TgHvsT1N9CHgs/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68431544",
+    "source": "otodom",
+    "sourceId": "68431544",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-kazimierz-naleczow-celejow-ID4D8aA",
+    "propertyType": "plot",
+    "title": "Działka budowlana Kazimierz/Nałęczów (Celejów)",
+    "voivodeship": "lubelskie",
+    "county": "puławski",
+    "city": "Celejów",
+    "coordinates": {
+      "lat": 51.41048521053455,
+      "lng": 22.67323217223269
+    },
+    "isNearBorder": false,
+    "areaM2": 4200,
+    "currentPrice": 490000,
+    "currentPricePerM2": 116.67,
+    "initialPrice": 490000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 490000,
+        "pricePerM2": 116.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T14:13:29.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InB6dWlqZ2xpOGJxdTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.FXS6OrRwbR3ekpSLFUKjWSYIEHUktL911xZtEeWLjWg/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68431537",
+    "source": "otodom",
+    "sourceId": "68431537",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-1587-m-gluszczyzna-13-km-do-centrum-ID4D8at",
+    "propertyType": "plot",
+    "title": "Działka 1587 m²|Głuszczyzna|13 km do centrum",
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "city": "Głuszczyzna",
+    "street": "Gościnna",
+    "coordinates": {
+      "lat": 51.29074193943007,
+      "lng": 22.723955188057168
+    },
+    "isNearBorder": false,
+    "areaM2": 1587,
+    "currentPrice": 269000,
+    "currentPricePerM2": 169.5,
+    "initialPrice": 269000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 269000,
+        "pricePerM2": 169.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T14:09:09.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJraTFvMXV6dXhjby1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.4OL9mYoenQLu4Q0x9sTkhTLKZYqMOSjSQSZD5YCGMv4/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68431536",
+    "source": "otodom",
+    "sourceId": "68431536",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/zamieszkaj-lub-rozwin-biznes-przy-melgiewskiej-ID4D8as",
+    "propertyType": "plot",
+    "title": "Zamieszkaj lub rozwiń biznes – przy Mełgiewskiej",
+    "voivodeship": "lubelskie",
+    "city": "Lublin",
+    "street": "Mełgiewska",
+    "coordinates": {
+      "lat": 51.30235936836537,
+      "lng": 22.415509065215694
+    },
+    "isNearBorder": false,
+    "areaM2": 1266,
+    "currentPrice": 385000,
+    "currentPricePerM2": 304.11,
+    "initialPrice": 385000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 385000,
+        "pricePerM2": 304.11
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T14:09:08.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Iml3aWxsOHg1NHF4Mi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.nmAauDsUfVpx7N8lzSrvoF8hArKkodxaQ1y0XEwi5mo/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68431535",
+    "source": "otodom",
+    "sourceId": "68431535",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/2-dzialki-budowlane-blisko-zamoscia-czolki-ID4D8ar",
+    "propertyType": "plot",
+    "title": "2 działki budowlane blisko Zamościa – Czołki",
+    "voivodeship": "lubelskie",
+    "county": "zamojski",
+    "city": "Czołki",
+    "coordinates": {
+      "lat": 51.11785825774225,
+      "lng": 22.500430792524877
+    },
+    "isNearBorder": true,
+    "areaM2": 2002,
+    "currentPrice": 166000,
+    "currentPricePerM2": 82.92,
+    "initialPrice": 166000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 166000,
+        "pricePerM2": 82.92
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T14:09:08.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh1Yno1YmRjc3U4ZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.x8Yzc0kOcrmu_KPGtgu3aJRUhqgjnXTxckMQSMq7Kfk/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68145677",
+    "source": "otodom",
+    "sourceId": "68145677",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlano-uslugowa-ul-cieszkowizna-lukow-pow-2601-m-ID4BWNP",
+    "propertyType": "plot",
+    "title": "DZIAŁKA BUDOWLANO - USŁUGOWA, ul. CIESZKOWIZNA , ŁUKÓW, pow. 2601 m²",
+    "voivodeship": "lubelskie",
+    "county": "łukowski",
+    "city": "Łuków",
+    "street": "ul. Cieszkowizna",
+    "coordinates": {
+      "lat": 51.224803911497524,
+      "lng": 22.49271385105973
+    },
+    "isNearBorder": false,
+    "areaM2": 2601,
+    "currentPrice": 1300000,
+    "currentPricePerM2": 499.81,
+    "initialPrice": 1300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1300000,
+        "pricePerM2": 499.81
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T13:07:31.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjI0cXl1eXN6cGY0NS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.PkuqP1OClaf3CpuM40pBXCMpb8RBSIy86Q6iLfFefqg/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67817956",
+    "source": "otodom",
+    "sourceId": "67817956",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/okazja-centrum-michowa-11-arow-ID4Ayy0",
+    "propertyType": "plot",
+    "title": "Okazja – Centrum Michowa | 11 arów |",
+    "voivodeship": "lubelskie",
+    "county": "lubartowski",
+    "city": "Michów",
+    "street": "Podwalna",
+    "coordinates": {
+      "lat": 51.05685772472667,
+      "lng": 22.657581467935714
+    },
+    "isNearBorder": false,
+    "areaM2": 1100,
+    "currentPrice": 150000,
+    "currentPricePerM2": 136.36,
+    "initialPrice": 150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 150000,
+        "pricePerM2": 136.36
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:56:59.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlqZzdoNnVkOGp5di1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.-ilIXgvzclMhs9srzOWf68C0u_Agu7-gL0uumewmTPc/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68422199",
+    "source": "otodom",
+    "sourceId": "68422199",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-o-pow-2404-m2-w-spokojnej-miejscowosci-ID4D5JR",
+    "propertyType": "plot",
+    "title": "Działka o pow. 2404 m2 w spokojnej miejscowości",
+    "voivodeship": "lubelskie",
+    "county": "biłgorajski",
+    "city": "Zamch",
+    "coordinates": {
+      "lat": 51.305496586955705,
+      "lng": 22.662415342179077
+    },
+    "isNearBorder": false,
+    "areaM2": 2404,
+    "currentPrice": 78000,
+    "currentPricePerM2": 32.45,
+    "initialPrice": 78000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 78000,
+        "pricePerM2": 32.45
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:39:00.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijhhc2J0Z2Z1cjlzMzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qpH4E8jlL1GXPM6scThTidPBPakW9w1QrbvlYVfdtJk/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68429047",
+    "source": "otodom",
+    "sourceId": "68429047",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-zadbana-dzialke-rod-292-m-z-domkiem-ID4D7vj",
+    "propertyType": "plot",
+    "title": "Sprzedam zadbaną działkę ROD – 292 m² z domkiem",
+    "voivodeship": "lubelskie",
+    "county": "biłgorajski",
+    "city": "Biłgoraj",
+    "coordinates": {
+      "lat": 51.369404102365955,
+      "lng": 22.685143741967778
+    },
+    "isNearBorder": false,
+    "areaM2": 292,
+    "currentPrice": 53000,
+    "currentPricePerM2": 181.51,
+    "initialPrice": 53000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 53000,
+        "pricePerM2": 181.51
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:33:54.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImI3bHl3NmZjbHVodjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JR9O1WUQiph-5XYKtSHz3ZKSThKD55B7VqZfjDJu3Yk/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68430768",
+    "source": "otodom",
+    "sourceId": "68430768",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-rekreacyjne-srednie-male-gm-nielisz-ID4D7Y4",
+    "propertyType": "plot",
+    "title": "DZIAŁKI REKREACYJNE – ŚREDNIE MAŁE, GM. NIELISZ",
+    "voivodeship": "lubelskie",
+    "county": "zamojski",
+    "city": "Średnie Małe",
+    "coordinates": {
+      "lat": 51.349203798868736,
+      "lng": 22.376415444534942
+    },
+    "isNearBorder": true,
+    "areaM2": 871,
+    "currentPrice": 60970,
+    "currentPricePerM2": 70,
+    "initialPrice": 60970,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 60970,
+        "pricePerM2": 70
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:07:11.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZkcGxuaDZ6aXdibDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.L-pPGvNxqcVPa9PLC9_KuCI_PrYg0_MGJiYQVX_As5E/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68430130",
+    "source": "otodom",
+    "sourceId": "68430130",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dys-i-56-arow-media-mpzp-inwestycyjna-ID4D7NM",
+    "propertyType": "plot",
+    "title": "Dys I 56 arów | media | MPZP | inwestycyjna",
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "city": "Dys",
+    "street": "Kokosowa",
+    "coordinates": {
+      "lat": 51.15050459879002,
+      "lng": 22.447774573657526
+    },
+    "isNearBorder": false,
+    "areaM2": 5635,
+    "currentPrice": 1127000,
+    "currentPricePerM2": 200,
+    "initialPrice": 1127000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1127000,
+        "pricePerM2": 200
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T10:38:41.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Img0MWxlNjRqMjZzcjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.t7KBXGtFVj4FCSDZyM3XcIKq7_PXZPkoO1XfbjDPaOw/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68018968",
+    "source": "otodom",
+    "sourceId": "68018968",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/kazimierz-dolny-2-6-ha-ciszy-i-prywatnosci-na-twoj-dom-w-sercu-natury-ID4BoQ8",
+    "propertyType": "plot",
+    "title": "Kazimierz Dolny 2,6 ha ciszy i prywatności na Twój dom w sercu natury",
+    "voivodeship": "lubelskie",
+    "county": "puławski",
+    "city": "Kazimierz Dolny",
+    "street": "ul. Zbożowa",
+    "coordinates": {
+      "lat": 51.36587254596951,
+      "lng": 22.601843375640783
+    },
+    "isNearBorder": false,
+    "areaM2": 25821,
+    "currentPrice": 2900000,
+    "currentPricePerM2": 112.31,
+    "initialPrice": 2900000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 2900000,
+        "pricePerM2": 112.31
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T10:27:55.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZncHhuaG1oZnpvaDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gfXNh0LLOHjnwoY0OwO6eSy6G_ADjS3oRCKRBfUSEIo/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68373533",
+    "source": "otodom",
+    "sourceId": "68373533",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-4637-m-z-mozliwoscia-zabudowy-media-asfalt-ul-cicha-ID4CT4W",
+    "propertyType": "plot",
+    "title": "Działka 4637 m² z możliwością zabudowy, media, asfalt, ul. Cicha",
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "city": "Niedrzwica Duża",
+    "street": "ul. Cicha",
+    "coordinates": {
+      "lat": 51.09797325879948,
+      "lng": 22.68533255887393
+    },
+    "isNearBorder": false,
+    "areaM2": 4637,
+    "currentPrice": 259000,
+    "currentPricePerM2": 55.86,
+    "initialPrice": 259000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 259000,
+        "pricePerM2": 55.86
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T10:16:51.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNiMmdzZnlqZGhxcDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gLrfPs7pZbjWNBrm7oJRH_n78jyoLqQg8PZfT19QDuA/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68429992",
+    "source": "otodom",
+    "sourceId": "68429992",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-z-koncepcja-hali-970m2-dabrowica-lublin-ID4D7Ly",
+    "propertyType": "plot",
+    "title": "Działka z koncepcją hali 970m2 - Dąbrowica, Lublin",
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "city": "Dąbrowica",
+    "coordinates": {
+      "lat": 51.31478500061892,
+      "lng": 22.552526142542575
+    },
+    "isNearBorder": false,
+    "areaM2": 2700,
+    "currentPrice": 1190000,
+    "currentPricePerM2": 440.74,
+    "initialPrice": 1190000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1190000,
+        "pricePerM2": 440.74
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T10:13:48.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVnbnRyYzNqMWRzdDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JFTriJh-QtgA_Ci0GAOtlpWF4N4N3DHXxlyJhtsnamM/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-65898311",
+    "source": "otodom",
+    "sourceId": "65898311",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-zespol-nieruchomosci-rolnych-i-budowlanych-ID4sw9Z",
+    "propertyType": "plot",
+    "title": "Sprzedam zespół nieruchomości rolnych i budowlanych",
+    "voivodeship": "lubelskie",
+    "county": "łosicki",
+    "city": "Dziadkowskie",
+    "coordinates": {
+      "lat": 51.29802504418318,
+      "lng": 22.59622489152185
+    },
+    "isNearBorder": false,
+    "areaM2": 13200,
+    "currentPrice": 300000,
+    "currentPricePerM2": 22.73,
+    "initialPrice": 300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 300000,
+        "pricePerM2": 22.73
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T09:36:19.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjI1eXE4amZsbXdubTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jHPV9OPzhOcjLXzbJNiwotrjfvS2UsK_HXVpuN_0q9o/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68429439",
+    "source": "otodom",
+    "sourceId": "68429439",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-franciszkow-gm-strzyzewice-ID4D7CD",
+    "propertyType": "plot",
+    "title": "Działka budowlana Franciszków, gm. Strzyżewice",
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "city": "Franciszków",
+    "coordinates": {
+      "lat": 51.323469742860574,
+      "lng": 22.663817099746826
+    },
+    "isNearBorder": false,
+    "areaM2": 1320,
+    "currentPrice": 179000,
+    "currentPricePerM2": 135.61,
+    "initialPrice": 179000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 179000,
+        "pricePerM2": 135.61
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T09:06:30.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im4yNXpjYXVtdWs2ai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.QQjFYqHzQPeEx-JvLRTntPXVWyUntlYXBouRPcGsnpg/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68428933",
+    "source": "otodom",
+    "sourceId": "68428933",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/2000-m2-teren-zabudowy-mn-u-ID4D7ut",
+    "propertyType": "plot",
+    "title": "2000 m2 - teren zabudowy MN/U.",
+    "voivodeship": "lubelskie",
+    "county": "łęczyński",
+    "city": "Ciechanki Łęczyńskie",
+    "coordinates": {
+      "lat": 51.05265234666301,
+      "lng": 22.543100442177415
+    },
+    "isNearBorder": false,
+    "areaM2": 2000,
+    "currentPrice": 250000,
+    "currentPricePerM2": 125,
+    "initialPrice": 250000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 250000,
+        "pricePerM2": 125
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T07:12:05.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1tYW90MHdtbGdnaDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lChgK3OECyXu83z61LFL6wj9spJVxlgd41MF3EyGMhI/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-65912949",
+    "source": "otodom",
+    "sourceId": "65912949",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-z-pozwoleniem-na-budowe-ul-skowronkowa-ID4syY5",
+    "propertyType": "plot",
+    "title": "Działka z pozwoleniem na budowę ul. Skowronkowa",
+    "voivodeship": "lubelskie",
+    "city": "Lublin",
+    "street": "ul. Skowronkowa",
+    "coordinates": {
+      "lat": 51.37194950180998,
+      "lng": 22.469167564769787
+    },
+    "isNearBorder": false,
+    "areaM2": 1021,
+    "currentPrice": 759000,
+    "currentPricePerM2": 743.39,
+    "initialPrice": 759000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 759000,
+        "pricePerM2": 743.39
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T07:04:03.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBhbWV2ODFqMXd3OC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.CorN6-4AZhKzdbq0iGADSmSC52rI46_ad1K6Vq5Prt0/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-60603953",
+    "source": "otodom",
+    "sourceId": "60603953",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-3000m-asfaltowy-dojazd-ID46hR7",
+    "propertyType": "plot",
+    "title": "Działka budowlana 3000m², asfaltowy dojazd",
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "city": "Matczyn",
+    "coordinates": {
+      "lat": 51.20091970580737,
+      "lng": 22.528052579672337
+    },
+    "isNearBorder": false,
+    "areaM2": 3000,
+    "currentPrice": 330000,
+    "currentPricePerM2": 110,
+    "initialPrice": 330000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 330000,
+        "pricePerM2": 110
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T06:47:23.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImF4ZzJ6YzRvNXJ1ZTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ZVAYkpAPXXQFxjp0UfUkdIUoW0hvgat-507Irv49BBY/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68428760",
+    "source": "otodom",
+    "sourceId": "68428760",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/ladna-dzialka-budowlana-w-krepcu-ID4D7rG",
+    "propertyType": "plot",
+    "title": "Ładna działka budowlana w Krępcu",
+    "voivodeship": "lubelskie",
+    "county": "świdnicki",
+    "city": "Krępiec",
+    "coordinates": {
+      "lat": 51.1675314887668,
+      "lng": 22.64608357301761
+    },
+    "isNearBorder": false,
+    "areaM2": 1606,
+    "currentPrice": 260000,
+    "currentPricePerM2": 161.89,
+    "initialPrice": 260000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 260000,
+        "pricePerM2": 161.89
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T06:45:49.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFoeHE4MWc1dzkzNTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.4Ra3ihhUrp15NtBmerR7vQ4IuaRprT-2DeTrWcG6-pY/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67353930",
+    "source": "otodom",
+    "sourceId": "67353930",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-655m-rakowiska-ul-wspolna-mpzp-ID4yBPI",
+    "propertyType": "plot",
+    "title": "Działka budowlana 655m Rakowiska ul. Wspólna MPZP",
+    "voivodeship": "lubelskie",
+    "county": "bialski",
+    "city": "Rakowiska",
+    "street": "ul. Wspólna",
+    "coordinates": {
+      "lat": 51.11517040827704,
+      "lng": 22.38549754778155
+    },
+    "isNearBorder": true,
+    "areaM2": 655,
+    "currentPrice": 112000,
+    "currentPricePerM2": 170.99,
+    "initialPrice": 112000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 112000,
+        "pricePerM2": 170.99
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T05:17:44.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjIzeDYydHVob3Y5by1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.yqfud5HwC3gohxuW3cCfNgfDtyCrlJM7BzelpQEIXqs/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68350050",
+    "source": "otodom",
+    "sourceId": "68350050",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/piekna-duza-dzialka-na-osiedlu-jednorodzinnym-blisko-lasu-ID4CMYa",
+    "propertyType": "plot",
+    "title": "Piękna, duża działka na osiedlu jednorodzinnym blisko lasu.",
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "city": "Mętów",
+    "street": "ul. Eleonory Szyszkowicz",
+    "coordinates": {
+      "lat": 51.425120568536705,
+      "lng": 22.519201543917163
+    },
+    "isNearBorder": false,
+    "areaM2": 1880,
+    "currentPrice": 499000,
+    "currentPricePerM2": 265.43,
+    "initialPrice": 499000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 499000,
+        "pricePerM2": 265.43
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T21:09:18.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx1Ymp3ODhkczVhajMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gipqzIkpTIeE1F0ieHSyU9xvCDToiCBNapSC4tp4H4E/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-96843278800067",
+    "source": "otodom",
+    "sourceId": "96843278800067",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/oblizniak-plaska-dzialka-3167-m-z-mpzp-ID4D8uE",
+    "propertyType": "plot",
+    "title": "Obliźniak | płaska działka 3167 m² z Mpzp",
+    "voivodeship": "lubelskie",
+    "county": "opolski",
+    "city": "Obliźniak",
+    "coordinates": {
+      "lat": 51.27154239135076,
+      "lng": 22.377276607785028
+    },
+    "isNearBorder": false,
+    "areaM2": 3167,
+    "currentPrice": 99000,
+    "currentPricePerM2": 31.26,
+    "initialPrice": 99000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 99000,
+        "pricePerM2": 31.26
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "1999-02-28T23:00:01.000Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4219540",
+    "source": "adresowo",
+    "sourceId": "4219540",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rod-swidnik-ul-sosnowa-k5z6c8",
+    "propertyType": "plot",
+    "title": "Działka — Świdnik Kalinówka, ul. Sosnowa",
+    "voivodeship": "lubelskie",
+    "city": "Świdnik Kalinówka",
+    "street": "ul. Sosnowa",
+    "coordinates": {
+      "lat": 51.11685732679213,
+      "lng": 22.462596810850233
+    },
+    "isNearBorder": false,
+    "areaM2": 400,
+    "currentPrice": 42900,
+    "currentPricePerM2": 107.25,
+    "initialPrice": 42900,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 42900,
+        "pricePerM2": 107.25
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4a/45/406294_8ed2_cover@2x-dzialka-rod-swidnicki-swidnik.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4257750",
+    "source": "adresowo",
+    "sourceId": "4257750",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-zalesie-wolka-dobrynska-2-ha-o7a5r9",
+    "propertyType": "plot",
+    "title": "Działka — Wólka Dobryńska",
+    "voivodeship": "lubelskie",
+    "city": "Wólka Dobryńska",
+    "coordinates": {
+      "lat": 51.40043492705381,
+      "lng": 22.403679890311253
+    },
+    "isNearBorder": false,
+    "areaM2": 2.01,
+    "currentPrice": 100000,
+    "currentPricePerM2": 49751.24,
+    "initialPrice": 100000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 100000,
+        "pricePerM2": 49751.24
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2f/16/40f7d6_688e_cover@2x-dzialka-rolna-bialski-wolka-dobrynska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261226",
+    "source": "adresowo",
+    "sourceId": "4261226",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-urzedow-beczyn-1-ha-x7b1j1",
+    "propertyType": "plot",
+    "title": "Działka — Bęczyn",
+    "voivodeship": "lubelskie",
+    "city": "Bęczyn",
+    "coordinates": {
+      "lat": 51.20111264040976,
+      "lng": 22.482077976724582
+    },
+    "isNearBorder": false,
+    "areaM2": 1.53,
+    "currentPrice": 88000,
+    "currentPricePerM2": 57516.34,
+    "initialPrice": 88000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 88000,
+        "pricePerM2": 57516.34
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4d/18/41056a_64a3_cover@2x-dzialka-rolna-krasnicki-beczyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261458",
+    "source": "adresowo",
+    "sourceId": "4261458",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-siemien-zminne-1-500-m2-k9h9o6",
+    "propertyType": "plot",
+    "title": "Działka — Żminne",
+    "voivodeship": "lubelskie",
+    "city": "Żminne",
+    "coordinates": {
+      "lat": 51.22091252561842,
+      "lng": 22.565909302433717
+    },
+    "isNearBorder": false,
+    "areaM2": 1500,
+    "currentPrice": 90000,
+    "currentPricePerM2": 60,
+    "initialPrice": 90000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 90000,
+        "pricePerM2": 60
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7e/34/410652_90cd_cover@2x-dzialka-budowlana-parczewski-zminne.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4256848",
+    "source": "adresowo",
+    "sourceId": "4256848",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-lublin-ul-feliksa-skubiszewskiego-q3u5k4",
+    "propertyType": "plot",
+    "title": "Działka — Lublin, ul. Feliksa Skubiszewskiego",
+    "voivodeship": "lubelskie",
+    "city": "Lublin",
+    "street": "ul. Feliksa Skubiszewskiego",
+    "coordinates": {
+      "lat": 51.224217384180875,
+      "lng": 22.40214357018315
+    },
+    "isNearBorder": false,
+    "areaM2": 981,
+    "currentPrice": 830000,
+    "currentPricePerM2": 846.08,
+    "initialPrice": 830000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 830000,
+        "pricePerM2": 846.08
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/27/4c/40f450_f475_cover@2x-dzialka-budowlana-lublin.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4252228",
+    "source": "adresowo",
+    "sourceId": "4252228",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-lublin-ul-zorza-m4j2g6",
+    "propertyType": "plot",
+    "title": "Działka — Lublin Głusk, ul. Zorza",
+    "voivodeship": "lubelskie",
+    "city": "Lublin Głusk",
+    "street": "ul. Zorza",
+    "coordinates": {
+      "lat": 51.115069315835655,
+      "lng": 22.637155273232132
+    },
+    "isNearBorder": false,
+    "areaM2": 1569,
+    "currentPrice": 799000,
+    "currentPricePerM2": 509.24,
+    "initialPrice": 799000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 799000,
+        "pricePerM2": 509.24
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/65/4f/40e244_b8b9_cover@2x-dzialka-budowlana-lublin.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261382",
+    "source": "adresowo",
+    "sourceId": "4261382",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-frampol-komodzianka-1-ha-x7v8c5",
+    "propertyType": "plot",
+    "title": "Działka — Komodzianka",
+    "voivodeship": "lubelskie",
+    "city": "Komodzianka",
+    "coordinates": {
+      "lat": 51.225797167369265,
+      "lng": 22.497152230157127
+    },
+    "isNearBorder": false,
+    "areaM2": 1.72,
+    "currentPrice": 65000,
+    "currentPricePerM2": 37790.7,
+    "initialPrice": 65000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 65000,
+        "pricePerM2": 37790.7
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6d/6a/410606_3366_cover@2x-dzialka-rolna-bilgorajski-komodzianka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261348",
+    "source": "adresowo",
+    "sourceId": "4261348",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-miaczyn-miaczyn-kolonia-4-300-m2-r7s8o2",
+    "propertyType": "plot",
+    "title": "Działka — Miączyn-Kolonia",
+    "voivodeship": "lubelskie",
+    "city": "Miączyn-Kolonia",
+    "coordinates": {
+      "lat": 51.34982729566607,
+      "lng": 22.592416407065226
+    },
+    "isNearBorder": false,
+    "areaM2": 4300,
+    "currentPrice": 179000,
+    "currentPricePerM2": 41.63,
+    "initialPrice": 179000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 179000,
+        "pricePerM2": 41.63
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/47/16/4105e4_fb25_cover@2x-dzialka-budowlana-zamojski-miaczyn-kolonia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261346",
+    "source": "adresowo",
+    "sourceId": "4261346",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-chrzanow-5-000-m2-z7a2n2",
+    "propertyType": "plot",
+    "title": "Działka — Chrzanów, Chrzanów Czwarty",
+    "voivodeship": "lubelskie",
+    "city": "Chrzanów",
+    "street": "Chrzanów Czwarty",
+    "coordinates": {
+      "lat": 51.179878860841505,
+      "lng": 22.65949354482965
+    },
+    "isNearBorder": false,
+    "areaM2": 5000,
+    "currentPrice": 20000,
+    "currentPricePerM2": 4,
+    "initialPrice": 20000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 20000,
+        "pricePerM2": 4
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/13/74/4105e2_5c0b_cover@2x-dzialka-rolna-janowski-chrzanow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4252192",
+    "source": "adresowo",
+    "sourceId": "4252192",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-niedrzwica-duza-strzeszkowice-duze-1-156-m2-z3l0a5",
+    "propertyType": "plot",
+    "title": "Działka — Strzeszkowice Duże",
+    "voivodeship": "lubelskie",
+    "city": "Strzeszkowice Duże",
+    "coordinates": {
+      "lat": 51.11637956009075,
+      "lng": 22.68924331266698
+    },
+    "isNearBorder": false,
+    "areaM2": 1156,
+    "currentPrice": 189000,
+    "currentPricePerM2": 163.49,
+    "initialPrice": 189000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 189000,
+        "pricePerM2": 163.49
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/46/3f/40e220_6306_cover@2x-dzialka-budowlana-lubelski-strzeszkowice-duze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4252170",
+    "source": "adresowo",
+    "sourceId": "4252170",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-konopnica-2-800-m2-j4t3i4",
+    "propertyType": "plot",
+    "title": "Działka — Konopnica",
+    "voivodeship": "lubelskie",
+    "city": "Konopnica",
+    "coordinates": {
+      "lat": 51.34810338515728,
+      "lng": 22.607713798599026
+    },
+    "isNearBorder": false,
+    "areaM2": 2800,
+    "currentPrice": 459000,
+    "currentPricePerM2": 163.93,
+    "initialPrice": 459000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 459000,
+        "pricePerM2": 163.93
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/51/18/40e20a_58c9_cover@2x-dzialka-budowlana-lubelski-konopnica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261340",
+    "source": "adresowo",
+    "sourceId": "4261340",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-lesna-turobin-tokary-5-100-m2-t2q6d9",
+    "propertyType": "plot",
+    "title": "Działka — Tokary",
+    "voivodeship": "lubelskie",
+    "city": "Tokary",
+    "coordinates": {
+      "lat": 51.18672151278053,
+      "lng": 22.561772267166994
+    },
+    "isNearBorder": false,
+    "areaM2": 5100,
+    "currentPrice": 18000,
+    "currentPricePerM2": 3.53,
+    "initialPrice": 18000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 18000,
+        "pricePerM2": 3.53
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7a/17/4105dc_8847_cover@2x-dzialka-lesna-bilgorajski-tokary.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261256",
+    "source": "adresowo",
+    "sourceId": "4261256",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lopiennik-gorny-dobryniow-kolonia-2-ha-n3u4m4",
+    "propertyType": "plot",
+    "title": "Działka — Dobryniów-Kolonia",
+    "voivodeship": "lubelskie",
+    "city": "Dobryniów-Kolonia",
+    "coordinates": {
+      "lat": 51.33429795447818,
+      "lng": 22.68713041392379
+    },
+    "isNearBorder": false,
+    "areaM2": 2.17,
+    "currentPrice": 450000,
+    "currentPricePerM2": 207373.27,
+    "initialPrice": 450000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 450000,
+        "pricePerM2": 207373.27
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4b/78/410588_f238_cover@2x-dzialka-siedliskowa-krasnostawski-dobryniow-kolonia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4252122",
+    "source": "adresowo",
+    "sourceId": "4252122",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-niemce-1-800-m2-y6w4i3",
+    "propertyType": "plot",
+    "title": "Działka — Niemce",
+    "voivodeship": "lubelskie",
+    "city": "Niemce",
+    "coordinates": {
+      "lat": 51.3183485500894,
+      "lng": 22.528817402008954
+    },
+    "isNearBorder": false,
+    "areaM2": 1800,
+    "currentPrice": 160000,
+    "currentPricePerM2": 88.89,
+    "initialPrice": 160000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 160000,
+        "pricePerM2": 88.89
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/10/54/40e1da_cc9c_cover@2x-dzialka-budowlana-lubelski-niemce.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4252110",
+    "source": "adresowo",
+    "sourceId": "4252110",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-trzeszczany-bogucice-987-m2-u0x2t6",
+    "propertyType": "plot",
+    "title": "Działka — Bogucice",
+    "voivodeship": "lubelskie",
+    "city": "Bogucice",
+    "coordinates": {
+      "lat": 51.091479840139236,
+      "lng": 22.48355961416797
+    },
+    "isNearBorder": false,
+    "areaM2": 987,
+    "currentPrice": 49000,
+    "currentPricePerM2": 49.65,
+    "initialPrice": 49000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 49000,
+        "pricePerM2": 49.65
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5f/56/40e1ce_dbad_cover@2x-dzialka-budowlana-hrubieszowski-bogucice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261056",
+    "source": "adresowo",
+    "sourceId": "4261056",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rod-biala-podlaska-ul-sworska-p8j9i3",
+    "propertyType": "plot",
+    "title": "Działka — Biała Podlaska, ul. Sworska",
+    "voivodeship": "lubelskie",
+    "city": "Biała Podlaska",
+    "street": "ul. Sworska",
+    "coordinates": {
+      "lat": 51.350081122325406,
+      "lng": 22.4107194270175
+    },
+    "isNearBorder": false,
+    "areaM2": 300,
+    "currentPrice": 50000,
+    "currentPricePerM2": 166.67,
+    "initialPrice": 50000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 50000,
+        "pricePerM2": 166.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/52/30/4104c0_75ae_cover@2x-dzialka-rod-biala-podlaska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260816",
+    "source": "adresowo",
+    "sourceId": "4260816",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-ulan-majorat-skrzyszew-2-582-m2-p3e4y4",
+    "propertyType": "plot",
+    "title": "Działka — Skrzyszew",
+    "voivodeship": "lubelskie",
+    "city": "Skrzyszew",
+    "coordinates": {
+      "lat": 51.30057764702669,
+      "lng": 22.628235356619427
+    },
+    "isNearBorder": false,
+    "areaM2": 2582,
+    "currentPrice": 159000,
+    "currentPricePerM2": 61.58,
+    "initialPrice": 159000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 159000,
+        "pricePerM2": 61.58
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/43/61/4103d0_5299_cover@2x-dzialka-siedliskowa-radzynski-skrzyszew.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4258922",
+    "source": "adresowo",
+    "sourceId": "4258922",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-kazimierz-dolny-bochotnica-ul-naleczowska-i9m3u3",
+    "propertyType": "plot",
+    "title": "Działka — Bochotnica, ul. Nałęczowska",
+    "voivodeship": "lubelskie",
+    "city": "Bochotnica",
+    "street": "ul. Nałęczowska",
+    "coordinates": {
+      "lat": 51.40537379523702,
+      "lng": 22.703086232688662
+    },
+    "isNearBorder": false,
+    "areaM2": 2000,
+    "currentPrice": 259000,
+    "currentPricePerM2": 129.5,
+    "initialPrice": 259000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 259000,
+        "pricePerM2": 129.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/25/55/40fc6a_9e07_cover@2x-dzialka-rolna-pulawski-bochotnica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4252104",
+    "source": "adresowo",
+    "sourceId": "4252104",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-cycow-swierszczow-2-ha-f8u4x4",
+    "propertyType": "plot",
+    "title": "Działka — Świerszczów",
+    "voivodeship": "lubelskie",
+    "city": "Świerszczów",
+    "coordinates": {
+      "lat": 51.17377246599531,
+      "lng": 22.67918255365233
+    },
+    "isNearBorder": false,
+    "areaM2": 2.32,
+    "currentPrice": 69000,
+    "currentPricePerM2": 29741.38,
+    "initialPrice": 69000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 69000,
+        "pricePerM2": 29741.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/24/4d/40e1c8_913a_cover@2x-dzialka-rolna-leczynski-swierszczow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4252102",
+    "source": "adresowo",
+    "sourceId": "4252102",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-slawatycze-slawatycze-kolonia-6-ha-s0r7n4",
+    "propertyType": "plot",
+    "title": "Działka — Sławatycze-Kolonia",
+    "voivodeship": "lubelskie",
+    "city": "Sławatycze-Kolonia",
+    "coordinates": {
+      "lat": 51.348506311559795,
+      "lng": 22.678616757961723
+    },
+    "isNearBorder": false,
+    "areaM2": 6.88,
+    "currentPrice": 299000,
+    "currentPricePerM2": 43459.3,
+    "initialPrice": 299000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 299000,
+        "pricePerM2": 43459.3
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/36/1f/40e1c6_5f82_cover@2x-dzialka-rolna-bialski-slawatycze-kolonia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260700",
+    "source": "adresowo",
+    "sourceId": "4260700",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-radzyn-podlaski-ul-lubelska-c5s7e3",
+    "propertyType": "plot",
+    "title": "Działka — Radzyń Podlaski, ul. Lubelska",
+    "voivodeship": "lubelskie",
+    "city": "Radzyń Podlaski",
+    "street": "ul. Lubelska",
+    "coordinates": {
+      "lat": 51.171490703304535,
+      "lng": 22.681417160017716
+    },
+    "isNearBorder": false,
+    "areaM2": 8300,
+    "currentPrice": 3000000,
+    "currentPricePerM2": 361.45,
+    "initialPrice": 3000000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 3000000,
+        "pricePerM2": 361.45
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/64/4d/41035c_f5f6_cover@2x-dzialka-inwestycyjna-radzynski-radzyn-podlaski.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260364",
+    "source": "adresowo",
+    "sourceId": "4260364",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-adamow-budziska-2-100-m2-e5y3t4",
+    "propertyType": "plot",
+    "title": "Działka — Budziska",
+    "voivodeship": "lubelskie",
+    "city": "Budziska",
+    "coordinates": {
+      "lat": 51.107887536106695,
+      "lng": 22.50781010388586
+    },
+    "isNearBorder": false,
+    "areaM2": 2100,
+    "currentPrice": 65000,
+    "currentPricePerM2": 30.95,
+    "initialPrice": 65000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 65000,
+        "pricePerM2": 30.95
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5a/2c/41020c_2eeb_cover@2x-dzialka-budowlana-lukowski-budziska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260188",
+    "source": "adresowo",
+    "sourceId": "4260188",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-niemce-jakubowice-koninskie-kolonia-ul-jarzebinowa-n7f5f8",
+    "propertyType": "plot",
+    "title": "Działka — Jakubowice Konińskie-Kolonia, ul. Jarzębinowa",
+    "voivodeship": "lubelskie",
+    "city": "Jakubowice Konińskie-Kolonia",
+    "street": "ul. Jarzębinowa",
+    "coordinates": {
+      "lat": 51.41937460572067,
+      "lng": 22.446876588691147
+    },
+    "isNearBorder": false,
+    "areaM2": 3000,
+    "currentPrice": 990000,
+    "currentPricePerM2": 330,
+    "initialPrice": 990000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 990000,
+        "pricePerM2": 330
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/51/16/41015c_d5b1_cover@2x-dzialka-budowlana-lubelski-jakubowice-koninskie-kolonia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4247556",
+    "source": "adresowo",
+    "sourceId": "4247556",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-niedrzwica-duza-kreznica-jara-2-000-m2-j0w7q6",
+    "propertyType": "plot",
+    "title": "Działka — Krężnica Jara",
+    "voivodeship": "lubelskie",
+    "city": "Krężnica Jara",
+    "coordinates": {
+      "lat": 51.07870931303615,
+      "lng": 22.418780929314757
+    },
+    "isNearBorder": false,
+    "areaM2": 2000,
+    "currentPrice": 285000,
+    "currentPricePerM2": 142.5,
+    "initialPrice": 285000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 285000,
+        "pricePerM2": 142.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/22/43/40d004_b895_cover@2x-dzialka-siedliskowa-lubelski-kreznica-jara.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4245050",
+    "source": "adresowo",
+    "sourceId": "4245050",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-jastkow-plouszowice-kolonia-1-378-m2-r9s1p7",
+    "propertyType": "plot",
+    "title": "Działka — Płouszowice-Kolonia",
+    "voivodeship": "lubelskie",
+    "city": "Płouszowice-Kolonia",
+    "coordinates": {
+      "lat": 51.13932853631294,
+      "lng": 22.561388046742888
+    },
+    "isNearBorder": false,
+    "areaM2": 1378,
+    "currentPrice": 339000,
+    "currentPricePerM2": 246.01,
+    "initialPrice": 339000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 339000,
+        "pricePerM2": 246.01
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/63/40/40c63a_cce4_cover@2x-dzialka-budowlana-lubelski-plouszowice-kolonia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260156",
+    "source": "adresowo",
+    "sourceId": "4260156",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-lesna-wilkolaz-wilkolaz-drugi-2-ha-n3h9p8",
+    "propertyType": "plot",
+    "title": "Działka — Wilkołaz Drugi",
+    "voivodeship": "lubelskie",
+    "city": "Wilkołaz Drugi",
+    "coordinates": {
+      "lat": 51.416744163424596,
+      "lng": 22.53588043608336
+    },
+    "isNearBorder": false,
+    "areaM2": 2,
+    "currentPrice": 110000,
+    "currentPricePerM2": 55000,
+    "initialPrice": 110000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 110000,
+        "pricePerM2": 55000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/50/76/41013c_4f88_cover@2x-dzialka-lesna-krasnicki-wilkolaz-drugi.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260090",
+    "source": "adresowo",
+    "sourceId": "4260090",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rod-lublin-ul-koncertowa-l1v8r7",
+    "propertyType": "plot",
+    "title": "Działka — Lublin Czechów, ul. Koncertowa",
+    "voivodeship": "lubelskie",
+    "city": "Lublin Czechów",
+    "street": "ul. Koncertowa",
+    "coordinates": {
+      "lat": 51.41393467467309,
+      "lng": 22.45025697279172
+    },
+    "isNearBorder": false,
+    "areaM2": 330,
+    "currentPrice": 50000,
+    "currentPricePerM2": 151.52,
+    "initialPrice": 50000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 50000,
+        "pricePerM2": 151.52
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4e/5d/4100fa_8b39_cover@2x-dzialka-rod-lublin.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260062",
+    "source": "adresowo",
+    "sourceId": "4260062",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rekreacyjna-ludwin-rozplucie-pierwsze-400-m2-g4j5i2",
+    "propertyType": "plot",
+    "title": "Działka — Rozpłucie Pierwsze",
+    "voivodeship": "lubelskie",
+    "city": "Rozpłucie Pierwsze",
+    "coordinates": {
+      "lat": 51.36346879968456,
+      "lng": 22.479726815717612
+    },
+    "isNearBorder": false,
+    "areaM2": 400,
+    "currentPrice": 157000,
+    "currentPricePerM2": 392.5,
+    "initialPrice": 157000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 157000,
+        "pricePerM2": 392.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/23/77/4100de_a3a9_cover@2x-dzialka-rekreacyjna-leczynski-rozplucie-pierwsze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4239442",
+    "source": "adresowo",
+    "sourceId": "4239442",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-sitno-czolki-2-190-m2-a0n2f8",
+    "propertyType": "plot",
+    "title": "Działka — Czołki",
+    "voivodeship": "lubelskie",
+    "city": "Czołki",
+    "coordinates": {
+      "lat": 51.34469901730753,
+      "lng": 22.494421408093267
+    },
+    "isNearBorder": false,
+    "areaM2": 2190,
+    "currentPrice": 150000,
+    "currentPricePerM2": 68.49,
+    "initialPrice": 150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 150000,
+        "pricePerM2": 68.49
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/69/2a/40b052_b881_cover@2x-dzialka-rolno-budowlana-zamojski-czolki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4234722",
+    "source": "adresowo",
+    "sourceId": "4234722",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-belzyce-kierz-1-800-m2-f1g0p9",
+    "propertyType": "plot",
+    "title": "Działka — Kierz",
+    "voivodeship": "lubelskie",
+    "city": "Kierz",
+    "coordinates": {
+      "lat": 51.34345700402282,
+      "lng": 22.69914774864623
+    },
+    "isNearBorder": false,
+    "areaM2": 1800,
+    "currentPrice": 130000,
+    "currentPricePerM2": 72.22,
+    "initialPrice": 130000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 130000,
+        "pricePerM2": 72.22
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4f/61/409de2_2fac_cover@2x-dzialka-budowlana-lubelski-kierz.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259968",
+    "source": "adresowo",
+    "sourceId": "4259968",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-chelm-zawadowka-ul-promienna-c6o2d1",
+    "propertyType": "plot",
+    "title": "Działka — Zawadówka, ul. Promienna",
+    "voivodeship": "lubelskie",
+    "city": "Zawadówka",
+    "street": "ul. Promienna",
+    "coordinates": {
+      "lat": 51.228625317713835,
+      "lng": 22.635401037441788
+    },
+    "isNearBorder": false,
+    "areaM2": 2426,
+    "currentPrice": 65000,
+    "currentPricePerM2": 26.79,
+    "initialPrice": 65000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 65000,
+        "pricePerM2": 26.79
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/44/2c/410080_c1ce_cover@2x-dzialka-rolna-chelmski-zawadowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259758",
+    "source": "adresowo",
+    "sourceId": "4259758",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-fajslawice-1-ha-b8s6v1",
+    "propertyType": "plot",
+    "title": "Działka — Fajsławice",
+    "voivodeship": "lubelskie",
+    "city": "Fajsławice",
+    "coordinates": {
+      "lat": 51.12169344285754,
+      "lng": 22.583130482457662
+    },
+    "isNearBorder": false,
+    "areaM2": 1.04,
+    "currentPrice": 319000,
+    "currentPricePerM2": 306730.77,
+    "initialPrice": 319000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 319000,
+        "pricePerM2": 306730.77
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/59/6d/40ffae_6891_cover@2x-dzialka-rolno-budowlana-krasnostawski-fajslawice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259186",
+    "source": "adresowo",
+    "sourceId": "4259186",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-biala-podlaska-sycyna-kolonia-1-ha-e8s7c7",
+    "propertyType": "plot",
+    "title": "Działka — Sycyna kolonia",
+    "voivodeship": "lubelskie",
+    "city": "Sycyna kolonia",
+    "coordinates": {
+      "lat": 51.41367093767367,
+      "lng": 22.395005153729144
+    },
+    "isNearBorder": false,
+    "areaM2": 1.91,
+    "currentPrice": 45000,
+    "currentPricePerM2": 23560.21,
+    "initialPrice": 45000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 45000,
+        "pricePerM2": 23560.21
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/21/41/40fd72_a198_cover@2x-dzialka-rolna-bialski-sycyna-kolonia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4232964",
+    "source": "adresowo",
+    "sourceId": "4232964",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-kazimierz-dolny-ul-gory-v7e8g4",
+    "propertyType": "plot",
+    "title": "Działka — Kazimierz Dolny, ul. Góry",
+    "voivodeship": "lubelskie",
+    "city": "Kazimierz Dolny",
+    "street": "ul. Góry",
+    "coordinates": {
+      "lat": 51.091851432047946,
+      "lng": 22.598357152695336
+    },
+    "isNearBorder": false,
+    "areaM2": 7200,
+    "currentPrice": 399000,
+    "currentPricePerM2": 55.42,
+    "initialPrice": 399000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 399000,
+        "pricePerM2": 55.42
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/73/59/409704_a62d_cover@2x-dzialka-rolno-budowlana-pulawski-kazimierz-dolny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4229430",
+    "source": "adresowo",
+    "sourceId": "4229430",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kazimierz-dolny-gory-m0i1d3",
+    "propertyType": "plot",
+    "title": "Działka — Kazimierz Dolny, Góry",
+    "voivodeship": "lubelskie",
+    "city": "Kazimierz Dolny",
+    "street": "Góry",
+    "coordinates": {
+      "lat": 51.31193003585448,
+      "lng": 22.542101431616327
+    },
+    "isNearBorder": false,
+    "areaM2": 8601,
+    "currentPrice": 849000,
+    "currentPricePerM2": 98.71,
+    "initialPrice": 849000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 849000,
+        "pricePerM2": 98.71
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/27/34/408936_60ce_cover@2x-dzialka-siedliskowa-pulawski-kazimierz-dolny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259184",
+    "source": "adresowo",
+    "sourceId": "4259184",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-wojciechow-palikije-pierwsze-1-600-m2-b5t4z5",
+    "propertyType": "plot",
+    "title": "Działka — Palikije Pierwsze",
+    "voivodeship": "lubelskie",
+    "city": "Palikije Pierwsze",
+    "coordinates": {
+      "lat": 51.31067692902861,
+      "lng": 22.71271960699489
+    },
+    "isNearBorder": false,
+    "areaM2": 1600,
+    "currentPrice": 215000,
+    "currentPricePerM2": 134.38,
+    "initialPrice": 215000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 215000,
+        "pricePerM2": 134.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/79/47/40fd70_93ac_cover@2x-dzialka-budowlana-lubelski-palikije-pierwsze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259162",
+    "source": "adresowo",
+    "sourceId": "4259162",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-stary-zamosc-wierzba-1-500-m2-e5t0q5",
+    "propertyType": "plot",
+    "title": "Działka — Wierzba",
+    "voivodeship": "lubelskie",
+    "city": "Wierzba",
+    "coordinates": {
+      "lat": 51.0906773951592,
+      "lng": 22.50328709942576
+    },
+    "isNearBorder": false,
+    "areaM2": 1500,
+    "currentPrice": 95000,
+    "currentPricePerM2": 63.33,
+    "initialPrice": 95000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 95000,
+        "pricePerM2": 63.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/16/48/40fd5a_3a6c_cover@2x-dzialka-budowlana-zamojski-wierzba.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4223188",
+    "source": "adresowo",
+    "sourceId": "4223188",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-belzec-4-ha-d0j1k5",
+    "propertyType": "plot",
+    "title": "Działka — Bełżec",
+    "voivodeship": "lubelskie",
+    "city": "Bełżec",
+    "coordinates": {
+      "lat": 51.17378693223955,
+      "lng": 22.571312391274468
+    },
+    "isNearBorder": false,
+    "areaM2": 4.07,
+    "currentPrice": 10000000,
+    "currentPricePerM2": 2457002.46,
+    "initialPrice": 10000000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 10000000,
+        "pricePerM2": 2457002.46
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/19/56/4070d4_a971_cover@2x-dzialka-inwestycyjna-tomaszowski-belzec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4220646",
+    "source": "adresowo",
+    "sourceId": "4220646",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-glusk-wilczopole-1-211-m2-u2d1z2",
+    "propertyType": "plot",
+    "title": "Działka — Wilczopole",
+    "voivodeship": "lubelskie",
+    "city": "Wilczopole",
+    "coordinates": {
+      "lat": 51.371803688817444,
+      "lng": 22.597273023954287
+    },
+    "isNearBorder": false,
+    "areaM2": 1211,
+    "currentPrice": 266420,
+    "currentPricePerM2": 220,
+    "initialPrice": 266420,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 266420,
+        "pricePerM2": 220
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:39.468Z",
+    "lastSeenAt": "2026-09-17T21:50:41.900Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7b/55/4066e6_f826_cover@2x-dzialka-budowlana-lubelski-wilczopole.webp",
+    "isDirectOwner": true
+  }
+]

@@ -1,0 +1,2610 @@
+[
+  {
+    "id": "otodom-68432745",
+    "source": "otodom",
+    "sourceId": "68432745",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-4-pokoje-wszystkie-media-swietna-loklizacja-ID4D8tX",
+    "propertyType": "house",
+    "title": "Dom 4 pokoje|wszystkie media|świetna loklizacja",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "Dębicka",
+    "coordinates": {
+      "lat": 49.89518184438103,
+      "lng": 22.482085525033455
+    },
+    "isNearBorder": false,
+    "areaM2": 108,
+    "plotAreaM2": 444,
+    "currentPrice": 469000,
+    "currentPricePerM2": 4342.59,
+    "initialPrice": 469000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 469000,
+        "pricePerM2": 4342.59
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T20:50:57.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBmejE0bWI1eG0xMTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.AiagUs2sOyC49Lag6uCwQpr4Van8is59TmSikKZwNeM/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68128342",
+    "source": "otodom",
+    "sourceId": "68128342",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/wygodny-dom-dzialka-3-5ha-staw-las-bieszczady-ID4BRie",
+    "propertyType": "house",
+    "title": "Wygodny dom. Działka 3,5ha. Staw.Las -Bieszczady",
+    "voivodeship": "podkarpackie",
+    "county": "bieszczadzki",
+    "city": "Dźwiniacz Dolny",
+    "coordinates": {
+      "lat": 50.141929737239764,
+      "lng": 22.199128493884977
+    },
+    "isNearBorder": true,
+    "areaM2": 282.2,
+    "plotAreaM2": 34745,
+    "currentPrice": 2650000,
+    "currentPricePerM2": 9390.5,
+    "initialPrice": 2650000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 2650000,
+        "pricePerM2": 9390.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T20:30:06.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImF0YzJrMnB1dXg3NTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yuGEPhKoy2CfsUCFZ4nwCjaE6PjKejAF06wk-W9JyKA/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68385925",
+    "source": "otodom",
+    "sourceId": "68385925",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/atrakcyjny-dom-na-dzialce-10-87-ar-strachocina-ID4CViN",
+    "propertyType": "house",
+    "title": "Atrakcyjny dom na działce 10,87 ar, Strachocina",
+    "voivodeship": "podkarpackie",
+    "county": "sanocki",
+    "city": "Strachocina",
+    "coordinates": {
+      "lat": 50.03515174162736,
+      "lng": 22.47825968174157
+    },
+    "isNearBorder": true,
+    "areaM2": 99,
+    "plotAreaM2": 1087,
+    "currentPrice": 280000,
+    "currentPricePerM2": 2828.28,
+    "initialPrice": 280000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 280000,
+        "pricePerM2": 2828.28
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T20:13:59.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjkwY3FmMnZmaGlndzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.L9fvrLnecxO7cLrKbaLzZziF9_HECbmAYReho856-hk/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68385929",
+    "source": "otodom",
+    "sourceId": "68385929",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/przestronny-dom-w-cichej-czesci-sanoka-ID4CViR",
+    "propertyType": "house",
+    "title": "Przestronny Dom w Cichej Części Sanoka",
+    "voivodeship": "podkarpackie",
+    "county": "sanocki",
+    "city": "Sanok",
+    "street": "Okulickiego",
+    "coordinates": {
+      "lat": 49.90427718885892,
+      "lng": 22.110192422230796
+    },
+    "isNearBorder": true,
+    "areaM2": 167,
+    "plotAreaM2": 667,
+    "currentPrice": 455000,
+    "currentPricePerM2": 2724.55,
+    "initialPrice": 455000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 455000,
+        "pricePerM2": 2724.55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T20:13:41.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJrMnljb3FhajUxbDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3gDW47BjlrqBFwhONZtIVPICxg2IoFli7QVzNabhgUE/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68385930",
+    "source": "otodom",
+    "sourceId": "68385930",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowy-dom-z-widokiem-ustrzyki-dolne-ID4CViS",
+    "propertyType": "house",
+    "title": "Wyjątkowy Dom z widokiem, Ustrzyki Dolne",
+    "voivodeship": "podkarpackie",
+    "county": "bieszczadzki",
+    "city": "Ustrzyki Dolne",
+    "street": "Przemysłowa",
+    "coordinates": {
+      "lat": 49.882052573697294,
+      "lng": 22.32581690596666
+    },
+    "isNearBorder": true,
+    "areaM2": 102,
+    "plotAreaM2": 2183,
+    "currentPrice": 920000,
+    "currentPricePerM2": 9019.61,
+    "initialPrice": 920000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 920000,
+        "pricePerM2": 9019.61
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T20:13:19.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd4dG81dzdweXZ5bzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.H-8Woc8AyJe8GHU7UNKxGwMTeMbCffta2w5oKhYc_Z0/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68078060",
+    "source": "otodom",
+    "sourceId": "68078060",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-z-duza-dzialka-bykowce-sanok-ID4BEde",
+    "propertyType": "house",
+    "title": "Dom z dużą działką - Bykowce Sanok",
+    "voivodeship": "podkarpackie",
+    "county": "sanocki",
+    "city": "Bykowce",
+    "coordinates": {
+      "lat": 49.89201076606242,
+      "lng": 22.30362745676315
+    },
+    "isNearBorder": true,
+    "areaM2": 126,
+    "plotAreaM2": 1840,
+    "currentPrice": 629000,
+    "currentPricePerM2": 4992.06,
+    "initialPrice": 629000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 629000,
+        "pricePerM2": 4992.06
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T20:11:55.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtwbHoyb2d1NzByei1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.jQw_etKutVV87bcFJoX4Po0Tyw2pRlPj2MiLUQsg6Vw/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68368144",
+    "source": "otodom",
+    "sourceId": "68368144",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-z-pieknym-widokiem-srogow-gorny-ID4CRG0",
+    "propertyType": "house",
+    "title": "Dom z pieknym widokiem, Srogów Górny",
+    "voivodeship": "podkarpackie",
+    "county": "sanocki",
+    "city": "Srogów Górny",
+    "coordinates": {
+      "lat": 49.88629381946181,
+      "lng": 22.255497012832326
+    },
+    "isNearBorder": true,
+    "areaM2": 180,
+    "plotAreaM2": 2000,
+    "currentPrice": 1300000,
+    "currentPricePerM2": 7222.22,
+    "initialPrice": 1300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1300000,
+        "pricePerM2": 7222.22
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T20:11:39.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjA0eGY3dXBjZmh1YTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vJ2fIRELt5Rrpl_BYcn6AiSL9jvkxGscQlfsflzxSDw/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68247969",
+    "source": "otodom",
+    "sourceId": "68247969",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-w-budowie-stan-surowy-80-m-dzialka-7-ar-sobow-tarnobrzeg-ID4CmpH",
+    "propertyType": "house",
+    "title": "Dom w budowie | stan surowy | 80 m² | Działka 7 ar | Sobów-Tarnobrzeg",
+    "voivodeship": "podkarpackie",
+    "city": "Tarnobrzeg",
+    "street": "Adama Burdy",
+    "coordinates": {
+      "lat": 50.08174247163004,
+      "lng": 22.22310070863206
+    },
+    "isNearBorder": false,
+    "areaM2": 80,
+    "plotAreaM2": 714,
+    "currentPrice": 329000,
+    "currentPricePerM2": 4112.5,
+    "initialPrice": 329000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 329000,
+        "pricePerM2": 4112.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T19:54:37.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImI4NW10cHB1cjQwZzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.n0i25gQxnHPKoQgyTEcvrHAsEKxtz3Qh_JzrztXaTLM/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68322761",
+    "source": "otodom",
+    "sourceId": "68322761",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/rubinova-home-ii-etap-domy-z-ogrodami-102221-m-w-tarnobrzegu-ID4CFS1",
+    "propertyType": "house",
+    "title": "Rubinova Home II etap - domy z ogrodami 102–221 m² w Tarnobrzegu",
+    "voivodeship": "podkarpackie",
+    "city": "Tarnobrzeg",
+    "street": "ul. Rubinowa",
+    "coordinates": {
+      "lat": 49.75096443184171,
+      "lng": 22.215635538909783
+    },
+    "isNearBorder": false,
+    "areaM2": 84.71,
+    "plotAreaM2": 250,
+    "currentPrice": 599000,
+    "currentPricePerM2": 7071.18,
+    "initialPrice": 599000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 599000,
+        "pricePerM2": 7071.18
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T19:52:12.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjA2aGdyc3l1eWIwMTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xtm9Pjz6oXdMX_vTsPowP9WIY3fA2gscmpO6QkOfrQw/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-66057281",
+    "source": "otodom",
+    "sourceId": "66057281",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/osiedle-jasminowa-ostatnie-wolne-domy-w-cenie-3858-zl-m-ID4tav1",
+    "propertyType": "house",
+    "title": "OSIEDLE JAŚMINOWA – Ostatnie wolne domy w cenie 3858 zł/m²",
+    "voivodeship": "podkarpackie",
+    "city": "Tarnobrzeg",
+    "coordinates": {
+      "lat": 49.8401690697609,
+      "lng": 22.424467264881585
+    },
+    "isNearBorder": false,
+    "areaM2": 108.6,
+    "plotAreaM2": 140,
+    "currentPrice": 419000,
+    "currentPricePerM2": 3858.2,
+    "initialPrice": 419000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 419000,
+        "pricePerM2": 3858.2
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T19:47:51.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjAybXdyYzJuYTFlazItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.AycYExYMTg24LLZdLKMqrJwpIZRK_SGIuDOCPu7VnQ4/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68432288",
+    "source": "otodom",
+    "sourceId": "68432288",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-jednorodzinny-sprzedaz-ID4D8mA",
+    "propertyType": "house",
+    "title": "Dom jednorodzinny -sprzedaż",
+    "voivodeship": "podkarpackie",
+    "county": "niżański",
+    "city": "Ulanów",
+    "street": "ul. Podleśna",
+    "coordinates": {
+      "lat": 50.0912114703079,
+      "lng": 22.331632876761482
+    },
+    "isNearBorder": false,
+    "areaM2": 134.5,
+    "plotAreaM2": 710,
+    "currentPrice": 750000,
+    "currentPricePerM2": 5576.21,
+    "initialPrice": 750000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 750000,
+        "pricePerM2": 5576.21
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T17:51:38.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBnMWpnNmZlMDFqMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gEhoYmaaB2uSEkJ3QWzNSwtvtffdcmjrqpLuzHwgVNU/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67981648",
+    "source": "otodom",
+    "sourceId": "67981648",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/blizniak-w-swietnej-lokalizacji-z-ogrodzeniem-ID4Bf8c",
+    "propertyType": "house",
+    "title": "Bliźniak w świetnej lokalizacji z ogrodzeniem",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "Myśliwska",
+    "coordinates": {
+      "lat": 50.137993226583255,
+      "lng": 22.33619136722397
+    },
+    "isNearBorder": false,
+    "areaM2": 96.18,
+    "plotAreaM2": 286,
+    "currentPrice": 619000,
+    "currentPricePerM2": 6435.85,
+    "initialPrice": 619000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 619000,
+        "pricePerM2": 6435.85
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T16:00:23.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InB5d2Z2eW03eTJzbi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.bdCHYb6bN26ANm06lYTMv3WFQBGt4FMq4u1QnXM7Gt4/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68431867",
+    "source": "otodom",
+    "sourceId": "68431867",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/nowoczesny-dom-198-m-smoczka-ul-kahla-12-arow-pompa-magazyn-ID4D8fN",
+    "propertyType": "house",
+    "title": "NOWOCZESNY DOM 198 m² | SMOCZKA - UL.KAHLA | 12 ARÓW | POMPA | MAGAZYN",
+    "voivodeship": "podkarpackie",
+    "county": "mielecki",
+    "city": "Mielec",
+    "street": "ul. Eugeniusza Kahla",
+    "coordinates": {
+      "lat": 50.04177126097685,
+      "lng": 22.259691920062778
+    },
+    "isNearBorder": false,
+    "areaM2": 198,
+    "plotAreaM2": 1212,
+    "currentPrice": 1500000,
+    "currentPricePerM2": 7575.76,
+    "initialPrice": 1500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1500000,
+        "pricePerM2": 7575.76
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T15:26:41.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlxMjhoemZlOGQ1ZDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UwlcHzAhrkbCeb6s__0Cl7EJelyg2RSYsCeKA4gyA7k/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68081275",
+    "source": "otodom",
+    "sourceId": "68081275",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-wolnostojacy-z-uzytkowym-poddaszem-w-miescie-ID4BF35",
+    "propertyType": "house",
+    "title": "Dom wolnostojący z użytkowym poddaszem w mieście",
+    "voivodeship": "podkarpackie",
+    "city": "Przemyśl",
+    "street": "ul. Fabryczna",
+    "coordinates": {
+      "lat": 50.06595707363315,
+      "lng": 22.32567125491926
+    },
+    "isNearBorder": false,
+    "areaM2": 118,
+    "plotAreaM2": 992,
+    "currentPrice": 850000,
+    "currentPricePerM2": 7203.39,
+    "initialPrice": 850000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 850000,
+        "pricePerM2": 7203.39
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T15:19:23.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVpYnkyYXA4MWNueTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pEyWk1kV7OlqwTweiiBOk3h_d3EaHc6d9AsE6a3Acdc/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67838212",
+    "source": "otodom",
+    "sourceId": "67838212",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/os-lesny-zakatek-dom-gotowy-pod-klucz-ID4ADOI",
+    "propertyType": "house",
+    "title": "os. Leśny Zakątek - Dom gotowy pod klucz",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Bratkowice",
+    "coordinates": {
+      "lat": 49.75267545505042,
+      "lng": 22.43291412681232
+    },
+    "isNearBorder": false,
+    "areaM2": 127.81,
+    "plotAreaM2": 600,
+    "currentPrice": 1199000,
+    "currentPricePerM2": 9381.11,
+    "initialPrice": 1199000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1199000,
+        "pricePerM2": 9381.11
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T15:00:16.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ0dHp5czEzZ3VvczMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VE7q_FeTIDH-y875-Qq2rp3dy1SdaDCrY2a1UfeUSOY/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67837820",
+    "source": "otodom",
+    "sourceId": "67837820",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/os-lesny-zakatek-dom-gotowy-pod-klucz-ID4ADIo",
+    "propertyType": "house",
+    "title": "os. Leśny Zakątek - Dom gotowy pod klucz",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Bratkowice",
+    "coordinates": {
+      "lat": 49.837789865683526,
+      "lng": 22.272110534291446
+    },
+    "isNearBorder": false,
+    "areaM2": 127.81,
+    "plotAreaM2": 600,
+    "currentPrice": 1199000,
+    "currentPricePerM2": 9381.11,
+    "initialPrice": 1199000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1199000,
+        "pricePerM2": 9381.11
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T15:00:16.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImoxMzV2MXZiZXZkazItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lyqgyQ6vuo6rkUJtN1t_HzflP4ZtlgAyJGlJq7Ig7oc/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67326053",
+    "source": "otodom",
+    "sourceId": "67326053",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/nowa-cena-komfortowy-dom-wolnostojacy-z-2021-ID4yuA5",
+    "propertyType": "house",
+    "title": "NOWA CENA !!!! Komfortowy Dom wolnostojący z 2021",
+    "voivodeship": "podkarpackie",
+    "county": "mielecki",
+    "city": "Mielec",
+    "street": "ul. Królowej Jadwigi",
+    "coordinates": {
+      "lat": 49.91923638475597,
+      "lng": 22.1838091954199
+    },
+    "isNearBorder": false,
+    "areaM2": 180,
+    "plotAreaM2": 470,
+    "currentPrice": 1299000,
+    "currentPricePerM2": 7216.67,
+    "initialPrice": 1299000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1299000,
+        "pricePerM2": 7216.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T14:09:54.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InphbDgxcTBtYmwzZzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RBnc1R5UZW1G5VS8Ww5H8o2l6SvV02CWDcMjiEpkuh8/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67783618",
+    "source": "otodom",
+    "sourceId": "67783618",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/zamien-mieszkanie-na-wlasny-dom-dom-135m2-pod-klucz-mielec-ID4ApCa",
+    "propertyType": "house",
+    "title": "Zamień mieszkanie na własny dom ! DOM 135m2 POD KLUCZ - Mielec",
+    "voivodeship": "podkarpackie",
+    "county": "mielecki",
+    "city": "Mielec",
+    "street": "Letniego Poranka",
+    "coordinates": {
+      "lat": 49.823804352956934,
+      "lng": 22.303245763582947
+    },
+    "isNearBorder": false,
+    "areaM2": 135,
+    "plotAreaM2": 600,
+    "currentPrice": 880000,
+    "currentPricePerM2": 6518.52,
+    "initialPrice": 880000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 880000,
+        "pricePerM2": 6518.52
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T13:35:31.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpxMGNzNnNiOXllMi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.13Rjm36QBw8V8xN4wWgG_xTTh3SQGR7ZXYTTZmRXXD0/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68431316",
+    "source": "otodom",
+    "sourceId": "68431316",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gotowy-dom-premium-kup-juz-dzis-ID4D86U",
+    "propertyType": "house",
+    "title": "Gotowy dom PREMIUM | Kup już dziś !",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "ul. Senatorska",
+    "coordinates": {
+      "lat": 49.96467586239741,
+      "lng": 22.281627964841295
+    },
+    "isNearBorder": false,
+    "areaM2": 137.9,
+    "plotAreaM2": 994,
+    "currentPrice": 1599000,
+    "currentPricePerM2": 11595.36,
+    "initialPrice": 1599000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1599000,
+        "pricePerM2": 11595.36
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T13:24:27.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ4azZqNDRjMjM4NTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.NyviQ9TfexMHD5_PWPdt22Jj9AAukyd6T-sBzrrmGZ4/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68425592",
+    "source": "otodom",
+    "sourceId": "68425592",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-dom-w-widnej-gorze-ID4D6CA",
+    "propertyType": "house",
+    "title": "Sprzedam dom w Widnej Górze",
+    "voivodeship": "podkarpackie",
+    "county": "jarosławski",
+    "city": "Widna Góra",
+    "coordinates": {
+      "lat": 49.87647984878539,
+      "lng": 22.493964950912588
+    },
+    "isNearBorder": true,
+    "areaM2": 200,
+    "plotAreaM2": 1300,
+    "currentPrice": 589000,
+    "currentPricePerM2": 2945,
+    "initialPrice": 589000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 589000,
+        "pricePerM2": 2945
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T13:22:31.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR5bzFoZXpieHBrYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-rnGyfZRHoGuwnBylDy0H3y7lPgdR3NOfwK3mco18CA/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68431255",
+    "source": "otodom",
+    "sourceId": "68431255",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-z-potencjalem-palikowka-104-m-ID4D85W",
+    "propertyType": "house",
+    "title": "DOM Z POTENCJAŁEM | PALIKÓWKA | 104 m²",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Palikówka",
+    "coordinates": {
+      "lat": 50.03353710652422,
+      "lng": 22.349999563147342
+    },
+    "isNearBorder": false,
+    "areaM2": 104,
+    "plotAreaM2": 736,
+    "currentPrice": 298000,
+    "currentPricePerM2": 2865.38,
+    "initialPrice": 298000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 298000,
+        "pricePerM2": 2865.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T13:16:01.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtkdXdkNHFwd3RnMzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.TQZVu-5F-kTtrfTanj86qvz0dhhiZUqGjLq0AfP_H0Y/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68431056",
+    "source": "otodom",
+    "sourceId": "68431056",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-w-korczynie-cisza-spokoj-odosobnienie-ID4D82I",
+    "propertyType": "house",
+    "title": "Dom w Korczynie - cisza - spokój - odosobnienie",
+    "voivodeship": "podkarpackie",
+    "county": "krośnieński",
+    "city": "Korczyna",
+    "coordinates": {
+      "lat": 49.833500105138164,
+      "lng": 22.297389928411068
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "plotAreaM2": 6000,
+    "currentPrice": 199000,
+    "currentPricePerM2": 1990,
+    "initialPrice": 199000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 199000,
+        "pricePerM2": 1990
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:50:54.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imt1Ynlmczk4c25oYjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6Q27uUSh7L_qsccWuNnmdWCDJ4_lsyGNRtLLi0qKL4E/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68156781",
+    "source": "otodom",
+    "sourceId": "68156781",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/super-oferta-dom-parterowy-duza-dzilka-22ar-ID4BYGW",
+    "propertyType": "house",
+    "title": "Super Oferta !!!Dom Parterowy / Duża dziłka 22Ar/",
+    "voivodeship": "podkarpackie",
+    "county": "ropczycko-sędziszowski",
+    "city": "Sędziszów Małopolski",
+    "street": "Południowa",
+    "coordinates": {
+      "lat": 49.8293989408677,
+      "lng": 22.131695287078195
+    },
+    "isNearBorder": false,
+    "areaM2": 149,
+    "plotAreaM2": 2200,
+    "currentPrice": 1149000,
+    "currentPricePerM2": 7711.41,
+    "initialPrice": 1149000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1149000,
+        "pricePerM2": 7711.41
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:19:03.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNwN3FkZWkwYWo2OTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ECN-do37lupzekG0Zt31I803F2VfLduulzpgB2FxM70/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68190618",
+    "source": "otodom",
+    "sourceId": "68190618",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-200m2-pustkow-19ar-dzialki-hala-215m2-ID4C7uG",
+    "propertyType": "house",
+    "title": "Dom 200m2 Pustków/19ar działki/Hala 215m2 !!!",
+    "voivodeship": "podkarpackie",
+    "county": "dębicki",
+    "city": "Pustków",
+    "coordinates": {
+      "lat": 49.811170101490475,
+      "lng": 22.364647035709062
+    },
+    "isNearBorder": false,
+    "areaM2": 200,
+    "plotAreaM2": 1925,
+    "currentPrice": 399000,
+    "currentPricePerM2": 1995,
+    "initialPrice": 399000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 399000,
+        "pricePerM2": 1995
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:18:46.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVsdHJuMjVjaXI0dzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kBe8DECjUjJDbj5UVvBRgNJ37sIoZ4Zc-nGxLiBuDck/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68430802",
+    "source": "otodom",
+    "sourceId": "68430802",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/jasionka-nowa-inwestycja-zabudowa-blizniacza-ID4D7YC",
+    "propertyType": "house",
+    "title": "Jasionka | Nowa inwestycja | Zabudowa bliźniacza",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Jasionka",
+    "coordinates": {
+      "lat": 49.90819305987664,
+      "lng": 22.388837836073648
+    },
+    "isNearBorder": false,
+    "areaM2": 114.28,
+    "plotAreaM2": 532,
+    "currentPrice": 899000,
+    "currentPricePerM2": 7866.64,
+    "initialPrice": 899000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 899000,
+        "pricePerM2": 7866.64
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:16:29.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImF0MDU5ZXZ1ZHFtNTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RRh9-2o3q2oJwRJ5pZTfM9EpvZDJaGu8fOWb1k_ErIg/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67518183",
+    "source": "otodom",
+    "sourceId": "67518183",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/piekny-dom-do-wykonczenia-w-lipncy-ogrodzony-o-p-ID4ziyX",
+    "propertyType": "house",
+    "title": "Piękny dom do wykończenia  w Lipncy, ogrodzony!o p",
+    "voivodeship": "podkarpackie",
+    "county": "kolbuszowski",
+    "city": "Lipnica",
+    "coordinates": {
+      "lat": 50.002542614242394,
+      "lng": 22.10077825058555
+    },
+    "isNearBorder": false,
+    "areaM2": 166.8,
+    "plotAreaM2": 1900,
+    "currentPrice": 649000,
+    "currentPricePerM2": 3890.89,
+    "initialPrice": 649000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 649000,
+        "pricePerM2": 3890.89
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:08:50.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ing2MHFmcTZzandwaTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.AqZeO1gvdvABGAbfvjxoGhPLE6gt3vYuHHDPTKyM1aE/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68430773",
+    "source": "otodom",
+    "sourceId": "68430773",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/jasionka-dom-blizniak-garaz-w-bryle-dzialka-4-ary-ID4D7Y9",
+    "propertyType": "house",
+    "title": "Jasionka | Dom bliźniak | Garaż w bryle | Działka 4 ary",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Jasionka",
+    "coordinates": {
+      "lat": 50.102095186809315,
+      "lng": 22.27100641957442
+    },
+    "isNearBorder": false,
+    "areaM2": 114.28,
+    "plotAreaM2": 406,
+    "currentPrice": 868000,
+    "currentPricePerM2": 7595.38,
+    "initialPrice": 868000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 868000,
+        "pricePerM2": 7595.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:07:23.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjlkODB3aGFrNHZqdjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.alMUUjNv_SsjTYFOYhmxDUphreR61-PXluCUreIyx1M/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68306140",
+    "source": "otodom",
+    "sourceId": "68306140",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-wolnostojacy-st-surowy-zamkniety-dzialka-23-5a-ID4CBxV",
+    "propertyType": "house",
+    "title": "Dom wolnostojący|St.surowy zamknięty|Działka 23,5a",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Futoma",
+    "coordinates": {
+      "lat": 50.025672303938045,
+      "lng": 22.232350899590276
+    },
+    "isNearBorder": false,
+    "areaM2": 104,
+    "plotAreaM2": 23.5,
+    "currentPrice": 369000,
+    "currentPricePerM2": 3548.08,
+    "initialPrice": 369000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 369000,
+        "pricePerM2": 3548.08
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:03:13.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVlcHd6bWd4YnV3dDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hBEyEfEheK28vYLbwqMx7kKinHvkbqJpvJIQQVRr17M/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-66931338",
+    "source": "otodom",
+    "sourceId": "66931338",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-w-bieszczadach-3-apartamenty-po-remoncie-na-duzej-dzialce-ID4vPTI",
+    "propertyType": "house",
+    "title": "Dom w Bieszczadach - 3 apartamenty po remoncie na dużej działce",
+    "voivodeship": "podkarpackie",
+    "county": "bieszczadzki",
+    "city": "Ustrzyki Dolne",
+    "street": "ul. Nadgórna",
+    "coordinates": {
+      "lat": 49.94544651989126,
+      "lng": 22.348580251394644
+    },
+    "isNearBorder": true,
+    "areaM2": 325,
+    "plotAreaM2": 1030,
+    "currentPrice": 1290000,
+    "currentPricePerM2": 3969.23,
+    "initialPrice": 1290000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1290000,
+        "pricePerM2": 3969.23
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T11:57:25.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFieWxuMm9tejB0czItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GvunTCXyARlXv2e-R199zzKWF4cytIQD025qT70crG8/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68351971",
+    "source": "otodom",
+    "sourceId": "68351971",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-na-sprzedaz-rzeszow-ul-mila-6-pokoi-fotowoltaika-2-garaze-ID4CNt9",
+    "propertyType": "house",
+    "title": "Dom na sprzedaż: Rzeszów, ul. Miła – 6 pokoi, fotowoltaika, 2 garaże",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "ul. Miła",
+    "coordinates": {
+      "lat": 50.02708412769103,
+      "lng": 22.44353833005249
+    },
+    "isNearBorder": false,
+    "areaM2": 161.5,
+    "plotAreaM2": 589,
+    "currentPrice": 1099000,
+    "currentPricePerM2": 6804.95,
+    "initialPrice": 1099000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1099000,
+        "pricePerM2": 6804.95
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T11:56:14.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZtOGN3MHVleGRsaDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5ruSrR0ONoTdh4ZSd5KVZH5jjGHQssLgoJJBKwFUjw0/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68116090",
+    "source": "otodom",
+    "sourceId": "68116090",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/okazja-nowa-cena-dom-w-jaroslawiu-nowy-dach-i-elewacja-660-000zl-ID4BO6C",
+    "propertyType": "house",
+    "title": "OKAZJA! NOWA CENA! Dom w Jarosławiu |Nowy Dach i Elewacja| 660 000zł",
+    "voivodeship": "podkarpackie",
+    "county": "jarosławski",
+    "city": "Jarosław",
+    "street": "ul. Zygmunta Krasińskiego",
+    "coordinates": {
+      "lat": 50.14973423878867,
+      "lng": 22.217042228370715
+    },
+    "isNearBorder": true,
+    "areaM2": 120,
+    "plotAreaM2": 589,
+    "currentPrice": 660000,
+    "currentPricePerM2": 5500,
+    "initialPrice": 660000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 660000,
+        "pricePerM2": 5500
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T11:37:55.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVnZ21jeHY4Z3ZlZy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.9oCGHQspEvbkVY32Fx35tbEnzl791J50oniAOI5JIH8/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67519423",
+    "source": "otodom",
+    "sourceId": "67519423",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/nowy-blizniak-na-niwie-w-glogowie-ostatni-ID4ziSX",
+    "propertyType": "house",
+    "title": "Nowy bliźniak na Niwie w Głogowie, ostatni",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Głogów Małopolski",
+    "coordinates": {
+      "lat": 50.058931896192,
+      "lng": 22.31102705251642
+    },
+    "isNearBorder": false,
+    "areaM2": 105.58,
+    "plotAreaM2": 350,
+    "currentPrice": 650000,
+    "currentPricePerM2": 6156.47,
+    "initialPrice": 650000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 650000,
+        "pricePerM2": 6156.47
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T11:02:02.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndudGl5NXRicWl1cy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.2WFO3vEJivYnsTkrZatLkcjIV_chiHjosc1URu-dcKo/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68430271",
+    "source": "otodom",
+    "sourceId": "68430271",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-27-arow-w-rzeszowie-ul-porabki-ID4D7Q3",
+    "propertyType": "house",
+    "title": "Dom + 27 arów w Rzeszowie! ul. Porąbki",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "ul. Porąbki",
+    "coordinates": {
+      "lat": 49.9190160181749,
+      "lng": 22.376745669959426
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "plotAreaM2": 2700,
+    "currentPrice": 690000,
+    "currentPricePerM2": 4600,
+    "initialPrice": 690000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 690000,
+        "pricePerM2": 4600
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T10:57:21.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRyNTI3N2owMml1bi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.deB6u9oIrcqRicjBrWgo40cayoFL2uqBGxE2RODfpDs/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68430257",
+    "source": "otodom",
+    "sourceId": "68430257",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-siedlisko-dz-33-ar-las-2xdzialki-rolne-ID4D7PP",
+    "propertyType": "house",
+    "title": "Sprzedam siedlisko, dz. 33 ar/las/2xdziałki rolne.",
+    "voivodeship": "podkarpackie",
+    "county": "jarosławski",
+    "city": "Korczowa",
+    "coordinates": {
+      "lat": 50.078213122344124,
+      "lng": 22.350078189952583
+    },
+    "isNearBorder": true,
+    "areaM2": 60,
+    "plotAreaM2": 3278,
+    "currentPrice": 134000,
+    "currentPricePerM2": 2233.33,
+    "initialPrice": 134000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 134000,
+        "pricePerM2": 2233.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T10:55:17.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5iY2NjeGRvN2JxMTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tBYP2bdjur9WZSjquWbeR18Xr1-XnAi-eh-I8DdnNfQ/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68429911",
+    "source": "otodom",
+    "sourceId": "68429911",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/ul-miejska-vi-etap-nowa-lokalizacja-ID4D7Kf",
+    "propertyType": "house",
+    "title": "ul. Miejska / VI etap / Nowa lokalizacja",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "ul. Miejska",
+    "coordinates": {
+      "lat": 49.94224677254329,
+      "lng": 22.367508623040003
+    },
+    "isNearBorder": false,
+    "areaM2": 83,
+    "plotAreaM2": 243,
+    "currentPrice": 665000,
+    "currentPricePerM2": 8012.05,
+    "initialPrice": 665000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 665000,
+        "pricePerM2": 8012.05
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T10:13:52.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRmOTZuNWFycDRoZDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HY5XOSLm9I6vBLSuyusIAuANXqtYuOzvJzHj0Ej9P2w/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68429925",
+    "source": "otodom",
+    "sourceId": "68429925",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-wolnostojacy-dom-w-zielistkach-23g-w-stanie-surowym-zamknietym-ID4D7Kt",
+    "propertyType": "house",
+    "title": "Dom wolnostojący \" Dom w Zielistkach 23g\" w stanie surowym zamkniętym.",
+    "voivodeship": "podkarpackie",
+    "city": "Krosno",
+    "street": "Jaworowa",
+    "coordinates": {
+      "lat": 49.99316007115566,
+      "lng": 22.254262653378625
+    },
+    "isNearBorder": false,
+    "areaM2": 128,
+    "plotAreaM2": 900,
+    "currentPrice": 529000,
+    "currentPricePerM2": 4132.81,
+    "initialPrice": 529000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 529000,
+        "pricePerM2": 4132.81
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T10:06:50.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN0cDVsbW9jcG40ZTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nU5ZJP267PP4FHIsW8DlYY6v4Wuu8sJhHGAHjS4R8jU/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-96843274500067",
+    "source": "otodom",
+    "sourceId": "96843274500067",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-4-pokoje-wszystkie-media-swietna-loklizacja-ID4D8tX",
+    "propertyType": "house",
+    "title": "Dom 4 pokoje|wszystkie media|świetna loklizacja",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "Dębicka",
+    "coordinates": {
+      "lat": 50.04108735386872,
+      "lng": 22.181369539514975
+    },
+    "isNearBorder": false,
+    "areaM2": 108,
+    "plotAreaM2": 444,
+    "currentPrice": 469000,
+    "currentPricePerM2": 4342.59,
+    "initialPrice": 469000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 469000,
+        "pricePerM2": 4342.59
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "1999-02-28T23:00:01.000Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4261782",
+    "source": "adresowo",
+    "sourceId": "4261782",
+    "sourceUrl": "https://adresowo.pl/o/dom-dydnia-170-m2-e9i5v7",
+    "propertyType": "house",
+    "title": "Dom — Dydnia, Wola Dydyńska",
+    "voivodeship": "podkarpackie",
+    "city": "Dydnia",
+    "street": "Wola Dydyńska",
+    "coordinates": {
+      "lat": 50.07535048176398,
+      "lng": 22.25364985593781
+    },
+    "isNearBorder": false,
+    "areaM2": 170,
+    "currentPrice": 220000,
+    "currentPricePerM2": 1294.12,
+    "initialPrice": 220000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 220000,
+        "pricePerM2": 1294.12
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7b/65/410796_4ca0_cover@2x-dom-brzozowski-dydnia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261526",
+    "source": "adresowo",
+    "sourceId": "4261526",
+    "sourceUrl": "https://adresowo.pl/o/dom-tarnobrzeg-100-m2-l3m5q9",
+    "propertyType": "house",
+    "title": "Dom — Tarnobrzeg",
+    "voivodeship": "podkarpackie",
+    "city": "Tarnobrzeg",
+    "coordinates": {
+      "lat": 50.05149303182903,
+      "lng": 22.442033643518275
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "currentPrice": 670000,
+    "currentPricePerM2": 6700,
+    "initialPrice": 670000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 670000,
+        "pricePerM2": 6700
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/28/5f/410696_82a0_cover@2x-dom-tarnobrzeg.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261250",
+    "source": "adresowo",
+    "sourceId": "4261250",
+    "sourceUrl": "https://adresowo.pl/o/dom-rzeszow-ul-gleboka-r4a4o5",
+    "propertyType": "house",
+    "title": "Dom — Rzeszów, ul. Głęboka",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "ul. Głęboka",
+    "coordinates": {
+      "lat": 49.851977190911064,
+      "lng": 22.406503441929512
+    },
+    "isNearBorder": false,
+    "areaM2": 167,
+    "plotAreaM2": 174,
+    "currentPrice": 1300000,
+    "currentPricePerM2": 7784.43,
+    "initialPrice": 1300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1300000,
+        "pricePerM2": 7784.43
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/42/36/410582_df80_cover@2x-dom-rzeszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261578",
+    "source": "adresowo",
+    "sourceId": "4261578",
+    "sourceUrl": "https://adresowo.pl/o/dom-ustrzyki-dolne-brzegi-dolne-118-m2-q2q5y8",
+    "propertyType": "house",
+    "title": "Dom — Brzegi Dolne",
+    "voivodeship": "podkarpackie",
+    "city": "Brzegi Dolne",
+    "coordinates": {
+      "lat": 49.939498906625495,
+      "lng": 22.143445837812806
+    },
+    "isNearBorder": false,
+    "areaM2": 118,
+    "currentPrice": 1150000,
+    "currentPricePerM2": 9745.76,
+    "initialPrice": 1150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1150000,
+        "pricePerM2": 9745.76
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1d/2c/4106ca_cb70_cover@2x-dom-bieszczadzki-brzegi-dolne.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4257310",
+    "source": "adresowo",
+    "sourceId": "4257310",
+    "sourceUrl": "https://adresowo.pl/o/dom-skolyszyn-140-m2-k3v0z1",
+    "propertyType": "house",
+    "title": "Dom — Skołyszyn",
+    "voivodeship": "podkarpackie",
+    "city": "Skołyszyn",
+    "coordinates": {
+      "lat": 49.81880625682099,
+      "lng": 22.27839625805863
+    },
+    "isNearBorder": false,
+    "areaM2": 140,
+    "currentPrice": 1200000,
+    "currentPricePerM2": 8571.43,
+    "initialPrice": 1200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1200000,
+        "pricePerM2": 8571.43
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/68/70/40f61e_528d_cover@2x-dom-jasielski-skolyszyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261248",
+    "source": "adresowo",
+    "sourceId": "4261248",
+    "sourceUrl": "https://adresowo.pl/o/dom-dydnia-krzywe-90-m2-o4o2z8",
+    "propertyType": "house",
+    "title": "Dom — Krzywe",
+    "voivodeship": "podkarpackie",
+    "city": "Krzywe",
+    "coordinates": {
+      "lat": 49.84042153654544,
+      "lng": 22.15317518152485
+    },
+    "isNearBorder": false,
+    "areaM2": 90,
+    "currentPrice": 1500000,
+    "currentPricePerM2": 16666.67,
+    "initialPrice": 1500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1500000,
+        "pricePerM2": 16666.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4a/7d/410580_6f00_cover@2x-dom-brzozowski-krzywe.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260110",
+    "source": "adresowo",
+    "sourceId": "4260110",
+    "sourceUrl": "https://adresowo.pl/o/dom-krasne-palikowka-104-m2-i1j4n5",
+    "propertyType": "house",
+    "title": "Dom — Palikówka",
+    "voivodeship": "podkarpackie",
+    "city": "Palikówka",
+    "coordinates": {
+      "lat": 49.92814608250734,
+      "lng": 22.24033137758578
+    },
+    "isNearBorder": false,
+    "areaM2": 104,
+    "currentPrice": 298000,
+    "currentPricePerM2": 2865.38,
+    "initialPrice": 298000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 298000,
+        "pricePerM2": 2865.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3b/18/41010e_ce24_cover@2x-dom-rzeszowski-palikowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259614",
+    "source": "adresowo",
+    "sourceId": "4259614",
+    "sourceUrl": "https://adresowo.pl/o/dom-tarnowiec-dobrucowa-66-m2-k1l3z8",
+    "propertyType": "house",
+    "title": "Dom — Dobrucowa",
+    "voivodeship": "podkarpackie",
+    "city": "Dobrucowa",
+    "coordinates": {
+      "lat": 50.07139505092044,
+      "lng": 22.13982763094871
+    },
+    "isNearBorder": false,
+    "areaM2": 66,
+    "currentPrice": 209000,
+    "currentPricePerM2": 3166.67,
+    "initialPrice": 209000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 209000,
+        "pricePerM2": 3166.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/78/44/40ff1e_2be3_cover@2x-dom-jasielski-dobrucowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4251616",
+    "source": "adresowo",
+    "sourceId": "4251616",
+    "sourceUrl": "https://adresowo.pl/o/dom-iwonicz-zdroj-iwonicz-ul-zagrodniki-w3w0y5",
+    "propertyType": "house",
+    "title": "Dom — Iwonicz, ul. Zagrodniki",
+    "voivodeship": "podkarpackie",
+    "city": "Iwonicz",
+    "street": "ul. Zagrodniki",
+    "coordinates": {
+      "lat": 49.983025092060274,
+      "lng": 22.46913089084085
+    },
+    "isNearBorder": false,
+    "areaM2": 170,
+    "currentPrice": 549000,
+    "currentPricePerM2": 3229.41,
+    "initialPrice": 549000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 549000,
+        "pricePerM2": 3229.41
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2b/26/40dfe0_850c_cover@2x-dom-krosnienski-iwonicz.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4251572",
+    "source": "adresowo",
+    "sourceId": "4251572",
+    "sourceUrl": "https://adresowo.pl/o/dom-tyrawa-woloska-80-m2-p5k9t7",
+    "propertyType": "house",
+    "title": "Dom — Tyrawa Wołoska",
+    "voivodeship": "podkarpackie",
+    "city": "Tyrawa Wołoska",
+    "coordinates": {
+      "lat": 50.004573377205304,
+      "lng": 22.284234375346127
+    },
+    "isNearBorder": false,
+    "areaM2": 80,
+    "currentPrice": 380000,
+    "currentPricePerM2": 4750,
+    "initialPrice": 380000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 380000,
+        "pricePerM2": 4750
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5e/1f/40dfb4_5755_cover@2x-dom-sanocki-tyrawa-woloska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259106",
+    "source": "adresowo",
+    "sourceId": "4259106",
+    "sourceUrl": "https://adresowo.pl/o/dom-radomysl-wielki-ul-kochanowskiego-k3f9m2",
+    "propertyType": "house",
+    "title": "Dom — Radomyśl Wielki, ul. Kochanowskiego",
+    "voivodeship": "podkarpackie",
+    "city": "Radomyśl Wielki",
+    "street": "ul. Kochanowskiego",
+    "coordinates": {
+      "lat": 49.924992198941844,
+      "lng": 22.251921098764402
+    },
+    "isNearBorder": false,
+    "areaM2": 140,
+    "currentPrice": 700000,
+    "currentPricePerM2": 5000,
+    "initialPrice": 700000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 700000,
+        "pricePerM2": 5000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/62/67/40fd22_c5c2_cover@2x-dom-mielecki-radomysl-wielki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4257972",
+    "source": "adresowo",
+    "sourceId": "4257972",
+    "sourceUrl": "https://adresowo.pl/o/dom-blazowa-nowy-borek-140-m2-w1m6e4",
+    "propertyType": "house",
+    "title": "Dom — Nowy Borek, Przylasek Mały",
+    "voivodeship": "podkarpackie",
+    "city": "Nowy Borek",
+    "street": "Przylasek Mały",
+    "coordinates": {
+      "lat": 49.87980482244114,
+      "lng": 22.40172382571559
+    },
+    "isNearBorder": false,
+    "areaM2": 140,
+    "currentPrice": 400000,
+    "currentPricePerM2": 2857.14,
+    "initialPrice": 400000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 400000,
+        "pricePerM2": 2857.14
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5c/4d/40f8b4_9ef8_cover@2x-dom-rzeszowski-nowy-borek.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4257006",
+    "source": "adresowo",
+    "sourceId": "4257006",
+    "sourceUrl": "https://adresowo.pl/o/dom-krzywcza-bachow-100-m2-q4d5z5",
+    "propertyType": "house",
+    "title": "Dom — Bachów",
+    "voivodeship": "podkarpackie",
+    "city": "Bachów",
+    "coordinates": {
+      "lat": 49.91123200221778,
+      "lng": 22.37462825689819
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "currentPrice": 455000,
+    "currentPricePerM2": 4550,
+    "initialPrice": 455000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 455000,
+        "pricePerM2": 4550
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6f/5b/40f4ee_4d2d_cover@2x-dom-przemyski-bachow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4250728",
+    "source": "adresowo",
+    "sourceId": "4250728",
+    "sourceUrl": "https://adresowo.pl/o/dom-strzyzow-wysoka-strzyzowska-115-m2-b8r8o9",
+    "propertyType": "house",
+    "title": "Dom — Wysoka Strzyżowska",
+    "voivodeship": "podkarpackie",
+    "city": "Wysoka Strzyżowska",
+    "coordinates": {
+      "lat": 50.058106867759086,
+      "lng": 22.28154242829875
+    },
+    "isNearBorder": false,
+    "areaM2": 115,
+    "currentPrice": 359000,
+    "currentPricePerM2": 3121.74,
+    "initialPrice": 359000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 359000,
+        "pricePerM2": 3121.74
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/78/43/40dc68_92d4_cover@2x-dom-strzyzowski-wysoka-strzyzowska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4250720",
+    "source": "adresowo",
+    "sourceId": "4250720",
+    "sourceUrl": "https://adresowo.pl/o/dom-krosno-ul-stanislawa-moniuszki-w3n5w2",
+    "propertyType": "house",
+    "title": "Dom — Krosno Białobrzegi, ul. Stanisława Moniuszki",
+    "voivodeship": "podkarpackie",
+    "city": "Krosno Białobrzegi",
+    "street": "ul. Stanisława Moniuszki",
+    "coordinates": {
+      "lat": 49.909696043267765,
+      "lng": 22.379984585413414
+    },
+    "isNearBorder": false,
+    "areaM2": 345,
+    "currentPrice": 660000,
+    "currentPricePerM2": 1913.04,
+    "initialPrice": 660000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 660000,
+        "pricePerM2": 1913.04
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/33/5f/40dc60_4649_cover@2x-dom-krosno.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4255674",
+    "source": "adresowo",
+    "sourceId": "4255674",
+    "sourceUrl": "https://adresowo.pl/o/dom-pysznica-150-m2-q8p2l8",
+    "propertyType": "house",
+    "title": "Dom — Pysznica",
+    "voivodeship": "podkarpackie",
+    "city": "Pysznica",
+    "coordinates": {
+      "lat": 50.069453295587735,
+      "lng": 22.267793447705323
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "currentPrice": 1550000,
+    "currentPricePerM2": 10333.33,
+    "initialPrice": 1550000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1550000,
+        "pricePerM2": 10333.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/35/15/40efba_da7d_cover@2x-dom-stalowowolski-pysznica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4255616",
+    "source": "adresowo",
+    "sourceId": "4255616",
+    "sourceUrl": "https://adresowo.pl/o/dom-rzeszow-ul-goscinna-u3c4e5",
+    "propertyType": "house",
+    "title": "Dom — Rzeszów Drabinianka, ul. Gościnna",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów Drabinianka",
+    "street": "ul. Gościnna",
+    "coordinates": {
+      "lat": 50.014905735533446,
+      "lng": 22.3758292321924
+    },
+    "isNearBorder": false,
+    "areaM2": 162,
+    "currentPrice": 1690000,
+    "currentPricePerM2": 10432.1,
+    "initialPrice": 1690000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1690000,
+        "pricePerM2": 10432.1
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/51/73/40ef80_a7ee_cover@2x-dom-rzeszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4254408",
+    "source": "adresowo",
+    "sourceId": "4254408",
+    "sourceUrl": "https://adresowo.pl/o/dom-skolyszyn-swiecany-80-m2-x5e1x5",
+    "propertyType": "house",
+    "title": "Dom — Święcany",
+    "voivodeship": "podkarpackie",
+    "city": "Święcany",
+    "coordinates": {
+      "lat": 49.90963761418172,
+      "lng": 22.293999390442895
+    },
+    "isNearBorder": false,
+    "areaM2": 80,
+    "currentPrice": 360000,
+    "currentPricePerM2": 4500,
+    "initialPrice": 360000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 360000,
+        "pricePerM2": 4500
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7b/15/40eac8_9861_cover@2x-dom-jasielski-swiecany.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4249716",
+    "source": "adresowo",
+    "sourceId": "4249716",
+    "sourceUrl": "https://adresowo.pl/o/dom-rzeszow-ul-senatorska-b3d1e0",
+    "propertyType": "house",
+    "title": "Dom — Rzeszów, ul. Senatorska",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "ul. Senatorska",
+    "coordinates": {
+      "lat": 49.87950949871732,
+      "lng": 22.128946610991747
+    },
+    "isNearBorder": false,
+    "areaM2": 137,
+    "currentPrice": 1599900,
+    "currentPricePerM2": 11678.1,
+    "initialPrice": 1599900,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1599900,
+        "pricePerM2": 11678.1
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/42/3f/40d874_cf4c_cover@2x-dom-rzeszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4249706",
+    "source": "adresowo",
+    "sourceId": "4249706",
+    "sourceUrl": "https://adresowo.pl/o/dom-rzeszow-ul-aleksandra-puszkina-e1u0c5",
+    "propertyType": "house",
+    "title": "Dom — Rzeszów Nowe Miasto, ul. Aleksandra Puszkina",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów Nowe Miasto",
+    "street": "ul. Aleksandra Puszkina",
+    "coordinates": {
+      "lat": 49.97815505243275,
+      "lng": 22.295441481007796
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "currentPrice": 1090000,
+    "currentPricePerM2": 7266.67,
+    "initialPrice": 1090000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1090000,
+        "pricePerM2": 7266.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/42/41/40d86a_c003_cover@2x-dom-rzeszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4254094",
+    "source": "adresowo",
+    "sourceId": "4254094",
+    "sourceUrl": "https://adresowo.pl/o/dom-debica-302-m2-w0r3v0",
+    "propertyType": "house",
+    "title": "Dom — Dębica, Kępa",
+    "voivodeship": "podkarpackie",
+    "city": "Dębica",
+    "street": "Kępa",
+    "coordinates": {
+      "lat": 50.0344588896696,
+      "lng": 22.203523324618622
+    },
+    "isNearBorder": false,
+    "areaM2": 302,
+    "plotAreaM2": 1528,
+    "currentPrice": 2199000,
+    "currentPricePerM2": 7281.46,
+    "initialPrice": 2199000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 2199000,
+        "pricePerM2": 7281.46
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7b/28/40e98e_5cd3_cover@2x-dom-debicki-debica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4253992",
+    "source": "adresowo",
+    "sourceId": "4253992",
+    "sourceUrl": "https://adresowo.pl/o/dom-ustrzyki-dolne-380-m2-w6z7a9",
+    "propertyType": "house",
+    "title": "Dom — Ustrzyki Dolne",
+    "voivodeship": "podkarpackie",
+    "city": "Ustrzyki Dolne",
+    "coordinates": {
+      "lat": 49.86172452053167,
+      "lng": 22.236187180207633
+    },
+    "isNearBorder": false,
+    "areaM2": 380,
+    "currentPrice": 510000,
+    "currentPricePerM2": 1342.11,
+    "initialPrice": 510000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 510000,
+        "pricePerM2": 1342.11
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/73/4a/40e928_3c9b_cover@2x-dom-bieszczadzki-ustrzyki-dolne.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4253788",
+    "source": "adresowo",
+    "sourceId": "4253788",
+    "sourceUrl": "https://adresowo.pl/o/dom-radomysl-nad-sanem-witkowice-90-m2-g6x3t3",
+    "propertyType": "house",
+    "title": "Dom — Witkowice",
+    "voivodeship": "podkarpackie",
+    "city": "Witkowice",
+    "coordinates": {
+      "lat": 50.103785630034224,
+      "lng": 22.177827165760178
+    },
+    "isNearBorder": false,
+    "areaM2": 90,
+    "currentPrice": 200000,
+    "currentPricePerM2": 2222.22,
+    "initialPrice": 200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 200000,
+        "pricePerM2": 2222.22
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4f/6a/40e85c_5a24_cover@2x-dom-stalowowolski-witkowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4249704",
+    "source": "adresowo",
+    "sourceId": "4249704",
+    "sourceUrl": "https://adresowo.pl/o/dom-boguchwala-zarzecze-160-m2-k7r7n2",
+    "propertyType": "house",
+    "title": "Dom — Zarzecze",
+    "voivodeship": "podkarpackie",
+    "city": "Zarzecze",
+    "coordinates": {
+      "lat": 50.039270822076226,
+      "lng": 22.466284017760156
+    },
+    "isNearBorder": false,
+    "areaM2": 160,
+    "currentPrice": 799000,
+    "currentPricePerM2": 4993.75,
+    "initialPrice": 799000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 799000,
+        "pricePerM2": 4993.75
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/35/7d/40d868_7eb1_cover@2x-dom-rzeszowski-zarzecze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4249686",
+    "source": "adresowo",
+    "sourceId": "4249686",
+    "sourceUrl": "https://adresowo.pl/o/dom-rzeszow-ul-robotnicza-t5k4n7",
+    "propertyType": "house",
+    "title": "Dom — Rzeszów Zalesie, ul. Robotnicza",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów Zalesie",
+    "street": "ul. Robotnicza",
+    "coordinates": {
+      "lat": 50.030648312325,
+      "lng": 22.43152819553792
+    },
+    "isNearBorder": false,
+    "areaM2": 200,
+    "currentPrice": 2190000,
+    "currentPricePerM2": 10950,
+    "initialPrice": 2190000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 2190000,
+        "pricePerM2": 10950
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6d/10/40d856_5487_cover@2x-dom-rzeszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4253736",
+    "source": "adresowo",
+    "sourceId": "4253736",
+    "sourceUrl": "https://adresowo.pl/o/dom-radymno-281-m2-a8u6j5",
+    "propertyType": "house",
+    "title": "Dom — Radymno",
+    "voivodeship": "podkarpackie",
+    "city": "Radymno",
+    "coordinates": {
+      "lat": 49.85930393234932,
+      "lng": 22.397828653321845
+    },
+    "isNearBorder": false,
+    "areaM2": 281,
+    "plotAreaM2": 617,
+    "currentPrice": 1180000,
+    "currentPricePerM2": 4199.29,
+    "initialPrice": 1180000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1180000,
+        "pricePerM2": 4199.29
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/18/64/40e828_d5f4_cover@2x-dom-jaroslawski-radymno.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4253188",
+    "source": "adresowo",
+    "sourceId": "4253188",
+    "sourceUrl": "https://adresowo.pl/o/dom-ustrzyki-dolne-ul-bieszczadzka-s3z7j8",
+    "propertyType": "house",
+    "title": "Dom — Ustrzyki Dolne, ul. Bieszczadzka",
+    "voivodeship": "podkarpackie",
+    "city": "Ustrzyki Dolne",
+    "street": "ul. Bieszczadzka",
+    "coordinates": {
+      "lat": 49.83281176508829,
+      "lng": 22.340920848054115
+    },
+    "isNearBorder": false,
+    "areaM2": 270,
+    "currentPrice": 3300000,
+    "currentPricePerM2": 12222.22,
+    "initialPrice": 3300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 3300000,
+        "pricePerM2": 12222.22
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/46/57/40e604_e2d2_cover@2x-dom-bieszczadzki-ustrzyki-dolne.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4252974",
+    "source": "adresowo",
+    "sourceId": "4252974",
+    "sourceUrl": "https://adresowo.pl/o/dom-zurawica-kosienice-80-m2-u8f2o8",
+    "propertyType": "house",
+    "title": "Dom — Kosienice",
+    "voivodeship": "podkarpackie",
+    "city": "Kosienice",
+    "coordinates": {
+      "lat": 49.90426605567784,
+      "lng": 22.193627903452423
+    },
+    "isNearBorder": false,
+    "areaM2": 80,
+    "currentPrice": 430000,
+    "currentPricePerM2": 5375,
+    "initialPrice": 430000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 430000,
+        "pricePerM2": 5375
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/51/2b/40e52e_f75a_cover@2x-dom-przemyski-kosienice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4249060",
+    "source": "adresowo",
+    "sourceId": "4249060",
+    "sourceUrl": "https://adresowo.pl/o/dom-besko-ul-ogrodowa-a2p4u9",
+    "propertyType": "house",
+    "title": "Dom — Besko, ul. Ogrodowa",
+    "voivodeship": "podkarpackie",
+    "city": "Besko",
+    "street": "ul. Ogrodowa",
+    "coordinates": {
+      "lat": 49.84176184849123,
+      "lng": 22.317390316086676
+    },
+    "isNearBorder": false,
+    "areaM2": 110,
+    "currentPrice": 380001,
+    "currentPricePerM2": 3454.55,
+    "initialPrice": 380001,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 380001,
+        "pricePerM2": 3454.55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/39/5b/40d5e4_f298_cover@2x-dom-sanocki-besko.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4246546",
+    "source": "adresowo",
+    "sourceId": "4246546",
+    "sourceUrl": "https://adresowo.pl/o/dom-korczyna-195-m2-d2r1h6",
+    "propertyType": "house",
+    "title": "Dom — Korczyna",
+    "voivodeship": "podkarpackie",
+    "city": "Korczyna",
+    "coordinates": {
+      "lat": 49.951045761462005,
+      "lng": 22.404233224734956
+    },
+    "isNearBorder": false,
+    "areaM2": 195,
+    "currentPrice": 1199000,
+    "currentPricePerM2": 6148.72,
+    "initialPrice": 1199000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1199000,
+        "pricePerM2": 6148.72
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/66/21/40cc12_833d_cover@2x-dom-krosnienski-korczyna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4252514",
+    "source": "adresowo",
+    "sourceId": "4252514",
+    "sourceUrl": "https://adresowo.pl/o/dom-krosno-ul-stanislawa-moniuszki-f3x8z3",
+    "propertyType": "house",
+    "title": "Dom — Krosno Białobrzegi, ul. Stanisława Moniuszki",
+    "voivodeship": "podkarpackie",
+    "city": "Krosno Białobrzegi",
+    "street": "ul. Stanisława Moniuszki",
+    "coordinates": {
+      "lat": 49.82029331925037,
+      "lng": 22.41109609395786
+    },
+    "isNearBorder": false,
+    "areaM2": 250,
+    "currentPrice": 924000,
+    "currentPricePerM2": 3696,
+    "initialPrice": 924000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 924000,
+        "pricePerM2": 3696
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3d/11/40e362_5aa4_cover@2x-dom-krosno.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4250566",
+    "source": "adresowo",
+    "sourceId": "4250566",
+    "sourceUrl": "https://adresowo.pl/o/dom-glogow-malopolski-przewrotne-180-m2-q3v7x4",
+    "propertyType": "house",
+    "title": "Dom — Przewrotne",
+    "voivodeship": "podkarpackie",
+    "city": "Przewrotne",
+    "coordinates": {
+      "lat": 49.872698569335974,
+      "lng": 22.140470548296054
+    },
+    "isNearBorder": false,
+    "areaM2": 180,
+    "currentPrice": 299999,
+    "currentPricePerM2": 1666.66,
+    "initialPrice": 299999,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 299999,
+        "pricePerM2": 1666.66
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/21/7f/40dbc6_3718_cover@2x-dom-rzeszowski-przewrotne.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4248830",
+    "source": "adresowo",
+    "sourceId": "4248830",
+    "sourceUrl": "https://adresowo.pl/o/dom-lancut-kosina-100-m2-w3u3d0",
+    "propertyType": "house",
+    "title": "Dom — Kosina",
+    "voivodeship": "podkarpackie",
+    "city": "Kosina",
+    "coordinates": {
+      "lat": 49.852286250527285,
+      "lng": 22.261327691065794
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "currentPrice": 429000,
+    "currentPricePerM2": 4290,
+    "initialPrice": 429000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 429000,
+        "pricePerM2": 4290
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/18/39/40d4fe_b74a_cover@2x-dom-lancucki-kosina.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4244768",
+    "source": "adresowo",
+    "sourceId": "4244768",
+    "sourceUrl": "https://adresowo.pl/o/dom-krosno-ul-stefana-okrzei-h5a6f1",
+    "propertyType": "house",
+    "title": "Dom — Krosno, ul. Stefana Okrzei",
+    "voivodeship": "podkarpackie",
+    "city": "Krosno",
+    "street": "ul. Stefana Okrzei",
+    "coordinates": {
+      "lat": 50.108279309391136,
+      "lng": 22.1609791086747
+    },
+    "isNearBorder": false,
+    "areaM2": 250,
+    "currentPrice": 999000,
+    "currentPricePerM2": 3996,
+    "initialPrice": 999000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 999000,
+        "pricePerM2": 3996
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3a/3d/40c520_6fc1_cover@2x-dom-krosno.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4243584",
+    "source": "adresowo",
+    "sourceId": "4243584",
+    "sourceUrl": "https://adresowo.pl/o/dom-lubenia-siedliska-224-m2-p0t5y9",
+    "propertyType": "house",
+    "title": "Dom — Siedliska",
+    "voivodeship": "podkarpackie",
+    "city": "Siedliska",
+    "coordinates": {
+      "lat": 49.904978722278535,
+      "lng": 22.19613770304705
+    },
+    "isNearBorder": false,
+    "areaM2": 224,
+    "currentPrice": 1950000,
+    "currentPricePerM2": 8705.36,
+    "initialPrice": 1950000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1950000,
+        "pricePerM2": 8705.36
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/66/51/40c080_aaf3_cover@2x-dom-rzeszowski-siedliska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4248788",
+    "source": "adresowo",
+    "sourceId": "4248788",
+    "sourceUrl": "https://adresowo.pl/o/dom-przeclaw-podole-160-m2-o6a0h6",
+    "propertyType": "house",
+    "title": "Dom — Podole",
+    "voivodeship": "podkarpackie",
+    "city": "Podole",
+    "coordinates": {
+      "lat": 50.09563511338268,
+      "lng": 22.273136805831474
+    },
+    "isNearBorder": false,
+    "areaM2": 160,
+    "currentPrice": 860000,
+    "currentPricePerM2": 5375,
+    "initialPrice": 860000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 860000,
+        "pricePerM2": 5375
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7e/48/40d4d4_7e68_cover@2x-dom-mielecki-podole.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4242800",
+    "source": "adresowo",
+    "sourceId": "4242800",
+    "sourceUrl": "https://adresowo.pl/o/dom-niwiska-trzesn-128-m2-r5u9r8",
+    "propertyType": "house",
+    "title": "Dom — Trześń",
+    "voivodeship": "podkarpackie",
+    "city": "Trześń",
+    "coordinates": {
+      "lat": 50.0160207539356,
+      "lng": 22.132129913195936
+    },
+    "isNearBorder": false,
+    "areaM2": 128,
+    "currentPrice": 400000,
+    "currentPricePerM2": 3125,
+    "initialPrice": 400000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 400000,
+        "pricePerM2": 3125
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/11/63/40bd70_89d5_cover@2x-dom-kolbuszowski-trzesn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4243578",
+    "source": "adresowo",
+    "sourceId": "4243578",
+    "sourceUrl": "https://adresowo.pl/o/dom-krosno-180-m2-n2x9p3",
+    "propertyType": "house",
+    "title": "Dom — Krosno, Śródmieście",
+    "voivodeship": "podkarpackie",
+    "city": "Krosno",
+    "street": "Śródmieście",
+    "coordinates": {
+      "lat": 49.90548016071571,
+      "lng": 22.394549669979355
+    },
+    "isNearBorder": false,
+    "areaM2": 180,
+    "currentPrice": 1152000,
+    "currentPricePerM2": 6400,
+    "initialPrice": 1152000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1152000,
+        "pricePerM2": 6400
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7a/61/40c07a_73fc_cover@2x-dom-krosno.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4240582",
+    "source": "adresowo",
+    "sourceId": "4240582",
+    "sourceUrl": "https://adresowo.pl/o/dom-dukla-nadole-60-m2-v7d2f4",
+    "propertyType": "house",
+    "title": "Dom — Nadole",
+    "voivodeship": "podkarpackie",
+    "city": "Nadole",
+    "coordinates": {
+      "lat": 49.893345991370225,
+      "lng": 22.290651484808983
+    },
+    "isNearBorder": false,
+    "areaM2": 60,
+    "currentPrice": 138000,
+    "currentPricePerM2": 2300,
+    "initialPrice": 138000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 138000,
+        "pricePerM2": 2300
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:11.506Z",
+    "lastSeenAt": "2026-09-17T21:51:13.728Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3a/78/40b4c6_e0b3_cover@2x-dom-krosnienski-nadole.webp",
+    "isDirectOwner": true
+  }
+]

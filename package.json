@@ -1,0 +1,21 @@
+{
+  "name": "lokum",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "shared",
+    "scraper",
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace frontend",
+    "build": "npm run build --workspace frontend",
+    "scrape": "npm run scrape --workspace scraper",
+    "test": "vitest run",
+    "typecheck": "npm run typecheck --workspaces --if-present"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.5"
+  }
+}

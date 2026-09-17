@@ -1,0 +1,2643 @@
+[
+  {
+    "id": "otodom-68386832",
+    "source": "otodom",
+    "sourceId": "68386832",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-1800-m2-zabudowana-domem-45-m2-do-remontu-jalowka-ID4CVxq",
+    "propertyType": "house",
+    "title": "DZIAŁKA 1800 m2 zabudowana DOMEM 45 m2 - DO REMONTU - JAŁÓWKA",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Jałówka",
+    "coordinates": {
+      "lat": 53.31636655312389,
+      "lng": 23.13950442369168
+    },
+    "isNearBorder": true,
+    "areaM2": 45,
+    "plotAreaM2": 1800,
+    "currentPrice": 185000,
+    "currentPricePerM2": 4111.11,
+    "initialPrice": 185000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 185000,
+        "pricePerM2": 4111.11
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T19:40:45.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inp6YjlwNnAzNTUxZjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pjBLgn_kDACjwOYb61asRtgYvl_rZ6ODZWH-oGMJ0rY/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68304665",
+    "source": "otodom",
+    "sourceId": "68304665",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-151-m-przy-zalewie-siemiatyckim-trzy-wejscia-cicha-slepa-ulica-ID4CBa9",
+    "propertyType": "house",
+    "title": "Dom 151 m² przy Zalewie Siemiatyckim trzy wejścia, cicha ślepa ulica.",
+    "voivodeship": "podlaskie",
+    "county": "siemiatycki",
+    "city": "Siemiatycze",
+    "street": "ul. Stanisława Moniuszki",
+    "coordinates": {
+      "lat": 52.98819142015353,
+      "lng": 22.977129500945452
+    },
+    "isNearBorder": true,
+    "areaM2": 151,
+    "plotAreaM2": 662,
+    "currentPrice": 575000,
+    "currentPricePerM2": 3807.95,
+    "initialPrice": 575000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 575000,
+        "pricePerM2": 3807.95
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T19:25:45.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZnbTcxaXJzMDdzbjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.XQBClveL73MoYQszNjOVpbkd9OORUktSbu9ypgdatvU/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68406062",
+    "source": "otodom",
+    "sourceId": "68406062",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/reprezentacyjna-willa-bialystok-sowlany-ID4D1xA",
+    "propertyType": "house",
+    "title": "! REPREZENTACYJNA WILLA BIAŁYSTOK SOWLANY !",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Sowlany",
+    "coordinates": {
+      "lat": 53.28610111086547,
+      "lng": 23.04204484772592
+    },
+    "isNearBorder": true,
+    "areaM2": 197,
+    "plotAreaM2": 716,
+    "currentPrice": 1650000,
+    "currentPricePerM2": 8375.63,
+    "initialPrice": 1650000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1650000,
+        "pricePerM2": 8375.63
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T19:15:46.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZuemd3czlqaHZzZzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.NHZXNUWgQW4ZMXqgyIiqsGmcAC1Zrot1kRPk7_FWBnM/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68405922",
+    "source": "otodom",
+    "sourceId": "68405922",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-z-dzialka-siedlisko-sadowo-gm-dabrowa-bialostocka-ID4D1wk",
+    "propertyType": "house",
+    "title": "Dom z działką, siedlisko. Sadowo gm. Dąbrowa Białostocka",
+    "voivodeship": "podlaskie",
+    "county": "sokólski",
+    "city": "Sadowo",
+    "coordinates": {
+      "lat": 53.23996383823637,
+      "lng": 23.02180787906905
+    },
+    "isNearBorder": true,
+    "areaM2": 80,
+    "plotAreaM2": 4000,
+    "currentPrice": 170000,
+    "currentPricePerM2": 2125,
+    "initialPrice": 170000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 170000,
+        "pricePerM2": 2125
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T18:17:48.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFicTN2cjhtaGVqbTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-IuxV6jTV9HNs0zkbNkuABnrG6JNMfl1GfEZuO_SoUM/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68432212",
+    "source": "otodom",
+    "sourceId": "68432212",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-15min-od-bialegostoku-rzepniki-wysoki-standard-ID4D8lm",
+    "propertyType": "house",
+    "title": "Dom 15min od Białegostoku - Rzepniki wysoki standard",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Rzepniki",
+    "coordinates": {
+      "lat": 53.0877192461657,
+      "lng": 22.97684487608685
+    },
+    "isNearBorder": true,
+    "areaM2": 144,
+    "plotAreaM2": 2200,
+    "currentPrice": 1500000,
+    "currentPricePerM2": 10416.67,
+    "initialPrice": 1500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1500000,
+        "pricePerM2": 10416.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T17:27:18.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQwcDNvcGo2NGdvci1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.M_PSaPlOLhV0-hKDHytAIuZ6abp6xuZ65stvjdXP8fg/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68432136",
+    "source": "otodom",
+    "sourceId": "68432136",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowa-lokalizacja-dom-w-centrum-suprasla-ID4D8k8",
+    "propertyType": "house",
+    "title": "Wyjątkowa lokalizacja - dom w centrum Supraśla",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Supraśl",
+    "street": "11 Listopada",
+    "coordinates": {
+      "lat": 53.3117202749772,
+      "lng": 23.21862029953359
+    },
+    "isNearBorder": true,
+    "areaM2": 124.5,
+    "plotAreaM2": 789,
+    "currentPrice": 1200000,
+    "currentPricePerM2": 9638.55,
+    "initialPrice": 1200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1200000,
+        "pricePerM2": 9638.55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T16:53:49.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE3MWR6MTI3cW05bjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yXy8dZTu04dVUHxtu46hI7w11PnOb7oUoTXSOxlyfHc/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67831424",
+    "source": "otodom",
+    "sourceId": "67831424",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/odbierz-klucze-juz-w-pazdzierniku-ID4AC3e",
+    "propertyType": "house",
+    "title": "Odbierz klucze już w październiku!",
+    "voivodeship": "podlaskie",
+    "city": "Białystok",
+    "coordinates": {
+      "lat": 53.12664286931393,
+      "lng": 23.325475054114765
+    },
+    "isNearBorder": false,
+    "areaM2": 91.3,
+    "plotAreaM2": 250,
+    "currentPrice": 619900,
+    "currentPricePerM2": 6789.7,
+    "initialPrice": 619900,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 619900,
+        "pricePerM2": 6789.7
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T16:40:19.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFrdHkwaDE3NGJzNzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.X4JGTHhpjPBnXtppZFrTRIgPDY5KRmSvqzaFIVG0dCE/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68432070",
+    "source": "otodom",
+    "sourceId": "68432070",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-w-zabudowie-szeregowej-ID4D8j4",
+    "propertyType": "house",
+    "title": "Dom w zabudowie szeregowej",
+    "voivodeship": "podlaskie",
+    "city": "Suwałki",
+    "coordinates": {
+      "lat": 52.98958674128155,
+      "lng": 23.02854931250203
+    },
+    "isNearBorder": false,
+    "areaM2": 116.42,
+    "plotAreaM2": 156,
+    "currentPrice": 699000,
+    "currentPricePerM2": 6004.12,
+    "initialPrice": 699000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 699000,
+        "pricePerM2": 6004.12
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T16:37:20.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRnMTBscnYxam9lMi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.xygRsEL8PON6VS4WhBa6cXkla8rPCnJAcLJCfvD0UTs/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68375595",
+    "source": "otodom",
+    "sourceId": "68375595",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/klimatyczna-rezydencja-wsrod-podlskich-lak-gmina-narew-ID4CTCb",
+    "propertyType": "house",
+    "title": "Klimatyczna rezydencja wśród podlskich łąk - gmina Narew.",
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "city": "Narew",
+    "street": "Gnilica 28",
+    "coordinates": {
+      "lat": 53.32408916327411,
+      "lng": 23.17802438377136
+    },
+    "isNearBorder": true,
+    "areaM2": 211,
+    "plotAreaM2": 800,
+    "currentPrice": 1290000,
+    "currentPricePerM2": 6113.74,
+    "initialPrice": 1290000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1290000,
+        "pricePerM2": 6113.74
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T15:47:58.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFiN3NkdTFzZ2MxZDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.eDICX00xHqk344yqCo8vtj-FScm96Q_jaA3Z_LG7wLg/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68431418",
+    "source": "otodom",
+    "sourceId": "68431418",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/linia-brzegowa-serwy-domy-280-m2-i-180-m2-ID4D88y",
+    "propertyType": "house",
+    "title": "Linia brzegowa | Serwy | Domy 280 m2 i 180 m2",
+    "voivodeship": "podlaskie",
+    "county": "augustowski",
+    "city": "Serwy",
+    "coordinates": {
+      "lat": 53.17824694079181,
+      "lng": 23.18459726091316
+    },
+    "isNearBorder": true,
+    "areaM2": 280,
+    "plotAreaM2": 3056,
+    "currentPrice": 2050000,
+    "currentPricePerM2": 7321.43,
+    "initialPrice": 2050000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 2050000,
+        "pricePerM2": 7321.43
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T13:45:59.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjF1NmZzbW1pZ2FnZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fT9IMVdjKhBnmztE8cvJpcbf-MrEPRUBEc_iH4SsUWQ/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67329091",
+    "source": "otodom",
+    "sourceId": "67329091",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-w-grabowce-ul-daktylowa-136m2-dzialka-295m2-ID4ywn5",
+    "propertyType": "house",
+    "title": "Dom w Grabówce ul. Daktylowa 136m2 * Działka 295m2",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Sobolewo",
+    "coordinates": {
+      "lat": 53.101805395150066,
+      "lng": 23.275397763764374
+    },
+    "isNearBorder": true,
+    "areaM2": 136.44,
+    "plotAreaM2": 295,
+    "currentPrice": 899000,
+    "currentPricePerM2": 6588.98,
+    "initialPrice": 899000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 899000,
+        "pricePerM2": 6588.98
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:56:17.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImU3bHpyZTZmaGR3eDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VZqeFB9J9zc4gGUb0ezZDqV3zJTA4_bYUNyta-SGaYc/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68431026",
+    "source": "otodom",
+    "sourceId": "68431026",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-w-ksiezynie-sypialnia-bialegostoku-ID4D82e",
+    "propertyType": "house",
+    "title": "Dom w Księżynie –  sypialnia Białegostoku",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Księżyno",
+    "coordinates": {
+      "lat": 53.16614134987759,
+      "lng": 23.163557183846454
+    },
+    "isNearBorder": true,
+    "areaM2": 115.95,
+    "plotAreaM2": 700,
+    "currentPrice": 820000,
+    "currentPricePerM2": 7072.01,
+    "initialPrice": 820000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 820000,
+        "pricePerM2": 7072.01
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:46:15.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVjbnMwNzZ4YjRxMTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tDLcGHKS6afJ41_KKs9bOLMkhymNlLqbuq4ZFpGrrIA/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68422244",
+    "source": "otodom",
+    "sourceId": "68422244",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/stare-podlaskie-siedlisko-w-puszczy-bialowieskiejdrewniany-dom-6000-m-ID4D5KA",
+    "propertyType": "house",
+    "title": "Stare podlaskie siedlisko W Puszczy BiałowieskiejDrewniany dom 6000 m²",
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "city": "Orzeszkowo",
+    "coordinates": {
+      "lat": 52.98441158207275,
+      "lng": 23.21027132767153
+    },
+    "isNearBorder": true,
+    "areaM2": 110,
+    "plotAreaM2": 6000,
+    "currentPrice": 450000,
+    "currentPricePerM2": 4090.91,
+    "initialPrice": 450000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 450000,
+        "pricePerM2": 4090.91
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:22:36.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im12YXZmYmkwNmF2ZzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.11lRSccyg4qbGCjunhrC5FCUlv0zsZYSkjMpi1-oN1U/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68430808",
+    "source": "otodom",
+    "sourceId": "68430808",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/ostatni-dom-w-rafalowce-0-pcc-i-prowizji-ID4D7YI",
+    "propertyType": "house",
+    "title": "Ostatni dom w Rafałówce 0% PCC i prowizji",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Rafałówka",
+    "coordinates": {
+      "lat": 52.99237451633124,
+      "lng": 23.253587323064437
+    },
+    "isNearBorder": true,
+    "areaM2": 106.48,
+    "plotAreaM2": 1085,
+    "currentPrice": 810000,
+    "currentPricePerM2": 7607.06,
+    "initialPrice": 810000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 810000,
+        "pricePerM2": 7607.06
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:16:29.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjMwcGtramY2eWtiMzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YbH_uSHbRE_zbbU5KaD-GOHl-wYrEl7npQLn0etH5qw/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68245406",
+    "source": "otodom",
+    "sourceId": "68245406",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/2-wejsciamozliwosc-dzialalnosci-ID4ClKm",
+    "propertyType": "house",
+    "title": "*** 2 Wejścia***możliwość Działalnośći***",
+    "voivodeship": "podlaskie",
+    "city": "Białystok",
+    "street": "Zuchów",
+    "coordinates": {
+      "lat": 53.21837260970912,
+      "lng": 23.355621411391436
+    },
+    "isNearBorder": false,
+    "areaM2": 235,
+    "plotAreaM2": 679,
+    "currentPrice": 1280000,
+    "currentPricePerM2": 5446.81,
+    "initialPrice": 1280000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1280000,
+        "pricePerM2": 5446.81
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T11:51:21.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjliNmZ5MGF0c3lvdzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.i5Q2cmnIKZj6qHfm6iIJatbbHcOkqzeUtBgkpa-G4Og/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68326063",
+    "source": "otodom",
+    "sourceId": "68326063",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gdzie-natura-zyje-w-harmonii-z-toba-ID4CGJh",
+    "propertyType": "house",
+    "title": "*gdzie Natura ŻYJE W Harmonii Z TOBĄ...*",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Markowszczyzna",
+    "coordinates": {
+      "lat": 52.97642511201522,
+      "lng": 23.055538436680155
+    },
+    "isNearBorder": true,
+    "areaM2": 291.8,
+    "plotAreaM2": 1896,
+    "currentPrice": 4650000,
+    "currentPricePerM2": 15935.57,
+    "initialPrice": 4650000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 4650000,
+        "pricePerM2": 15935.57
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T11:41:42.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJlaW9yeTZ2dW1uaTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Jd8RSO-KM_Aq9I2VnQfO32tU4hXmB93HzL42ydmsPyA/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68343524",
+    "source": "otodom",
+    "sourceId": "68343524",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-wolnostojacy-z-zagospodarowanym-ogrodem-ID4CLgU",
+    "propertyType": "house",
+    "title": "Dom wolnostojący z zagospodarowanym ogrodem",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Nowodworce",
+    "street": "Niemeńska 7",
+    "coordinates": {
+      "lat": 53.16659103123624,
+      "lng": 23.179688774071707
+    },
+    "isNearBorder": true,
+    "areaM2": 264.8,
+    "plotAreaM2": 1014,
+    "currentPrice": 1950000,
+    "currentPricePerM2": 7364.05,
+    "initialPrice": 1950000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1950000,
+        "pricePerM2": 7364.05
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T11:25:35.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA3aTJzOWIwbjlxNTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5PHQ4ZbK38mvnGSsnfKSOmE2X3AHBixvqHhOdUXwGSQ/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67649109",
+    "source": "otodom",
+    "sourceId": "67649109",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/nowa-gotowa-szeregowka-w-grabowce-dostepne-od-zaraz-ID4zQCF",
+    "propertyType": "house",
+    "title": "NOWA Gotowa Szeregówka w Grabówce DOSTĘPNE OD ZARAZ!",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Grabówka",
+    "coordinates": {
+      "lat": 52.95840875695282,
+      "lng": 23.120043160414035
+    },
+    "isNearBorder": true,
+    "areaM2": 90,
+    "plotAreaM2": 120,
+    "currentPrice": 859900,
+    "currentPricePerM2": 9554.44,
+    "initialPrice": 859900,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 859900,
+        "pricePerM2": 9554.44
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T10:21:32.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx5bjZ4NjEzbnZweTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.sfChTEWp8g2c6lesX0hzigXrjV6tbMP12VhU4fh--PM/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68403061",
+    "source": "otodom",
+    "sourceId": "68403061",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/domy-klepacze-ID4D0Lb",
+    "propertyType": "house",
+    "title": "Domy Klepacze.",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Klepacze",
+    "street": "ul. Łąkowa",
+    "coordinates": {
+      "lat": 53.3276333308111,
+      "lng": 23.164596007178755
+    },
+    "isNearBorder": true,
+    "areaM2": 122,
+    "plotAreaM2": 250,
+    "currentPrice": 925000,
+    "currentPricePerM2": 7581.97,
+    "initialPrice": 925000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 925000,
+        "pricePerM2": 7581.97
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T09:16:29.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhvaThtdDhrdGtjdjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.T6pTd_QuU2ADW_DcHUTFbYrZzSB9byuTlTubQBPWx5o/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68179661",
+    "source": "otodom",
+    "sourceId": "68179661",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowy-i-elegancki-dom-wolnostojacy-ze-schronem-i-rzeczka-ID4C4DX",
+    "propertyType": "house",
+    "title": "Wyjątkowy i elegancki dom wolnostojący ze schronem i rzeczką",
+    "voivodeship": "podlaskie",
+    "county": "augustowski",
+    "city": "Szczebra",
+    "coordinates": {
+      "lat": 53.07296072220137,
+      "lng": 23.017655029778748
+    },
+    "isNearBorder": true,
+    "areaM2": 210,
+    "plotAreaM2": 4000,
+    "currentPrice": 2140000,
+    "currentPricePerM2": 10190.48,
+    "initialPrice": 2140000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 2140000,
+        "pricePerM2": 10190.48
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T08:56:52.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im91d3R4OXJsZ25zODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.QAznY6JZcAF1NibtiY3Ml9t1FNrgn4OvPyxM25qkvT8/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68429355",
+    "source": "otodom",
+    "sourceId": "68429355",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-letniskowy-na-sprzedaz-z-duza-dzialka-ID4D7Bh",
+    "propertyType": "house",
+    "title": "Dom letniskowy na sprzedaż z dużą działką.",
+    "voivodeship": "podlaskie",
+    "county": "sejneński",
+    "city": "Stabieńszczyzna",
+    "coordinates": {
+      "lat": 53.12873356968493,
+      "lng": 23.368744287006244
+    },
+    "isNearBorder": true,
+    "areaM2": 35,
+    "plotAreaM2": 1180,
+    "currentPrice": 220000,
+    "currentPricePerM2": 6285.71,
+    "initialPrice": 220000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 220000,
+        "pricePerM2": 6285.71
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T08:53:47.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpiaDRveXA1NnM0OS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.jXCUpCVmnF1mPYKuc82sDkEuYmk1yJJtwyiRUV0MMtg/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67187096",
+    "source": "otodom",
+    "sourceId": "67187096",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-208-56m2-budynek-gospodarczy-130-6m2-dzialka-1802m2-zambrow-ID4xUqQ",
+    "propertyType": "house",
+    "title": "Dom 208,56m2+budynek gospodarczy 130,6m2; działka 1802m2; Zambrów",
+    "voivodeship": "podlaskie",
+    "county": "zambrowski",
+    "city": "Zambrów",
+    "street": "ul. Poświątne",
+    "coordinates": {
+      "lat": 53.12291533390833,
+      "lng": 23.01489683075376
+    },
+    "isNearBorder": false,
+    "areaM2": 208.56,
+    "plotAreaM2": 1802,
+    "currentPrice": 735000,
+    "currentPricePerM2": 3524.17,
+    "initialPrice": 735000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 735000,
+        "pricePerM2": 3524.17
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T08:14:34.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJnb3g5YXl4MHRyci1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.A1EJyOOYHHVymS9O-OjirMnFwv-W889c29JUkgSPuJc/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68387591",
+    "source": "otodom",
+    "sourceId": "68387591",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-zambrow-ul-zytnia-ID4CVJF",
+    "propertyType": "house",
+    "title": "Dom Zambrów ul. Żytnia",
+    "voivodeship": "podlaskie",
+    "county": "zambrowski",
+    "city": "Zambrów",
+    "street": "ul. Żytnia",
+    "coordinates": {
+      "lat": 53.172644919962224,
+      "lng": 23.05383101809979
+    },
+    "isNearBorder": false,
+    "areaM2": 200,
+    "plotAreaM2": 691,
+    "currentPrice": 749000,
+    "currentPricePerM2": 3745,
+    "initialPrice": 749000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 749000,
+        "pricePerM2": 3745
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T08:13:07.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im01cG5qanp1eHA3OS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.rDdB8bjc5KhrrWB_4omkCPBI4zdum47cyOKHuXXCgSg/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68152845",
+    "source": "otodom",
+    "sourceId": "68152845",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-50m2-budynek-gospodarczy-z-garazem-56m2-dzialka-319m2-zambrow-ID4BXFr",
+    "propertyType": "house",
+    "title": "Dom 50m2+budynek gospodarczy z garażem 56m2; działka 319m2; Zambrów",
+    "voivodeship": "podlaskie",
+    "county": "zambrowski",
+    "city": "Zambrów",
+    "street": "ul. Łąkowa",
+    "coordinates": {
+      "lat": 52.97850919236572,
+      "lng": 23.06531403853029
+    },
+    "isNearBorder": false,
+    "areaM2": 50,
+    "plotAreaM2": 299000,
+    "currentPrice": 299000,
+    "currentPricePerM2": 5980,
+    "initialPrice": 299000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 299000,
+        "pricePerM2": 5980
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T08:13:07.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVnd3I5ODI3bWppazEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cVB5429IbOkAcZbQ4WKz5BsjO_s9e_oQnMECGML6h_g/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68396395",
+    "source": "otodom",
+    "sourceId": "68396395",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-zubaczach-dom-drewniany-10-cmotulina-puszczy-bialowieskiej-ID4CZ1F",
+    "propertyType": "house",
+    "title": "SIEDLISKO W ZUBACZACH DOM DREWNIANY 10 cmOTULINA PUSZCZY BIAŁOWIESKIEJ",
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "city": "Zubacze",
+    "coordinates": {
+      "lat": 53.00634023963756,
+      "lng": 23.116604512849975
+    },
+    "isNearBorder": true,
+    "areaM2": 60,
+    "plotAreaM2": 2400,
+    "currentPrice": 175000,
+    "currentPricePerM2": 2916.67,
+    "initialPrice": 175000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 175000,
+        "pricePerM2": 2916.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T08:07:56.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inl3cnAwcjM4dDc4ejEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5zVHmIGBD2Zqf2u7ZStYSZ-gQbv4zIgIL0PCKz4l2ok/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68381456",
+    "source": "otodom",
+    "sourceId": "68381456",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/twoj-nowy-dom-w-lomzy-ID4CW8I",
+    "propertyType": "house",
+    "title": "Twój nowy dom w Łomży",
+    "voivodeship": "podlaskie",
+    "city": "Łomża",
+    "street": "ul. Krucza",
+    "coordinates": {
+      "lat": 52.93355855194042,
+      "lng": 23.24557912397082
+    },
+    "isNearBorder": false,
+    "areaM2": 130,
+    "plotAreaM2": 555,
+    "currentPrice": 829000,
+    "currentPricePerM2": 6376.92,
+    "initialPrice": 829000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 829000,
+        "pricePerM2": 6376.92
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T07:49:14.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im44ZHRnNnNjdWlrLUVDT1NZU1RFTSIsInciOlt7ImZuIjoiZW52ZnFxZTFheTRrMS1BUEwiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.pwDWUR1QwrdqK7u7ocgXmNCO3qyPPnlTcoFRaoWrmNM/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68375553",
+    "source": "otodom",
+    "sourceId": "68375553",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-wizna-ID4CTBw",
+    "propertyType": "house",
+    "title": "Dom Wizna",
+    "voivodeship": "podlaskie",
+    "county": "łomżyński",
+    "city": "Wizna",
+    "street": "pl. kpt. Władysława Raginisa",
+    "coordinates": {
+      "lat": 53.08677874684341,
+      "lng": 23.32562149972104
+    },
+    "isNearBorder": false,
+    "areaM2": 140,
+    "plotAreaM2": 350,
+    "currentPrice": 499000,
+    "currentPricePerM2": 3564.29,
+    "initialPrice": 499000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 499000,
+        "pricePerM2": 3564.29
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T07:48:16.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRhaDk4bHM2d3JubDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.C63geDAk3t4Tx5vxzLJ9eRNJGTU8lo2EQEGO22hgCsk/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68381457",
+    "source": "otodom",
+    "sourceId": "68381457",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/twoj-nowy-dom-blisko-lomzy-stare-kupiski-ID4CW8J",
+    "propertyType": "house",
+    "title": "Twój nowy dom blisko Łomży - Stare Kupiski",
+    "voivodeship": "podlaskie",
+    "county": "łomżyński",
+    "city": "Stare Kupiski",
+    "coordinates": {
+      "lat": 52.9953085938882,
+      "lng": 23.07118955279986
+    },
+    "isNearBorder": false,
+    "areaM2": 81.18,
+    "plotAreaM2": 490,
+    "currentPrice": 520000,
+    "currentPricePerM2": 6405.52,
+    "initialPrice": 520000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 520000,
+        "pricePerM2": 6405.52
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T07:48:13.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImptdTA3MzYza3NzYS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ZF-PHvvceA3pP4SNWu1UuQtNjtgKlqOETiLCgrWlLU0/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68375545",
+    "source": "otodom",
+    "sourceId": "68375545",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-w-odleglosci-10-km-od-lomzy-ID4CTBn",
+    "propertyType": "house",
+    "title": "Dom w odległości 10 km od Łomży",
+    "voivodeship": "podlaskie",
+    "county": "łomżyński",
+    "city": "Siemień-Rowy",
+    "coordinates": {
+      "lat": 53.050943543179415,
+      "lng": 23.335844633745428
+    },
+    "isNearBorder": false,
+    "areaM2": 92.2,
+    "plotAreaM2": 721,
+    "currentPrice": 299000,
+    "currentPricePerM2": 3242.95,
+    "initialPrice": 299000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 299000,
+        "pricePerM2": 3242.95
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T07:45:36.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imhub3FidzNtbHZsMi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.EUNy_dyzOMucP7OnrrWhEd5e54C3-jDzs2J-YE1aPXI/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68429024",
+    "source": "otodom",
+    "sourceId": "68429024",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dojlidy-gorne-blizniaki-stan-deweloperski-ID4D7wV",
+    "propertyType": "house",
+    "title": "Dojlidy Górne - bliźniaki - stan deweloperski",
+    "voivodeship": "podlaskie",
+    "city": "Białystok",
+    "street": "Arnikowa",
+    "coordinates": {
+      "lat": 53.04821039765327,
+      "lng": 22.991381132983427
+    },
+    "isNearBorder": false,
+    "areaM2": 131.3,
+    "plotAreaM2": 279,
+    "currentPrice": 960000,
+    "currentPricePerM2": 7311.5,
+    "initialPrice": 960000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 960000,
+        "pricePerM2": 7311.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T07:36:09.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZuZXJrNm5weTA1bzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.i0VXg5Jj4ucaf-m2XM9GcWNkE2HMwwkCsfFSynpjNmc/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-65212701",
+    "source": "otodom",
+    "sourceId": "65212701",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-z-domem-i-zabudowaniami-gospodarczymi-ID4pCNL",
+    "propertyType": "house",
+    "title": "Działka budowlana z domem i zabudowaniami gospodarczymi",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Barszczówka",
+    "coordinates": {
+      "lat": 52.97048863220609,
+      "lng": 23.071695419295118
+    },
+    "isNearBorder": true,
+    "areaM2": 95,
+    "plotAreaM2": 1920,
+    "currentPrice": 439000,
+    "currentPricePerM2": 4621.05,
+    "initialPrice": 439000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 439000,
+        "pricePerM2": 4621.05
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T07:31:07.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjR1bmhxdzl3MjM2azMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.IJsvw8Aa9myVT0BiVSDUHLNGRI9zqj_zu2RwLVbQY4I/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-66164338",
+    "source": "otodom",
+    "sourceId": "66164338",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/syndyk-sprzeda-ID4tCmK",
+    "propertyType": "house",
+    "title": "syndyk sprzeda",
+    "voivodeship": "podlaskie",
+    "county": "sokólski",
+    "city": "Sokółka",
+    "street": "ul. Targowa",
+    "coordinates": {
+      "lat": 53.08929193694562,
+      "lng": 23.230429807834266
+    },
+    "isNearBorder": true,
+    "areaM2": 157.64,
+    "plotAreaM2": 1425,
+    "currentPrice": 135907.2,
+    "currentPricePerM2": 862.14,
+    "initialPrice": 135907.2,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 135907.2,
+        "pricePerM2": 862.14
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T07:21:33.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68340232",
+    "source": "otodom",
+    "sourceId": "68340232",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-2026r-ulica-prusa-ID4CKpO",
+    "propertyType": "house",
+    "title": "Dom 2026r. Ulica Prusa.",
+    "voivodeship": "podlaskie",
+    "city": "Suwałki",
+    "street": "Prusa",
+    "coordinates": {
+      "lat": 53.184265907780386,
+      "lng": 23.30239054684353
+    },
+    "isNearBorder": false,
+    "areaM2": 185,
+    "plotAreaM2": 790,
+    "currentPrice": 699000,
+    "currentPricePerM2": 3778.38,
+    "initialPrice": 699000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 699000,
+        "pricePerM2": 3778.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T06:50:26.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRoZTh4c3VhamY4ZzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LMVBu8CvbGaceMY4DQJveFfpOeR3PXrT1myieIxs7OI/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68330994",
+    "source": "otodom",
+    "sourceId": "68330994",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/nowoczesny-dom-os-zastawie-ul-chorwacka-ID4CI0O",
+    "propertyType": "house",
+    "title": "Nowoczesny dom os. Zastawie, ul. Chorwacka.",
+    "voivodeship": "podlaskie",
+    "city": "Suwałki",
+    "coordinates": {
+      "lat": 53.11637951887035,
+      "lng": 23.116084412118393
+    },
+    "isNearBorder": false,
+    "areaM2": 178.55,
+    "plotAreaM2": 810,
+    "currentPrice": 785000,
+    "currentPricePerM2": 4396.53,
+    "initialPrice": 785000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 785000,
+        "pricePerM2": 4396.53
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T06:49:54.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJzdHVjMndldDFtbTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LQT59WVa95OLUSrw2S13EJnVEETDR1Sed0U6zuGPY4o/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68428739",
+    "source": "otodom",
+    "sourceId": "68428739",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-dwupoziomowy-ID4D7rl",
+    "propertyType": "house",
+    "title": "Dom dwupoziomowy",
+    "voivodeship": "podlaskie",
+    "county": "moniecki",
+    "city": "Knyszyn",
+    "coordinates": {
+      "lat": 53.28321782089676,
+      "lng": 23.114532540533954
+    },
+    "isNearBorder": false,
+    "areaM2": 240,
+    "plotAreaM2": 1127,
+    "currentPrice": 490000,
+    "currentPricePerM2": 2041.67,
+    "initialPrice": 490000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 490000,
+        "pricePerM2": 2041.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T06:33:37.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhpM3h5dW85cGR0cTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.joNT3s6Sj59ASnZ0hDeYbvmxY0n26ClvnAxp4BL435Y/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67921757",
+    "source": "otodom",
+    "sourceId": "67921757",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/wolnostojacy-ponadczasowy-dom-nad-czarna-hancza-centrum-suwalk-ID4AZyd",
+    "propertyType": "house",
+    "title": "Wolnostojący, ponadczasowy dom nad Czarną Hańczą - Centrum Suwałk",
+    "voivodeship": "podlaskie",
+    "city": "Suwałki",
+    "coordinates": {
+      "lat": 53.15147850950801,
+      "lng": 23.24558090934788
+    },
+    "isNearBorder": false,
+    "areaM2": 234.6,
+    "plotAreaM2": 581,
+    "currentPrice": 1190000,
+    "currentPricePerM2": 5072.46,
+    "initialPrice": 1190000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1190000,
+        "pricePerM2": 5072.46
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T05:45:30.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im03aTZ3b3N4OGtwZTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UDaE9yfOCHMsg8eR0bvQRq2JWCCMnx7CX9qAmKby9D0/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-96838683200067",
+    "source": "otodom",
+    "sourceId": "96838683200067",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-1800-m2-zabudowana-domem-45-m2-do-remontu-jalowka-ID4CVxq",
+    "propertyType": "house",
+    "title": "DZIAŁKA 1800 m2 zabudowana DOMEM 45 m2 - DO REMONTU - JAŁÓWKA",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Jałówka",
+    "coordinates": {
+      "lat": 53.19023756987555,
+      "lng": 23.05442083898316
+    },
+    "isNearBorder": true,
+    "areaM2": 45,
+    "plotAreaM2": 1800,
+    "currentPrice": 185000,
+    "currentPricePerM2": 4111.11,
+    "initialPrice": 185000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 185000,
+        "pricePerM2": 4111.11
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "1999-02-28T23:00:01.000Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4179362",
+    "source": "adresowo",
+    "sourceId": "4179362",
+    "sourceUrl": "https://adresowo.pl/o/dom-nowogrod-jankowo-mlodzianowo-ul-glowna-x4h6v3",
+    "propertyType": "house",
+    "title": "Dom — Jankowo-Młodzianowo, ul. Główna 5",
+    "voivodeship": "podlaskie",
+    "city": "Jankowo-Młodzianowo",
+    "street": "ul. Główna 5",
+    "coordinates": {
+      "lat": 53.083499347192124,
+      "lng": 23.03021182720836
+    },
+    "isNearBorder": false,
+    "areaM2": 147,
+    "currentPrice": 420000,
+    "currentPricePerM2": 2857.14,
+    "initialPrice": 420000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 420000,
+        "pricePerM2": 2857.14
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/21/26/3fc5a2_5743_cover@2x-dom-lomzynski-jankowo-mlodzianowo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260854",
+    "source": "adresowo",
+    "sourceId": "4260854",
+    "sourceUrl": "https://adresowo.pl/o/dom-krasnopol-stabienszczyzna-35-m2-k9d3v1",
+    "propertyType": "house",
+    "title": "Dom — Stabieńszczyzna",
+    "voivodeship": "podlaskie",
+    "city": "Stabieńszczyzna",
+    "coordinates": {
+      "lat": 53.12173854061047,
+      "lng": 23.06302443622948
+    },
+    "isNearBorder": false,
+    "areaM2": 35,
+    "currentPrice": 220000,
+    "currentPricePerM2": 6285.71,
+    "initialPrice": 220000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 220000,
+        "pricePerM2": 6285.71
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/14/25/4103f6_7549_cover@2x-dom-sejnenski-stabienszczyzna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260756",
+    "source": "adresowo",
+    "sourceId": "4260756",
+    "sourceUrl": "https://adresowo.pl/o/dom-plaska-serwy-70-m2-m0y7w3",
+    "propertyType": "house",
+    "title": "Dom — Serwy",
+    "voivodeship": "podlaskie",
+    "city": "Serwy",
+    "coordinates": {
+      "lat": 53.100249851670924,
+      "lng": 23.238725370195365
+    },
+    "isNearBorder": false,
+    "areaM2": 70,
+    "currentPrice": 890000,
+    "currentPricePerM2": 12714.29,
+    "initialPrice": 890000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 890000,
+        "pricePerM2": 12714.29
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/10/1d/410394_cdf4_cover@2x-dom-augustowski-serwy.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260164",
+    "source": "adresowo",
+    "sourceId": "4260164",
+    "sourceUrl": "https://adresowo.pl/o/dom-grajewo-os-mlodych-a0d6d1",
+    "propertyType": "house",
+    "title": "Dom — Grajewo, os. Młodych",
+    "voivodeship": "podlaskie",
+    "city": "Grajewo",
+    "street": "os. Młodych",
+    "coordinates": {
+      "lat": 53.00090285292458,
+      "lng": 23.236761798893777
+    },
+    "isNearBorder": false,
+    "areaM2": 180,
+    "currentPrice": 749000,
+    "currentPricePerM2": 4161.11,
+    "initialPrice": 749000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 749000,
+        "pricePerM2": 4161.11
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3d/28/410144_e352_cover@2x-dom-grajewski-grajewo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261576",
+    "source": "adresowo",
+    "sourceId": "4261576",
+    "sourceUrl": "https://adresowo.pl/o/dom-bialystok-53-m2-l9y6z4",
+    "propertyType": "house",
+    "title": "Dom — Białystok, Skorupy",
+    "voivodeship": "podlaskie",
+    "city": "Białystok",
+    "street": "Skorupy",
+    "coordinates": {
+      "lat": 53.16497889030124,
+      "lng": 23.231574490223483
+    },
+    "isNearBorder": false,
+    "areaM2": 53,
+    "currentPrice": 380000,
+    "currentPricePerM2": 7169.81,
+    "initialPrice": 380000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 380000,
+        "pricePerM2": 7169.81
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7e/6e/4106c8_7462_cover@2x-dom-bialystok.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259500",
+    "source": "adresowo",
+    "sourceId": "4259500",
+    "sourceUrl": "https://adresowo.pl/o/dom-bialystok-ul-jacka-m0i4o6",
+    "propertyType": "house",
+    "title": "Dom — Białystok Jaroszówka, ul. Jacka",
+    "voivodeship": "podlaskie",
+    "city": "Białystok Jaroszówka",
+    "street": "ul. Jacka",
+    "coordinates": {
+      "lat": 52.98622930341659,
+      "lng": 23.016391916356323
+    },
+    "isNearBorder": false,
+    "areaM2": 228,
+    "currentPrice": 970000,
+    "currentPricePerM2": 4254.39,
+    "initialPrice": 970000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 970000,
+        "pricePerM2": 4254.39
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4a/71/40feac_c769_cover@2x-dom-bialystok.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4257676",
+    "source": "adresowo",
+    "sourceId": "4257676",
+    "sourceUrl": "https://adresowo.pl/o/dom-grabowka-ul-hortensjowa-f2o3h4",
+    "propertyType": "house",
+    "title": "Dom — Grabówka, ul. Hortensjowa",
+    "voivodeship": "podlaskie",
+    "city": "Grabówka",
+    "street": "ul. Hortensjowa",
+    "coordinates": {
+      "lat": 52.962512423808356,
+      "lng": 23.00221157779377
+    },
+    "isNearBorder": false,
+    "areaM2": 90,
+    "currentPrice": 689000,
+    "currentPricePerM2": 7655.56,
+    "initialPrice": 689000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 689000,
+        "pricePerM2": 7655.56
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/36/6a/40f78c_babf_cover@2x-dom-bialostocki-grabowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4256836",
+    "source": "adresowo",
+    "sourceId": "4256836",
+    "sourceUrl": "https://adresowo.pl/o/dom-suwalki-nowa-wies-168-m2-h1m6s6",
+    "propertyType": "house",
+    "title": "Dom — Nowa Wieś",
+    "voivodeship": "podlaskie",
+    "city": "Nowa Wieś",
+    "coordinates": {
+      "lat": 53.05318273283327,
+      "lng": 23.170357101793492
+    },
+    "isNearBorder": false,
+    "areaM2": 168,
+    "currentPrice": 1380000,
+    "currentPricePerM2": 8214.29,
+    "initialPrice": 1380000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1380000,
+        "pricePerM2": 8214.29
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/52/3e/40f444_d39e_cover@2x-dom-suwalski-nowa-wies.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4256814",
+    "source": "adresowo",
+    "sourceId": "4256814",
+    "sourceUrl": "https://adresowo.pl/o/dom-hajnowka-lipiny-95-m2-b3l3e6",
+    "propertyType": "house",
+    "title": "Dom — Lipiny",
+    "voivodeship": "podlaskie",
+    "city": "Lipiny",
+    "coordinates": {
+      "lat": 53.1648946552353,
+      "lng": 23.15859626304335
+    },
+    "isNearBorder": false,
+    "areaM2": 95,
+    "currentPrice": 480000,
+    "currentPricePerM2": 5052.63,
+    "initialPrice": 480000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 480000,
+        "pricePerM2": 5052.63
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7c/4e/40f42e_6e0c_cover@2x-dom-hajnowski-lipiny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259496",
+    "source": "adresowo",
+    "sourceId": "4259496",
+    "sourceUrl": "https://adresowo.pl/o/dom-sokolka-ul-grodzienska-x9a2q9",
+    "propertyType": "house",
+    "title": "Dom — Sokółka, ul. Grodzieńska 6B",
+    "voivodeship": "podlaskie",
+    "city": "Sokółka",
+    "street": "ul. Grodzieńska 6B",
+    "coordinates": {
+      "lat": 53.2930490727438,
+      "lng": 23.335972654099123
+    },
+    "isNearBorder": false,
+    "areaM2": 334,
+    "currentPrice": 1000000,
+    "currentPricePerM2": 2994.01,
+    "initialPrice": 1000000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1000000,
+        "pricePerM2": 2994.01
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/65/21/40fea8_3360_cover@2x-dom-sokolski-sokolka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259488",
+    "source": "adresowo",
+    "sourceId": "4259488",
+    "sourceUrl": "https://adresowo.pl/o/dom-lomza-stare-kupiski-ul-dworna-x5g4s5",
+    "propertyType": "house",
+    "title": "Dom — Stare Kupiski, ul. Dworna",
+    "voivodeship": "podlaskie",
+    "city": "Stare Kupiski",
+    "street": "ul. Dworna",
+    "coordinates": {
+      "lat": 53.246769715761005,
+      "lng": 23.213154133388954
+    },
+    "isNearBorder": false,
+    "areaM2": 136,
+    "currentPrice": 429000,
+    "currentPricePerM2": 3154.41,
+    "initialPrice": 429000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 429000,
+        "pricePerM2": 3154.41
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/45/64/40fea0_7f78_cover@2x-dom-lomzynski-stare-kupiski.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4256056",
+    "source": "adresowo",
+    "sourceId": "4256056",
+    "sourceUrl": "https://adresowo.pl/o/dom-lapy-ul-gen-maczka-g2x5b5",
+    "propertyType": "house",
+    "title": "Dom — Łapy, ul. gen. Maczka",
+    "voivodeship": "podlaskie",
+    "city": "Łapy",
+    "street": "ul. gen. Maczka",
+    "coordinates": {
+      "lat": 52.975093005174514,
+      "lng": 23.21760385645195
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "currentPrice": 880000,
+    "currentPricePerM2": 5866.67,
+    "initialPrice": 880000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 880000,
+        "pricePerM2": 5866.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/26/74/40f138_4018_cover@2x-dom-bialostocki-lapy.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4254614",
+    "source": "adresowo",
+    "sourceId": "4254614",
+    "sourceUrl": "https://adresowo.pl/o/dom-janow-rudawka-120-m2-r4f6a7",
+    "propertyType": "house",
+    "title": "Dom — Rudawka",
+    "voivodeship": "podlaskie",
+    "city": "Rudawka",
+    "coordinates": {
+      "lat": 53.24527079236819,
+      "lng": 23.16831267477573
+    },
+    "isNearBorder": false,
+    "areaM2": 120,
+    "currentPrice": 349000,
+    "currentPricePerM2": 2908.33,
+    "initialPrice": 349000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 349000,
+        "pricePerM2": 2908.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/23/7a/40eb96_f2b4_cover@2x-dom-sokolski-rudawka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4253496",
+    "source": "adresowo",
+    "sourceId": "4253496",
+    "sourceUrl": "https://adresowo.pl/o/dom-kolaki-koscielne-czachy-kolaki-70-m2-p0w5g8",
+    "propertyType": "house",
+    "title": "Dom — Czachy-Kołaki",
+    "voivodeship": "podlaskie",
+    "city": "Czachy-Kołaki",
+    "coordinates": {
+      "lat": 53.18463358001689,
+      "lng": 23.036942917247174
+    },
+    "isNearBorder": false,
+    "areaM2": 70,
+    "currentPrice": 425000,
+    "currentPricePerM2": 6071.43,
+    "initialPrice": 425000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 425000,
+        "pricePerM2": 6071.43
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6d/70/40e738_f80e_cover@2x-dom-zambrowski-czachy-kolaki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259486",
+    "source": "adresowo",
+    "sourceId": "4259486",
+    "sourceUrl": "https://adresowo.pl/o/dom-grabowka-138-m2-m3n6n5",
+    "propertyType": "house",
+    "title": "Dom — Grabówka",
+    "voivodeship": "podlaskie",
+    "city": "Grabówka",
+    "coordinates": {
+      "lat": 53.284896943418254,
+      "lng": 23.031114435511515
+    },
+    "isNearBorder": false,
+    "areaM2": 138,
+    "currentPrice": 550000,
+    "currentPricePerM2": 3985.51,
+    "initialPrice": 550000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 550000,
+        "pricePerM2": 3985.51
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/71/62/40fe9e_b654_cover@2x-dom-bialostocki-grabowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259480",
+    "source": "adresowo",
+    "sourceId": "4259480",
+    "sourceUrl": "https://adresowo.pl/o/dom-lomza-ul-jesionowa-i4k3s8",
+    "propertyType": "house",
+    "title": "Dom — Łomża, ul. Jesionowa",
+    "voivodeship": "podlaskie",
+    "city": "Łomża",
+    "street": "ul. Jesionowa",
+    "coordinates": {
+      "lat": 53.221735654248214,
+      "lng": 23.3380012663136
+    },
+    "isNearBorder": false,
+    "areaM2": 425,
+    "currentPrice": 1050000,
+    "currentPricePerM2": 2470.59,
+    "initialPrice": 1050000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1050000,
+        "pricePerM2": 2470.59
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3c/48/40fe98_f6a7_cover@2x-dom-lomza.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4253172",
+    "source": "adresowo",
+    "sourceId": "4253172",
+    "sourceUrl": "https://adresowo.pl/o/dom-kuznica-ul-adama-mickiewicza-y1e1a6",
+    "propertyType": "house",
+    "title": "Dom — Kuźnica, ul. Adama Mickiewicza",
+    "voivodeship": "podlaskie",
+    "city": "Kuźnica",
+    "street": "ul. Adama Mickiewicza",
+    "coordinates": {
+      "lat": 53.14671017549426,
+      "lng": 23.043940764268207
+    },
+    "isNearBorder": false,
+    "areaM2": 74,
+    "currentPrice": 290000,
+    "currentPricePerM2": 3918.92,
+    "initialPrice": 290000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 290000,
+        "pricePerM2": 3918.92
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/76/48/40e5f4_b621_cover@2x-dom-sokolski-kuznica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4250518",
+    "source": "adresowo",
+    "sourceId": "4250518",
+    "sourceUrl": "https://adresowo.pl/o/dom-czarna-bialostocka-ul-polna-k8z3x3",
+    "propertyType": "house",
+    "title": "Dom — Czarna Białostocka, ul. Polna",
+    "voivodeship": "podlaskie",
+    "city": "Czarna Białostocka",
+    "street": "ul. Polna",
+    "coordinates": {
+      "lat": 53.23867855618846,
+      "lng": 23.007773988375494
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "currentPrice": 350000,
+    "currentPricePerM2": 3500,
+    "initialPrice": 350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 350000,
+        "pricePerM2": 3500
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7d/3f/40db96_feff_cover@2x-dom-bialostocki-czarna-bialostocka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4250226",
+    "source": "adresowo",
+    "sourceId": "4250226",
+    "sourceUrl": "https://adresowo.pl/o/dom-grabowka-zascianki-157-m2-h1p2z9",
+    "propertyType": "house",
+    "title": "Dom — Zaścianki",
+    "voivodeship": "podlaskie",
+    "city": "Zaścianki",
+    "coordinates": {
+      "lat": 53.08500127454721,
+      "lng": 23.215124782031026
+    },
+    "isNearBorder": false,
+    "areaM2": 157,
+    "currentPrice": 1150000,
+    "currentPricePerM2": 7324.84,
+    "initialPrice": 1150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1150000,
+        "pricePerM2": 7324.84
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/75/62/40da72_d519_cover@2x-dom-bialostocki-zascianki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259478",
+    "source": "adresowo",
+    "sourceId": "4259478",
+    "sourceUrl": "https://adresowo.pl/o/dom-zabludow-lubniki-57-m2-o0o2c6",
+    "propertyType": "house",
+    "title": "Dom — Łubniki",
+    "voivodeship": "podlaskie",
+    "city": "Łubniki",
+    "coordinates": {
+      "lat": 53.238072309231924,
+      "lng": 23.05548975710287
+    },
+    "isNearBorder": false,
+    "areaM2": 57,
+    "currentPrice": 358000,
+    "currentPricePerM2": 6280.7,
+    "initialPrice": 358000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 358000,
+        "pricePerM2": 6280.7
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/41/50/40fe96_4dde_cover@2x-dom-bialostocki-lubniki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259476",
+    "source": "adresowo",
+    "sourceId": "4259476",
+    "sourceUrl": "https://adresowo.pl/o/dom-wasilkow-studzianki-ul-supraslska-m2q7o3",
+    "propertyType": "house",
+    "title": "Dom — Studzianki, ul. Supraślska",
+    "voivodeship": "podlaskie",
+    "city": "Studzianki",
+    "street": "ul. Supraślska",
+    "coordinates": {
+      "lat": 53.27694264329289,
+      "lng": 23.320465193783054
+    },
+    "isNearBorder": false,
+    "areaM2": 137,
+    "currentPrice": 540000,
+    "currentPricePerM2": 3941.61,
+    "initialPrice": 540000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 540000,
+        "pricePerM2": 3941.61
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/18/56/40fe94_755d_cover@2x-dom-bialostocki-studzianki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4249982",
+    "source": "adresowo",
+    "sourceId": "4249982",
+    "sourceUrl": "https://adresowo.pl/o/dom-lomza-ul-wlokiennicza-r9h3f5",
+    "propertyType": "house",
+    "title": "Dom — Łomża, ul. Włókiennicza",
+    "voivodeship": "podlaskie",
+    "city": "Łomża",
+    "street": "ul. Włókiennicza",
+    "coordinates": {
+      "lat": 53.05436471100377,
+      "lng": 23.172554390258345
+    },
+    "isNearBorder": false,
+    "areaM2": 80,
+    "currentPrice": 930000,
+    "currentPricePerM2": 11625,
+    "initialPrice": 930000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 930000,
+        "pricePerM2": 11625
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/34/1b/40d97e_e7c4_cover@2x-dom-lomza.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4248792",
+    "source": "adresowo",
+    "sourceId": "4248792",
+    "sourceUrl": "https://adresowo.pl/o/dom-wasilkow-nowodworce-ul-dzialkowa-r8c4z4",
+    "propertyType": "house",
+    "title": "Dom — Nowodworce, ul. Działkowa",
+    "voivodeship": "podlaskie",
+    "city": "Nowodworce",
+    "street": "ul. Działkowa",
+    "coordinates": {
+      "lat": 52.96892682185524,
+      "lng": 23.161608786463372
+    },
+    "isNearBorder": false,
+    "areaM2": 214,
+    "plotAreaM2": 1329,
+    "currentPrice": 2130000,
+    "currentPricePerM2": 9953.27,
+    "initialPrice": 2130000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 2130000,
+        "pricePerM2": 9953.27
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/68/1e/40d4d8_b2e8_cover@2x-dom-bialostocki-nowodworce.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4247118",
+    "source": "adresowo",
+    "sourceId": "4247118",
+    "sourceUrl": "https://adresowo.pl/o/dom-narew-krzywiec-100-m2-w2k4c8",
+    "propertyType": "house",
+    "title": "Dom — Krzywiec",
+    "voivodeship": "podlaskie",
+    "city": "Krzywiec",
+    "coordinates": {
+      "lat": 53.23008257847429,
+      "lng": 23.27970930688503
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "currentPrice": 600000,
+    "currentPricePerM2": 6000,
+    "initialPrice": 600000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 600000,
+        "pricePerM2": 6000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/44/44/40ce4e_64ac_cover@2x-dom-hajnowski-krzywiec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259472",
+    "source": "adresowo",
+    "sourceId": "4259472",
+    "sourceUrl": "https://adresowo.pl/o/dom-michalowo-nowosady-68-m2-b5o1d2",
+    "propertyType": "house",
+    "title": "Dom — Nowosady",
+    "voivodeship": "podlaskie",
+    "city": "Nowosady",
+    "coordinates": {
+      "lat": 53.06358438558157,
+      "lng": 23.126779637024715
+    },
+    "isNearBorder": false,
+    "areaM2": 68,
+    "currentPrice": 120000,
+    "currentPricePerM2": 1764.71,
+    "initialPrice": 120000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 120000,
+        "pricePerM2": 1764.71
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/76/21/40fe90_f8c8_cover@2x-dom-bialostocki-nowosady.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259468",
+    "source": "adresowo",
+    "sourceId": "4259468",
+    "sourceUrl": "https://adresowo.pl/o/dom-nowogrod-ptaki-30-m2-x0i4l1",
+    "propertyType": "house",
+    "title": "Dom — Ptaki",
+    "voivodeship": "podlaskie",
+    "city": "Ptaki",
+    "coordinates": {
+      "lat": 53.058088850791925,
+      "lng": 23.27843723072977
+    },
+    "isNearBorder": false,
+    "areaM2": 30,
+    "currentPrice": 89000,
+    "currentPricePerM2": 2966.67,
+    "initialPrice": 89000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 89000,
+        "pricePerM2": 2966.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/17/61/40fe8c_63cc_cover@2x-dom-lomzynski-ptaki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4245962",
+    "source": "adresowo",
+    "sourceId": "4245962",
+    "sourceUrl": "https://adresowo.pl/o/dom-lomza-ul-dworna-p9f8r0",
+    "propertyType": "house",
+    "title": "Dom — Łomża, ul. Dworna",
+    "voivodeship": "podlaskie",
+    "city": "Łomża",
+    "street": "ul. Dworna",
+    "coordinates": {
+      "lat": 53.20248534251631,
+      "lng": 23.318940267044642
+    },
+    "isNearBorder": false,
+    "areaM2": 613,
+    "currentPrice": 1500000,
+    "currentPricePerM2": 2446.98,
+    "initialPrice": 1500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1500000,
+        "pricePerM2": 2446.98
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/64/77/40c9ca_4ab4_cover@2x-dom-lomza.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4244646",
+    "source": "adresowo",
+    "sourceId": "4244646",
+    "sourceUrl": "https://adresowo.pl/o/dom-michalowo-jalowka-44-m2-w7v0t6",
+    "propertyType": "house",
+    "title": "Dom — Jałówka",
+    "voivodeship": "podlaskie",
+    "city": "Jałówka",
+    "coordinates": {
+      "lat": 53.09165424029716,
+      "lng": 23.026684664235972
+    },
+    "isNearBorder": false,
+    "areaM2": 44,
+    "currentPrice": 185000,
+    "currentPricePerM2": 4204.55,
+    "initialPrice": 185000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 185000,
+        "pricePerM2": 4204.55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/70/42/40c4a6_626c_cover@2x-dom-bialostocki-jalowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4243984",
+    "source": "adresowo",
+    "sourceId": "4243984",
+    "sourceUrl": "https://adresowo.pl/o/dom-hajnowka-115-m2-h5s9m2",
+    "propertyType": "house",
+    "title": "Dom — Hajnówka",
+    "voivodeship": "podlaskie",
+    "city": "Hajnówka",
+    "coordinates": {
+      "lat": 53.238697554018245,
+      "lng": 23.05914340886733
+    },
+    "isNearBorder": false,
+    "areaM2": 115,
+    "currentPrice": 600000,
+    "currentPricePerM2": 5217.39,
+    "initialPrice": 600000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 600000,
+        "pricePerM2": 5217.39
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/25/4a/40c210_5d9b_cover@2x-dom-hajnowski-hajnowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259466",
+    "source": "adresowo",
+    "sourceId": "4259466",
+    "sourceUrl": "https://adresowo.pl/o/dom-monki-ul-wesola-s5u5u6",
+    "propertyType": "house",
+    "title": "Dom — Mońki, ul. Wesoła",
+    "voivodeship": "podlaskie",
+    "city": "Mońki",
+    "street": "ul. Wesoła",
+    "coordinates": {
+      "lat": 53.02959581062336,
+      "lng": 23.29676486877719
+    },
+    "isNearBorder": false,
+    "areaM2": 120,
+    "currentPrice": 650000,
+    "currentPricePerM2": 5416.67,
+    "initialPrice": 650000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 650000,
+        "pricePerM2": 5416.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/18/59/40fe8a_9d36_cover@2x-dom-moniecki-monki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259462",
+    "source": "adresowo",
+    "sourceId": "4259462",
+    "sourceUrl": "https://adresowo.pl/o/dom-bialystok-ul-baranowicka-s1w5w9",
+    "propertyType": "house",
+    "title": "Dom — Białystok, ul. Baranowicka",
+    "voivodeship": "podlaskie",
+    "city": "Białystok",
+    "street": "ul. Baranowicka",
+    "coordinates": {
+      "lat": 53.203862671523204,
+      "lng": 23.343341694531613
+    },
+    "isNearBorder": false,
+    "areaM2": 119,
+    "currentPrice": 1124000,
+    "currentPricePerM2": 9445.38,
+    "initialPrice": 1124000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1124000,
+        "pricePerM2": 9445.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5b/52/40fe86_d090_cover@2x-dom-bialystok.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4243416",
+    "source": "adresowo",
+    "sourceId": "4243416",
+    "sourceUrl": "https://adresowo.pl/o/dom-wysokie-mazowieckie-mystki-rzym-242-m2-k7r5e2",
+    "propertyType": "house",
+    "title": "Dom — Mystki-Rzym",
+    "voivodeship": "podlaskie",
+    "city": "Mystki-Rzym",
+    "coordinates": {
+      "lat": 53.07786995610706,
+      "lng": 23.03331011372106
+    },
+    "isNearBorder": false,
+    "areaM2": 242,
+    "currentPrice": 1399000,
+    "currentPricePerM2": 5780.99,
+    "initialPrice": 1399000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1399000,
+        "pricePerM2": 5780.99
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/10/55/40bfd8_3b2a_cover@2x-dom-wysokomazowiecki-mystki-rzym.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4243300",
+    "source": "adresowo",
+    "sourceId": "4243300",
+    "sourceUrl": "https://adresowo.pl/o/dom-sidra-72-m2-p6v4l8",
+    "propertyType": "house",
+    "title": "Dom — Sidra",
+    "voivodeship": "podlaskie",
+    "city": "Sidra",
+    "coordinates": {
+      "lat": 53.180037966331966,
+      "lng": 23.285357091095705
+    },
+    "isNearBorder": false,
+    "areaM2": 72,
+    "currentPrice": 157000,
+    "currentPricePerM2": 2180.56,
+    "initialPrice": 157000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 157000,
+        "pricePerM2": 2180.56
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1a/65/40bf64_8bdf_cover@2x-dom-sokolski-sidra.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4242836",
+    "source": "adresowo",
+    "sourceId": "4242836",
+    "sourceUrl": "https://adresowo.pl/o/dom-piatnica-elzbiecin-240-m2-r9g5h0",
+    "propertyType": "house",
+    "title": "Dom — Elżbiecin",
+    "voivodeship": "podlaskie",
+    "city": "Elżbiecin",
+    "coordinates": {
+      "lat": 53.11468454808074,
+      "lng": 23.09545248217905
+    },
+    "isNearBorder": false,
+    "areaM2": 240,
+    "plotAreaM2": 2750,
+    "currentPrice": 1200000,
+    "currentPricePerM2": 5000,
+    "initialPrice": 1200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1200000,
+        "pricePerM2": 5000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/20/2c/40bd94_ebe9_cover@2x-dom-lomzynski-elzbiecin.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259460",
+    "source": "adresowo",
+    "sourceId": "4259460",
+    "sourceUrl": "https://adresowo.pl/o/dom-miastkowo-sosnowiec-124-m2-r2t5x4",
+    "propertyType": "house",
+    "title": "Dom — Sosnowiec",
+    "voivodeship": "podlaskie",
+    "city": "Sosnowiec",
+    "coordinates": {
+      "lat": 53.07373252629147,
+      "lng": 23.10107754366045
+    },
+    "isNearBorder": false,
+    "areaM2": 124,
+    "currentPrice": 770000,
+    "currentPricePerM2": 6209.68,
+    "initialPrice": 770000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 770000,
+        "pricePerM2": 6209.68
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/67/78/40fe84_4378_cover@2x-dom-lomzynski-sosnowiec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259456",
+    "source": "adresowo",
+    "sourceId": "4259456",
+    "sourceUrl": "https://adresowo.pl/o/dom-hajnowka-ul-siewna-t2t7d5",
+    "propertyType": "house",
+    "title": "Dom — Hajnówka, ul. Siewna",
+    "voivodeship": "podlaskie",
+    "city": "Hajnówka",
+    "street": "ul. Siewna",
+    "coordinates": {
+      "lat": 52.98526786933294,
+      "lng": 23.131680752798356
+    },
+    "isNearBorder": false,
+    "areaM2": 188,
+    "currentPrice": 850000,
+    "currentPricePerM2": 4521.28,
+    "initialPrice": 850000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 850000,
+        "pricePerM2": 4521.28
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/55/4b/40fe80_55e9_cover@2x-dom-hajnowski-hajnowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4221820",
+    "source": "adresowo",
+    "sourceId": "4221820",
+    "sourceUrl": "https://adresowo.pl/o/dom-grabowo-ul-kpt-adama-gatkiewicza-p3k4j8",
+    "propertyType": "house",
+    "title": "Dom — Grabowo, ul. kpt. Adama Gątkiewicza",
+    "voivodeship": "podlaskie",
+    "city": "Grabowo",
+    "street": "ul. kpt. Adama Gątkiewicza",
+    "coordinates": {
+      "lat": 52.99124457269763,
+      "lng": 23.261846385313532
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "currentPrice": 230000,
+    "currentPricePerM2": 1533.33,
+    "initialPrice": 230000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 230000,
+        "pricePerM2": 1533.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/36/35/406b7c_5fd0_cover@2x-dom-kolnenski-grabowo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4239278",
+    "source": "adresowo",
+    "sourceId": "4239278",
+    "sourceUrl": "https://adresowo.pl/o/dom-szypliszki-debowo-200-m2-y3h1f5",
+    "propertyType": "house",
+    "title": "Dom — Dębowo",
+    "voivodeship": "podlaskie",
+    "city": "Dębowo",
+    "coordinates": {
+      "lat": 52.99830144935912,
+      "lng": 23.12763808158535
+    },
+    "isNearBorder": false,
+    "areaM2": 200,
+    "currentPrice": 2480000,
+    "currentPricePerM2": 12400,
+    "initialPrice": 2480000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 2480000,
+        "pricePerM2": 12400
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1f/64/40afae_2a94_cover@2x-dom-suwalski-debowo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259454",
+    "source": "adresowo",
+    "sourceId": "4259454",
+    "sourceUrl": "https://adresowo.pl/o/dom-kolno-ul-armii-krajowej-t6m9b4",
+    "propertyType": "house",
+    "title": "Dom — Kolno, ul. Armii Krajowej",
+    "voivodeship": "podlaskie",
+    "city": "Kolno",
+    "street": "ul. Armii Krajowej",
+    "coordinates": {
+      "lat": 53.064615610710916,
+      "lng": 23.20566999057121
+    },
+    "isNearBorder": false,
+    "areaM2": 119,
+    "currentPrice": 729000,
+    "currentPricePerM2": 6126.05,
+    "initialPrice": 729000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 729000,
+        "pricePerM2": 6126.05
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3e/63/40fe7e_dc1e_cover@2x-dom-kolnenski-kolno.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259452",
+    "source": "adresowo",
+    "sourceId": "4259452",
+    "sourceUrl": "https://adresowo.pl/o/dom-bransk-chojewo-72-m2-i8p6k2",
+    "propertyType": "house",
+    "title": "Dom — Chojewo",
+    "voivodeship": "podlaskie",
+    "city": "Chojewo",
+    "coordinates": {
+      "lat": 53.266846166264024,
+      "lng": 23.261805038259865
+    },
+    "isNearBorder": false,
+    "areaM2": 72,
+    "currentPrice": 480000,
+    "currentPricePerM2": 6666.67,
+    "initialPrice": 480000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 480000,
+        "pricePerM2": 6666.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:50:56.098Z",
+    "lastSeenAt": "2026-09-17T21:50:58.565Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/79/23/40fe7c_8f37_cover@2x-dom-bielski-chojewo.webp",
+    "isDirectOwner": true
+  }
+]

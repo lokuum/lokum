@@ -1,0 +1,2599 @@
+[
+  {
+    "id": "otodom-68137465",
+    "source": "otodom",
+    "sourceId": "68137465",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/luka-stary-dwor-przy-zalewie-siemianowka-dzialka-letniskowa-800-m2-ID4BTFn",
+    "propertyType": "plot",
+    "title": "Łuka Stary Dwór - przy Zalewie Siemianówka - działka letniskowa 800 m2",
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "city": "Nowa Łuka",
+    "coordinates": {
+      "lat": 53.27253529342053,
+      "lng": 23.007690795523015
+    },
+    "isNearBorder": true,
+    "areaM2": 800,
+    "currentPrice": 115000,
+    "currentPricePerM2": 143.75,
+    "initialPrice": 115000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 115000,
+        "pricePerM2": 143.75
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T19:53:03.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imt6azZ1d2VhcjZ2bTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1SZUOWyWwbkOm3J5IDB_VDja9oyP9hNADxppG12Mwa4/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68308167",
+    "source": "otodom",
+    "sourceId": "68308167",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-z-mediami-pod-miastem-ID4CC4D",
+    "propertyType": "plot",
+    "title": "Działka budowlana z mediami pod miastem",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Księżyno-Kolonia",
+    "street": "ul. Wincentego Witosa",
+    "coordinates": {
+      "lat": 52.95389529228277,
+      "lng": 23.271936531883004
+    },
+    "isNearBorder": true,
+    "areaM2": 351,
+    "currentPrice": 175000,
+    "currentPricePerM2": 498.58,
+    "initialPrice": 175000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 175000,
+        "pricePerM2": 498.58
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T16:34:09.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhqYjNwanVjbG1qOC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sxSo2gWQ4RUzQ-hCcoUHSgz2tEyhU7MI-LV2KozJ5DU/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68431995",
+    "source": "otodom",
+    "sourceId": "68431995",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-pod-dom-dla-rodziny-woroszyly-gm-wasilkow-ID4D8hR",
+    "propertyType": "plot",
+    "title": "Działka pod dom dla rodziny Woroszyły gm. Wasilków",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Woroszyły",
+    "coordinates": {
+      "lat": 53.24772674673334,
+      "lng": 23.162379837746236
+    },
+    "isNearBorder": true,
+    "areaM2": 1413,
+    "currentPrice": 239000,
+    "currentPricePerM2": 169.14,
+    "initialPrice": 239000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 239000,
+        "pricePerM2": 169.14
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T16:04:21.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQ3aWFoZmd2eThvOS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.IOcwGETs1tYPAx7oNdO24C4qZwU4X9NtjrcyJvX7Px4/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68303833",
+    "source": "otodom",
+    "sourceId": "68303833",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/pohulanka-dzialka-w-puszczy-bialowieskiej-2800-m-z-wz-ID4CAVJ",
+    "propertyType": "plot",
+    "title": "Pohulanka działka w Puszczy Białowieskiej 2800 m² z WZ",
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "city": "Pohulanka",
+    "coordinates": {
+      "lat": 53.307221735256704,
+      "lng": 23.24140876787915
+    },
+    "isNearBorder": true,
+    "areaM2": 2800,
+    "currentPrice": 110800,
+    "currentPricePerM2": 39.57,
+    "initialPrice": 110800,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 110800,
+        "pricePerM2": 39.57
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T14:48:05.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im8weGNldXVxaWczYzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zJR5Xq8Tl6IZxxozMALRptreFM3E8I8h5t7Rghr7UHQ/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68431627",
+    "source": "otodom",
+    "sourceId": "68431627",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-dzialka-1617-m-tylwica-ID4D8bW",
+    "propertyType": "plot",
+    "title": "Na sprzedaż działka 1617 m² – Tylwica",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Tylwica",
+    "coordinates": {
+      "lat": 53.05578071879174,
+      "lng": 23.062787935170945
+    },
+    "isNearBorder": true,
+    "areaM2": 1617,
+    "currentPrice": 74850,
+    "currentPricePerM2": 46.29,
+    "initialPrice": 74850,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 74850,
+        "pricePerM2": 46.29
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T14:25:52.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im53ZjQ4em5wbmVscDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-k2FEHsSZmP844dfFXU6NkJLd2b_v9l1_CscjcvjA8U/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67033392",
+    "source": "otodom",
+    "sourceId": "67033392",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/atrakcyjne-grunty-rolne-sieski-gm-zabludow-ID4xgrK",
+    "propertyType": "plot",
+    "title": "Atrakcyjne grunty rolne  Sieśki - gm. Zabłudów",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Sieśki",
+    "coordinates": {
+      "lat": 53.09510672115163,
+      "lng": 23.08223336639639
+    },
+    "isNearBorder": true,
+    "areaM2": 48300,
+    "currentPrice": 241500,
+    "currentPricePerM2": 5,
+    "initialPrice": 241500,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 241500,
+        "pricePerM2": 5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T14:01:23.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV1anhrYnowZmRyeDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nqIIyogqL48JGt6NsYCZOXVRi7yXF-s1jmzdAeRDlEQ/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67077873",
+    "source": "otodom",
+    "sourceId": "67077873",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-z-wz-orzechowko-gmina-rajgrod-powiat-grajewski-ID4xs1b",
+    "propertyType": "plot",
+    "title": "Działka z WZ, Orzechówko, gmina Rajgród, powiat grajewski",
+    "voivodeship": "podlaskie",
+    "county": "grajewski",
+    "city": "Woźnawieś",
+    "coordinates": {
+      "lat": 52.99784815008864,
+      "lng": 22.98176789218236
+    },
+    "isNearBorder": false,
+    "areaM2": 9198,
+    "currentPrice": 450000,
+    "currentPricePerM2": 48.92,
+    "initialPrice": 450000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 450000,
+        "pricePerM2": 48.92
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T13:51:46.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd1ZTJoa2hhdjh4cTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Vxd0n0otadPSRV_0Wl_lo52YaAJPR_DA2yZipkSBCwE/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67077800",
+    "source": "otodom",
+    "sourceId": "67077800",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-z-wz-orzechowka-gmina-rajgrod-ID4xs00",
+    "propertyType": "plot",
+    "title": "Działka z WZ, Orzechówka, gmina Rajgród",
+    "voivodeship": "podlaskie",
+    "county": "grajewski",
+    "city": "Woźnawieś",
+    "coordinates": {
+      "lat": 52.960170249374485,
+      "lng": 23.21311202516848
+    },
+    "isNearBorder": false,
+    "areaM2": 4847,
+    "currentPrice": 280000,
+    "currentPricePerM2": 57.77,
+    "initialPrice": 280000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 280000,
+        "pricePerM2": 57.77
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T13:50:13.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ing4bzhnNWNnZDRjZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.gVGPzv3R-6fYu1ExvSgtIo5yE_shJ5vVXLx2H_8e2fs/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68431416",
+    "source": "otodom",
+    "sourceId": "68431416",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/linia-brzegowa-serwy-domy-280-m2-i-180-m2-ID4D88v",
+    "propertyType": "plot",
+    "title": "Linia brzegowa | Serwy | Domy 280 m2 i 180 m2",
+    "voivodeship": "podlaskie",
+    "county": "augustowski",
+    "city": "Serwy",
+    "coordinates": {
+      "lat": 53.13984815771776,
+      "lng": 23.341482712677944
+    },
+    "isNearBorder": true,
+    "areaM2": 3056,
+    "currentPrice": 2050000,
+    "currentPricePerM2": 670.81,
+    "initialPrice": 2050000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 2050000,
+        "pricePerM2": 670.81
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T13:45:59.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InEwMnd2MXphczdvMjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lLsLJwKWd7jmZtQqyXFlFskN0gJNBH8VTmpON-nlHdE/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68344238",
+    "source": "otodom",
+    "sourceId": "68344238",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-rolna-7152-m-przy-dk8-rybniki-rezerwat-krzemianka-ID4CLsq",
+    "propertyType": "plot",
+    "title": "Działka rolna 7152 m² przy DK8 – Rybniki / Rezerwat Krzemianka",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Rybniki",
+    "coordinates": {
+      "lat": 52.98193887993258,
+      "lng": 23.162610441561693
+    },
+    "isNearBorder": true,
+    "areaM2": 7152,
+    "currentPrice": 279000,
+    "currentPricePerM2": 39.01,
+    "initialPrice": 279000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 279000,
+        "pricePerM2": 39.01
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T13:18:42.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc1and4YjQxZ2k2ODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dB3tRHCt4aYrmq7J0yEavPRO5VL1CJqtUJYV_Oy3TyE/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68431260",
+    "source": "otodom",
+    "sourceId": "68431260",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-921-m-choroszcz-ID4D860",
+    "propertyType": "plot",
+    "title": "Działka budowlana 921 m² – Choroszcz",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Choroszcz",
+    "coordinates": {
+      "lat": 53.03760526316481,
+      "lng": 23.228988703571375
+    },
+    "isNearBorder": true,
+    "areaM2": 921,
+    "currentPrice": 184000,
+    "currentPricePerM2": 199.78,
+    "initialPrice": 184000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 184000,
+        "pricePerM2": 199.78
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T13:16:22.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNiZjI5b2lhaGRkaDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ol_QWJUV4FQLawWsTYKHBgpTZzqyotiq13KTFERjb5o/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68262799",
+    "source": "otodom",
+    "sourceId": "68262799",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/janowicze-uzbrojona-piekna-dzialka-przy-asfalcie-ID4CqgT",
+    "propertyType": "plot",
+    "title": "Janowicze * Uzbrojona piękna działka przy asfalcie",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Janowicze",
+    "coordinates": {
+      "lat": 53.1599840094787,
+      "lng": 23.050469665005355
+    },
+    "isNearBorder": true,
+    "areaM2": 1994,
+    "currentPrice": 369000,
+    "currentPricePerM2": 185.06,
+    "initialPrice": 369000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 369000,
+        "pricePerM2": 185.06
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:56:02.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndsZ3dmbTFiM2pidS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Oc0KLjYrmKDFoGm9LD98ZNHGz57faoonvEiQVIFWIe8/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68430842",
+    "source": "otodom",
+    "sourceId": "68430842",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-o-powierzchni-blisko-10-ha-ID4D7Zg",
+    "propertyType": "plot",
+    "title": "Działka o powierzchni blisko 10 ha",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Kobuzie",
+    "coordinates": {
+      "lat": 53.06686531725748,
+      "lng": 23.16475137179292
+    },
+    "isNearBorder": true,
+    "areaM2": 94250,
+    "currentPrice": 754000,
+    "currentPricePerM2": 8,
+    "initialPrice": 754000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 754000,
+        "pricePerM2": 8
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:22:56.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjIxajBpcm44MzZ3ei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ld5Dl1P4REx_Qbs7oU4BKZkuLamEeY8ifrHwAMq57UM/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68386069",
+    "source": "otodom",
+    "sourceId": "68386069",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/czeremcha-ul-wiejska-1345-m2-wydane-warunki-zabudowy-do-negocjacji-ID4CVl7",
+    "propertyType": "plot",
+    "title": "Czeremcha ul. Wiejska,1345 m2 - wydane Warunki Zabudowy -do negocjacji",
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "city": "Czeremcha",
+    "street": "ul. Wiejska",
+    "coordinates": {
+      "lat": 53.299234779279075,
+      "lng": 23.04166761878028
+    },
+    "isNearBorder": true,
+    "areaM2": 1345,
+    "currentPrice": 125000,
+    "currentPricePerM2": 92.94,
+    "initialPrice": 125000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 125000,
+        "pricePerM2": 92.94
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T11:54:48.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im12OTkzcHpzbGE4ZjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.toFlZhFgFGjIWqYQ4InVj1M5gCq5OUGmgtPbUbdCtpE/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67933997",
+    "source": "otodom",
+    "sourceId": "67933997",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-3-min-od-lomzy-staw-strumyk-i-las-ID4B2JD",
+    "propertyType": "plot",
+    "title": "Działka budowlana 3 min od Łomży! Staw, strumyk i las!",
+    "voivodeship": "podlaskie",
+    "county": "łomżyński",
+    "city": "Stare Kupiski",
+    "street": "ul. Pogodna",
+    "coordinates": {
+      "lat": 53.3107893758369,
+      "lng": 23.18724808300278
+    },
+    "isNearBorder": false,
+    "areaM2": 2090,
+    "currentPrice": 350000,
+    "currentPricePerM2": 167.46,
+    "initialPrice": 350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 350000,
+        "pricePerM2": 167.46
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T11:18:32.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im4xM3BuZzg0emN4OC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0rsKbcVTJ2hn4Plf2djWXiaDgcTPSmCeFDJ6LhA_jJQ/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68306026",
+    "source": "otodom",
+    "sourceId": "68306026",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-500-m-wyszki-najtansza-na-rynku-ID4CBv6",
+    "propertyType": "plot",
+    "title": "Działka budowlana 500 m² Wyszki – najtańsza na rynku!",
+    "voivodeship": "podlaskie",
+    "county": "bielski",
+    "city": "Wyszki",
+    "street": "ul. Łąkowa",
+    "coordinates": {
+      "lat": 52.96707867800391,
+      "lng": 23.311719887340686
+    },
+    "isNearBorder": true,
+    "areaM2": 500,
+    "currentPrice": 52370,
+    "currentPricePerM2": 104.74,
+    "initialPrice": 52370,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 52370,
+        "pricePerM2": 104.74
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T10:41:16.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJ3Y3N1anVzcGRmdS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Tg5WLvJFedjCwwqQXgVdYpXprRoy4OHx2twoYi6edrQ/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68429567",
+    "source": "otodom",
+    "sourceId": "68429567",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/krasnopol-dzialki-kolo-jeziora-ID4D7EH",
+    "propertyType": "plot",
+    "title": "Krasnopol - działki koło jeziora",
+    "voivodeship": "podlaskie",
+    "county": "sejneński",
+    "city": "Krasnopol",
+    "coordinates": {
+      "lat": 53.23780185963903,
+      "lng": 23.07570606669622
+    },
+    "isNearBorder": true,
+    "areaM2": 3000,
+    "currentPrice": 49000,
+    "currentPricePerM2": 16.33,
+    "initialPrice": 49000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 49000,
+        "pricePerM2": 16.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T09:28:47.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBvdGV2OG00cnhhdjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LAVLZxtrtjvNm9yQD-fGgopjG9UYkQ7YUV4oJXq8S8Y/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68268270",
+    "source": "otodom",
+    "sourceId": "68268270",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-o-nr-geodezyjnym-28-10-w-miejscowosci-mala-huta-ID4CrH8",
+    "propertyType": "plot",
+    "title": "Działka budowlana o nr geodezyjnym 28/10 w miejscowości Mała Huta",
+    "voivodeship": "podlaskie",
+    "county": "suwalski",
+    "city": "Mała Huta",
+    "coordinates": {
+      "lat": 53.1945341576182,
+      "lng": 22.972402880535558
+    },
+    "isNearBorder": false,
+    "areaM2": 936,
+    "currentPrice": 187000,
+    "currentPricePerM2": 199.79,
+    "initialPrice": 187000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 187000,
+        "pricePerM2": 199.79
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T08:41:39.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJwaWx5eXc5cWN0eTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nKXSJTTlQBhvl8JXNFG7T2lDNn2Sw2yaOy-Onuc-XAM/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68405825",
+    "source": "otodom",
+    "sourceId": "68405825",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-stare-kupiski-ul-wierzbowa-ID4D1tL",
+    "propertyType": "plot",
+    "title": "Działka budowlana – Stare Kupiski, ul. Wierzbowa",
+    "voivodeship": "podlaskie",
+    "county": "łomżyński",
+    "city": "Stare Kupiski",
+    "street": "ul. Wierzbowa",
+    "coordinates": {
+      "lat": 53.04478908936084,
+      "lng": 23.012808986973106
+    },
+    "isNearBorder": false,
+    "areaM2": 450,
+    "currentPrice": 81000,
+    "currentPricePerM2": 180,
+    "initialPrice": 81000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 81000,
+        "pricePerM2": 180
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T07:46:46.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh2YW9yYjNsOWtpZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8o6giUOu-d8wwt0mnfS7oIlb0wuwZquYxspev9L1tuI/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68374115",
+    "source": "otodom",
+    "sourceId": "68374115",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-14-arowe-drozdowo-ul-kraska-ID4CTej",
+    "propertyType": "plot",
+    "title": "Działki 14 arowe – Drozdowo, ul. Kraska",
+    "voivodeship": "podlaskie",
+    "county": "łomżyński",
+    "city": "Drozdowo",
+    "coordinates": {
+      "lat": 53.07062823362085,
+      "lng": 23.00232481447516
+    },
+    "isNearBorder": false,
+    "areaM2": 1437,
+    "currentPrice": 143000,
+    "currentPricePerM2": 99.51,
+    "initialPrice": 143000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 143000,
+        "pricePerM2": 99.51
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T07:46:22.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVsOGg3bzNxZ29nbTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Zl09c8HvtxF98jcUGTLt6atFXLdV5qJPyRq9XZTrljs/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68417621",
+    "source": "otodom",
+    "sourceId": "68417621",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/wlasne-miejsce-w-puszczy-bialowieskiejcisza-natura-i-off-grid-0-56ha-ID4D4y1",
+    "propertyType": "plot",
+    "title": "WŁASNE MIEJSCE W PUSZCZY BIAŁOWIESKIEJ–CISZA, NATURA I OFF-GRID 0,56HA",
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "city": "Budy",
+    "coordinates": {
+      "lat": 53.08375680824246,
+      "lng": 23.08927172647686
+    },
+    "isNearBorder": true,
+    "areaM2": 5628,
+    "currentPrice": 40000,
+    "currentPricePerM2": 7.11,
+    "initialPrice": 40000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 40000,
+        "pricePerM2": 7.11
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T07:36:26.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5iM2Fwb28xNTYycDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8f6LEb5fnylgCMIG1Ss1EWBpH9FAemU7M36bZ8WZhJo/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67732089",
+    "source": "otodom",
+    "sourceId": "67732089",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-1062-m-przy-lesie-gora-k-tykocina-ID4Acd3",
+    "propertyType": "plot",
+    "title": "Działka budowlana 1062 m² przy lesie – GÓRA k. Tykocina",
+    "voivodeship": "podlaskie",
+    "county": "moniecki",
+    "city": "Góra",
+    "coordinates": {
+      "lat": 53.11669019434828,
+      "lng": 23.277003458363822
+    },
+    "isNearBorder": false,
+    "areaM2": 1062,
+    "currentPrice": 88000,
+    "currentPricePerM2": 82.86,
+    "initialPrice": 88000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 88000,
+        "pricePerM2": 82.86
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T06:47:36.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBuM2tyZ3Z5NzBkbzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.L0j7kIUbhKrD-Xkdauca_F5SSIQE36PDCDsAPpPZEVI/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68372160",
+    "source": "otodom",
+    "sourceId": "68372160",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-z-wlasnym-dostepem-do-jeziora-ozewo-ID4CSIM",
+    "propertyType": "plot",
+    "title": "Działka z własnym dostępem do jeziora Ożewo",
+    "voivodeship": "podlaskie",
+    "county": "suwalski",
+    "city": "Turówka Stara",
+    "coordinates": {
+      "lat": 53.00992183230377,
+      "lng": 23.30379508549659
+    },
+    "isNearBorder": false,
+    "areaM2": 1470,
+    "currentPrice": 376000,
+    "currentPricePerM2": 255.78,
+    "initialPrice": 376000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 376000,
+        "pricePerM2": 255.78
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T20:50:44.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVsenk3MnZ3cGJhdC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.2HV6RD4Br3QfZRCBneQiEx2TV43hnCxFhWhDDKOiEiE/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68224463",
+    "source": "otodom",
+    "sourceId": "68224463",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-w-pieknym-polozeniu-blisko-bialegostoku-ID4Cgiz",
+    "propertyType": "plot",
+    "title": "Działki w pieknym polozeniu blisko Bialegostoku",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Sowlany",
+    "street": "Ulanska",
+    "coordinates": {
+      "lat": 53.182171576942686,
+      "lng": 23.19400713090081
+    },
+    "isNearBorder": true,
+    "areaM2": 830,
+    "currentPrice": 335000,
+    "currentPricePerM2": 403.61,
+    "initialPrice": 335000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 335000,
+        "pricePerM2": 403.61
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T17:08:11.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijdtd2h6N2wyaGI3bjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.IpUWiYvwGTE4PuURLG2ZHxTbzWlxjsH-CSp--4Lrc3w/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68427806",
+    "source": "otodom",
+    "sourceId": "68427806",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-1435-m-ciesze-kolo-moniek-dom-uslugi-ID4D7ci",
+    "propertyType": "plot",
+    "title": "Działka 1435 m² – Ciesze koło Moniek | dom + usługi",
+    "voivodeship": "podlaskie",
+    "county": "moniecki",
+    "city": "Przytulanka",
+    "coordinates": {
+      "lat": 52.998725869495004,
+      "lng": 22.99134303473652
+    },
+    "isNearBorder": false,
+    "areaM2": 1435,
+    "currentPrice": 175000,
+    "currentPricePerM2": 121.95,
+    "initialPrice": 175000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 175000,
+        "pricePerM2": 121.95
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T16:42:57.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJicGY4eXNjemZoMTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MalIun5_ekEvGnAE68fDsYnJjxx6hBDc3SAL6iC4zpE/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68371529",
+    "source": "otodom",
+    "sourceId": "68371529",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-w-dojlidach-tereny-zielone-bezposrednio-ID4CSyB",
+    "propertyType": "plot",
+    "title": "Działka budowlana w Dojlidach (+ tereny zielone) - BEZPOŚREDNIO",
+    "voivodeship": "podlaskie",
+    "city": "Białystok",
+    "coordinates": {
+      "lat": 53.27620684623136,
+      "lng": 23.357365024218073
+    },
+    "isNearBorder": false,
+    "areaM2": 1479,
+    "currentPrice": 590000,
+    "currentPricePerM2": 398.92,
+    "initialPrice": 590000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 590000,
+        "pricePerM2": 398.92
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T16:41:31.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNqNDZnZHFycm9zNTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.FiiWUEymX0OQ309vvCcQkuqyyF_yNe0tAJ7N2mDzVkU/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67981450",
+    "source": "otodom",
+    "sourceId": "67981450",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-nad-jeziorem-rajgrodzkim-z-dostepem-do-linii-brzegowej-ID4Bf50",
+    "propertyType": "plot",
+    "title": "Działka nad jeziorem Rajgrodzkim z dostępem do linii brzegowej",
+    "voivodeship": "podlaskie",
+    "county": "grajewski",
+    "city": "Czarna Wieś",
+    "coordinates": {
+      "lat": 53.21450962975022,
+      "lng": 23.001600738545665
+    },
+    "isNearBorder": false,
+    "areaM2": 1200,
+    "currentPrice": 219900,
+    "currentPricePerM2": 183.25,
+    "initialPrice": 219900,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 219900,
+        "pricePerM2": 183.25
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T15:56:54.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImUzbjY2bnZkZmZpNTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PyMa5BingV-52C47OEtjCFDbY-PmrFJAdVeASL4qBkI/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68427459",
+    "source": "otodom",
+    "sourceId": "68427459",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwa-dzialka-na-skraju-puszczy-bialowieskiej-ID4D76H",
+    "propertyType": "plot",
+    "title": "Urokliwa działka na skraju Puszczy Białowieskiej",
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "city": "Stare Masiewo",
+    "coordinates": {
+      "lat": 53.10245877255994,
+      "lng": 23.083266390288752
+    },
+    "isNearBorder": true,
+    "areaM2": 1932,
+    "currentPrice": 222000,
+    "currentPricePerM2": 114.91,
+    "initialPrice": 222000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 222000,
+        "pricePerM2": 114.91
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T14:59:50.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFmcG9scTluOThuaDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HZGib4L_Sedsi5pFCvwW7LK5e66Aph6kQSPKSAtqnZk/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68427457",
+    "source": "otodom",
+    "sourceId": "68427457",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-rekreacyjna-baliki-osiedle-gwiazda-ID4D76F",
+    "propertyType": "plot",
+    "title": "Działka rekreacyjna Baliki osiedle Gwiazda",
+    "voivodeship": "podlaskie",
+    "county": "łomżyński",
+    "city": "Baliki",
+    "coordinates": {
+      "lat": 53.219496820971926,
+      "lng": 23.054808300239536
+    },
+    "isNearBorder": false,
+    "areaM2": 1054,
+    "currentPrice": 106000,
+    "currentPricePerM2": 100.57,
+    "initialPrice": 106000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 106000,
+        "pricePerM2": 100.57
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T14:59:49.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im54Y2lta2RuZXE0MjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CPeJLAG8cUlJz7YFGzjPdB6u_ymiL4JtxZypbyFccoI/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68427452",
+    "source": "otodom",
+    "sourceId": "68427452",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-budowlane-w-pieknej-okolicy-dziewiczy-lug-ID4D76A",
+    "propertyType": "plot",
+    "title": "Działki budowlane w pięknej okolicy Dziewiczy Ług",
+    "voivodeship": "podlaskie",
+    "county": "sokólski",
+    "city": "Słójka",
+    "coordinates": {
+      "lat": 53.13861343445487,
+      "lng": 23.151782385526495
+    },
+    "isNearBorder": true,
+    "areaM2": 3000,
+    "currentPrice": 99000,
+    "currentPricePerM2": 33,
+    "initialPrice": 99000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 99000,
+        "pricePerM2": 33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T14:59:49.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImwwMDZoNHlla3ZvcDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bjym1npl_j25Nwq8GWt4sYp-zrIjMEc_LfWWXHX6Zvs/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68427453",
+    "source": "otodom",
+    "sourceId": "68427453",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-bud-3015m2-wyjatkowe-miejsce-ID4D76B",
+    "propertyType": "plot",
+    "title": "Działka BUD.// 3015m2//wyjątkowe miejsce",
+    "voivodeship": "podlaskie",
+    "county": "sokólski",
+    "city": "Słójka",
+    "coordinates": {
+      "lat": 53.20707305663848,
+      "lng": 23.150366318603584
+    },
+    "isNearBorder": true,
+    "areaM2": 3015,
+    "currentPrice": 99500,
+    "currentPricePerM2": 33,
+    "initialPrice": 99500,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 99500,
+        "pricePerM2": 33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T14:59:49.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV4MGt3Y3ZvNGZ1ZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.sqcYoLAhjj2UR5MXz4EL7IwY5LfP9-Oqp7ufr91Zsqc/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68427445",
+    "source": "otodom",
+    "sourceId": "68427445",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-inwestycyjna-5600-m2-przy-s8-ID4D76t",
+    "propertyType": "plot",
+    "title": "Działka Inwestycyjna 5600 m2 przy S8",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Radule",
+    "coordinates": {
+      "lat": 53.17493699323948,
+      "lng": 23.339778928071024
+    },
+    "isNearBorder": true,
+    "areaM2": 5580,
+    "currentPrice": 575000,
+    "currentPricePerM2": 103.05,
+    "initialPrice": 575000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 575000,
+        "pricePerM2": 103.05
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T14:59:49.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1zNWc2YXV5emFwdi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.fF6mMFEpbsiQ1tgWZZLOQUoNvRsa5_b8zp08sDMmIa8/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68427437",
+    "source": "otodom",
+    "sourceId": "68427437",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-13796-m2-ID4D76l",
+    "propertyType": "plot",
+    "title": "Działka Budowlana 13796 m2",
+    "voivodeship": "podlaskie",
+    "county": "sokólski",
+    "city": "Ozierany Małe",
+    "coordinates": {
+      "lat": 53.07382109511986,
+      "lng": 23.365684264260654
+    },
+    "isNearBorder": true,
+    "areaM2": 13796,
+    "currentPrice": 250000,
+    "currentPricePerM2": 18.12,
+    "initialPrice": 250000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 250000,
+        "pricePerM2": 18.12
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T14:59:46.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBiYWVnMDNqdnZnYjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jqueFV9FZdu47gKUo0OG5m5Ybi8g1Fun5FLHG4tZN7c/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68427436",
+    "source": "otodom",
+    "sourceId": "68427436",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-n-bugiem-3000m2-prad-ID4D76k",
+    "propertyType": "plot",
+    "title": "Działka N/bugiem//3000m2//prąd",
+    "voivodeship": "podlaskie",
+    "county": "siemiatycki",
+    "city": "Mielnik",
+    "coordinates": {
+      "lat": 53.040807594272465,
+      "lng": 23.00460001252248
+    },
+    "isNearBorder": true,
+    "areaM2": 3004,
+    "currentPrice": 150000,
+    "currentPricePerM2": 49.93,
+    "initialPrice": 150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 150000,
+        "pricePerM2": 49.93
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T14:59:46.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN5cnlqcjY1MTloYjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ysCJXNPjWDkQN3S6AuzmZSS4ksa_8Co1VlOGnT1IKpY/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68427439",
+    "source": "otodom",
+    "sourceId": "68427439",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-934m2-30km-bialystok-ID4D76n",
+    "propertyType": "plot",
+    "title": "Działka Budowlana//934m2//30km Białystok",
+    "voivodeship": "podlaskie",
+    "county": "białostocki",
+    "city": "Oleszkowo",
+    "coordinates": {
+      "lat": 53.003159088809426,
+      "lng": 23.038255628028804
+    },
+    "isNearBorder": true,
+    "areaM2": 934,
+    "currentPrice": 100000,
+    "currentPricePerM2": 107.07,
+    "initialPrice": 100000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 100000,
+        "pricePerM2": 107.07
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T14:59:46.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InR6ZzE2YWFtODFzNTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DUpAxlgr7h-llcAfKszkqenakV2OlUVi1J1duEWw724/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68427434",
+    "source": "otodom",
+    "sourceId": "68427434",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-3-92ha-warunki-zabudowy-las-ID4D76i",
+    "propertyType": "plot",
+    "title": "Działka 3,92ha//warunki zabudowy//LAS",
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "city": "Soce",
+    "coordinates": {
+      "lat": 53.14530548749008,
+      "lng": 23.174936424778856
+    },
+    "isNearBorder": true,
+    "areaM2": 39220,
+    "currentPrice": 269000,
+    "currentPricePerM2": 6.86,
+    "initialPrice": 269000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 269000,
+        "pricePerM2": 6.86
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T14:59:46.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJweG82emJvN3R4bzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.OOT7utoi3mfiXNL44UOhSJ0m0dSaLjGoOTqjRF4WwEI/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-96813746500067",
+    "source": "otodom",
+    "sourceId": "96813746500067",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/luka-stary-dwor-przy-zalewie-siemianowka-dzialka-letniskowa-800-m2-ID4BTFn",
+    "propertyType": "plot",
+    "title": "Łuka Stary Dwór - przy Zalewie Siemianówka - działka letniskowa 800 m2",
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "city": "Nowa Łuka",
+    "coordinates": {
+      "lat": 53.066129482678015,
+      "lng": 23.129830850076075
+    },
+    "isNearBorder": true,
+    "areaM2": 800,
+    "currentPrice": 115000,
+    "currentPricePerM2": 143.75,
+    "initialPrice": 115000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 115000,
+        "pricePerM2": 143.75
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "1999-02-28T23:00:01.000Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4049086",
+    "source": "adresowo",
+    "sourceId": "4049086",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-grajewo-ul-sportowa-u0a1y3",
+    "propertyType": "plot",
+    "title": "Działka — Grajewo, ul. Sportowa",
+    "voivodeship": "podlaskie",
+    "city": "Grajewo",
+    "street": "ul. Sportowa",
+    "coordinates": {
+      "lat": 53.10892421722075,
+      "lng": 23.153806882963103
+    },
+    "isNearBorder": false,
+    "areaM2": 1454,
+    "currentPrice": 300000,
+    "currentPricePerM2": 206.33,
+    "initialPrice": 300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 300000,
+        "pricePerM2": 206.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1c/72/3dc8be_d795_cover@2x-dzialka-budowlana-grajewski-grajewo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261798",
+    "source": "adresowo",
+    "sourceId": "4261798",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-grabowo-ul-kpt-adama-gatkiewicza-r8p6r6",
+    "propertyType": "plot",
+    "title": "Działka — Grabowo, ul. kpt. Adama Gątkiewicza",
+    "voivodeship": "podlaskie",
+    "city": "Grabowo",
+    "street": "ul. kpt. Adama Gątkiewicza",
+    "coordinates": {
+      "lat": 53.296482680196256,
+      "lng": 23.26940274042126
+    },
+    "isNearBorder": false,
+    "areaM2": 41,
+    "currentPrice": 75000,
+    "currentPricePerM2": 1829.27,
+    "initialPrice": 75000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 75000,
+        "pricePerM2": 1829.27
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3d/64/4107a6_6f99_cover@2x-dzialka-rolna-kolnenski-grabowo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261516",
+    "source": "adresowo",
+    "sourceId": "4261516",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-suwalki-ul-wroclawska-m4e5u4",
+    "propertyType": "plot",
+    "title": "Działka — Suwałki Papiernia, ul. Wrocławska",
+    "voivodeship": "podlaskie",
+    "city": "Suwałki Papiernia",
+    "street": "ul. Wrocławska",
+    "coordinates": {
+      "lat": 53.19192945525831,
+      "lng": 23.31545821053983
+    },
+    "isNearBorder": false,
+    "areaM2": 593,
+    "currentPrice": 250000,
+    "currentPricePerM2": 421.59,
+    "initialPrice": 250000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 250000,
+        "pricePerM2": 421.59
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5d/61/41068c_7460_cover@2x-dzialka-budowlana-suwalki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261422",
+    "source": "adresowo",
+    "sourceId": "4261422",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-bielsk-podlaski-kotly-626-m2-r2o8y8",
+    "propertyType": "plot",
+    "title": "Działka — Kotły",
+    "voivodeship": "podlaskie",
+    "city": "Kotły",
+    "coordinates": {
+      "lat": 53.195860926623496,
+      "lng": 23.264804054463077
+    },
+    "isNearBorder": false,
+    "areaM2": 626,
+    "currentPrice": 68000,
+    "currentPricePerM2": 108.63,
+    "initialPrice": 68000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 68000,
+        "pricePerM2": 108.63
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2d/7b/41062e_ee92_cover@2x-dzialka-budowlana-bielski-kotly.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260436",
+    "source": "adresowo",
+    "sourceId": "4260436",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-sokolka-orlowicze-6-300-m2-z5p9q2",
+    "propertyType": "plot",
+    "title": "Działka — Orłowicze",
+    "voivodeship": "podlaskie",
+    "city": "Orłowicze",
+    "coordinates": {
+      "lat": 53.18306152102165,
+      "lng": 23.25602082402648
+    },
+    "isNearBorder": false,
+    "areaM2": 6300,
+    "currentPrice": 50400,
+    "currentPricePerM2": 8,
+    "initialPrice": 50400,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 50400,
+        "pricePerM2": 8
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4c/30/410254_ff86_cover@2x-dzialka-rolna-sokolski-orlowicze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259800",
+    "source": "adresowo",
+    "sourceId": "4259800",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rutka-tartak-polimonie-1-163-m2-n6s2h7",
+    "propertyType": "plot",
+    "title": "Działka — Polimonie",
+    "voivodeship": "podlaskie",
+    "city": "Polimonie",
+    "coordinates": {
+      "lat": 53.05870910537616,
+      "lng": 23.224124420707742
+    },
+    "isNearBorder": false,
+    "areaM2": 1163,
+    "currentPrice": 68617,
+    "currentPricePerM2": 59,
+    "initialPrice": 68617,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 68617,
+        "pricePerM2": 59
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3d/61/40ffd8_497a_cover@2x-dzialka-suwalski-polimonie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261262",
+    "source": "adresowo",
+    "sourceId": "4261262",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-michalowo-tanica-gorna-1-634-m2-r0r5y0",
+    "propertyType": "plot",
+    "title": "Działka — Tanica Górna",
+    "voivodeship": "podlaskie",
+    "city": "Tanica Górna",
+    "coordinates": {
+      "lat": 52.95858000159122,
+      "lng": 23.1643201673347
+    },
+    "isNearBorder": false,
+    "areaM2": 1634,
+    "currentPrice": 220000,
+    "currentPricePerM2": 134.64,
+    "initialPrice": 220000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 220000,
+        "pricePerM2": 134.64
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3d/4e/41058e_c5f7_cover@2x-dzialka-rolno-budowlana-bialostocki-tanica-gorna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260970",
+    "source": "adresowo",
+    "sourceId": "4260970",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-zabludow-ul-grzegorza-chodkiewicza-v4w9q4",
+    "propertyType": "plot",
+    "title": "Działka — Zabłudów, ul. Grzegorza Chodkiewicza",
+    "voivodeship": "podlaskie",
+    "city": "Zabłudów",
+    "street": "ul. Grzegorza Chodkiewicza",
+    "coordinates": {
+      "lat": 53.21041194543066,
+      "lng": 23.021510906789572
+    },
+    "isNearBorder": false,
+    "areaM2": 900,
+    "currentPrice": 120000,
+    "currentPricePerM2": 133.33,
+    "initialPrice": 120000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 120000,
+        "pricePerM2": 133.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/46/28/41046a_aeca_cover@2x-dzialka-rolno-budowlana-bialostocki-zabludow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260068",
+    "source": "adresowo",
+    "sourceId": "4260068",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rod-suwalki-400-m2-w9o2e9",
+    "propertyType": "plot",
+    "title": "Działka — Suwałki",
+    "voivodeship": "podlaskie",
+    "city": "Suwałki",
+    "coordinates": {
+      "lat": 53.06274852354624,
+      "lng": 23.17842333749005
+    },
+    "isNearBorder": false,
+    "areaM2": 400,
+    "currentPrice": 239000,
+    "currentPricePerM2": 597.5,
+    "initialPrice": 239000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 239000,
+        "pricePerM2": 597.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7c/23/4100e4_ff26_cover@2x-dzialka-rod-suwalki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259798",
+    "source": "adresowo",
+    "sourceId": "4259798",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-wasilkow-jurowce-937-m2-e0e3o7",
+    "propertyType": "plot",
+    "title": "Działka — Jurowce",
+    "voivodeship": "podlaskie",
+    "city": "Jurowce",
+    "coordinates": {
+      "lat": 53.03774857995975,
+      "lng": 23.34312776576783
+    },
+    "isNearBorder": false,
+    "areaM2": 937,
+    "currentPrice": 224880,
+    "currentPricePerM2": 240,
+    "initialPrice": 224880,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 224880,
+        "pricePerM2": 240
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7f/69/40ffd6_9cd3_cover@2x-dzialka-budowlana-bialostocki-jurowce.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259796",
+    "source": "adresowo",
+    "sourceId": "4259796",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-czarna-bialostocka-lapczyn-1-255-m2-w2x0e9",
+    "propertyType": "plot",
+    "title": "Działka — Łapczyn",
+    "voivodeship": "podlaskie",
+    "city": "Łapczyn",
+    "coordinates": {
+      "lat": 53.02196100116276,
+      "lng": 23.10637988157476
+    },
+    "isNearBorder": false,
+    "areaM2": 1255,
+    "currentPrice": 87000,
+    "currentPricePerM2": 69.32,
+    "initialPrice": 87000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 87000,
+        "pricePerM2": 69.32
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3a/6b/40ffd4_5de8_cover@2x-dzialka-budowlana-bialostocki-lapczyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259240",
+    "source": "adresowo",
+    "sourceId": "4259240",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-augustow-ul-spokojna-c9v8s0",
+    "propertyType": "plot",
+    "title": "Działka — Augustów, ul. Spokojna",
+    "voivodeship": "podlaskie",
+    "city": "Augustów",
+    "street": "ul. Spokojna",
+    "coordinates": {
+      "lat": 53.27173482261759,
+      "lng": 23.094651189813035
+    },
+    "isNearBorder": false,
+    "areaM2": 2908,
+    "currentPrice": 299000,
+    "currentPricePerM2": 102.82,
+    "initialPrice": 299000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 299000,
+        "pricePerM2": 102.82
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/79/7e/40fda8_b43a_cover@2x-dzialka-rolno-budowlana-augustowski-augustow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4258974",
+    "source": "adresowo",
+    "sourceId": "4258974",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-piatnica-jeziorko-1-000-m2-q7l5b5",
+    "propertyType": "plot",
+    "title": "Działka — Jeziorko",
+    "voivodeship": "podlaskie",
+    "city": "Jeziorko",
+    "coordinates": {
+      "lat": 53.24235784172442,
+      "lng": 23.058767304346958
+    },
+    "isNearBorder": false,
+    "areaM2": 1000,
+    "currentPrice": 100000,
+    "currentPricePerM2": 100,
+    "initialPrice": 100000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 100000,
+        "pricePerM2": 100
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/53/65/40fc9e_32aa_cover@2x-dzialka-budowlana-lomzynski-jeziorko.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4258964",
+    "source": "adresowo",
+    "sourceId": "4258964",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rod-czarna-bialostocka-ul-wiosenna-x3h2a4",
+    "propertyType": "plot",
+    "title": "Działka — Czarna Białostocka, ul. Wiosenna",
+    "voivodeship": "podlaskie",
+    "city": "Czarna Białostocka",
+    "street": "ul. Wiosenna",
+    "coordinates": {
+      "lat": 53.059233082347255,
+      "lng": 23.301537038351565
+    },
+    "isNearBorder": false,
+    "areaM2": 350,
+    "currentPrice": 31000,
+    "currentPricePerM2": 88.57,
+    "initialPrice": 31000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 31000,
+        "pricePerM2": 88.57
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6d/12/40fc94_4c36_cover@2x-dzialka-rod-bialostocki-czarna-bialostocka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259790",
+    "source": "adresowo",
+    "sourceId": "4259790",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-grabowka-sobolewo-ul-podlaska-y0a6l7",
+    "propertyType": "plot",
+    "title": "Działka — Sobolewo, ul. Podlaska",
+    "voivodeship": "podlaskie",
+    "city": "Sobolewo",
+    "street": "ul. Podlaska",
+    "coordinates": {
+      "lat": 53.16701385721087,
+      "lng": 23.057717156317477
+    },
+    "isNearBorder": false,
+    "areaM2": 946,
+    "currentPrice": 369000,
+    "currentPricePerM2": 390.06,
+    "initialPrice": 369000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 369000,
+        "pricePerM2": 390.06
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/69/26/40ffce_ffbc_cover@2x-dzialka-budowlana-bialostocki-sobolewo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259788",
+    "source": "adresowo",
+    "sourceId": "4259788",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-wasilkow-jurowce-940-m2-k4r1s8",
+    "propertyType": "plot",
+    "title": "Działka — Jurowce",
+    "voivodeship": "podlaskie",
+    "city": "Jurowce",
+    "coordinates": {
+      "lat": 53.23356633572171,
+      "lng": 23.165880899695672
+    },
+    "isNearBorder": false,
+    "areaM2": 940,
+    "currentPrice": 235000,
+    "currentPricePerM2": 250,
+    "initialPrice": 235000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 235000,
+        "pricePerM2": 250
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/15/46/40ffcc_945f_cover@2x-dzialka-budowlana-bialostocki-jurowce.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4257692",
+    "source": "adresowo",
+    "sourceId": "4257692",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rod-sejny-1-500-m2-a6j8s0",
+    "propertyType": "plot",
+    "title": "Działka — Sejny",
+    "voivodeship": "podlaskie",
+    "city": "Sejny",
+    "coordinates": {
+      "lat": 53.14123322710978,
+      "lng": 23.258735479155664
+    },
+    "isNearBorder": false,
+    "areaM2": 1500,
+    "currentPrice": 26000,
+    "currentPricePerM2": 17.33,
+    "initialPrice": 26000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 26000,
+        "pricePerM2": 17.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4d/7b/40f79c_6822_cover@2x-dzialka-rod-sejnenski-sejny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4257682",
+    "source": "adresowo",
+    "sourceId": "4257682",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rod-wysokie-mazowieckie-370-m2-v2z7e2",
+    "propertyType": "plot",
+    "title": "Działka — Wysokie Mazowieckie",
+    "voivodeship": "podlaskie",
+    "city": "Wysokie Mazowieckie",
+    "coordinates": {
+      "lat": 53.02754714124232,
+      "lng": 23.317759272033683
+    },
+    "isNearBorder": false,
+    "areaM2": 370,
+    "currentPrice": 45000,
+    "currentPricePerM2": 121.62,
+    "initialPrice": 45000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 45000,
+        "pricePerM2": 121.62
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/57/11/40f792_3167_cover@2x-dzialka-rod-wysokomazowiecki-wysokie-mazowieckie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4257678",
+    "source": "adresowo",
+    "sourceId": "4257678",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-kulesze-koscielne-1-500-m2-x0k2k0",
+    "propertyType": "plot",
+    "title": "Działka — Kulesze Kościelne",
+    "voivodeship": "podlaskie",
+    "city": "Kulesze Kościelne",
+    "coordinates": {
+      "lat": 53.23075617467242,
+      "lng": 23.059358827716935
+    },
+    "isNearBorder": false,
+    "areaM2": 1500,
+    "currentPrice": 95000,
+    "currentPricePerM2": 63.33,
+    "initialPrice": 95000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 95000,
+        "pricePerM2": 63.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/35/2a/40f78e_2e43_cover@2x-dzialka-budowlana-wysokomazowiecki-kulesze-koscielne.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259786",
+    "source": "adresowo",
+    "sourceId": "4259786",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-suchowola-brukowo-3-081-m2-a1x9i2",
+    "propertyType": "plot",
+    "title": "Działka — Brukowo",
+    "voivodeship": "podlaskie",
+    "city": "Brukowo",
+    "coordinates": {
+      "lat": 53.271145323293666,
+      "lng": 23.233615460370142
+    },
+    "isNearBorder": false,
+    "areaM2": 3081,
+    "currentPrice": 154050,
+    "currentPricePerM2": 50,
+    "initialPrice": 154050,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 154050,
+        "pricePerM2": 50
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4f/12/40ffca_4f58_cover@2x-dzialka-budowlana-sokolski-brukowo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259782",
+    "source": "adresowo",
+    "sourceId": "4259782",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-zabludow-lubniki-2-540-m2-w5a6x2",
+    "propertyType": "plot",
+    "title": "Działka — Łubniki",
+    "voivodeship": "podlaskie",
+    "city": "Łubniki",
+    "coordinates": {
+      "lat": 53.14754818962502,
+      "lng": 23.258480411145197
+    },
+    "isNearBorder": false,
+    "areaM2": 2540,
+    "currentPrice": 355600,
+    "currentPricePerM2": 140,
+    "initialPrice": 355600,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 355600,
+        "pricePerM2": 140
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/23/5d/40ffc6_f22a_cover@2x-dzialka-budowlana-bialostocki-lubniki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4257546",
+    "source": "adresowo",
+    "sourceId": "4257546",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kuznica-lososna-wielka-1-ha-u9w3e1",
+    "propertyType": "plot",
+    "title": "Działka — Łosośna Wielka",
+    "voivodeship": "podlaskie",
+    "city": "Łosośna Wielka",
+    "coordinates": {
+      "lat": 53.076818406680054,
+      "lng": 23.236880544881622
+    },
+    "isNearBorder": false,
+    "areaM2": 1.03,
+    "currentPrice": 100000,
+    "currentPricePerM2": 97087.38,
+    "initialPrice": 100000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 100000,
+        "pricePerM2": 97087.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3b/51/40f70a_5768_cover@2x-dzialka-siedliskowa-sokolski-lososna-wielka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4256916",
+    "source": "adresowo",
+    "sourceId": "4256916",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-perlejewo-osnowka-4-ha-k2y2q9",
+    "propertyType": "plot",
+    "title": "Działka — Osnówka",
+    "voivodeship": "podlaskie",
+    "city": "Osnówka",
+    "coordinates": {
+      "lat": 53.2887027190262,
+      "lng": 23.006788126573188
+    },
+    "isNearBorder": false,
+    "areaM2": 4.35,
+    "currentPrice": 550000,
+    "currentPricePerM2": 126436.78,
+    "initialPrice": 550000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 550000,
+        "pricePerM2": 126436.78
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/21/72/40f494_5b48_cover@2x-dzialka-rolna-siemiatycki-osnowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4256538",
+    "source": "adresowo",
+    "sourceId": "4256538",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kolno-koziol-970-m2-a5p1a8",
+    "propertyType": "plot",
+    "title": "Działka — Kozioł",
+    "voivodeship": "podlaskie",
+    "city": "Kozioł",
+    "coordinates": {
+      "lat": 53.2271740311108,
+      "lng": 23.132307161275122
+    },
+    "isNearBorder": false,
+    "areaM2": 970,
+    "currentPrice": 210000,
+    "currentPricePerM2": 216.49,
+    "initialPrice": 210000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 210000,
+        "pricePerM2": 216.49
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5c/71/40f31a_b11b_cover@2x-dzialka-siedliskowa-kolnenski-koziol.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259780",
+    "source": "adresowo",
+    "sourceId": "4259780",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-grabowka-zascianki-ul-ziemianska-e2y5r6",
+    "propertyType": "plot",
+    "title": "Działka — Zaścianki, ul. Ziemiańska",
+    "voivodeship": "podlaskie",
+    "city": "Zaścianki",
+    "street": "ul. Ziemiańska",
+    "coordinates": {
+      "lat": 53.084377903406434,
+      "lng": 23.132333058988216
+    },
+    "isNearBorder": false,
+    "areaM2": 923,
+    "currentPrice": 258000,
+    "currentPricePerM2": 279.52,
+    "initialPrice": 258000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 258000,
+        "pricePerM2": 279.52
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/44/50/40ffc4_561f_cover@2x-dzialka-budowlana-bialostocki-zascianki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259774",
+    "source": "adresowo",
+    "sourceId": "4259774",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-jedwabne-burzyn-ul-krotka-w9a4j9",
+    "propertyType": "plot",
+    "title": "Działka — Burzyn, ul. Krótka",
+    "voivodeship": "podlaskie",
+    "city": "Burzyn",
+    "street": "ul. Krótka",
+    "coordinates": {
+      "lat": 53.21795645889513,
+      "lng": 23.10724579309488
+    },
+    "isNearBorder": false,
+    "areaM2": 1056,
+    "currentPrice": 65000,
+    "currentPricePerM2": 61.55,
+    "initialPrice": 65000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 65000,
+        "pricePerM2": 61.55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/22/2f/40ffbe_b2db_cover@2x-dzialka-budowlana-lomzynski-burzyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4256358",
+    "source": "adresowo",
+    "sourceId": "4256358",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-bielsk-podlaski-ul-scaleniowa-u5s6z3",
+    "propertyType": "plot",
+    "title": "Działka — Bielsk Podlaski, ul. Scaleniowa",
+    "voivodeship": "podlaskie",
+    "city": "Bielsk Podlaski",
+    "street": "ul. Scaleniowa",
+    "coordinates": {
+      "lat": 53.11211504640884,
+      "lng": 23.22958575209673
+    },
+    "isNearBorder": false,
+    "areaM2": 850,
+    "currentPrice": 103000,
+    "currentPricePerM2": 121.18,
+    "initialPrice": 103000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 103000,
+        "pricePerM2": 121.18
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/62/60/40f266_660d_cover@2x-dzialka-budowlana-bielski-bielsk-podlaski.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4256344",
+    "source": "adresowo",
+    "sourceId": "4256344",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-bialystok-ul-chlopska-t9m1o1",
+    "propertyType": "plot",
+    "title": "Działka — Białystok Wygoda, ul. Chłopska",
+    "voivodeship": "podlaskie",
+    "city": "Białystok Wygoda",
+    "street": "ul. Chłopska",
+    "coordinates": {
+      "lat": 53.11019523792927,
+      "lng": 23.162770144030198
+    },
+    "isNearBorder": false,
+    "areaM2": 608,
+    "currentPrice": 549000,
+    "currentPricePerM2": 902.96,
+    "initialPrice": 549000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 549000,
+        "pricePerM2": 902.96
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3a/1e/40f258_ef9e_cover@2x-dzialka-budowlana-bialystok.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4256276",
+    "source": "adresowo",
+    "sourceId": "4256276",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-suwalki-nowa-wies-995-m2-q9h4g7",
+    "propertyType": "plot",
+    "title": "Działka — Nowa Wieś",
+    "voivodeship": "podlaskie",
+    "city": "Nowa Wieś",
+    "coordinates": {
+      "lat": 53.155810843959195,
+      "lng": 23.10473948563128
+    },
+    "isNearBorder": false,
+    "areaM2": 995,
+    "currentPrice": 145000,
+    "currentPricePerM2": 145.73,
+    "initialPrice": 145000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 145000,
+        "pricePerM2": 145.73
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7d/3f/40f214_9e34_cover@2x-dzialka-budowlana-suwalski-nowa-wies.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259772",
+    "source": "adresowo",
+    "sourceId": "4259772",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-lomza-stare-kupiski-ul-swierkowa-k5t6l3",
+    "propertyType": "plot",
+    "title": "Działka — Stare Kupiski, ul. Świerkowa",
+    "voivodeship": "podlaskie",
+    "city": "Stare Kupiski",
+    "street": "ul. Świerkowa",
+    "coordinates": {
+      "lat": 53.299684118010255,
+      "lng": 23.20250797286196
+    },
+    "isNearBorder": false,
+    "areaM2": 656,
+    "currentPrice": 131200,
+    "currentPricePerM2": 200,
+    "initialPrice": 131200,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 131200,
+        "pricePerM2": 200
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/31/7a/40ffbc_4318_cover@2x-dzialka-budowlana-lomzynski-stare-kupiski.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259770",
+    "source": "adresowo",
+    "sourceId": "4259770",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-juchnowiec-koscielny-ignatki-ul-przemyslowa-t6n0o5",
+    "propertyType": "plot",
+    "title": "Działka — Ignatki, ul. Przemysłowa",
+    "voivodeship": "podlaskie",
+    "city": "Ignatki",
+    "street": "ul. Przemysłowa",
+    "coordinates": {
+      "lat": 53.014235456384455,
+      "lng": 23.161286051084662
+    },
+    "isNearBorder": false,
+    "areaM2": 718,
+    "currentPrice": 193860,
+    "currentPricePerM2": 270,
+    "initialPrice": 193860,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 193860,
+        "pricePerM2": 270
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/38/5d/40ffba_d628_cover@2x-dzialka-budowlana-bialostocki-ignatki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4256200",
+    "source": "adresowo",
+    "sourceId": "4256200",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-hajnowka-stare-berezowo-5-400-m2-t9a1b5",
+    "propertyType": "plot",
+    "title": "Działka — Stare Berezowo",
+    "voivodeship": "podlaskie",
+    "city": "Stare Berezowo",
+    "coordinates": {
+      "lat": 53.203096487134125,
+      "lng": 23.2404976727652
+    },
+    "isNearBorder": false,
+    "areaM2": 5400,
+    "currentPrice": 230000,
+    "currentPricePerM2": 42.59,
+    "initialPrice": 230000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 230000,
+        "pricePerM2": 42.59
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6e/69/40f1c8_f6d6_cover@2x-dzialka-budowlana-hajnowski-stare-berezowo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4255834",
+    "source": "adresowo",
+    "sourceId": "4255834",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-zabludow-skrybicze-1-390-m2-i4y5n6",
+    "propertyType": "plot",
+    "title": "Działka — Skrybicze",
+    "voivodeship": "podlaskie",
+    "city": "Skrybicze",
+    "coordinates": {
+      "lat": 53.11178142103632,
+      "lng": 23.315921449056333
+    },
+    "isNearBorder": false,
+    "areaM2": 1390,
+    "currentPrice": 278000,
+    "currentPricePerM2": 200,
+    "initialPrice": 278000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 278000,
+        "pricePerM2": 200
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/59/6c/40f05a_843d_cover@2x-dzialka-budowlana-bialostocki-skrybicze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4255826",
+    "source": "adresowo",
+    "sourceId": "4255826",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-szudzialowo-wierzchlesie-3-300-m2-o3i3g1",
+    "propertyType": "plot",
+    "title": "Działka — Wierzchlesie",
+    "voivodeship": "podlaskie",
+    "city": "Wierzchlesie",
+    "coordinates": {
+      "lat": 53.17802287213142,
+      "lng": 23.149749631642432
+    },
+    "isNearBorder": false,
+    "areaM2": 3300,
+    "currentPrice": 180000,
+    "currentPricePerM2": 54.55,
+    "initialPrice": 180000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 180000,
+        "pricePerM2": 54.55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6e/56/40f052_7781_cover@2x-dzialka-budowlana-sokolski-wierzchlesie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259768",
+    "source": "adresowo",
+    "sourceId": "4259768",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-wasilkow-jurowce-1-ha-a7x3f6",
+    "propertyType": "plot",
+    "title": "Działka — Jurowce",
+    "voivodeship": "podlaskie",
+    "city": "Jurowce",
+    "coordinates": {
+      "lat": 53.254686000788496,
+      "lng": 23.148979947513453
+    },
+    "isNearBorder": false,
+    "areaM2": 1.13,
+    "currentPrice": 1500000,
+    "currentPricePerM2": 1327433.63,
+    "initialPrice": 1500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1500000,
+        "pricePerM2": 1327433.63
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/73/1c/40ffb8_d8b4_cover@2x-dzialka-rolna-bialostocki-jurowce.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259766",
+    "source": "adresowo",
+    "sourceId": "4259766",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-narew-puchly-2-574-m2-x9a9g8",
+    "propertyType": "plot",
+    "title": "Działka — Puchły",
+    "voivodeship": "podlaskie",
+    "city": "Puchły",
+    "coordinates": {
+      "lat": 53.155898325320855,
+      "lng": 23.194588909936947
+    },
+    "isNearBorder": false,
+    "areaM2": 2574,
+    "currentPrice": 167000,
+    "currentPricePerM2": 64.88,
+    "initialPrice": 167000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 167000,
+        "pricePerM2": 64.88
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7c/1a/40ffb6_9160_cover@2x-dzialka-budowlana-hajnowski-puchly.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4255362",
+    "source": "adresowo",
+    "sourceId": "4255362",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-suwalki-ul-krakowska-u2l4j9",
+    "propertyType": "plot",
+    "title": "Działka — Suwałki Papiernia, ul. Krakowska",
+    "voivodeship": "podlaskie",
+    "city": "Suwałki Papiernia",
+    "street": "ul. Krakowska",
+    "coordinates": {
+      "lat": 53.122868791633806,
+      "lng": 23.177087465318415
+    },
+    "isNearBorder": false,
+    "areaM2": 7523,
+    "currentPrice": 890000,
+    "currentPricePerM2": 118.3,
+    "initialPrice": 890000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 890000,
+        "pricePerM2": 118.3
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/23/6c/40ee82_51f2_cover@2x-dzialka-rolno-budowlana-suwalki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4254944",
+    "source": "adresowo",
+    "sourceId": "4254944",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-filipow-ul-fabryczna-x1f1b2",
+    "propertyType": "plot",
+    "title": "Działka — Filipów, ul. Fabryczna",
+    "voivodeship": "podlaskie",
+    "city": "Filipów",
+    "street": "ul. Fabryczna",
+    "coordinates": {
+      "lat": 53.17451720733587,
+      "lng": 23.02633462567208
+    },
+    "isNearBorder": false,
+    "areaM2": 1200,
+    "currentPrice": 150000,
+    "currentPricePerM2": 125,
+    "initialPrice": 150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 150000,
+        "pricePerM2": 125
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/38/22/40ece0_7a6a_cover@2x-dzialka-budowlana-suwalski-filipow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259762",
+    "source": "adresowo",
+    "sourceId": "4259762",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-juchnowiec-koscielny-lewickie-859-m2-b6s3c8",
+    "propertyType": "plot",
+    "title": "Działka — Lewickie",
+    "voivodeship": "podlaskie",
+    "city": "Lewickie",
+    "coordinates": {
+      "lat": 53.19699818640362,
+      "lng": 23.3118487644385
+    },
+    "isNearBorder": false,
+    "areaM2": 859,
+    "currentPrice": 174000,
+    "currentPricePerM2": 202.56,
+    "initialPrice": 174000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 174000,
+        "pricePerM2": 202.56
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6f/57/40ffb2_d97c_cover@2x-dzialka-budowlana-bialostocki-lewickie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259760",
+    "source": "adresowo",
+    "sourceId": "4259760",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-juchnowiec-koscielny-janowicze-3-001-m2-x0m7h2",
+    "propertyType": "plot",
+    "title": "Działka — Janowicze",
+    "voivodeship": "podlaskie",
+    "city": "Janowicze",
+    "coordinates": {
+      "lat": 53.22377109435261,
+      "lng": 23.244872486128042
+    },
+    "isNearBorder": false,
+    "areaM2": 3001,
+    "currentPrice": 70000,
+    "currentPricePerM2": 23.33,
+    "initialPrice": 70000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 70000,
+        "pricePerM2": 23.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:01.985Z",
+    "lastSeenAt": "2026-09-17T21:51:04.394Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/74/19/40ffb0_c98b_cover@2x-dzialka-rolna-bialostocki-janowicze.webp",
+    "isDirectOwner": true
+  }
+]

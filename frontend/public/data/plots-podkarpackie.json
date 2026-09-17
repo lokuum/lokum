@@ -1,0 +1,2533 @@
+[
+  {
+    "id": "otodom-68432759",
+    "source": "otodom",
+    "sourceId": "68432759",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-rolna-5ha-stary-lubliniec-na-sprzedaz-70-000-ha-ID4D8ub",
+    "propertyType": "plot",
+    "title": "Działka rolna 5ha, Stary Lubliniec, na sprzedaż, 70.000/ha",
+    "voivodeship": "podkarpackie",
+    "county": "lubaczowski",
+    "city": "Stary Lubliniec",
+    "coordinates": {
+      "lat": 50.13723537200024,
+      "lng": 22.255819606742243
+    },
+    "isNearBorder": true,
+    "areaM2": 50000,
+    "currentPrice": 350000,
+    "currentPricePerM2": 7,
+    "initialPrice": 350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 350000,
+        "pricePerM2": 7
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:00:50.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68432739",
+    "source": "otodom",
+    "sourceId": "68432739",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/kompleks-dzialek-0-48-ha-u-podnoza-gory-liwocz-ID4D8tR",
+    "propertyType": "plot",
+    "title": "Kompleks działek 0,48 ha u podnóża góry Liwocz",
+    "voivodeship": "podkarpackie",
+    "county": "jasielski",
+    "city": "Błażkowa",
+    "coordinates": {
+      "lat": 49.855025426923234,
+      "lng": 22.17867231719982
+    },
+    "isNearBorder": false,
+    "areaM2": 4775,
+    "currentPrice": 195000,
+    "currentPricePerM2": 40.84,
+    "initialPrice": 195000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 195000,
+        "pricePerM2": 40.84
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T20:46:04.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InYyeHA0bnl0aXJvMzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Fcvo0MpIMBkbc3kvizzxyNFN8W2b2vSsK2mSYcdTbMY/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67930895",
+    "source": "otodom",
+    "sourceId": "67930895",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-pod-zabudowe-jednorodzinna-mpzp-tarnobrzeg-ul-ocicka-ID4B1WB",
+    "propertyType": "plot",
+    "title": "Działki pod zabudowę jednorodzinną | MPZP | Tarnobrzeg, ul. Ocicka",
+    "voivodeship": "podkarpackie",
+    "city": "Tarnobrzeg",
+    "street": "ul. Ocicka",
+    "coordinates": {
+      "lat": 49.852117213644796,
+      "lng": 22.30582542134878
+    },
+    "isNearBorder": false,
+    "areaM2": 875,
+    "currentPrice": 96250,
+    "currentPricePerM2": 110,
+    "initialPrice": 96250,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 96250,
+        "pricePerM2": 110
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T19:47:02.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InIwajluN3NjNG9ncDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.4MQnUl93EAcbpLPcTfYUDlPHiboRNJE3X9IedUr5VPs/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68173663",
+    "source": "otodom",
+    "sourceId": "68173663",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gotowa-do-budowy-dzialka-15-ar-z-wz-ID4C35d",
+    "propertyType": "plot",
+    "title": "Gotowa do budowy! Działka 15 ar z WZ",
+    "voivodeship": "podkarpackie",
+    "county": "kolbuszowski",
+    "city": "Raniżów",
+    "street": "os. Lisy",
+    "coordinates": {
+      "lat": 50.08520598791714,
+      "lng": 22.208014968051657
+    },
+    "isNearBorder": false,
+    "areaM2": 1530,
+    "currentPrice": 179000,
+    "currentPricePerM2": 116.99,
+    "initialPrice": 179000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 179000,
+        "pricePerM2": 116.99
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T18:07:18.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZzNjEydzV1cjdlZTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ASAOAhtC5F04ojHNsn_qsFycdCCO5Oh9WYuADFbtswY/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67338205",
+    "source": "otodom",
+    "sourceId": "67338205",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-inwestycyjna-sandomierz-przy-ulicy-dzialkowcow-obok-dhl-ID4yxK5",
+    "propertyType": "plot",
+    "title": "DZIAŁKA INWESTYCYJNA SANDOMIERZ przy ulicy Działkowców Obok DHL",
+    "voivodeship": "podkarpackie",
+    "county": "sandomierski",
+    "city": "Sandomierz",
+    "street": "ul. Działkowców",
+    "coordinates": {
+      "lat": 50.066908662296974,
+      "lng": 22.116306949706996
+    },
+    "isNearBorder": false,
+    "areaM2": 3000,
+    "currentPrice": 349999,
+    "currentPricePerM2": 116.67,
+    "initialPrice": 349999,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 349999,
+        "pricePerM2": 116.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T17:56:55.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRmcTFodnpjd2FqcjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.E3jQQBnqUlXI1EJpf2EyRZJD-WPfaJV-C3RELeyFsxE/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68432308",
+    "source": "otodom",
+    "sourceId": "68432308",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/ul-bialogorska-10-minut-do-millenium-hall-ID4D8mU",
+    "propertyType": "plot",
+    "title": "ul. Białogórska - 10 minut do Millenium Hall",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "ul. Białogórska",
+    "coordinates": {
+      "lat": 50.010094232630486,
+      "lng": 22.414946861107364
+    },
+    "isNearBorder": false,
+    "areaM2": 1314,
+    "currentPrice": 213000,
+    "currentPricePerM2": 162.1,
+    "initialPrice": 213000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 213000,
+        "pricePerM2": 162.1
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T17:54:01.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InYweWpsZTdzMGp6dDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7iYTxYot54TkhV_93aLwCxtHee45-eg1f32a_czijKk/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68432117",
+    "source": "otodom",
+    "sourceId": "68432117",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/grzegorzowka-2-02-ha-z-pasem-zabudowy-i-dostepem-do-drogi-asfaltowej-ID4D8jP",
+    "propertyType": "plot",
+    "title": "Grzegorzówka – 2,02 ha z pasem zabudowy i dostępem do drogi asfaltowej",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Grzegorzówka",
+    "street": "Zadział",
+    "coordinates": {
+      "lat": 49.76953684750911,
+      "lng": 22.462216955936892
+    },
+    "isNearBorder": false,
+    "areaM2": 20200,
+    "currentPrice": 170000,
+    "currentPricePerM2": 8.42,
+    "initialPrice": 170000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 170000,
+        "pricePerM2": 8.42
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T16:52:57.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imtlc2Nnd3NiaTRnMzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.o7MO89tfphZCvqyvJDnrBtfFMhH_vNXIvhPVxptz39k/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68141186",
+    "source": "otodom",
+    "sourceId": "68141186",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/centrum-mielca-mpzp-dom-uslugi-ID4BUDo",
+    "propertyType": "plot",
+    "title": "Centrum Mielca | Mpzp | Dom/Usługi",
+    "voivodeship": "podkarpackie",
+    "county": "mielecki",
+    "city": "Mielec",
+    "coordinates": {
+      "lat": 50.055651386231204,
+      "lng": 22.29070274201286
+    },
+    "isNearBorder": false,
+    "areaM2": 1332,
+    "currentPrice": 499000,
+    "currentPricePerM2": 374.62,
+    "initialPrice": 499000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 499000,
+        "pricePerM2": 374.62
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T16:00:19.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhoMG96NWRjc3I5OTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VcYVoryZqdgbuGMGcnuV-sQU_7QXO1gUgLnemomvaCs/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68422382",
+    "source": "otodom",
+    "sourceId": "68422382",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-z-pnb-wielorodzinne-rzeszow-staroniwa-ID4D5MO",
+    "propertyType": "plot",
+    "title": "Działka z PnB wielorodzinne Rzeszów-Staroniwa",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "ul. Zawiszy Czarnego",
+    "coordinates": {
+      "lat": 50.12896357981402,
+      "lng": 22.290014264195964
+    },
+    "isNearBorder": false,
+    "areaM2": 1908,
+    "currentPrice": 3272000,
+    "currentPricePerM2": 1714.88,
+    "initialPrice": 3272000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 3272000,
+        "pricePerM2": 1714.88
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T14:57:21.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InB1cDF5bTdodjA1ZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3PDUc7kXW7ErfHJV3Gvnitpny85s3PYkFoekhuCTsgg/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68431619",
+    "source": "otodom",
+    "sourceId": "68431619",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dwie-dzialki-z-wz-zabudowa-zagrodowa-sudoly-ID4D8bN",
+    "propertyType": "plot",
+    "title": "Dwie działki z Wz | Zabudowa zagrodowa | Sudoły",
+    "voivodeship": "podkarpackie",
+    "county": "stalowowolski",
+    "city": "Pysznica",
+    "street": "ul. Wiśniowa",
+    "coordinates": {
+      "lat": 50.113905734560554,
+      "lng": 22.360119448418892
+    },
+    "isNearBorder": false,
+    "areaM2": 928,
+    "currentPrice": 111360,
+    "currentPricePerM2": 120,
+    "initialPrice": 111360,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 111360,
+        "pricePerM2": 120
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T14:25:09.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InprZzUxdzloZGtkYTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.N_qpY_S_jHws6c72lnKjwQwEKbRqM4UWGlkyKQHFE0c/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68431517",
+    "source": "otodom",
+    "sourceId": "68431517",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/23-61-ar-na-szczycie-ropczyc-rezerwacja-ID4D8a9",
+    "propertyType": "plot",
+    "title": "23,61 Ar Na Szczycie Ropczyc – Rezerwacja!",
+    "voivodeship": "podkarpackie",
+    "county": "ropczycko-sędziszowski",
+    "city": "Ropczyce",
+    "street": "Śródmieście",
+    "coordinates": {
+      "lat": 49.82076155614786,
+      "lng": 22.10861819064316
+    },
+    "isNearBorder": false,
+    "areaM2": 2361,
+    "currentPrice": 189000,
+    "currentPricePerM2": 80.05,
+    "initialPrice": 189000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 189000,
+        "pricePerM2": 80.05
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T14:05:28.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU4Zm5pdGlndWh1Ny1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.z2y-K8vghNfBomc-DFulGU8eyRSbBdU2Kim7kr6ZTeE/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-64547101",
+    "source": "otodom",
+    "sourceId": "64547101",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-dzialke-w-tarnobrzegu-super-lokalizacja-ID4mPEh",
+    "propertyType": "plot",
+    "title": "Sprzedam działkę w Tarnobrzegu (super lokalizacja)",
+    "voivodeship": "podkarpackie",
+    "city": "Tarnobrzeg",
+    "street": "ul. Wisłostrada",
+    "coordinates": {
+      "lat": 50.09483556532968,
+      "lng": 22.297594673792172
+    },
+    "isNearBorder": false,
+    "areaM2": 17963,
+    "currentPrice": 2800000,
+    "currentPricePerM2": 155.88,
+    "initialPrice": 2800000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 2800000,
+        "pricePerM2": 155.88
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T14:02:25.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhqaXVlMXg0ZzhxeDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uA3rnJcHLwO1cShQoAB86TmeYmhceeYueLkdE0cSvRE/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68429268",
+    "source": "otodom",
+    "sourceId": "68429268",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/atrakcyjne-dzialki-budowlane7-5a-9-9a-22-9a-lezajsk-ul-fiolkowa-ID4D7zS",
+    "propertyType": "plot",
+    "title": "Atrakcyjne działki budowlane–7,5a | 9,9a | 22,9a Leżajsk, ul. Fiołkowa",
+    "voivodeship": "podkarpackie",
+    "county": "leżajski",
+    "city": "Leżajsk",
+    "street": "ul. Fiołkowa",
+    "coordinates": {
+      "lat": 49.75142009894828,
+      "lng": 22.162450759376647
+    },
+    "isNearBorder": false,
+    "areaM2": 754,
+    "currentPrice": 170000,
+    "currentPricePerM2": 225.46,
+    "initialPrice": 170000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 170000,
+        "pricePerM2": 225.46
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T13:49:09.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRmOGkyMmIwM3doeS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.JNtX0YUcgZfmoFWMiPjTn6zUjueLvaVOmBKdKrhJ0jA/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68269634",
+    "source": "otodom",
+    "sourceId": "68269634",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-atrakcyjne-dzialki-budowlane-ksiaznice-k-mielca-ID4Cs38",
+    "propertyType": "plot",
+    "title": "Na sprzedaż atrakcyjne działki budowlane – Książnice k. Mielca",
+    "voivodeship": "podkarpackie",
+    "county": "mielecki",
+    "city": "Książnice",
+    "coordinates": {
+      "lat": 49.893087314916365,
+      "lng": 22.432985766506224
+    },
+    "isNearBorder": false,
+    "areaM2": 3150,
+    "currentPrice": 299000,
+    "currentPricePerM2": 94.92,
+    "initialPrice": 299000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 299000,
+        "pricePerM2": 94.92
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:44:22.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijl0c3Nza2U1MjIxcjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._MKfdhPv-rOUCQ-5c3ZQaiAU4ZCShw-xiOaq7tErk0I/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68422199",
+    "source": "otodom",
+    "sourceId": "68422199",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-o-pow-2404-m2-w-spokojnej-miejscowosci-ID4D5JR",
+    "propertyType": "plot",
+    "title": "Działka o pow. 2404 m2 w spokojnej miejscowości",
+    "voivodeship": "podkarpackie",
+    "county": "biłgorajski",
+    "city": "Zamch",
+    "coordinates": {
+      "lat": 49.819243413745156,
+      "lng": 22.41140586100552
+    },
+    "isNearBorder": false,
+    "areaM2": 2404,
+    "currentPrice": 78000,
+    "currentPricePerM2": 32.45,
+    "initialPrice": 78000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 78000,
+        "pricePerM2": 32.45
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:39:00.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijhhc2J0Z2Z1cjlzMzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qpH4E8jlL1GXPM6scThTidPBPakW9w1QrbvlYVfdtJk/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-66971091",
+    "source": "otodom",
+    "sourceId": "66971091",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-w-super-lokalizacji-ID4x0eT",
+    "propertyType": "plot",
+    "title": "Działka w super Lokalizacji !!!",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Rudna Mała",
+    "coordinates": {
+      "lat": 49.77323770034372,
+      "lng": 22.177732990714407
+    },
+    "isNearBorder": false,
+    "areaM2": 1603,
+    "currentPrice": 349000,
+    "currentPricePerM2": 217.72,
+    "initialPrice": 349000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 349000,
+        "pricePerM2": 217.72
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:19:45.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM4NjVtYjY0bWk1bTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ZRuach0SwLubbqXtVeadJnQMK6Wswq8TCcLQuCx4QkY/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68070404",
+    "source": "otodom",
+    "sourceId": "68070404",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-18-ar-w-cichej-i-spokojnej-okolicy-ID4BCdK",
+    "propertyType": "plot",
+    "title": "Działka 18 Ar w Cichej i spokojnej Okolicy!",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "Rodzinna",
+    "coordinates": {
+      "lat": 50.04393165176542,
+      "lng": 22.374130207826415
+    },
+    "isNearBorder": false,
+    "areaM2": 1861,
+    "currentPrice": 465000,
+    "currentPricePerM2": 249.87,
+    "initialPrice": 465000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 465000,
+        "pricePerM2": 249.87
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:19:40.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJ2b3V2Mmwycmg5dC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.4jEyJSi0_14Gply7549v0hWQV-r_JcISEPThw4jDBFQ/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68268774",
+    "source": "otodom",
+    "sourceId": "68268774",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/atrakcyjna-nieruchomosc-w-strefie-przemyslowej81ar-ID4CrPg",
+    "propertyType": "plot",
+    "title": "Atrakcyjna Nieruchomośc w strefie Przemysłowej81Ar",
+    "voivodeship": "podkarpackie",
+    "county": "ropczycko-sędziszowski",
+    "city": "Ropczyce",
+    "street": "Przemysłowa",
+    "coordinates": {
+      "lat": 49.807951555862736,
+      "lng": 22.24315749195544
+    },
+    "isNearBorder": false,
+    "areaM2": 8089,
+    "currentPrice": 1999000,
+    "currentPricePerM2": 247.13,
+    "initialPrice": 1999000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1999000,
+        "pricePerM2": 247.13
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:17:34.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQyOW9vdHB0bnV5MzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Qm67_egQayOn7YAhICnC6IM237asflXO0S8ZMkZv2vw/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68343533",
+    "source": "otodom",
+    "sourceId": "68343533",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-widokowa-z-wz-w-malowniczej-okolicy-25ar-ID4CLh3",
+    "propertyType": "plot",
+    "title": "Działka widokowa z WZ w malowniczej okolicy ! 25ar",
+    "voivodeship": "podkarpackie",
+    "county": "ropczycko-sędziszowski",
+    "city": "Niedźwiada",
+    "coordinates": {
+      "lat": 50.01207205772756,
+      "lng": 22.360725038308193
+    },
+    "isNearBorder": false,
+    "areaM2": 2500,
+    "currentPrice": 79000,
+    "currentPricePerM2": 31.6,
+    "initialPrice": 79000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 79000,
+        "pricePerM2": 31.6
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:14:59.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQ0OWlsZ3l1dG9kYzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Bs0bAsdXZyDzI5nNF0HkWgX22Z-jfhsEqqgT9DJXqKw/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68368022",
+    "source": "otodom",
+    "sourceId": "68368022",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/piekna-dzialka-z-wz-super-lokalizacja-polecam-ID4CRE2",
+    "propertyType": "plot",
+    "title": "Piękna działka z WZ / Super lokalizacja Polecam !",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Sokołów Małopolski",
+    "street": "Leśna",
+    "coordinates": {
+      "lat": 49.91575638864985,
+      "lng": 22.1487225450389
+    },
+    "isNearBorder": false,
+    "areaM2": 1308,
+    "currentPrice": 222000,
+    "currentPricePerM2": 169.72,
+    "initialPrice": 222000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 222000,
+        "pricePerM2": 169.72
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:11:45.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inh1azRkc2hmMG9rMTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.B7NfC_SIy2b5whg1-Qd0hMf7HhoUsat59mWyU0BM0f4/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68368103",
+    "source": "otodom",
+    "sourceId": "68368103",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-widokowa-cicha-i-spokojna-okolica-ID4CRFl",
+    "propertyType": "plot",
+    "title": "Działka widokowa  Cicha i spokojna okolica !!",
+    "voivodeship": "podkarpackie",
+    "county": "ropczycko-sędziszowski",
+    "city": "Wiśniowa",
+    "coordinates": {
+      "lat": 49.777567023900055,
+      "lng": 22.463583416907664
+    },
+    "isNearBorder": false,
+    "areaM2": 13338,
+    "currentPrice": 109000,
+    "currentPricePerM2": 8.17,
+    "initialPrice": 109000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 109000,
+        "pricePerM2": 8.17
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:11:01.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlvZG9nYzZvcGt2YS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.IIYH7uaXlRdu-AZ5uPboc7yg3khYoMXsLraGmAehaFs/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68397979",
+    "source": "otodom",
+    "sourceId": "68397979",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-inwestycyjne-8-347-m-kolbuszowa-ID4CZrd",
+    "propertyType": "plot",
+    "title": "Działki inwestycyjne 8 347 m² – Kolbuszowa",
+    "voivodeship": "podkarpackie",
+    "county": "kolbuszowski",
+    "city": "Kolbuszowa",
+    "street": "Krakowska",
+    "coordinates": {
+      "lat": 50.109300571102835,
+      "lng": 22.430607169648933
+    },
+    "isNearBorder": false,
+    "areaM2": 8347,
+    "currentPrice": 1050000,
+    "currentPricePerM2": 125.79,
+    "initialPrice": 1050000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1050000,
+        "pricePerM2": 125.79
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T12:10:35.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjI0cGl0c2FtaDBsajItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8jtcKpp56KclvFwR5wHAp6eASGt4Eh_XIqEvQ8FfLMw/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68250995",
+    "source": "otodom",
+    "sourceId": "68250995",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-biala-ii-obr-224-ID4Cncw",
+    "propertyType": "plot",
+    "title": "Działka budowlana Biała II obr 224",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "ul. Białogórska",
+    "coordinates": {
+      "lat": 49.85805547000107,
+      "lng": 22.28430041731549
+    },
+    "isNearBorder": false,
+    "areaM2": 1360,
+    "currentPrice": 213000,
+    "currentPricePerM2": 156.62,
+    "initialPrice": 213000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 213000,
+        "pricePerM2": 156.62
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T10:53:30.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im11dmowcmhhcm9jNTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Mkv9dutvq6qIsT0W-UCk_dQs06Drzef7W5B3sYDIlHM/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67705808",
+    "source": "otodom",
+    "sourceId": "67705808",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-pod-inwestycje-ID4A5na",
+    "propertyType": "plot",
+    "title": "Działka pod inwestycję",
+    "voivodeship": "podkarpackie",
+    "county": "ropczycko-sędziszowski",
+    "city": "Sędziszów Małopolski",
+    "coordinates": {
+      "lat": 50.0781091155786,
+      "lng": 22.389673095460587
+    },
+    "isNearBorder": false,
+    "areaM2": 12500,
+    "currentPrice": 3690000,
+    "currentPricePerM2": 295.2,
+    "initialPrice": 3690000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 3690000,
+        "pricePerM2": 295.2
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T10:37:37.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNmNzhoZXVjaTVubS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.LhbUfjccwoW7yXj7XI7r_W92vP4KLp_5iQ8pMlDYblg/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67515349",
+    "source": "otodom",
+    "sourceId": "67515349",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/piekna-widokowa-dzialka-z-warunkami-zabudowy-ID4zhPf",
+    "propertyType": "plot",
+    "title": "Piękna widokowa działka z Warunkami zabudowy",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Harta",
+    "coordinates": {
+      "lat": 49.756875296867776,
+      "lng": 22.253760617862298
+    },
+    "isNearBorder": false,
+    "areaM2": 2500,
+    "currentPrice": 119000,
+    "currentPricePerM2": 47.6,
+    "initialPrice": 119000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 119000,
+        "pricePerM2": 47.6
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T09:06:48.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im92OGRzdTlhbTBlYTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Uxhn2UYNyxbhp3mxSFouQeF8aXGCDFo_jDP7dXhay5o/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67640240",
+    "source": "otodom",
+    "sourceId": "67640240",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-z-wz-i-wlasnym-lasem-rzeszow-16-arow-ID4zOjC",
+    "propertyType": "plot",
+    "title": "Działka z WZ i Własnym Lasem Rzeszów 16 arów",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "coordinates": {
+      "lat": 49.84796344502554,
+      "lng": 22.32317799666135
+    },
+    "isNearBorder": false,
+    "areaM2": 1600,
+    "currentPrice": 199000,
+    "currentPricePerM2": 124.38,
+    "initialPrice": 199000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 199000,
+        "pricePerM2": 124.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T09:06:39.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNobG4yc2R5bWNmMjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bTkoTbMbTbJ3SdCA2g-3r5QzWk_KnpA-AtTOhtoNxiQ/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67724540",
+    "source": "otodom",
+    "sourceId": "67724540",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-dwie-dzialki-z-kazda-wz-slocina-ID4Aafi",
+    "propertyType": "plot",
+    "title": "Sprzedam dwie działki z każda WZ słocina",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "coordinates": {
+      "lat": 49.8092395107369,
+      "lng": 22.31125040875024
+    },
+    "isNearBorder": false,
+    "areaM2": 1000,
+    "currentPrice": 320000,
+    "currentPricePerM2": 320,
+    "initialPrice": 320000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 320000,
+        "pricePerM2": 320
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T09:05:06.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF2YzdoMzZ3czB1MTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GHqBv9G2iJt695aVJcBj0hr8RVGZNVupbHN4r6nrcko/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67906192",
+    "source": "otodom",
+    "sourceId": "67906192",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-z-wz-chmielnik-ID4AWwa",
+    "propertyType": "plot",
+    "title": "Działka budowlana z WZ – Chmielnik",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Chmielnik",
+    "coordinates": {
+      "lat": 50.04359059804063,
+      "lng": 22.235133810838246
+    },
+    "isNearBorder": false,
+    "areaM2": 1000,
+    "currentPrice": 115000,
+    "currentPricePerM2": 115,
+    "initialPrice": 115000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 115000,
+        "pricePerM2": 115
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T09:04:24.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQyYW16NGloN3QxZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.X_zrzDkN_U4j-GbRPdk0ryP3zIMWtN7a7mm01MBilvI/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68429393",
+    "source": "otodom",
+    "sourceId": "68429393",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-inwestycyjna-27-56-ar-lutoryz-ID4D7BT",
+    "propertyType": "plot",
+    "title": "Działka inwestycyjna 27,56 ar – Lutoryż",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Lutoryż",
+    "coordinates": {
+      "lat": 49.92297713815739,
+      "lng": 22.359502297427408
+    },
+    "isNearBorder": false,
+    "areaM2": 2756,
+    "currentPrice": 427000,
+    "currentPricePerM2": 154.93,
+    "initialPrice": 427000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 427000,
+        "pricePerM2": 154.93
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T08:59:31.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9mcjhxOHYyYno2ODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.piqbPngqRHt73xN5b2aLfI9CcXaTEvm9Ihc0zigM00M/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67817238",
+    "source": "otodom",
+    "sourceId": "67817238",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-49-ar-z-wz-widokowa-borek-stary-ID4Aymq",
+    "propertyType": "plot",
+    "title": "Działka budowlana 49 ar z WZ, widokowa – Borek Stary",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Borek Stary",
+    "coordinates": {
+      "lat": 50.051231099742,
+      "lng": 22.101842708874543
+    },
+    "isNearBorder": false,
+    "areaM2": 4900,
+    "currentPrice": 489000,
+    "currentPricePerM2": 99.8,
+    "initialPrice": 489000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 489000,
+        "pricePerM2": 99.8
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T08:45:01.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im0xejJ1dGJtajU2ZS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.y99ED6mvShyLx_RSzTterkTq1lPEvbV5ogtgjKSVRvQ/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-54231476",
+    "source": "otodom",
+    "sourceId": "54231476",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-na-sprzedaz-swietna-lokalizacja-w-przemyslu-ID3Fy5e",
+    "propertyType": "plot",
+    "title": "Działka budowlana na sprzedaż-świetna lokalizacja w Przemyślu",
+    "voivodeship": "podkarpackie",
+    "city": "Przemyśl",
+    "street": "ul.Paderewskiego",
+    "coordinates": {
+      "lat": 49.950130617980435,
+      "lng": 22.331643299287496
+    },
+    "isNearBorder": false,
+    "areaM2": 2697,
+    "currentPrice": 499000,
+    "currentPricePerM2": 185.02,
+    "initialPrice": 499000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 499000,
+        "pricePerM2": 185.02
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T08:41:43.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InB3NjE2b2c3d3MxeTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ud3EWvkTO1SdsWtlz-VeFXMiZlTAT62kVxI-r1kTu4k/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68345358",
+    "source": "otodom",
+    "sourceId": "68345358",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/9-5ar-pozwolenie-na-budowe-ul-matysowska-ID4CLKu",
+    "propertyType": "plot",
+    "title": "9,5ar, Pozwolenie na budowę, ul. Matysowska",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "Matysowska",
+    "coordinates": {
+      "lat": 50.021915422813265,
+      "lng": 22.387256076488836
+    },
+    "isNearBorder": false,
+    "areaM2": 950,
+    "currentPrice": 399000,
+    "currentPricePerM2": 420,
+    "initialPrice": 399000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 399000,
+        "pricePerM2": 420
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T07:18:39.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVtcHlhcjRhbjUxdC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.9qYz8P0QkUNnu6KzUUhvJbhoyxUlrWUWNERQIn34l5I/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68428764",
+    "source": "otodom",
+    "sourceId": "68428764",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-inwestycyjna-z-wz-w-centrum-krosna-ID4D7rK",
+    "propertyType": "plot",
+    "title": "Działka inwestycyjna z Wz w centrum Krosna",
+    "voivodeship": "podkarpackie",
+    "city": "Krosno",
+    "coordinates": {
+      "lat": 49.832945450543285,
+      "lng": 22.466548796064203
+    },
+    "isNearBorder": false,
+    "areaM2": 1112,
+    "currentPrice": 270000,
+    "currentPricePerM2": 242.81,
+    "initialPrice": 270000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 270000,
+        "pricePerM2": 242.81
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T06:45:49.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1iNmJraDB6N2hmbTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yBO0oVVBCgpGRcl7Y9vp_6DQMaSJufacLJW5acpzzXk/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67528422",
+    "source": "otodom",
+    "sourceId": "67528422",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/33-ha-teren-inwestycyjny-przemysl-logistyka-6-km-rzeszow-ID4zle6",
+    "propertyType": "plot",
+    "title": "33 ha teren inwestycyjny - przemysł/logistyka - 6 km Rzeszów",
+    "voivodeship": "podkarpackie",
+    "county": "łańcucki",
+    "city": "Krzemienica",
+    "coordinates": {
+      "lat": 49.97878424188748,
+      "lng": 22.33760542290557
+    },
+    "isNearBorder": false,
+    "areaM2": 331526,
+    "currentPrice": 92827280,
+    "currentPricePerM2": 280,
+    "initialPrice": 92827280,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 92827280,
+        "pricePerM2": 280
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T05:41:38.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZjbjJ5cm5yNndnYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cvXUGy7rdxZdYUcrh6SMZx5uZoskbBAlh1JpoI_elXI/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-66947761",
+    "source": "otodom",
+    "sourceId": "66947761",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-na-sprzedaz-przy-parku-handlowym-w-ropczycach-ID4vUaB",
+    "propertyType": "plot",
+    "title": "Działka na sprzedaż przy parku handlowym w Ropczycach",
+    "voivodeship": "podkarpackie",
+    "county": "ropczycko-sędziszowski",
+    "city": "Ropczyce",
+    "street": "ul. Kolejowa",
+    "coordinates": {
+      "lat": 49.84994898839716,
+      "lng": 22.49352313806041
+    },
+    "isNearBorder": false,
+    "areaM2": 11000,
+    "currentPrice": 1998000,
+    "currentPricePerM2": 181.64,
+    "initialPrice": 1998000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 1998000,
+        "pricePerM2": 181.64
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T03:40:42.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5mc3hja3U2MTQ1YTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fHeYCVDxsvriMm6K3HHOXN5ihQn5-4lL68y9T8n7dAg/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67139738",
+    "source": "otodom",
+    "sourceId": "67139738",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-z-wz-solonka-gm-lubenia-ID4xI70",
+    "propertyType": "plot",
+    "title": "Działka budowlana z WZ Sołonka gm. Lubenia",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Sołonka",
+    "coordinates": {
+      "lat": 50.13071724018493,
+      "lng": 22.274301309883505
+    },
+    "isNearBorder": false,
+    "areaM2": 1416,
+    "currentPrice": 128000,
+    "currentPricePerM2": 90.4,
+    "initialPrice": 128000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 128000,
+        "pricePerM2": 90.4
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T21:34:22.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRwcG16YjEyY2o2YTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Q3Sq_XEvroIRo9wMZSo2iOYKR3i-YlsEYTiod3JksFg/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-96843275900067",
+    "source": "otodom",
+    "sourceId": "96843275900067",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-rolna-5ha-stary-lubliniec-na-sprzedaz-70-000-ha-ID4D8ub",
+    "propertyType": "plot",
+    "title": "Działka rolna 5ha, Stary Lubliniec, na sprzedaż, 70.000/ha",
+    "voivodeship": "podkarpackie",
+    "county": "lubaczowski",
+    "city": "Stary Lubliniec",
+    "coordinates": {
+      "lat": 50.08397904813346,
+      "lng": 22.105714355708024
+    },
+    "isNearBorder": true,
+    "areaM2": 50000,
+    "currentPrice": 350000,
+    "currentPricePerM2": 7,
+    "initialPrice": 350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 350000,
+        "pricePerM2": 7
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "1999-02-28T23:00:01.000Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4257254",
+    "source": "adresowo",
+    "sourceId": "4257254",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-czudec-ul-lesna-b7k5g7",
+    "propertyType": "plot",
+    "title": "Działka — Czudec Leśniczówka, ul. Leśna",
+    "voivodeship": "podkarpackie",
+    "city": "Czudec Leśniczówka",
+    "street": "ul. Leśna",
+    "coordinates": {
+      "lat": 49.83357321053119,
+      "lng": 22.260536561611833
+    },
+    "isNearBorder": false,
+    "areaM2": 1400,
+    "currentPrice": 196000,
+    "currentPricePerM2": 140,
+    "initialPrice": 196000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 196000,
+        "pricePerM2": 140
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/20/26/40f5e6_abf5_cover@2x-dzialka-budowlana-strzyzowski-czudec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261816",
+    "source": "adresowo",
+    "sourceId": "4261816",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-jarocin-brak-l6g4t0",
+    "propertyType": "plot",
+    "title": "Działka — Jarocin Zadworze, Brak",
+    "voivodeship": "podkarpackie",
+    "city": "Jarocin Zadworze",
+    "street": "Brak",
+    "coordinates": {
+      "lat": 49.90891048964573,
+      "lng": 22.449949065140476
+    },
+    "isNearBorder": false,
+    "areaM2": 1500,
+    "currentPrice": 99000,
+    "currentPricePerM2": 66,
+    "initialPrice": 99000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 99000,
+        "pricePerM2": 66
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/38/70/4107b8_32e5_cover@2x-dzialka-budowlana-nizanski-jarocin.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4256864",
+    "source": "adresowo",
+    "sourceId": "4256864",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-rzeszow-ul-debicka-z8j6a7",
+    "propertyType": "plot",
+    "title": "Działka — Rzeszów, ul. Dębicka",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "ul. Dębicka",
+    "coordinates": {
+      "lat": 50.01413932412402,
+      "lng": 22.262329793407073
+    },
+    "isNearBorder": false,
+    "areaM2": 973,
+    "currentPrice": 369000,
+    "currentPricePerM2": 379.24,
+    "initialPrice": 369000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 369000,
+        "pricePerM2": 379.24
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/73/3e/40f460_4e2a_cover@2x-dzialka-budowlana-rzeszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4255982",
+    "source": "adresowo",
+    "sourceId": "4255982",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-debowiec-radosc-5-200-m2-w2l5n0",
+    "propertyType": "plot",
+    "title": "Działka — Radość",
+    "voivodeship": "podkarpackie",
+    "city": "Radość",
+    "coordinates": {
+      "lat": 50.12272429730835,
+      "lng": 22.470215110820437
+    },
+    "isNearBorder": false,
+    "areaM2": 5200,
+    "currentPrice": 338000,
+    "currentPricePerM2": 65,
+    "initialPrice": 338000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 338000,
+        "pricePerM2": 65
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/20/34/40f0ee_2aec_cover@2x-dzialka-budowlana-jasielski-radosc.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261658",
+    "source": "adresowo",
+    "sourceId": "4261658",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-lezajsk-ul-fiolkowa-g6h0h6",
+    "propertyType": "plot",
+    "title": "Działka — Leżajsk, ul. Fiołkowa",
+    "voivodeship": "podkarpackie",
+    "city": "Leżajsk",
+    "street": "ul. Fiołkowa",
+    "coordinates": {
+      "lat": 49.92582936267632,
+      "lng": 22.442136741894938
+    },
+    "isNearBorder": false,
+    "areaM2": 754,
+    "currentPrice": 170000,
+    "currentPricePerM2": 225.46,
+    "initialPrice": 170000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 170000,
+        "pricePerM2": 225.46
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/42/15/41071a_f19b_cover@2x-dzialka-budowlana-lezajski-lezajsk.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261630",
+    "source": "adresowo",
+    "sourceId": "4261630",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rod-stalowa-wola-300-m2-p0y8u7",
+    "propertyType": "plot",
+    "title": "Działka — Stalowa Wola",
+    "voivodeship": "podkarpackie",
+    "city": "Stalowa Wola",
+    "coordinates": {
+      "lat": 49.88370579134342,
+      "lng": 22.319499409467056
+    },
+    "isNearBorder": false,
+    "areaM2": 300,
+    "currentPrice": 44000,
+    "currentPricePerM2": 146.67,
+    "initialPrice": 44000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 44000,
+        "pricePerM2": 146.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/26/24/4106fe_4242_cover@2x-dzialka-rod-stalowowolski-stalowa-wola.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261428",
+    "source": "adresowo",
+    "sourceId": "4261428",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-rymanow-klimkowka-ul-osiedlowa-p4a8l7",
+    "propertyType": "plot",
+    "title": "Działka — Klimkówka, ul. Osiedlowa",
+    "voivodeship": "podkarpackie",
+    "city": "Klimkówka",
+    "street": "ul. Osiedlowa",
+    "coordinates": {
+      "lat": 50.09023156210767,
+      "lng": 22.1287997537896
+    },
+    "isNearBorder": false,
+    "areaM2": 22,
+    "currentPrice": 209000,
+    "currentPricePerM2": 9500,
+    "initialPrice": 209000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 209000,
+        "pricePerM2": 9500
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/72/5a/410634_eec6_cover@2x-dzialka-budowlana-krosnienski-klimkowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4254942",
+    "source": "adresowo",
+    "sourceId": "4254942",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-jaroslaw-1-824-m2-h0e1r9",
+    "propertyType": "plot",
+    "title": "Działka — Jarosław, Widna Góra",
+    "voivodeship": "podkarpackie",
+    "city": "Jarosław",
+    "street": "Widna Góra",
+    "coordinates": {
+      "lat": 50.03722276392473,
+      "lng": 22.425881276458938
+    },
+    "isNearBorder": false,
+    "areaM2": 1824,
+    "currentPrice": 146000,
+    "currentPricePerM2": 80.04,
+    "initialPrice": 146000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 146000,
+        "pricePerM2": 80.04
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7a/5d/40ecde_77a4_cover@2x-dzialka-budowlana-jaroslawski-jaroslaw.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4254920",
+    "source": "adresowo",
+    "sourceId": "4254920",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-dukla-leki-dukielskie-5-100-m2-p9z3h6",
+    "propertyType": "plot",
+    "title": "Działka — Łęki Dukielskie",
+    "voivodeship": "podkarpackie",
+    "city": "Łęki Dukielskie",
+    "coordinates": {
+      "lat": 50.02429387473418,
+      "lng": 22.39892422814939
+    },
+    "isNearBorder": false,
+    "areaM2": 5100,
+    "currentPrice": 80000,
+    "currentPricePerM2": 15.69,
+    "initialPrice": 80000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 80000,
+        "pricePerM2": 15.69
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/43/66/40ecc8_ffc6_cover@2x-dzialka-siedliskowa-krosnienski-leki-dukielskie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261408",
+    "source": "adresowo",
+    "sourceId": "4261408",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-jasliska-lipowiec-1-ha-d4v2x0",
+    "propertyType": "plot",
+    "title": "Działka — Lipowiec",
+    "voivodeship": "podkarpackie",
+    "city": "Lipowiec",
+    "coordinates": {
+      "lat": 49.88482382456796,
+      "lng": 22.321766106208344
+    },
+    "isNearBorder": false,
+    "areaM2": 1.61,
+    "currentPrice": 320000,
+    "currentPricePerM2": 198757.76,
+    "initialPrice": 320000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 320000,
+        "pricePerM2": 198757.76
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4d/58/410620_fe93_cover@2x-dzialka-rolna-krosnienski-lipowiec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261156",
+    "source": "adresowo",
+    "sourceId": "4261156",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-tryncza-gorzyce-1-850-m2-y1c2p5",
+    "propertyType": "plot",
+    "title": "Działka — Gorzyce",
+    "voivodeship": "podkarpackie",
+    "city": "Gorzyce",
+    "coordinates": {
+      "lat": 49.91266777583842,
+      "lng": 22.47311019060139
+    },
+    "isNearBorder": false,
+    "areaM2": 1850,
+    "currentPrice": 148000,
+    "currentPricePerM2": 80,
+    "initialPrice": 148000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 148000,
+        "pricePerM2": 80
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6b/2f/410524_fff7_cover@2x-dzialka-budowlana-przeworski-gorzyce.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260904",
+    "source": "adresowo",
+    "sourceId": "4260904",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-radomysl-wielki-zgorsko-1-200-m2-z4v1q5",
+    "propertyType": "plot",
+    "title": "Działka — Zgórsko",
+    "voivodeship": "podkarpackie",
+    "city": "Zgórsko",
+    "coordinates": {
+      "lat": 49.871027392254476,
+      "lng": 22.443030616361735
+    },
+    "isNearBorder": false,
+    "areaM2": 1200,
+    "currentPrice": 180000,
+    "currentPricePerM2": 150,
+    "initialPrice": 180000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 180000,
+        "pricePerM2": 150
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4b/4a/410428_7fb4_cover@2x-dzialka-budowlana-mielecki-zgorsko.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4253984",
+    "source": "adresowo",
+    "sourceId": "4253984",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-sanok-kostarowce-3-773-m2-g1t9y3",
+    "propertyType": "plot",
+    "title": "Działka — Kostarowce",
+    "voivodeship": "podkarpackie",
+    "city": "Kostarowce",
+    "coordinates": {
+      "lat": 49.957267037795354,
+      "lng": 22.37740025420743
+    },
+    "isNearBorder": false,
+    "areaM2": 3773,
+    "currentPrice": 150000,
+    "currentPricePerM2": 39.76,
+    "initialPrice": 150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 150000,
+        "pricePerM2": 39.76
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/24/74/40e920_a301_cover@2x-dzialka-budowlana-sanocki-kostarowce.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4252218",
+    "source": "adresowo",
+    "sourceId": "4252218",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-ustrzyki-dolne-hoszow-2-934-m2-q5e1f7",
+    "propertyType": "plot",
+    "title": "Działka — Hoszów",
+    "voivodeship": "podkarpackie",
+    "city": "Hoszów",
+    "coordinates": {
+      "lat": 49.9537867917041,
+      "lng": 22.42635873731865
+    },
+    "isNearBorder": false,
+    "areaM2": 2934,
+    "currentPrice": 299000,
+    "currentPricePerM2": 101.91,
+    "initialPrice": 299000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 299000,
+        "pricePerM2": 101.91
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/65/30/40e23a_6be3_cover@2x-dzialka-budowlana-bieszczadzki-hoszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260888",
+    "source": "adresowo",
+    "sourceId": "4260888",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-kolbuszowa-nowa-wies-5-855-m2-d7k1s9",
+    "propertyType": "plot",
+    "title": "Działka — Nowa Wieś",
+    "voivodeship": "podkarpackie",
+    "city": "Nowa Wieś",
+    "coordinates": {
+      "lat": 50.106960437978174,
+      "lng": 22.139256048241485
+    },
+    "isNearBorder": false,
+    "areaM2": 5855,
+    "currentPrice": 200000,
+    "currentPricePerM2": 34.16,
+    "initialPrice": 200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 200000,
+        "pricePerM2": 34.16
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4c/76/410418_bea5_cover@2x-dzialka-kolbuszowski-nowa-wies.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260872",
+    "source": "adresowo",
+    "sourceId": "4260872",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-debica-pustkow-1-ha-c7d2e2",
+    "propertyType": "plot",
+    "title": "Działka — Pustków",
+    "voivodeship": "podkarpackie",
+    "city": "Pustków",
+    "coordinates": {
+      "lat": 50.01005671189968,
+      "lng": 22.46801625191562
+    },
+    "isNearBorder": false,
+    "areaM2": 1.51,
+    "currentPrice": 2149999,
+    "currentPricePerM2": 1423840.4,
+    "initialPrice": 2149999,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 2149999,
+        "pricePerM2": 1423840.4
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/17/5d/410408_2e7d_cover@2x-dzialka-inwestycyjna-debicki-pustkow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260674",
+    "source": "adresowo",
+    "sourceId": "4260674",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-solina-wolkowyja-3-600-m2-o7s3c4",
+    "propertyType": "plot",
+    "title": "Działka — Wołkowyja",
+    "voivodeship": "podkarpackie",
+    "city": "Wołkowyja",
+    "coordinates": {
+      "lat": 50.05306417478571,
+      "lng": 22.24077715734294
+    },
+    "isNearBorder": false,
+    "areaM2": 3600,
+    "currentPrice": 620000,
+    "currentPricePerM2": 172.22,
+    "initialPrice": 620000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 620000,
+        "pricePerM2": 172.22
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/25/46/410342_fc25_cover@2x-dzialka-budowlana-leski-wolkowyja.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4252204",
+    "source": "adresowo",
+    "sourceId": "4252204",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-glogow-malopolski-rudna-mala-ul-kalinowa-u0x9n9",
+    "propertyType": "plot",
+    "title": "Działka — Rudna Mała, ul. Kalinowa",
+    "voivodeship": "podkarpackie",
+    "city": "Rudna Mała",
+    "street": "ul. Kalinowa",
+    "coordinates": {
+      "lat": 49.903755523570126,
+      "lng": 22.222289872907137
+    },
+    "isNearBorder": false,
+    "areaM2": 1300,
+    "currentPrice": 520000,
+    "currentPricePerM2": 400,
+    "initialPrice": 520000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 520000,
+        "pricePerM2": 400
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/78/56/40e22c_c159_cover@2x-dzialka-rolno-budowlana-rzeszowski-rudna-mala.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4250024",
+    "source": "adresowo",
+    "sourceId": "4250024",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-zagorz-czaszyn-ul-polna-t3o0z5",
+    "propertyType": "plot",
+    "title": "Działka — Czaszyn, ul. Polna",
+    "voivodeship": "podkarpackie",
+    "city": "Czaszyn",
+    "street": "ul. Polna",
+    "coordinates": {
+      "lat": 50.08739166218513,
+      "lng": 22.129121615793352
+    },
+    "isNearBorder": false,
+    "areaM2": 1.17,
+    "currentPrice": 168000,
+    "currentPricePerM2": 143589.74,
+    "initialPrice": 168000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 168000,
+        "pricePerM2": 143589.74
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/72/49/40d9a8_da45_cover@2x-dzialka-budowlana-sanocki-czaszyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260632",
+    "source": "adresowo",
+    "sourceId": "4260632",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-jarocin-majdan-golczanski-4-165-m2-f6i8y1",
+    "propertyType": "plot",
+    "title": "Działka — Majdan Golczański",
+    "voivodeship": "podkarpackie",
+    "city": "Majdan Golczański",
+    "coordinates": {
+      "lat": 49.828602100956225,
+      "lng": 22.345655272279213
+    },
+    "isNearBorder": false,
+    "areaM2": 4165,
+    "currentPrice": 155000,
+    "currentPricePerM2": 37.21,
+    "initialPrice": 155000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 155000,
+        "pricePerM2": 37.21
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7a/23/410318_d6e4_cover@2x-dzialka-budowlana-nizanski-majdan-golczanski.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260048",
+    "source": "adresowo",
+    "sourceId": "4260048",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-jaslo-bierowka-1-678-m2-m2w5j3",
+    "propertyType": "plot",
+    "title": "Działka — Bierówka, Podlas",
+    "voivodeship": "podkarpackie",
+    "city": "Bierówka",
+    "street": "Podlas",
+    "coordinates": {
+      "lat": 50.02150306326315,
+      "lng": 22.240816955532168
+    },
+    "isNearBorder": false,
+    "areaM2": 1678,
+    "currentPrice": 135000,
+    "currentPricePerM2": 80.45,
+    "initialPrice": 135000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 135000,
+        "pricePerM2": 80.45
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/69/23/4100d0_2aba_cover@2x-dzialka-budowlana-jasielski-bierowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259172",
+    "source": "adresowo",
+    "sourceId": "4259172",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-ustrzyki-dolne-ustjanowa-dolna-5-600-m2-m8d2a7",
+    "propertyType": "plot",
+    "title": "Działka — Ustjanowa Dolna",
+    "voivodeship": "podkarpackie",
+    "city": "Ustjanowa Dolna",
+    "coordinates": {
+      "lat": 50.02917793652808,
+      "lng": 22.378833176632178
+    },
+    "isNearBorder": false,
+    "areaM2": 5600,
+    "currentPrice": 400000,
+    "currentPricePerM2": 71.43,
+    "initialPrice": 400000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 400000,
+        "pricePerM2": 71.43
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/17/42/40fd64_5a0c_cover@2x-dzialka-budowlana-bieszczadzki-ustjanowa-dolna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4249782",
+    "source": "adresowo",
+    "sourceId": "4249782",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-lubenia-siedliska-1-113-m2-i4j9g2",
+    "propertyType": "plot",
+    "title": "Działka — Siedliska",
+    "voivodeship": "podkarpackie",
+    "city": "Siedliska",
+    "coordinates": {
+      "lat": 49.92730907821295,
+      "lng": 22.43050995627686
+    },
+    "isNearBorder": false,
+    "areaM2": 1113,
+    "currentPrice": 166950,
+    "currentPricePerM2": 150,
+    "initialPrice": 166950,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 166950,
+        "pricePerM2": 150
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/55/68/40d8b6_a698_cover@2x-dzialka-rolno-budowlana-rzeszowski-siedliska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4249774",
+    "source": "adresowo",
+    "sourceId": "4249774",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-tyczyn-858-m2-k6u3t4",
+    "propertyType": "plot",
+    "title": "Działka — Tyczyn",
+    "voivodeship": "podkarpackie",
+    "city": "Tyczyn",
+    "coordinates": {
+      "lat": 50.03402128438018,
+      "lng": 22.402662507435906
+    },
+    "isNearBorder": false,
+    "areaM2": 858,
+    "currentPrice": 231660,
+    "currentPricePerM2": 270,
+    "initialPrice": 231660,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 231660,
+        "pricePerM2": 270
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1b/6b/40d8ae_a60a_cover@2x-dzialka-budowlana-rzeszowski-tyczyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259070",
+    "source": "adresowo",
+    "sourceId": "4259070",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-rymanow-krolik-woloski-13-ha-a7l5l1",
+    "propertyType": "plot",
+    "title": "Działka — Królik Wołoski",
+    "voivodeship": "podkarpackie",
+    "city": "Królik Wołoski",
+    "coordinates": {
+      "lat": 50.022376729968,
+      "lng": 22.35650470775795
+    },
+    "isNearBorder": false,
+    "areaM2": 13.43,
+    "currentPrice": 599000,
+    "currentPricePerM2": 44601.64,
+    "initialPrice": 599000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 599000,
+        "pricePerM2": 44601.64
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1a/4c/40fcfe_b094_cover@2x-dzialka-rolna-krosnienski-krolik-woloski.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4259004",
+    "source": "adresowo",
+    "sourceId": "4259004",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-ropczyce-gnojnica-1-ha-w5e6o9",
+    "propertyType": "plot",
+    "title": "Działka — Gnojnica, Budy",
+    "voivodeship": "podkarpackie",
+    "city": "Gnojnica",
+    "street": "Budy",
+    "coordinates": {
+      "lat": 50.12447624317313,
+      "lng": 22.318941473903244
+    },
+    "isNearBorder": false,
+    "areaM2": 1.3,
+    "currentPrice": 135000,
+    "currentPricePerM2": 103846.15,
+    "initialPrice": 135000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 135000,
+        "pricePerM2": 103846.15
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2e/6f/40fcbc_2b58_cover@2x-dzialka-budowlana-ropczycko-sedziszowski-gnojnica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4258956",
+    "source": "adresowo",
+    "sourceId": "4258956",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-domaradz-golcowa-1-ha-j0y5m6",
+    "propertyType": "plot",
+    "title": "Działka — Golcowa",
+    "voivodeship": "podkarpackie",
+    "city": "Golcowa",
+    "coordinates": {
+      "lat": 49.78885080392504,
+      "lng": 22.2728937771842
+    },
+    "isNearBorder": false,
+    "areaM2": 1.6,
+    "currentPrice": 85000,
+    "currentPricePerM2": 53125,
+    "initialPrice": 85000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 85000,
+        "pricePerM2": 53125
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4c/7c/40fc8c_89b1_cover@2x-dzialka-rolna-brzozowski-golcowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4249762",
+    "source": "adresowo",
+    "sourceId": "4249762",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-rzeszow-ul-malownicza-n4d7c1",
+    "propertyType": "plot",
+    "title": "Działka — Rzeszów Biała, ul. Malownicza",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów Biała",
+    "street": "ul. Malownicza",
+    "coordinates": {
+      "lat": 50.039711776865765,
+      "lng": 22.45477896648718
+    },
+    "isNearBorder": false,
+    "areaM2": 985,
+    "currentPrice": 541750,
+    "currentPricePerM2": 550,
+    "initialPrice": 541750,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 541750,
+        "pricePerM2": 550
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3c/49/40d8a2_2b55_cover@2x-dzialka-budowlana-rzeszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4248528",
+    "source": "adresowo",
+    "sourceId": "4248528",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-rzeszow-ul-mysliwska-o5y2u0",
+    "propertyType": "plot",
+    "title": "Działka — Rzeszów, ul. Myśliwska",
+    "voivodeship": "podkarpackie",
+    "city": "Rzeszów",
+    "street": "ul. Myśliwska",
+    "coordinates": {
+      "lat": 50.122333917919875,
+      "lng": 22.255941469757357
+    },
+    "isNearBorder": false,
+    "areaM2": 1271,
+    "currentPrice": 395000,
+    "currentPricePerM2": 310.78,
+    "initialPrice": 395000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 395000,
+        "pricePerM2": 310.78
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/73/3d/40d3d0_33fa_cover@2x-dzialka-budowlana-rzeszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4258450",
+    "source": "adresowo",
+    "sourceId": "4258450",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-glogow-malopolski-ul-partyzantow-r4c0y1",
+    "propertyType": "plot",
+    "title": "Działka — Głogów Małopolski, ul. Partyzantów",
+    "voivodeship": "podkarpackie",
+    "city": "Głogów Małopolski",
+    "street": "ul. Partyzantów",
+    "coordinates": {
+      "lat": 49.85826540766866,
+      "lng": 22.466355217849763
+    },
+    "isNearBorder": false,
+    "areaM2": 896,
+    "currentPrice": 190000,
+    "currentPricePerM2": 212.05,
+    "initialPrice": 190000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 190000,
+        "pricePerM2": 212.05
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2f/1d/40fa92_8617_cover@2x-dzialka-budowlana-rzeszowski-glogow-malopolski.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4258022",
+    "source": "adresowo",
+    "sourceId": "4258022",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-kurylowka-1-000-m2-o6t8q3",
+    "propertyType": "plot",
+    "title": "Działka — Kuryłówka",
+    "voivodeship": "podkarpackie",
+    "city": "Kuryłówka",
+    "coordinates": {
+      "lat": 49.85187930423071,
+      "lng": 22.362759381325255
+    },
+    "isNearBorder": false,
+    "areaM2": 1000,
+    "currentPrice": 75000,
+    "currentPricePerM2": 75,
+    "initialPrice": 75000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 75000,
+        "pricePerM2": 75
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4b/74/40f8e6_67cf_cover@2x-dzialka-budowlana-lezajski-kurylowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4257970",
+    "source": "adresowo",
+    "sourceId": "4257970",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rod-tarnobrzeg-340-m2-z1v4w2",
+    "propertyType": "plot",
+    "title": "Działka — Tarnobrzeg",
+    "voivodeship": "podkarpackie",
+    "city": "Tarnobrzeg",
+    "coordinates": {
+      "lat": 49.99079720509035,
+      "lng": 22.319976706586953
+    },
+    "isNearBorder": false,
+    "areaM2": 340,
+    "currentPrice": 39000,
+    "currentPricePerM2": 114.71,
+    "initialPrice": 39000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 39000,
+        "pricePerM2": 114.71
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/31/30/40f8b2_f329_cover@2x-dzialka-rod-tarnobrzeg.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4245814",
+    "source": "adresowo",
+    "sourceId": "4245814",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-boguchwala-lutoryz-2-ha-l6h4l1",
+    "propertyType": "plot",
+    "title": "Działka — Lutoryż",
+    "voivodeship": "podkarpackie",
+    "city": "Lutoryż",
+    "coordinates": {
+      "lat": 50.09659472580848,
+      "lng": 22.156421215264054
+    },
+    "isNearBorder": false,
+    "areaM2": 2.97,
+    "currentPrice": 7425000,
+    "currentPricePerM2": 2500000,
+    "initialPrice": 7425000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 7425000,
+        "pricePerM2": 2500000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/23/1d/40c936_cdf0_cover@2x-dzialka-inwestycyjna-rzeszowski-lutoryz.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4245808",
+    "source": "adresowo",
+    "sourceId": "4245808",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-jedlicze-jaszczew-2-900-m2-e4v7m3",
+    "propertyType": "plot",
+    "title": "Działka — Jaszczew",
+    "voivodeship": "podkarpackie",
+    "city": "Jaszczew",
+    "coordinates": {
+      "lat": 49.89787980012933,
+      "lng": 22.326183545721527
+    },
+    "isNearBorder": false,
+    "areaM2": 2900,
+    "currentPrice": 129000,
+    "currentPricePerM2": 44.48,
+    "initialPrice": 129000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 129000,
+        "pricePerM2": 44.48
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/19/3f/40c930_2ac9_cover@2x-dzialka-budowlana-krosnienski-jaszczew.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4257962",
+    "source": "adresowo",
+    "sourceId": "4257962",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rod-debica-250-m2-q3o2w1",
+    "propertyType": "plot",
+    "title": "Działka — Dębica",
+    "voivodeship": "podkarpackie",
+    "city": "Dębica",
+    "coordinates": {
+      "lat": 49.926085010121156,
+      "lng": 22.18709654038973
+    },
+    "isNearBorder": false,
+    "areaM2": 250,
+    "currentPrice": 49900,
+    "currentPricePerM2": 199.6,
+    "initialPrice": 49900,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 49900,
+        "pricePerM2": 199.6
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/17/36/40f8aa_6c11_cover@2x-dzialka-rod-debicki-debica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4257854",
+    "source": "adresowo",
+    "sourceId": "4257854",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-tarnobrzeg-ul-polna-c4y7h2",
+    "propertyType": "plot",
+    "title": "Działka — Tarnobrzeg, ul. Polna",
+    "voivodeship": "podkarpackie",
+    "city": "Tarnobrzeg",
+    "street": "ul. Polna",
+    "coordinates": {
+      "lat": 49.904095833344826,
+      "lng": 22.36801089241799
+    },
+    "isNearBorder": false,
+    "areaM2": 1.94,
+    "currentPrice": 2500000,
+    "currentPricePerM2": 1288659.79,
+    "initialPrice": 2500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 2500000,
+        "pricePerM2": 1288659.79
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/69/67/40f83e_8757_cover@2x-dzialka-inwestycyjna-tarnobrzeg.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4237576",
+    "source": "adresowo",
+    "sourceId": "4237576",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-ostrow-ocieka-2-285-m2-c1o2i7",
+    "propertyType": "plot",
+    "title": "Działka — Ocieka",
+    "voivodeship": "podkarpackie",
+    "city": "Ocieka",
+    "coordinates": {
+      "lat": 49.81496903683337,
+      "lng": 22.16039536571272
+    },
+    "isNearBorder": false,
+    "areaM2": 2285,
+    "currentPrice": 120000,
+    "currentPricePerM2": 52.52,
+    "initialPrice": 120000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 120000,
+        "pricePerM2": 52.52
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/39/63/40a908_c9d9_cover@2x-dzialka-budowlana-ropczycko-sedziszowski-ocieka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4234716",
+    "source": "adresowo",
+    "sourceId": "4234716",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-miejsce-piastowe-widacz-4-890-m2-p6i3b7",
+    "propertyType": "plot",
+    "title": "Działka — Widacz",
+    "voivodeship": "podkarpackie",
+    "city": "Widacz",
+    "coordinates": {
+      "lat": 50.07975358943321,
+      "lng": 22.397134608035426
+    },
+    "isNearBorder": false,
+    "areaM2": 4890,
+    "currentPrice": 89000,
+    "currentPricePerM2": 18.2,
+    "initialPrice": 89000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 89000,
+        "pricePerM2": 18.2
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T21:51:15.895Z",
+    "lastSeenAt": "2026-09-17T21:51:17.222Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/14/5f/409ddc_dc3c_cover@2x-dzialka-budowlana-krosnienski-widacz.webp",
+    "isDirectOwner": true
+  }
+]
