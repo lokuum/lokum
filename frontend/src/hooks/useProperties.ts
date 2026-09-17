@@ -1,21 +1,20 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import type { FilterState, PropertyOffer, SummaryStats, Voivodeship } from 'shared';
 import { db } from '../db/index.js';
-
-const DEFAULT_FILTERS: FilterState = {
-  tab: 'houses',
-  voivodeship: 'all',
-  sortBy: 'drop_percent_desc',
-  viewMode: 'cards',
-};
+import { parseUrlFilters, syncUrlWithFilters } from '../utils/urlParams.js';
 
 export function useProperties(favorites: Set<string> = new Set()) {
-  const [filters, setFilters] = useState<FilterState>(DEFAULT_FILTERS);
+  // 1. Inicjalizacja stanu filtrów oraz wybranej oferty z parametrów URL (query string)
+  const [initialUrlState] = useState(() => parseUrlFilters());
+  const [filters, setFilters] = useState<FilterState>(initialUrlState.filters);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [summary, setSummary] = useState<SummaryStats | null>(null);
   const [allOffers, setAllOffers] = useState<PropertyOffer[]>([]);
   const [selectedOffer, setSelectedOffer] = useState<PropertyOffer | null>(null);
+
+  const initialOfferIdRef = useRef<string | null>(initialUrlState.selectedOfferId);
+  const previousTabRef = useRef<FilterState['tab']>(initialUrlState.filters.tab);
 
   // Pobieranie danych z plików JSON i zapis do Dexie
   useEffect(() => {
@@ -153,6 +152,48 @@ export function useProperties(favorites: Set<string> = new Set()) {
         return list.sort((a, b) => new Date(b.firstSeenAt).getTime() - new Date(a.firstSeenAt).getTime());
     }
   }, [filteredOffers, filters.sortBy]);
+
+  // 2. Otwórz ofertę z parametru offer=id po załadowaniu danych
+  useEffect(() => {
+    if (initialOfferIdRef.current && allOffers.length > 0 && !selectedOffer) {
+      const found = allOffers.find((o) => o.id === initialOfferIdRef.current);
+      if (found) {
+        setSelectedOffer(found);
+      }
+      initialOfferIdRef.current = null;
+    }
+  }, [allOffers, selectedOffer]);
+
+  // 3. Synchronizacja filtrów, sortowania, widoku i wybranej oferty z URL (query string)
+  useEffect(() => {
+    const isTabChange = filters.tab !== previousTabRef.current;
+    previousTabRef.current = filters.tab;
+
+    const timeout = setTimeout(() => {
+      syncUrlWithFilters(filters, selectedOffer?.id || null, isTabChange);
+    }, 150);
+
+    return () => clearTimeout(timeout);
+  }, [filters, selectedOffer]);
+
+  // 4. Obsługa nawigacji przyciskami Wstecz / Dalej w przeglądarce (popstate)
+  useEffect(() => {
+    const handlePopState = () => {
+      const { filters: nextFilters, selectedOfferId: nextOfferId } = parseUrlFilters();
+      setFilters(nextFilters);
+      previousTabRef.current = nextFilters.tab;
+
+      if (nextOfferId) {
+        const found = allOffers.find((o) => o.id === nextOfferId);
+        if (found) setSelectedOffer(found);
+      } else {
+        setSelectedOffer(null);
+      }
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, [allOffers]);
 
   return {
     offers: sortedOffers,

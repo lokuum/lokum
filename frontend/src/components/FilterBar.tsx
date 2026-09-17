@@ -10,7 +10,19 @@ interface FilterBarProps {
 }
 
 export const FilterBar: React.FC<FilterBarProps> = ({ filters, onChange, filteredCount }) => {
-  const [showAdvanced, setShowAdvanced] = useState(false);
+  const hasActiveAdvanced = Boolean(
+    (filters.minPrice != null && filters.minPrice > 0) ||
+    (filters.maxPrice != null && filters.maxPrice > 0) ||
+    (filters.minPricePerM2 != null && filters.minPricePerM2 > 0) ||
+    (filters.maxPricePerM2 != null && filters.maxPricePerM2 > 0) ||
+    (filters.minArea != null && filters.minArea > 0) ||
+    (filters.maxArea != null && filters.maxArea > 0) ||
+    (filters.minPlotArea != null && filters.minPlotArea > 0) ||
+    (filters.maxPlotArea != null && filters.maxPlotArea > 0) ||
+    (filters.source && filters.source !== 'all')
+  );
+
+  const [showAdvanced, setShowAdvanced] = useState(hasActiveAdvanced);
 
   const update = (partial: Partial<FilterState>) => {
     onChange({ ...filters, ...partial });
@@ -23,6 +35,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({ filters, onChange, filtere
       sortBy: 'drop_percent_desc',
       viewMode: filters.viewMode,
     });
+    setShowAdvanced(false);
   };
 
   return (
@@ -255,6 +268,20 @@ export const FilterBar: React.FC<FilterBarProps> = ({ filters, onChange, filtere
                 </div>
               </div>
             )}
+
+            {/* Source filter */}
+            <div className="space-y-1">
+              <label className="font-medium text-neutral-700">Źródło ogłoszenia</label>
+              <select
+                value={filters.source || 'all'}
+                onChange={(e) => update({ source: e.target.value as FilterState['source'] })}
+                className="w-full px-2 py-1 border border-neutral-300 rounded-md bg-white text-xs text-neutral-700 focus:outline-hidden focus:ring-1 focus:ring-emerald-500"
+              >
+                <option value="all">Wszystkie serwisy</option>
+                <option value="otodom">Tylko Otodom</option>
+                <option value="adresowo">Tylko Adresowo.pl</option>
+              </select>
+            </div>
           </div>
         )}
       </div>
