@@ -1,12 +1,13 @@
 import React from 'react';
 import type { FilterState, SummaryStats } from 'shared';
-import { Home, Trees, Flame, Map, LayoutGrid } from 'lucide-react';
+import { Home, Trees, Flame, Map, LayoutGrid, Heart } from 'lucide-react';
 
 interface HeaderProps {
   filters: FilterState;
   onTabChange: (tab: FilterState['tab']) => void;
   onViewModeChange: (mode: FilterState['viewMode']) => void;
   totalOffers: number;
+  favoritesCount: number;
   summary: SummaryStats | null;
 }
 
@@ -15,6 +16,7 @@ export const Header: React.FC<HeaderProps> = ({
   onTabChange,
   onViewModeChange,
   totalOffers,
+  favoritesCount,
   summary,
 }) => {
   return (
@@ -88,6 +90,26 @@ export const Header: React.FC<HeaderProps> = ({
             >
               <Flame className="size-4" />
               Obniżki cen
+            </button>
+            <button
+              onClick={() => onTabChange('favorites')}
+              className={`flex items-center gap-2 px-3.5 py-2 text-sm font-semibold rounded-lg transition-colors ${
+                filters.tab === 'favorites'
+                  ? 'bg-rose-600 text-white shadow-xs'
+                  : 'text-neutral-600 hover:text-neutral-900 hover:bg-neutral-100'
+              }`}
+            >
+              <Heart className={`size-4 ${favoritesCount > 0 ? 'fill-rose-500 text-rose-500' : ''}`} />
+              <span>Ulubione</span>
+              {favoritesCount > 0 && (
+                <span
+                  className={`text-[11px] px-1.5 py-0.2 rounded-full font-bold ${
+                    filters.tab === 'favorites' ? 'bg-white text-rose-700' : 'bg-rose-100 text-rose-700'
+                  }`}
+                >
+                  {favoritesCount}
+                </span>
+              )}
             </button>
           </nav>
 

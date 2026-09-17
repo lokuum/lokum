@@ -62,7 +62,7 @@ export interface SummaryStats {
 }
 
 export interface FilterState {
-  tab: 'houses' | 'plots' | 'drops';
+  tab: 'houses' | 'plots' | 'drops' | 'favorites';
   voivodeship: Voivodeship | 'all';
   county?: string;
   minPrice?: number;
@@ -76,6 +76,7 @@ export interface FilterState {
   onlyNearBorder?: boolean;
   onlyPriceDrops?: boolean;
   onlyDirectOwner?: boolean;
+  onlyFavorites?: boolean;
   source?: 'all' | 'otodom' | 'adresowo';
   searchQuery?: string;
   sortBy:

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import type { FilterState, Voivodeship } from 'shared';
 import { VOIVODESHIPS } from 'shared';
-import { Search, SlidersHorizontal, RotateCcw, ShieldAlert, Tag, UserCheck } from 'lucide-react';
+import { Search, SlidersHorizontal, RotateCcw, ShieldAlert, Tag, UserCheck, Heart } from 'lucide-react';
 
 interface FilterBarProps {
   filters: FilterState;
@@ -139,6 +139,20 @@ export const FilterBar: React.FC<FilterBarProps> = ({ filters, onChange, filtere
           >
             <UserCheck className="size-3.5" />
             Bez pośredników (prywatne)
+          </button>
+
+          {/* Favorites filter toggle */}
+          <button
+            type="button"
+            onClick={() => update({ onlyFavorites: !filters.onlyFavorites })}
+            className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold border transition-all ${
+              filters.onlyFavorites
+                ? 'bg-rose-600 text-white border-rose-600 shadow-xs'
+                : 'bg-neutral-100 text-neutral-700 border-neutral-200 hover:bg-neutral-200/80'
+            }`}
+          >
+            <Heart className={`size-3.5 ${filters.onlyFavorites ? 'fill-current' : ''}`} />
+            Tylko ulubione
           </button>
 
           {/* Counter text */}

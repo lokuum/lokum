@@ -1,14 +1,21 @@
 import React from 'react';
 import type { PropertyOffer } from 'shared';
 import { formatDate, formatPrice, formatPriceDelta, formatPricePerM2 } from 'shared';
-import { X, TrendingDown, TrendingUp, Calendar, ExternalLink } from 'lucide-react';
+import { X, TrendingDown, TrendingUp, Calendar, ExternalLink, Heart } from 'lucide-react';
 
 interface PriceHistoryModalProps {
   offer: PropertyOffer | null;
+  isFavorite?: boolean;
+  onToggleFavorite?: (id: string) => void;
   onClose: () => void;
 }
 
-export const PriceHistoryModal: React.FC<PriceHistoryModalProps> = ({ offer, onClose }) => {
+export const PriceHistoryModal: React.FC<PriceHistoryModalProps> = ({
+  offer,
+  isFavorite = false,
+  onToggleFavorite,
+  onClose,
+}) => {
   if (!offer) return null;
 
   const isDrop = offer.priceChangeAmount < 0;
@@ -25,12 +32,28 @@ export const PriceHistoryModal: React.FC<PriceHistoryModalProps> = ({ offer, onC
             </span>
             <h3 className="text-base font-bold text-neutral-900 line-clamp-1">{offer.title}</h3>
           </div>
-          <button
-            onClick={onClose}
-            className="p-1.5 text-neutral-400 hover:text-neutral-700 rounded-lg hover:bg-neutral-100 transition-colors"
-          >
-            <X className="size-5" />
-          </button>
+          <div className="flex items-center gap-1">
+            {onToggleFavorite && (
+              <button
+                type="button"
+                onClick={() => onToggleFavorite(offer.id)}
+                className={`p-1.5 rounded-lg transition-colors ${
+                  isFavorite
+                    ? 'text-rose-600 bg-rose-50 hover:bg-rose-100'
+                    : 'text-neutral-400 hover:text-neutral-700 hover:bg-neutral-100'
+                }`}
+                title={isFavorite ? 'Usuń z ulubionych' : 'Dodaj do ulubionych'}
+              >
+                <Heart className={`size-5 ${isFavorite ? 'fill-rose-500 text-rose-500' : ''}`} />
+              </button>
+            )}
+            <button
+              onClick={onClose}
+              className="p-1.5 text-neutral-400 hover:text-neutral-700 rounded-lg hover:bg-neutral-100 transition-colors"
+            >
+              <X className="size-5" />
+            </button>
+          </div>
         </div>
 
         {/* Modal Body */}

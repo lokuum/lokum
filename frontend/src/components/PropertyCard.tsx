@@ -1,14 +1,21 @@
 import React from 'react';
 import type { PropertyOffer } from 'shared';
 import { formatArea, formatDate, formatPrice, formatPriceDelta, formatPricePerM2 } from 'shared';
-import { ExternalLink, History, MapPin, ShieldAlert, Trees, TrendingDown, TrendingUp } from 'lucide-react';
+import { ExternalLink, Heart, History, MapPin, ShieldAlert, Trees, TrendingDown, TrendingUp } from 'lucide-react';
 
 interface PropertyCardProps {
   offer: PropertyOffer;
+  isFavorite: boolean;
+  onToggleFavorite: (id: string) => void;
   onOpenHistory: (offer: PropertyOffer) => void;
 }
 
-export const PropertyCard: React.FC<PropertyCardProps> = ({ offer, onOpenHistory }) => {
+export const PropertyCard: React.FC<PropertyCardProps> = ({
+  offer,
+  isFavorite,
+  onToggleFavorite,
+  onOpenHistory,
+}) => {
   const isDrop = offer.priceChangeAmount < 0 || offer.status === 'price_drop';
   const isIncrease = offer.priceChangeAmount > 0 || offer.status === 'price_increase';
 
@@ -28,6 +35,23 @@ export const PropertyCard: React.FC<PropertyCardProps> = ({ offer, onOpenHistory
             Brak zdjęcia
           </div>
         )}
+
+        {/* Favorite heart button */}
+        <button
+          type="button"
+          onClick={(e) => {
+            e.stopPropagation();
+            onToggleFavorite(offer.id);
+          }}
+          className={`absolute top-2 right-2 p-1.5 rounded-full backdrop-blur-xs transition-all duration-200 shadow-xs z-10 ${
+            isFavorite
+              ? 'bg-white text-rose-500 hover:scale-110 shadow-md'
+              : 'bg-black/30 hover:bg-black/50 text-white hover:scale-110'
+          }`}
+          title={isFavorite ? 'Usuń z ulubionych' : 'Dodaj do ulubionych'}
+        >
+          <Heart className={`size-4 ${isFavorite ? 'fill-rose-500' : ''}`} />
+        </button>
 
         {/* Top badges */}
         <div className="absolute top-2 left-2 flex flex-wrap gap-1.5 max-w-[90%]">

@@ -9,7 +9,7 @@ const DEFAULT_FILTERS: FilterState = {
   viewMode: 'cards',
 };
 
-export function useProperties() {
+export function useProperties(favorites: Set<string> = new Set()) {
   const [filters, setFilters] = useState<FilterState>(DEFAULT_FILTERS);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -69,10 +69,14 @@ export function useProperties() {
   // Filtrowanie i sortowanie po stronie klienta
   const filteredOffers = useMemo(() => {
     return allOffers.filter((item) => {
-      // 1. Filtr zakładki: domy vs działki vs tylko okazje
+      // 1. Filtr zakładki: domy vs działki vs tylko okazje vs ulubione
       if (filters.tab === 'houses' && item.propertyType !== 'house') return false;
       if (filters.tab === 'plots' && item.propertyType !== 'plot') return false;
       if (filters.tab === 'drops' && item.priceChangeAmount >= 0 && item.status !== 'price_drop') return false;
+      if (filters.tab === 'favorites' && !favorites.has(item.id)) return false;
+
+      // Filtr ulubionych (jako przełącznik)
+      if (filters.onlyFavorites && !favorites.has(item.id)) return false;
 
       // 2. Filtr województwa
       if (filters.voivodeship !== 'all' && item.voivodeship !== filters.voivodeship) return false;
@@ -120,7 +124,7 @@ export function useProperties() {
 
       return true;
     });
-  }, [allOffers, filters]);
+  }, [allOffers, filters, favorites]);
 
   // Sortowanie
   const sortedOffers = useMemo(() => {

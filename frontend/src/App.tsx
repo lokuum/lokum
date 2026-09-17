@@ -6,9 +6,12 @@ import { PropertyMap } from './components/PropertyMap.js';
 import { PriceHistoryModal } from './components/PriceHistoryModal.js';
 import { StatsBar } from './components/StatsBar.js';
 import { useProperties } from './hooks/useProperties.js';
-import { Loader2, SearchX } from 'lucide-react';
+import { useFavorites } from './hooks/useFavorites.js';
+import { Loader2, SearchX, Heart } from 'lucide-react';
 
 export const App: React.FC = () => {
+  const { favorites, toggleFavorite, isFavorite, favoritesCount } = useFavorites();
+
   const {
     offers,
     totalCount,
@@ -20,7 +23,7 @@ export const App: React.FC = () => {
     setFilters,
     selectedOffer,
     setSelectedOffer,
-  } = useProperties();
+  } = useProperties(favorites);
 
   const [pageLimit, setPageLimit] = useState(24);
 
@@ -41,6 +44,7 @@ export const App: React.FC = () => {
         }}
         onViewModeChange={(viewMode) => setFilters({ ...filters, viewMode })}
         totalOffers={totalCount}
+        favoritesCount={favoritesCount}
         summary={summary}
       />
 
@@ -70,6 +74,8 @@ export const App: React.FC = () => {
             <PropertyMap
               offers={offers}
               voivodeship={filters.voivodeship}
+              isFavorite={isFavorite}
+              onToggleFavorite={toggleFavorite}
               onOpenHistory={(offer) => setSelectedOffer(offer)}
             />
           </div>
@@ -77,25 +83,49 @@ export const App: React.FC = () => {
           <div>
             {displayedOffers.length === 0 ? (
               <div className="text-center py-16 px-4 bg-white rounded-2xl border border-neutral-200 max-w-md mx-auto space-y-3">
-                <SearchX className="size-10 text-neutral-400 mx-auto" />
-                <h3 className="text-base font-bold text-neutral-800">Brak ofert spełniających kryteria</h3>
-                <p className="text-xs text-neutral-500">
-                  Spróbuj rozszerzyć zakres cenowy, wyczyścić wyszukiwanie lub wybrać inne województwo.
-                </p>
-                <button
-                  type="button"
-                  onClick={() =>
-                    setFilters({
-                      tab: filters.tab,
-                      voivodeship: 'all',
-                      sortBy: 'drop_percent_desc',
-                      viewMode: 'cards',
-                    })
-                  }
-                  className="px-4 py-2 bg-neutral-900 text-white text-xs font-semibold rounded-lg hover:bg-neutral-800 transition-colors"
-                >
-                  Zresetuj filtry
-                </button>
+                {filters.tab === 'favorites' ? (
+                  <>
+                    <Heart className="size-10 text-rose-400 mx-auto" />
+                    <h3 className="text-base font-bold text-neutral-800">Brak ulubionych ofert</h3>
+                    <p className="text-xs text-neutral-500">
+                      Kliknij ikonę serduszka (❤️) w prawym górnym rogu karty dowolnego domu lub działki, aby zachować ją na tej liście. Dane są zapamiętywane w Twojej przeglądarce.
+                    </p>
+                    <button
+                      type="button"
+                      onClick={() =>
+                        setFilters({
+                          ...filters,
+                          tab: 'houses',
+                        })
+                      }
+                      className="px-4 py-2 bg-neutral-900 text-white text-xs font-semibold rounded-lg hover:bg-neutral-800 transition-colors"
+                    >
+                      Przejdź do domów
+                    </button>
+                  </>
+                ) : (
+                  <>
+                    <SearchX className="size-10 text-neutral-400 mx-auto" />
+                    <h3 className="text-base font-bold text-neutral-800">Brak ofert spełniających kryteria</h3>
+                    <p className="text-xs text-neutral-500">
+                      Spróbuj rozszerzyć zakres cenowy, wyczyścić wyszukiwanie lub wybrać inne województwo.
+                    </p>
+                    <button
+                      type="button"
+                      onClick={() =>
+                        setFilters({
+                          tab: filters.tab,
+                          voivodeship: 'all',
+                          sortBy: 'drop_percent_desc',
+                          viewMode: 'cards',
+                        })
+                      }
+                      className="px-4 py-2 bg-neutral-900 text-white text-xs font-semibold rounded-lg hover:bg-neutral-800 transition-colors"
+                    >
+                      Zresetuj filtry
+                    </button>
+                  </>
+                )}
               </div>
             ) : (
               <div className="space-y-6">
@@ -104,6 +134,8 @@ export const App: React.FC = () => {
                     <PropertyCard
                       key={offer.id}
                       offer={offer}
+                      isFavorite={isFavorite(offer.id)}
+                      onToggleFavorite={toggleFavorite}
                       onOpenHistory={(off) => setSelectedOffer(off)}
                     />
                   ))}
@@ -129,6 +161,8 @@ export const App: React.FC = () => {
       {/* Modal historii zmian cen */}
       <PriceHistoryModal
         offer={selectedOffer}
+        isFavorite={selectedOffer ? isFavorite(selectedOffer.id) : false}
+        onToggleFavorite={toggleFavorite}
         onClose={() => setSelectedOffer(null)}
       />
 

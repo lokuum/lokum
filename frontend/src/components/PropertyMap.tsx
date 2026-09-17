@@ -7,10 +7,18 @@ import Supercluster from 'supercluster';
 interface PropertyMapProps {
   offers: PropertyOffer[];
   voivodeship: Voivodeship | 'all';
+  isFavorite?: (id: string) => boolean;
+  onToggleFavorite?: (id: string) => void;
   onOpenHistory: (offer: PropertyOffer) => void;
 }
 
-export const PropertyMap: React.FC<PropertyMapProps> = ({ offers, voivodeship, onOpenHistory }) => {
+export const PropertyMap: React.FC<PropertyMapProps> = ({
+  offers,
+  voivodeship,
+  isFavorite,
+  onToggleFavorite,
+  onOpenHistory,
+}) => {
   const mapContainerRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<L.Map | null>(null);
   const markersLayerRef = useRef<L.LayerGroup | null>(null);
@@ -151,7 +159,9 @@ export const PropertyMap: React.FC<PropertyMapProps> = ({ offers, voivodeship, o
           const popupContent = document.createElement('div');
           popupContent.className = 'p-1 text-xs space-y-2 min-w-[220px]';
 
-          popupContent.innerHTML = `
+            const isFav = isFavorite ? isFavorite(offer.id) : false;
+
+            popupContent.innerHTML = `
             ${
               offer.imageUrl
                 ? `<div class="aspect-16/9 rounded-md overflow-hidden bg-neutral-100 mb-1">
@@ -181,11 +191,31 @@ export const PropertyMap: React.FC<PropertyMapProps> = ({ offers, voivodeship, o
               <a href="${offer.sourceUrl}" target="_blank" rel="noopener" class="text-emerald-700 font-semibold underline">
                 Otwórz (${offer.source.toUpperCase()})
               </a>
-              <button id="history-btn-${offer.id}" class="px-2 py-1 bg-neutral-100 hover:bg-neutral-200 rounded text-neutral-700 font-medium text-[10px]">
-                Historia cen
-              </button>
+              <div class="flex items-center gap-1">
+                ${
+                  onToggleFavorite
+                    ? `<button id="fav-btn-${offer.id}" class="px-1.5 py-1 rounded text-xs hover:bg-neutral-100 ${
+                        isFav ? 'text-rose-500' : 'text-neutral-400'
+                      }">
+                        ${isFav ? '❤️' : '🤍'}
+                       </button>`
+                    : ''
+                }
+                <button id="history-btn-${offer.id}" class="px-2 py-1 bg-neutral-100 hover:bg-neutral-200 rounded text-neutral-700 font-medium text-[10px]">
+                  Historia cen
+                </button>
+              </div>
             </div>
           `;
+
+          const favBtn = popupContent.querySelector(`#fav-btn-${offer.id}`);
+          if (favBtn && onToggleFavorite) {
+            favBtn.addEventListener('click', (e) => {
+              e.stopPropagation();
+              onToggleFavorite(offer.id);
+              favBtn.textContent = favBtn.textContent?.includes('❤️') ? '🤍' : '❤️';
+            });
+          }
 
           const historyBtn = popupContent.querySelector(`#history-btn-${offer.id}`);
           if (historyBtn) {
