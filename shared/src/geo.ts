@@ -142,58 +142,139 @@ export const CITY_COORDINATES: Record<string, { lat: number; lng: number }> = {
 };
 
 /**
+ * Normalizuje tekst: małe litery, usunięcie polskich znaków diakrytycznych i zbędnych spacji.
+ */
+export function normalizeText(str: string): string {
+  if (!str) return '';
+  return str
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/ł/g, 'l')
+    .replace(/Ł/g, 'l')
+    .trim();
+}
+
+/**
  * Miasta na prawach powiatu oraz mapowanie miast do powiatów
  */
 export const CITY_TO_COUNTY: Record<string, string> = {
   // Lubelskie
   zamość: 'zamojski',
-  zamosc: 'zamosc',
+  zamosc: 'zamojski',
   chełm: 'chełmski',
-  chelm: 'chelm',
+  chelm: 'chełmski',
+  dorohusk: 'chełmski',
+  sawin: 'chełmski',
+  żmudź: 'chełmski',
+  zmudz: 'chełmski',
+  horodyszcze: 'chełmski',
   'biała podlaska': 'bialski',
   'biala podlaska': 'bialski',
+  terespol: 'bialski',
+  sławatycze: 'bialski',
+  slawatycze: 'bialski',
+  'janów podlaski': 'bialski',
+  'janow podlaski': 'bialski',
+  kodeń: 'bialski',
+  koden: 'bialski',
+  'międzyrzec podlaski': 'bialski',
+  'miedzyrzec podlaski': 'bialski',
+  piszczac: 'bialski',
   lublin: 'lubelski',
   hrubieszów: 'hrubieszowski',
   hrubieszow: 'hrubieszowski',
+  horodło: 'hrubieszowski',
+  horodlo: 'hrubieszowski',
+  werbkowice: 'hrubieszowski',
+  dołhobyczów: 'hrubieszowski',
+  dolhobyczow: 'hrubieszowski',
+  mircze: 'hrubieszowski',
   'tomaszów lubelski': 'tomaszowski',
   'tomaszow lubelski': 'tomaszowski',
+  bełżec: 'tomaszowski',
+  belzec: 'tomaszowski',
+  susiec: 'tomaszowski',
+  'lubycza królewska': 'tomaszowski',
+  'lubycza krolewska': 'tomaszowski',
   włodawa: 'włodawski',
-  wlodawa: 'wlodawski',
+  wlodawa: 'włodawski',
+  okuninka: 'włodawski',
   krasnystaw: 'krasnostawski',
   biłgoraj: 'biłgorajski',
-  bilgoraj: 'bilgorajski',
+  bilgoraj: 'biłgorajski',
+  zwierzyniec: 'zamojski',
+  szczebrzeszyn: 'zamojski',
+  krasnobród: 'zamojski',
+  krasnobrod: 'zamojski',
 
   // Podlaskie
   białystok: 'białostocki',
-  bialystok: 'bialostocki',
+  bialystok: 'białostocki',
   suwałki: 'suwalski',
   suwalki: 'suwalski',
+  wiżajny: 'suwalski',
+  wizajny: 'suwalski',
   łomża: 'łomżyński',
-  lomza: 'lomzynski',
+  lomza: 'łomżyński',
   hajnówka: 'hajnowski',
   hajnowka: 'hajnowski',
+  białowieża: 'hajnowski',
+  bialowieza: 'hajnowski',
+  czeremcha: 'hajnowski',
+  kleszczele: 'hajnowski',
+  narewka: 'hajnowski',
   sokółka: 'sokólski',
-  sokolka: 'sokolski',
+  sokolka: 'sokólski',
+  krynki: 'sokólski',
+  kuźnica: 'sokólski',
+  kuznica: 'sokólski',
+  'dąbrowa białostocka': 'sokólski',
+  'dabrowa bialostocka': 'sokólski',
   augustów: 'augustowski',
   augustow: 'augustowski',
+  lipsk: 'augustowski',
+  płaska: 'augustowski',
+  plaska: 'augustowski',
+  sztabin: 'augustowski',
   siemiatycze: 'siemiatycki',
   'bielsk podlaski': 'bielski',
   sejny: 'sejneński',
+  giby: 'sejneński',
+  puńsk: 'sejneński',
+  punsk: 'sejneński',
 
   // Podkarpackie
   przemyśl: 'przemyski',
   przemysl: 'przemyski',
+  medyka: 'przemyski',
+  żurawica: 'przemyski',
+  zurawica: 'przemyski',
   rzeszów: 'rzeszowski',
   rzeszow: 'rzeszowski',
   krosno: 'krośnieński',
   tarnobrzeg: 'tarnobrzeski',
   jarosław: 'jarosławski',
-  jaroslaw: 'jaroslawski',
+  jaroslaw: 'jarosławski',
+  korczowa: 'jarosławski',
+  radymno: 'jarosławski',
   lubaczów: 'lubaczowski',
   lubaczow: 'lubaczowski',
+  'horyniec-zdrój': 'lubaczowski',
+  'horyniec zdroj': 'lubaczowski',
+  narol: 'lubaczowski',
+  cieszanów: 'lubaczowski',
+  cieszanow: 'lubaczowski',
   sanok: 'sanocki',
   lesko: 'leski',
+  solina: 'leski',
+  polańczyk: 'leski',
+  polanczyk: 'leski',
+  cisna: 'leski',
   'ustrzyki dolne': 'bieszczadzki',
+  lutowiska: 'bieszczadzki',
+  krościenko: 'bieszczadzki',
+  kroscienko: 'bieszczadzki',
 };
 
 /**
@@ -245,8 +326,17 @@ export function inferCounty(city?: string, existingCounty?: string): string | un
     return existingCounty;
   }
   if (!city) return undefined;
-  const normalized = city.toLowerCase().trim();
-  return CITY_TO_COUNTY[normalized] || undefined;
+  const rawNorm = city.toLowerCase().trim();
+  if (CITY_TO_COUNTY[rawNorm]) {
+    return CITY_TO_COUNTY[rawNorm];
+  }
+  const cleanNorm = normalizeText(city);
+  for (const [k, v] of Object.entries(CITY_TO_COUNTY)) {
+    if (normalizeText(k) === cleanNorm) {
+      return v;
+    }
+  }
+  return undefined;
 }
 
 /**
@@ -256,23 +346,43 @@ export function isBorderLocation(voivodeship: Voivodeship, countyName?: string, 
   const list = BORDER_COUNTIES[voivodeship];
   if (!list) return false;
 
-  const normalizedCounty = countyName?.toLowerCase().replace(/^powiat\s+/, '').trim();
-  const normalizedCity = cityName?.toLowerCase().trim();
+  const normCounty = countyName ? normalizeText(countyName.replace(/^powiat\s+/, '')) : '';
+  const normCity = cityName ? normalizeText(cityName) : '';
 
-  // 1. Sprawdzenie powiatu
-  if (normalizedCounty && list.some((c) => normalizedCounty.includes(c.toLowerCase()) || c.toLowerCase().includes(normalizedCounty))) {
-    return true;
+  // 1. Sprawdzenie powiatu z normalizacją diakrytyków
+  if (normCounty) {
+    if (
+      list.some((c) => {
+        const nc = normalizeText(c);
+        return normCounty.includes(nc) || nc.includes(normCounty);
+      })
+    ) {
+      return true;
+    }
   }
 
   // 2. Sprawdzenie miejscowości
-  if (normalizedCity) {
-    if (list.some((c) => normalizedCity.includes(c.toLowerCase()) || c.toLowerCase().includes(normalizedCity))) {
+  if (normCity) {
+    if (
+      list.some((c) => {
+        const nc = normalizeText(c);
+        return normCity.includes(nc) || nc.includes(normCity);
+      })
+    ) {
       return true;
     }
     // Sprawdzenie czy miejscowość mapuje się do powiatu przygranicznego
-    const inferred = CITY_TO_COUNTY[normalizedCity];
-    if (inferred && list.some((c) => inferred.includes(c.toLowerCase()) || c.toLowerCase().includes(inferred))) {
-      return true;
+    const inferred = inferCounty(cityName);
+    if (inferred) {
+      const normInferred = normalizeText(inferred);
+      if (
+        list.some((c) => {
+          const nc = normalizeText(c);
+          return normInferred.includes(nc) || nc.includes(normInferred);
+        })
+      ) {
+        return true;
+      }
     }
   }
 

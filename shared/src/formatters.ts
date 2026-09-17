@@ -22,7 +22,7 @@ export function formatArea(areaM2: number, isPlot = false): string {
   const formatted = Math.round(areaM2).toLocaleString('pl-PL') + ' m²';
   if (isPlot) {
     if (areaM2 >= 10000) {
-      const ha = (areaM2 / 10000).toFixed(2).replace(/\.00$/, '');
+      const ha = (areaM2 / 10000).toFixed(2).replace(/0+$/, '').replace(/\.$/, '');
       return `${formatted} (${ha} ha)`;
     }
     if (areaM2 >= 500) {
