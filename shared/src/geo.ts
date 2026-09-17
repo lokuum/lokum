@@ -7,7 +7,197 @@ export const VOIVODESHIPS: { id: Voivodeship; name: string; borderWith: string }
 ];
 
 /**
- * Powiaty zlokalizowane bezpośrednio przy granicy lub w strefie przygranicznej (< 40-50 km).
+ * Centra miast i powiatów we wschodniej Polsce (współrzędne geograficzne)
+ */
+export const CITY_COORDINATES: Record<string, { lat: number; lng: number }> = {
+  // --- Lubelskie ---
+  chełm: { lat: 51.1333, lng: 23.4833 },
+  chelm: { lat: 51.1333, lng: 23.4833 },
+  zamość: { lat: 50.7206, lng: 23.2589 },
+  zamosc: { lat: 50.7206, lng: 23.2589 },
+  'biała podlaska': { lat: 52.0326, lng: 23.1165 },
+  'biala podlaska': { lat: 52.0326, lng: 23.1165 },
+  hrubieszów: { lat: 50.8052, lng: 23.8912 },
+  hrubieszow: { lat: 50.8052, lng: 23.8912 },
+  'tomaszów lubelski': { lat: 50.4485, lng: 23.4162 },
+  'tomaszow lubelski': { lat: 50.4485, lng: 23.4162 },
+  włodawa: { lat: 51.5438, lng: 23.5511 },
+  wlodawa: { lat: 51.5438, lng: 23.5511 },
+  krasnystaw: { lat: 50.9856, lng: 23.1764 },
+  biłgoraj: { lat: 50.5408, lng: 22.7214 },
+  bilgoraj: { lat: 50.5408, lng: 22.7214 },
+  terespol: { lat: 52.0754, lng: 23.6166 },
+  zwierzyniec: { lat: 50.6144, lng: 22.9686 },
+  szczebrzeszyn: { lat: 50.6972, lng: 22.9772 },
+  krasnobród: { lat: 50.5458, lng: 23.2083 },
+  krasnobrod: { lat: 50.5458, lng: 23.2083 },
+  dorohusk: { lat: 51.1614, lng: 23.8053 },
+  parczew: { lat: 51.6403, lng: 22.9014 },
+  lubartów: { lat: 51.4619, lng: 22.6078 },
+  lubartow: { lat: 51.4619, lng: 22.6078 },
+  łęczna: { lat: 51.3008, lng: 22.8803 },
+  leczna: { lat: 51.3008, lng: 22.8803 },
+  świdnik: { lat: 51.2189, lng: 22.6953 },
+  swidnik: { lat: 51.2189, lng: 22.6953 },
+  lublin: { lat: 51.2465, lng: 22.5684 },
+  kraśnik: { lat: 50.9239, lng: 22.2247 },
+  krasnik: { lat: 50.9239, lng: 22.2247 },
+  puławy: { lat: 51.4166, lng: 21.9694 },
+  pulawy: { lat: 51.4166, lng: 21.9694 },
+  'radzyń podlaski': { lat: 51.7831, lng: 22.6181 },
+  'radzyn podlaski': { lat: 51.7831, lng: 22.6181 },
+  łuków: { lat: 51.9286, lng: 22.3839 },
+  lukow: { lat: 51.9286, lng: 22.3839 },
+  ryki: { lat: 51.6253, lng: 21.9333 },
+  'opole lubelskie': { lat: 51.1472, lng: 21.9706 },
+  'janów lubelski': { lat: 50.7072, lng: 22.4103 },
+  'janow lubelski': { lat: 50.7072, lng: 22.4103 },
+  'janów podlaski': { lat: 52.1969, lng: 23.2117 },
+  sławatycze: { lat: 51.7619, lng: 23.5556 },
+  slawatycze: { lat: 51.7619, lng: 23.5556 },
+
+  // --- Podlaskie ---
+  białystok: { lat: 53.1325, lng: 23.1688 },
+  bialystok: { lat: 53.1325, lng: 23.1688 },
+  hajnówka: { lat: 52.7433, lng: 23.5811 },
+  hajnowka: { lat: 52.7433, lng: 23.5811 },
+  'bielsk podlaski': { lat: 52.7667, lng: 23.1931 },
+  siemiatycze: { lat: 52.4272, lng: 22.8628 },
+  sokółka: { lat: 53.4069, lng: 23.5039 },
+  sokolka: { lat: 53.4069, lng: 23.5039 },
+  augustów: { lat: 53.8433, lng: 22.9797 },
+  augustow: { lat: 53.8433, lng: 22.9797 },
+  suwałki: { lat: 54.1006, lng: 22.9308 },
+  suwalki: { lat: 54.1006, lng: 22.9308 },
+  sejny: { lat: 54.1072, lng: 23.3486 },
+  łomża: { lat: 53.1781, lng: 22.0594 },
+  lomza: { lat: 53.1781, lng: 22.0594 },
+  grajewo: { lat: 53.6472, lng: 22.4542 },
+  zambrów: { lat: 52.9856, lng: 22.2433 },
+  zambrow: { lat: 52.9856, lng: 22.2433 },
+  mońki: { lat: 53.4056, lng: 22.7961 },
+  monki: { lat: 53.4056, lng: 22.7961 },
+  kolno: { lat: 53.4111, lng: 21.9333 },
+  'dąbrowa białostocka': { lat: 53.6536, lng: 23.3489 },
+  'dabrowa bialostocka': { lat: 53.6536, lng: 23.3489 },
+  lipsk: { lat: 53.7333, lng: 23.4000 },
+  krynki: { lat: 53.2642, lng: 23.7725 },
+  michałowo: { lat: 53.0333, lng: 23.6000 },
+  michalowo: { lat: 53.0333, lng: 23.6000 },
+  białowieża: { lat: 52.7011, lng: 23.8681 },
+  bialowieza: { lat: 52.7011, lng: 23.8681 },
+  czeremcha: { lat: 52.5167, lng: 23.3500 },
+  kleszczele: { lat: 52.5739, lng: 23.3258 },
+  supraśl: { lat: 53.2081, lng: 23.3364 },
+  suprasl: { lat: 53.2081, lng: 23.3364 },
+  kuźnica: { lat: 53.5117, lng: 23.6456 },
+  kuznica: { lat: 53.5117, lng: 23.6456 },
+
+  // --- Podkarpackie ---
+  rzeszów: { lat: 50.0412, lng: 21.9991 },
+  rzeszow: { lat: 50.0412, lng: 21.9991 },
+  przemyśl: { lat: 49.7839, lng: 22.7678 },
+  przemysl: { lat: 49.7839, lng: 22.7678 },
+  jarosław: { lat: 50.0189, lng: 22.6842 },
+  jaroslaw: { lat: 50.0189, lng: 22.6842 },
+  lubaczów: { lat: 50.1558, lng: 23.1239 },
+  lubaczow: { lat: 50.1558, lng: 23.1239 },
+  sanok: { lat: 49.5583, lng: 22.2056 },
+  lesko: { lat: 49.4697, lng: 22.3297 },
+  'ustrzyki dolne': { lat: 49.4311, lng: 22.5936 },
+  krosno: { lat: 49.6886, lng: 21.7706 },
+  jasło: { lat: 49.7453, lng: 21.4725 },
+  jaslo: { lat: 49.7453, lng: 21.4725 },
+  mielec: { lat: 50.2872, lng: 21.4239 },
+  dębica: { lat: 50.0514, lng: 21.4114 },
+  debica: { lat: 50.0514, lng: 21.4114 },
+  'stalowa wola': { lat: 50.5828, lng: 22.0536 },
+  tarnobrzeg: { lat: 50.5739, lng: 21.6797 },
+  łańcut: { lat: 50.0683, lng: 22.2306 },
+  lancut: { lat: 50.0683, lng: 22.2306 },
+  przeworsk: { lat: 50.0603, lng: 22.4939 },
+  leżajsk: { lat: 50.2639, lng: 22.4236 },
+  lezajsk: { lat: 50.2639, lng: 22.4236 },
+  nisko: { lat: 50.5206, lng: 22.1408 },
+  kolbuszowa: { lat: 50.2458, lng: 21.7706 },
+  strzyżów: { lat: 49.8708, lng: 21.7925 },
+  strzyzow: { lat: 49.8708, lng: 21.7925 },
+  brzozów: { lat: 49.6947, lng: 22.0194 },
+  brzozow: { lat: 49.6947, lng: 22.0194 },
+  ropczyce: { lat: 50.0525, lng: 21.6094 },
+  radymno: { lat: 49.9467, lng: 22.8219 },
+  medyka: { lat: 49.8050, lng: 22.9300 },
+  krasiczyn: { lat: 49.7761, lng: 22.6508 },
+  solina: { lat: 49.3986, lng: 22.4497 },
+  polańczyk: { lat: 49.3683, lng: 22.4217 },
+  polanczyk: { lat: 49.3683, lng: 22.4217 },
+  cisna: { lat: 49.2131, lng: 22.3275 },
+  wetlina: { lat: 49.1558, lng: 22.4706 },
+  lutowiska: { lat: 49.2558, lng: 22.6953 },
+  'horyniec-zdrój': { lat: 50.1917, lng: 23.3606 },
+  horyniec: { lat: 50.1917, lng: 23.3606 },
+  narol: { lat: 50.3547, lng: 23.3278 },
+  cieszanów: { lat: 50.2456, lng: 23.1319 },
+  cieszanow: { lat: 50.2456, lng: 23.1319 },
+};
+
+/**
+ * Miasta na prawach powiatu oraz mapowanie miast do powiatów
+ */
+export const CITY_TO_COUNTY: Record<string, string> = {
+  // Lubelskie
+  zamość: 'zamojski',
+  zamosc: 'zamosc',
+  chełm: 'chełmski',
+  chelm: 'chelm',
+  'biała podlaska': 'bialski',
+  'biala podlaska': 'bialski',
+  lublin: 'lubelski',
+  hrubieszów: 'hrubieszowski',
+  hrubieszow: 'hrubieszowski',
+  'tomaszów lubelski': 'tomaszowski',
+  'tomaszow lubelski': 'tomaszowski',
+  włodawa: 'włodawski',
+  wlodawa: 'wlodawski',
+  krasnystaw: 'krasnostawski',
+  biłgoraj: 'biłgorajski',
+  bilgoraj: 'bilgorajski',
+
+  // Podlaskie
+  białystok: 'białostocki',
+  bialystok: 'bialostocki',
+  suwałki: 'suwalski',
+  suwalki: 'suwalski',
+  łomża: 'łomżyński',
+  lomza: 'lomzynski',
+  hajnówka: 'hajnowski',
+  hajnowka: 'hajnowski',
+  sokółka: 'sokólski',
+  sokolka: 'sokolski',
+  augustów: 'augustowski',
+  augustow: 'augustowski',
+  siemiatycze: 'siemiatycki',
+  'bielsk podlaski': 'bielski',
+  sejny: 'sejneński',
+
+  // Podkarpackie
+  przemyśl: 'przemyski',
+  przemysl: 'przemyski',
+  rzeszów: 'rzeszowski',
+  rzeszow: 'rzeszowski',
+  krosno: 'krośnieński',
+  tarnobrzeg: 'tarnobrzeski',
+  jarosław: 'jarosławski',
+  jaroslaw: 'jaroslawski',
+  lubaczów: 'lubaczowski',
+  lubaczow: 'lubaczowski',
+  sanok: 'sanocki',
+  lesko: 'leski',
+  'ustrzyki dolne': 'bieszczadzki',
+};
+
+/**
+ * Powiaty i miasta zlokalizowane bezpośrednio przy granicy lub w strefie przygranicznej (< 40-50 km).
  */
 export const BORDER_COUNTIES: Record<Voivodeship, string[]> = {
   lubelskie: [
@@ -21,6 +211,8 @@ export const BORDER_COUNTIES: Record<Voivodeship, string[]> = {
     'zamojski',
     'Zamość',
     'krasnostawski',
+    'biłgorajski',
+    'parczewski',
   ],
   podlaskie: [
     'sejneński',
@@ -31,6 +223,8 @@ export const BORDER_COUNTIES: Record<Voivodeship, string[]> = {
     'hajnowski',
     'bielski',
     'siemiatycki',
+    'suwalski',
+    'Suwałki',
   ],
   podkarpackie: [
     'lubaczowski',
@@ -44,14 +238,96 @@ export const BORDER_COUNTIES: Record<Voivodeship, string[]> = {
 };
 
 /**
- * Sprawdza czy dany powiat znajduje się w pasie przygranicznym.
+ * Pomocnicza funkcja do inferencji powiatu na podstawie nazwy miejscowości
  */
-export function isBorderCounty(voivodeship: Voivodeship, countyName?: string): boolean {
-  if (!countyName) return false;
+export function inferCounty(city?: string, existingCounty?: string): string | undefined {
+  if (existingCounty && existingCounty.trim() !== '') {
+    return existingCounty;
+  }
+  if (!city) return undefined;
+  const normalized = city.toLowerCase().trim();
+  return CITY_TO_COUNTY[normalized] || undefined;
+}
+
+/**
+ * Sprawdza czy dana lokalizacja (powiat lub miejscowość) znajduje się w pasie przygranicznym.
+ */
+export function isBorderLocation(voivodeship: Voivodeship, countyName?: string, cityName?: string): boolean {
   const list = BORDER_COUNTIES[voivodeship];
   if (!list) return false;
-  const normalized = countyName.toLowerCase().replace(/^powiat\s+/, '').trim();
-  return list.some((c) => normalized.includes(c.toLowerCase()) || c.toLowerCase().includes(normalized));
+
+  const normalizedCounty = countyName?.toLowerCase().replace(/^powiat\s+/, '').trim();
+  const normalizedCity = cityName?.toLowerCase().trim();
+
+  // 1. Sprawdzenie powiatu
+  if (normalizedCounty && list.some((c) => normalizedCounty.includes(c.toLowerCase()) || c.toLowerCase().includes(normalizedCounty))) {
+    return true;
+  }
+
+  // 2. Sprawdzenie miejscowości
+  if (normalizedCity) {
+    if (list.some((c) => normalizedCity.includes(c.toLowerCase()) || c.toLowerCase().includes(normalizedCity))) {
+      return true;
+    }
+    // Sprawdzenie czy miejscowość mapuje się do powiatu przygranicznego
+    const inferred = CITY_TO_COUNTY[normalizedCity];
+    if (inferred && list.some((c) => inferred.includes(c.toLowerCase()) || c.toLowerCase().includes(inferred))) {
+      return true;
+    }
+  }
+
+  return false;
+}
+
+/**
+ * Backward-compatible alias for isBorderCounty
+ */
+export function isBorderCounty(voivodeship: Voivodeship, countyName?: string, cityName?: string): boolean {
+  return isBorderLocation(voivodeship, countyName, cityName);
+}
+
+/**
+ * Pobiera dokładne współrzędne dla miejscowości lub powiatu, z lekkim jitterem,
+ * aby oferty w tej samej miejscowości nie nakładały się w 100% na siebie na mapie.
+ */
+export function getLocationCoordinates(
+  voivodeship: Voivodeship,
+  city?: string,
+  county?: string
+): { lat: number; lng: number } {
+  const normCity = city?.toLowerCase().trim();
+  const normCounty = county?.toLowerCase().replace(/^powiat\s+/, '').trim();
+
+  let baseCoords: { lat: number; lng: number } | undefined = undefined;
+
+  if (normCity && CITY_COORDINATES[normCity]) {
+    baseCoords = CITY_COORDINATES[normCity];
+  } else if (normCounty && CITY_COORDINATES[normCounty]) {
+    baseCoords = CITY_COORDINATES[normCounty];
+  } else {
+    // Przeszukaj czy jakaś znana miejscowość zawiera się w nazwie
+    if (normCity) {
+      for (const [knownCity, coords] of Object.entries(CITY_COORDINATES)) {
+        if (normCity.includes(knownCity) || knownCity.includes(normCity)) {
+          baseCoords = coords;
+          break;
+        }
+      }
+    }
+  }
+
+  if (!baseCoords) {
+    baseCoords = VOIVODESHIP_CENTERS[voivodeship] || EAST_POLAND_CENTER;
+  }
+
+  // Dodaj delikatny jitter (ok. +/- 300-800 m) aby punkty w tym samym mieście nie były idealnie w jednym punkcie
+  const jitterLat = (Math.random() - 0.5) * 0.015;
+  const jitterLng = (Math.random() - 0.5) * 0.02;
+
+  return {
+    lat: baseCoords.lat + jitterLat,
+    lng: baseCoords.lng + jitterLng,
+  };
 }
 
 /**

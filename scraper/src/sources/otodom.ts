@@ -1,5 +1,5 @@
 import type { PropertyOffer, PropertyType, Voivodeship } from 'shared';
-import { isBorderCounty, VOIVODESHIP_CENTERS } from 'shared';
+import { getLocationCoordinates, inferCounty, isBorderLocation } from 'shared';
 import { fetchWithRetry } from '../utils/http.js';
 
 interface OtodomSearchResponse {
@@ -85,7 +85,6 @@ export async function fetchOtodomPage(
   const rawItems = searchAds?.items || [];
 
   const now = new Date().toISOString();
-  const center = VOIVODESHIP_CENTERS[voivodeship];
 
   const items: PropertyOffer[] = rawItems
     .filter((item) => item.totalPrice?.value && item.totalPrice.value > 0)
@@ -99,8 +98,25 @@ export async function fetchOtodomPage(
       const countyObj = revLocations.find((l) => l.locationLevel === 'county');
       const cityObj = revLocations.find((l) => l.locationLevel === 'city_or_village' || l.locationLevel === 'city');
 
-      const county = countyObj ? countyObj.name : undefined;
-      const city = cityObj ? cityObj.name : item.location?.address?.city?.name || 'Nieznana miejscowość';
+      const rawCity = cityObj ? cityObj.name : item.location?.address?.city?.name || 'Nieznana miejscowość';
+      let county = countyObj ? countyObj.name : undefined;
+
+      // Sprawdź czy miasto nie ma praw powiatu lub czy powiat nie wynika ze ścieżki / nazwy
+      if (!county) {
+        county = inferCounty(rawCity);
+      }
+      if (!county) {
+        // Sprawdź czy w revLocations któryś id ma format np. lubelskie/zamosc/...
+        for (const loc of revLocations) {
+          const parts = loc.id.split('/');
+          if (parts.length >= 2 && parts[1]) {
+            county = inferCounty(parts[1]) || parts[1];
+            break;
+          }
+        }
+      }
+
+      const city = rawCity;
       const street = item.location?.address?.street?.name || undefined;
 
       const areaM2 = item.areaInSquareMeters || 0;
@@ -108,8 +124,12 @@ export async function fetchOtodomPage(
       const currentPricePerM2 =
         item.pricePerSquareMeter?.value || (areaM2 > 0 ? Math.round((currentPrice / areaM2) * 100) / 100 : 0);
 
-      const lat = item.location?.coordinates?.latitude ?? (center ? center.lat + (Math.random() - 0.5) * 0.4 : 51.0);
-      const lng = item.location?.coordinates?.longitude ?? (center ? center.lng + (Math.random() - 0.5) * 0.4 : 23.0);
+      // Dokładne współrzędne dla miejscowości/powiatu
+      const coordinates = (item.location?.coordinates?.latitude && item.location?.coordinates?.longitude)
+        ? { lat: item.location.coordinates.latitude, lng: item.location.coordinates.longitude }
+        : getLocationCoordinates(voivodeship, city, county);
+
+      const isNearBorder = isBorderLocation(voivodeship, county, city);
 
       const imageUrl = item.images?.[0]?.medium || item.images?.[0]?.large;
 
@@ -126,8 +146,8 @@ export async function fetchOtodomPage(
         county,
         city,
         street,
-        coordinates: { lat, lng },
-        isNearBorder: isBorderCounty(voivodeship, county),
+        coordinates,
+        isNearBorder,
         areaM2,
         plotAreaM2: type === 'house' && item.terrainAreaInSquareMeters ? item.terrainAreaInSquareMeters : undefined,
         currentPrice,

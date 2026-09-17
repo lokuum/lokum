@@ -1,6 +1,6 @@
 import * as cheerio from 'cheerio';
 import type { PropertyOffer, PropertyType, Voivodeship } from 'shared';
-import { isBorderCounty, VOIVODESHIP_CENTERS } from 'shared';
+import { getLocationCoordinates, inferCounty, isBorderLocation } from 'shared';
 import { ADRESOWO_VOIVODESHIP_CODES } from '../config.js';
 import { fetchWithRetry } from '../utils/http.js';
 import type { FetchResult } from './otodom.js';
@@ -29,7 +29,6 @@ export async function fetchAdresowoPage(
 
   const hasNext = $('link[rel="next"]').length > 0;
   const now = new Date().toISOString();
-  const center = VOIVODESHIP_CENTERS[voivodeship];
 
   const items: PropertyOffer[] = [];
 
@@ -80,6 +79,10 @@ export async function fetchAdresowoPage(
       }
     }
 
+    if (!county) {
+      county = inferCounty(city);
+    }
+
     // Opis oferty i ewentualne wyszukanie powierzchni działki dla domu
     const descText = card.find('p.line-clamp-4').text().trim();
     let plotAreaM2: number | undefined = undefined;
@@ -102,8 +105,8 @@ export async function fetchAdresowoPage(
     }
 
     const title = `${type === 'house' ? 'Dom' : 'Działka'} — ${city}${street ? `, ${street}` : ''}`;
-    const lat = center ? center.lat + (Math.random() - 0.5) * 0.35 : 51.0;
-    const lng = center ? center.lng + (Math.random() - 0.5) * 0.35 : 23.0;
+    const coordinates = getLocationCoordinates(voivodeship, city, county);
+    const isNearBorder = isBorderLocation(voivodeship, county, city);
 
     items.push({
       id,
@@ -116,8 +119,8 @@ export async function fetchAdresowoPage(
       county,
       city,
       street,
-      coordinates: { lat, lng },
-      isNearBorder: isBorderCounty(voivodeship, county),
+      coordinates,
+      isNearBorder,
       areaM2,
       plotAreaM2,
       currentPrice,
