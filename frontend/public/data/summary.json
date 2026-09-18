@@ -1,9 +1,371 @@
 {
-  "totalHouses": 7580,
-  "totalPlots": 14064,
-  "totalPriceDrops": 0,
-  "avgHousePricePerM2": 5703,
-  "avgPlotPricePerM2": 168,
-  "lastUpdated": "2026-09-17T22:45:22.614Z",
-  "topPriceDrops": []
+  "totalHouses": 7683,
+  "totalPlots": 14143,
+  "totalPriceDrops": 9,
+  "avgHousePricePerM2": 5708,
+  "avgPlotPricePerM2": 169,
+  "lastUpdated": "2026-09-18T08:50:42.550Z",
+  "topPriceDrops": [
+    {
+      "id": "adresowo-3558924",
+      "source": "adresowo",
+      "sourceId": "3558924",
+      "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-plaska-molowiste-1-ha-b6r8s4",
+      "propertyType": "plot",
+      "title": "Działka — Mołowiste",
+      "voivodeship": "podlaskie",
+      "city": "Mołowiste",
+      "coordinates": {
+        "lat": 53.13901081924124,
+        "lng": 23.171683288030433
+      },
+      "isNearBorder": true,
+      "areaM2": 11600,
+      "currentPrice": 1100000,
+      "currentPricePerM2": 94.83,
+      "initialPrice": 1800000,
+      "priceChangeAmount": -700000,
+      "priceChangePercent": -38.9,
+      "priceHistory": [
+        {
+          "date": "2026-09-17",
+          "price": 1800000,
+          "pricePerM2": 155.17
+        },
+        {
+          "date": "2026-09-18",
+          "price": 1100000,
+          "pricePerM2": 94.83
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-17T22:17:32.042Z",
+      "lastSeenAt": "2026-09-18T08:46:47.921Z",
+      "imageUrl": "https://s2.adresowa.pl/oi/1d/7e/364e0c_b7c1_cover@2x-dzialka-rolno-budowlana-augustowski-molowiste.webp",
+      "isDirectOwner": true,
+      "county": "augustowski",
+      "previousPrice": 1800000
+    },
+    {
+      "id": "adresowo-3887370",
+      "source": "adresowo",
+      "sourceId": "3887370",
+      "sourceUrl": "https://adresowo.pl/o/dzialka-rekreacyjna-markuszow-kalen-1-600-m2-f6w3t7",
+      "propertyType": "plot",
+      "title": "Działka — Kaleń",
+      "voivodeship": "lubelskie",
+      "city": "Kaleń",
+      "coordinates": {
+        "lat": 51.25300876318653,
+        "lng": 22.56802958777071
+      },
+      "isNearBorder": false,
+      "areaM2": 1600,
+      "currentPrice": 220000,
+      "currentPricePerM2": 137.5,
+      "initialPrice": 260000,
+      "priceChangeAmount": -40000,
+      "priceChangePercent": -15.4,
+      "priceHistory": [
+        {
+          "date": "2026-09-17",
+          "price": 260000,
+          "pricePerM2": 162.5
+        },
+        {
+          "date": "2026-09-18",
+          "price": 220000,
+          "pricePerM2": 137.5
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-17T22:12:23.902Z",
+      "lastSeenAt": "2026-09-18T08:43:00.971Z",
+      "imageUrl": "https://s2.adresowa.pl/oi/25/35/3b510a_6d5f_cover@2x-dzialka-rekreacyjna-pulawski-kalen.webp",
+      "isDirectOwner": true,
+      "county": "pulawski",
+      "previousPrice": 260000
+    },
+    {
+      "id": "adresowo-4257254",
+      "source": "adresowo",
+      "sourceId": "4257254",
+      "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-czudec-ul-lesna-b7k5g7",
+      "propertyType": "plot",
+      "title": "Działka — Czudec Leśniczówka, ul. Leśna",
+      "voivodeship": "podkarpackie",
+      "city": "Czudec Leśniczówka",
+      "street": "ul. Leśna",
+      "coordinates": {
+        "lat": 49.95241822791722,
+        "lng": 22.297735661924225
+      },
+      "isNearBorder": false,
+      "areaM2": 1400,
+      "currentPrice": 168000,
+      "currentPricePerM2": 120,
+      "initialPrice": 196000,
+      "priceChangeAmount": -28000,
+      "priceChangePercent": -14.3,
+      "priceHistory": [
+        {
+          "date": "2026-09-17",
+          "price": 196000,
+          "pricePerM2": 140
+        },
+        {
+          "date": "2026-09-18",
+          "price": 168000,
+          "pricePerM2": 120
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-17T21:51:15.895Z",
+      "lastSeenAt": "2026-09-18T08:50:41.358Z",
+      "imageUrl": "https://s2.adresowa.pl/oi/20/26/40f5e6_abf5_cover@2x-dzialka-budowlana-strzyzowski-czudec.webp",
+      "isDirectOwner": true,
+      "county": "strzyzowski",
+      "previousPrice": 196000
+    },
+    {
+      "id": "otodom-67902463",
+      "source": "otodom",
+      "sourceId": "67902463",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/teren-inwestycyjny-graniczacy-z-parkiem-zdrojowym-ID4AUx1",
+      "propertyType": "plot",
+      "title": "Teren inwestycyjny graniczący z Parkiem Zdrojowym",
+      "voivodeship": "lubelskie",
+      "county": "puławski",
+      "city": "Nałęczów",
+      "coordinates": {
+        "lat": 51.25228947769563,
+        "lng": 22.5690073419533
+      },
+      "isNearBorder": false,
+      "areaM2": 4699,
+      "currentPrice": 2200000,
+      "currentPricePerM2": 468.18,
+      "initialPrice": 2500000,
+      "priceChangeAmount": -300000,
+      "priceChangePercent": -12,
+      "priceHistory": [
+        {
+          "date": "2026-09-17",
+          "price": 2500000,
+          "pricePerM2": 532.03
+        },
+        {
+          "date": "2026-09-18",
+          "price": 2200000,
+          "pricePerM2": 468.18
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-07T10:49:08.000Z",
+      "lastSeenAt": "2026-09-18T08:43:00.971Z",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImYzMzBzYzB1NXBhMzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wtZJiVov8VBc1GYb-GyKC3cowW5IFGpShDem6jeGGQo/image;s=655x491;q=80",
+      "isDirectOwner": false,
+      "previousPrice": 2500000
+    },
+    {
+      "id": "otodom-65928125",
+      "source": "otodom",
+      "sourceId": "65928125",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-krasne-kolonia-kolo-rzeszowa-1031-m2-wz-ID4sCUR",
+      "propertyType": "plot",
+      "title": "Działka budowlana Krasne – Kolonia koło Rzeszowa | 1031 m2 | WZ",
+      "voivodeship": "podkarpackie",
+      "county": "rzeszowski",
+      "city": "Krasne",
+      "coordinates": {
+        "lat": 49.954344188273204,
+        "lng": 22.297065173715136
+      },
+      "isNearBorder": false,
+      "areaM2": 1031,
+      "currentPrice": 199000,
+      "currentPricePerM2": 193.02,
+      "initialPrice": 220000,
+      "priceChangeAmount": -21000,
+      "priceChangePercent": -9.5,
+      "priceHistory": [
+        {
+          "date": "2026-09-17",
+          "price": 220000,
+          "pricePerM2": 213.39
+        },
+        {
+          "date": "2026-09-18",
+          "price": 199000,
+          "pricePerM2": 193.02
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-11T10:59:57.000Z",
+      "lastSeenAt": "2026-09-18T08:50:41.358Z",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjlrdTAyNnh3ZTlqOS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.DdEH9QTqE4KjSQuFN8ZCIX4mlurpiFsgDIniFeudl-Y/image;s=655x491;q=80",
+      "isDirectOwner": true,
+      "previousPrice": 220000
+    },
+    {
+      "id": "adresowo-3858138",
+      "source": "adresowo",
+      "sourceId": "3858138",
+      "sourceUrl": "https://adresowo.pl/o/dom-blazowa-blazowa-gorna-125-m2-r6k4i6",
+      "propertyType": "house",
+      "title": "Dom — Błażowa Górna",
+      "voivodeship": "podkarpackie",
+      "city": "Błażowa Górna",
+      "coordinates": {
+        "lat": 49.94315014892647,
+        "lng": 22.304781471582178
+      },
+      "isNearBorder": false,
+      "areaM2": 125,
+      "currentPrice": 598000,
+      "currentPricePerM2": 4784,
+      "initialPrice": 649000,
+      "priceChangeAmount": -51000,
+      "priceChangePercent": -7.9,
+      "priceHistory": [
+        {
+          "date": "2026-09-17",
+          "price": 649000,
+          "pricePerM2": 5192
+        },
+        {
+          "date": "2026-09-18",
+          "price": 598000,
+          "pricePerM2": 4784
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-17T22:20:18.002Z",
+      "lastSeenAt": "2026-09-18T08:48:24.518Z",
+      "imageUrl": "https://s2.adresowa.pl/oi/36/2f/3adeda_8bcd_cover@2x-dom-rzeszowski-blazowa-gorna.webp",
+      "isDirectOwner": true,
+      "county": "rzeszowski",
+      "previousPrice": 649000
+    },
+    {
+      "id": "otodom-68386801",
+      "source": "otodom",
+      "sourceId": "68386801",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-1500-m-w-spokojnej-okolicy-ID4CVvW",
+      "propertyType": "plot",
+      "title": "Działka budowlana 1500 m² w spokojnej okolicy",
+      "voivodeship": "lubelskie",
+      "county": "opolski",
+      "city": "Skoków",
+      "coordinates": {
+        "lat": 51.246203423268334,
+        "lng": 22.559264002032997
+      },
+      "isNearBorder": false,
+      "areaM2": 1500,
+      "currentPrice": 85000,
+      "currentPricePerM2": 56.67,
+      "initialPrice": 90000,
+      "priceChangeAmount": -5000,
+      "priceChangePercent": -5.6,
+      "priceHistory": [
+        {
+          "date": "2026-09-17",
+          "price": 90000,
+          "pricePerM2": 60
+        },
+        {
+          "date": "2026-09-18",
+          "price": 85000,
+          "pricePerM2": 56.67
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-08T12:00:29.000Z",
+      "lastSeenAt": "2026-09-18T08:43:00.971Z",
+      "isDirectOwner": true,
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImF5bG56c2lpMHlrNy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.I3iYA3Ze0xSR9RiB9mm0T6WKAbgEWwyrwmSVHmS5kKg/image;s=655x491;q=80",
+      "previousPrice": 90000
+    },
+    {
+      "id": "otodom-68354594",
+      "source": "otodom",
+      "sourceId": "68354594",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-3099m2-wlasna-linia-brzegowa-j-mierunskie-ID4CO9s",
+      "propertyType": "plot",
+      "title": "Działka 3099m2, własna linia brzegowa J.Mieruńskie",
+      "voivodeship": "podlaskie",
+      "county": "suwalski",
+      "city": "Garbas Drugi",
+      "coordinates": {
+        "lat": 53.13914437600054,
+        "lng": 23.1757745069719
+      },
+      "isNearBorder": true,
+      "areaM2": 3099,
+      "currentPrice": 439000,
+      "currentPricePerM2": 141.66,
+      "initialPrice": 459000,
+      "priceChangeAmount": -20000,
+      "priceChangePercent": -4.4,
+      "priceHistory": [
+        {
+          "date": "2026-09-17",
+          "price": 459000,
+          "pricePerM2": 148.11
+        },
+        {
+          "date": "2026-09-18",
+          "price": 439000,
+          "pricePerM2": 141.66
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-08-27T08:16:39.000Z",
+      "lastSeenAt": "2026-09-18T08:46:47.921Z",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjlybzAzNDA5aW1tcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7vk8FbN9nR1EGCNqij9TECG7DRmxycmlLJ8IbSnK2HE/image;s=655x491;q=80",
+      "isDirectOwner": false,
+      "previousPrice": 459000
+    },
+    {
+      "id": "otodom-68073228",
+      "source": "otodom",
+      "sourceId": "68073228",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/okazja-role-dzialka-budowlana-1059-m-ID4BCXi",
+      "propertyType": "plot",
+      "title": "Okazja - Role, działka budowlana 1059 m²",
+      "voivodeship": "lubelskie",
+      "county": "łukowski",
+      "city": "Role",
+      "coordinates": {
+        "lat": 51.24014977719509,
+        "lng": 22.577691946102657
+      },
+      "isNearBorder": false,
+      "areaM2": 1059,
+      "currentPrice": 118500,
+      "currentPricePerM2": 111.9,
+      "initialPrice": 120000,
+      "priceChangeAmount": -1500,
+      "priceChangePercent": -1.2,
+      "priceHistory": [
+        {
+          "date": "2026-09-17",
+          "price": 120000,
+          "pricePerM2": 113.31
+        },
+        {
+          "date": "2026-09-18",
+          "price": 118500,
+          "pricePerM2": 111.9
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-06-03T09:52:13.000Z",
+      "lastSeenAt": "2026-09-18T08:43:00.971Z",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjF6c3J5Y2I0NzBvYjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8zBHBFqWhv1lGCqhtULHlipO3HAITHxoJSgRpZffULA/image;s=655x491;q=80",
+      "isDirectOwner": false,
+      "previousPrice": 120000
+    }
+  ]
 }
