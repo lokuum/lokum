@@ -43,12 +43,9 @@ async function main() {
         const distFromCenterLng = item.coordinates ? Math.abs(item.coordinates.lng - center.lng) : 999;
         const wasInCenter = distFromCenterLat < 0.03 && distFromCenterLng < 0.03;
 
-        // Jeśli oferta pochodzi z Adresowo LUB nie ma współrzędnych LUB była umieszczona w centrum województwa, mimo że miejscowość to nie stolica
-        if (!item.coordinates || item.source === 'adresowo' || (wasInCenter && !isCapitalCity)) {
-          const newCoords = getLocationCoordinates(v, item.city, item.county);
-          item.coordinates = newCoords;
-          updatedCount++;
-        }
+        const newCoords = getLocationCoordinates(v, item.city, item.county);
+        item.coordinates = newCoords;
+        updatedCount++;
       }
 
       await savePartition(v, t, offers);

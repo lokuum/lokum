@@ -11,8 +11,8 @@
     "city": "Murowana Goślina",
     "street": "ul. Polna",
     "coordinates": {
-      "lat": 52.57324473048461,
-      "lng": 17.002764616047003
+      "lat": 52.568742357036534,
+      "lng": 17.008945845557868
     },
     "isNearBorder": false,
     "areaM2": 25600,
@@ -46,8 +46,8 @@
     "city": "Drwęsa",
     "street": "cisowa",
     "coordinates": {
-      "lat": 52.40511617516497,
-      "lng": 16.93296363994954
+      "lat": 52.40293816439474,
+      "lng": 16.921357945229936
     },
     "isNearBorder": false,
     "areaM2": 1950,
@@ -80,8 +80,8 @@
     "county": "poznański",
     "city": "Lusówko",
     "coordinates": {
-      "lat": 52.40599502745681,
-      "lng": 16.926232831887184
+      "lat": 52.4001675424637,
+      "lng": 16.918087514825206
     },
     "isNearBorder": false,
     "areaM2": 2000,
@@ -115,8 +115,8 @@
     "city": "Święciechowa",
     "street": "Makuszyńskiego",
     "coordinates": {
-      "lat": 51.84616436138538,
-      "lng": 16.57517872016221
+      "lat": 51.84446317098967,
+      "lng": 16.583978346032804
     },
     "isNearBorder": false,
     "areaM2": 780,
@@ -150,8 +150,8 @@
     "city": "Suchy Las",
     "street": "ul. Krótka",
     "coordinates": {
-      "lat": 52.47395757616394,
-      "lng": 16.8718811702013
+      "lat": 52.4815853070068,
+      "lng": 16.886755483352225
     },
     "isNearBorder": false,
     "areaM2": 1333,
@@ -185,8 +185,8 @@
     "city": "Konin",
     "street": "ul. Wojciechowo",
     "coordinates": {
-      "lat": 52.21944981571452,
-      "lng": 18.253062531800264
+      "lat": 52.225677961621415,
+      "lng": 18.258567573989154
     },
     "isNearBorder": false,
     "areaM2": 1451,
@@ -219,8 +219,8 @@
     "county": "gnieźnieński",
     "city": "Dziekanowice",
     "coordinates": {
-      "lat": 52.537327246967614,
-      "lng": 17.575680288697445
+      "lat": 52.52854062967606,
+      "lng": 17.581717931722128
     },
     "isNearBorder": false,
     "areaM2": 4900,
@@ -253,8 +253,8 @@
     "county": "ostrowski",
     "city": "Ostrów Wielkopolski",
     "coordinates": {
-      "lat": 51.65664119373089,
-      "lng": 17.809808115691165
+      "lat": 51.65798423795589,
+      "lng": 17.80858732947196
     },
     "isNearBorder": false,
     "areaM2": 3170,
@@ -288,8 +288,8 @@
     "city": "Poznań",
     "street": "ul. Sandomierska",
     "coordinates": {
-      "lat": 52.408255288705575,
-      "lng": 16.924870103219686
+      "lat": 52.40319844276973,
+      "lng": 16.92189484743897
     },
     "isNearBorder": false,
     "areaM2": 350,
@@ -322,8 +322,8 @@
     "county": "słupecki",
     "city": "Przybrodzin",
     "coordinates": {
-      "lat": 52.28423206103869,
-      "lng": 17.862749748466175
+      "lat": 52.284183553227244,
+      "lng": 17.87359306504256
     },
     "isNearBorder": false,
     "areaM2": 945,
@@ -356,8 +356,8 @@
     "county": "szamotulski",
     "city": "Jasionna",
     "coordinates": {
-      "lat": 52.61124090846232,
-      "lng": 16.57095779052006
+      "lat": 52.60860697813518,
+      "lng": 16.58708091328742
     },
     "isNearBorder": false,
     "areaM2": 2118,
@@ -391,8 +391,8 @@
     "city": "Nowa Wieś",
     "street": "Staromiejska",
     "coordinates": {
-      "lat": 52.61679664331607,
-      "lng": 16.56904113784588
+      "lat": 52.607329487991684,
+      "lng": 16.580692247202343
     },
     "isNearBorder": false,
     "areaM2": 1035,
@@ -426,8 +426,8 @@
     "city": "Dąbrówka",
     "street": "ul. Gościniec",
     "coordinates": {
-      "lat": 52.40776845285723,
-      "lng": 16.930363424859635
+      "lat": 52.405080831768615,
+      "lng": 16.930625832876466
     },
     "isNearBorder": false,
     "areaM2": 650,
@@ -461,8 +461,8 @@
     "city": "Sierosław",
     "street": "Agatowa",
     "coordinates": {
-      "lat": 52.40606516944825,
-      "lng": 16.926259904599675
+      "lat": 52.39986887600975,
+      "lng": 16.91522020558081
     },
     "isNearBorder": false,
     "areaM2": 902,
@@ -495,8 +495,8 @@
     "county": "poznański",
     "city": "Poznań",
     "coordinates": {
-      "lat": 52.4072712202331,
-      "lng": 16.920946961822654
+      "lat": 52.413623909354136,
+      "lng": 16.931083238765154
     },
     "isNearBorder": false,
     "areaM2": 300,
@@ -529,8 +529,8 @@
     "county": "pilski",
     "city": "Rzadkowo",
     "coordinates": {
-      "lat": 53.15875862798737,
-      "lng": 16.745671054603918
+      "lat": 53.14976226700836,
+      "lng": 16.73582520463222
     },
     "isNearBorder": false,
     "areaM2": 1207,
@@ -564,8 +564,8 @@
     "city": "Wapniarnia Trzecia",
     "street": "bursztynowa",
     "coordinates": {
-      "lat": 52.90132916711401,
-      "lng": 16.562370991190562
+      "lat": 52.89636854239914,
+      "lng": 16.568097447474774
     },
     "isNearBorder": false,
     "areaM2": 1118,
@@ -599,8 +599,8 @@
     "city": "Sierosław",
     "street": "ul. Bukowska",
     "coordinates": {
-      "lat": 52.411429960578666,
-      "lng": 16.920831530284783
+      "lat": 52.4093355062484,
+      "lng": 16.917279303301612
     },
     "isNearBorder": false,
     "areaM2": 398,
@@ -634,8 +634,8 @@
     "city": "Kokorzyn",
     "street": "Ani z Zielonego Wzgórza",
     "coordinates": {
-      "lat": 52.09438572421882,
-      "lng": 16.648544699058846
+      "lat": 52.08504358024784,
+      "lng": 16.65240501551813
     },
     "isNearBorder": false,
     "areaM2": 709,
@@ -668,8 +668,8 @@
     "county": "rawicki",
     "city": "Kąty",
     "coordinates": {
-      "lat": 51.61573298243316,
-      "lng": 16.863564716837562
+      "lat": 51.61535582913561,
+      "lng": 16.84852684623818
     },
     "isNearBorder": false,
     "areaM2": 1350,
@@ -703,8 +703,8 @@
     "city": "Pleszew",
     "street": "ul. Marszewska",
     "coordinates": {
-      "lat": 51.898185969777984,
-      "lng": 17.781074562547282
+      "lat": 51.88958612093484,
+      "lng": 17.77748480334222
     },
     "isNearBorder": false,
     "areaM2": 1800,
@@ -737,8 +737,8 @@
     "county": "wrzesiński",
     "city": "Nowy Folwark",
     "coordinates": {
-      "lat": 52.33271042824198,
-      "lng": 17.565950345319013
+      "lat": 52.32716339781111,
+      "lng": 17.573385664032145
     },
     "isNearBorder": false,
     "areaM2": 2031,
@@ -771,8 +771,8 @@
     "county": "poznański",
     "city": "Kruszewnia",
     "coordinates": {
-      "lat": 52.41326837112124,
-      "lng": 16.93506624843775
+      "lat": 52.40991120795683,
+      "lng": 16.922717121289953
     },
     "isNearBorder": false,
     "areaM2": 830,
@@ -805,8 +805,8 @@
     "county": "ostrowski",
     "city": "Żakowice",
     "coordinates": {
-      "lat": 51.65077774388137,
-      "lng": 17.800697952962352
+      "lat": 51.653873904434356,
+      "lng": 17.798094219758163
     },
     "isNearBorder": false,
     "areaM2": 2000,
@@ -839,8 +839,8 @@
     "county": "poznański",
     "city": "Gruszczyn",
     "coordinates": {
-      "lat": 52.40762718675223,
-      "lng": 16.92885635882918
+      "lat": 52.405289613868646,
+      "lng": 16.92761954538404
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -874,8 +874,8 @@
     "city": "Września",
     "street": "ul. Mikołaja Kopernika",
     "coordinates": {
-      "lat": 52.32146384626107,
-      "lng": 17.561288281194088
+      "lat": 52.32027629556141,
+      "lng": 17.558150497944176
     },
     "isNearBorder": false,
     "areaM2": 6022,
@@ -908,8 +908,8 @@
     "county": "obornicki",
     "city": "Urbanie",
     "coordinates": {
-      "lat": 52.64927593554766,
-      "lng": 16.825091574407654
+      "lat": 52.643021366898395,
+      "lng": 16.819687895626068
     },
     "isNearBorder": false,
     "areaM2": 11065,
@@ -942,8 +942,8 @@
     "county": "radziejowski",
     "city": "Połajewo",
     "coordinates": {
-      "lat": 52.62297444995832,
-      "lng": 18.51625262046331
+      "lat": 52.616581087873804,
+      "lng": 18.50942773719598
     },
     "isNearBorder": false,
     "areaM2": 900,
@@ -976,8 +976,8 @@
     "county": "pilski",
     "city": "Ługi Ujskie",
     "coordinates": {
-      "lat": 53.15534828374445,
-      "lng": 16.73497670431946
+      "lat": 53.148235678379926,
+      "lng": 16.74278978097728
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -1010,8 +1010,8 @@
     "county": "poznański",
     "city": "Wojnowo",
     "coordinates": {
-      "lat": 52.40690748299872,
-      "lng": 16.92010943891589
+      "lat": 52.4097198081972,
+      "lng": 16.935096726551066
     },
     "isNearBorder": false,
     "areaM2": 2188,
@@ -1044,8 +1044,8 @@
     "county": "średzki",
     "city": "Kępa Wielka",
     "coordinates": {
-      "lat": 52.22302529113072,
-      "lng": 17.269299998453427
+      "lat": 52.234005056584444,
+      "lng": 17.266776105682702
     },
     "isNearBorder": false,
     "areaM2": 50441,
@@ -1079,8 +1079,8 @@
     "city": "Kaleje",
     "street": "Lipowa",
     "coordinates": {
-      "lat": 52.08889836691864,
-      "lng": 17.007862527401485
+      "lat": 52.090206799527365,
+      "lng": 17.01786783510832
     },
     "isNearBorder": false,
     "areaM2": 780,
@@ -1114,8 +1114,8 @@
     "city": "Suchy Las",
     "street": "ul. Wojciecha Bogusławskiego",
     "coordinates": {
-      "lat": 52.471473375973865,
-      "lng": 16.884047736634532
+      "lat": 52.473529282864156,
+      "lng": 16.86818738432155
     },
     "isNearBorder": false,
     "areaM2": 450,
@@ -1148,8 +1148,8 @@
     "county": "obornicki",
     "city": "Niemieczkowo",
     "coordinates": {
-      "lat": 52.65374229078275,
-      "lng": 16.82444490642749
+      "lat": 52.643196804623024,
+      "lng": 16.813426445196384
     },
     "isNearBorder": false,
     "areaM2": 22900,
@@ -1183,8 +1183,8 @@
     "city": "Zakrzewo",
     "street": "ul. Łąkowa",
     "coordinates": {
-      "lat": 52.409476319799836,
-      "lng": 16.91798304668209
+      "lat": 52.41349763973764,
+      "lng": 16.920013069521826
     },
     "isNearBorder": false,
     "areaM2": 645,
@@ -1218,8 +1218,8 @@
     "city": "Murowana Goślina",
     "street": "ul. Polna",
     "coordinates": {
-      "lat": 52.57496614678147,
-      "lng": 17.007591737513984
+      "lat": 52.57001351940233,
+      "lng": 17.01175210490626
     },
     "isNearBorder": false,
     "areaM2": 25600,
@@ -1252,8 +1252,8 @@
     "city": "Poznań",
     "street": "ul. Julii i Antoniego Wojkowskich",
     "coordinates": {
-      "lat": 52.41306503747225,
-      "lng": 16.91642831044925
+      "lat": 52.39940409912705,
+      "lng": 16.932200256416817
     },
     "isNearBorder": false,
     "areaM2": 830,
@@ -1287,8 +1287,8 @@
     "city": "Rogierówko",
     "street": "ul. Kościuszki",
     "coordinates": {
-      "lat": 52.408707984608405,
-      "lng": 16.93246194181043
+      "lat": 52.40447536939732,
+      "lng": 16.933345855506637
     },
     "isNearBorder": false,
     "areaM2": 6336,
@@ -1322,8 +1322,8 @@
     "city": "Perzyny",
     "street": "ul. Cegielniana",
     "coordinates": {
-      "lat": 52.310697781962084,
-      "lng": 16.131442735187665
+      "lat": 52.3168803449479,
+      "lng": 16.12809232152927
     },
     "isNearBorder": false,
     "areaM2": 9200,
@@ -1357,8 +1357,8 @@
     "city": "Konin",
     "street": "ul. Świętojańska",
     "coordinates": {
-      "lat": 52.22684741835656,
-      "lng": 18.248887296161243
+      "lat": 52.2157275062933,
+      "lng": 18.25501340636382
     },
     "isNearBorder": false,
     "areaM2": 300,
@@ -1392,8 +1392,8 @@
     "city": "Poznań",
     "street": "ul. Piątkowska",
     "coordinates": {
-      "lat": 52.40853802819857,
-      "lng": 16.92430542654413
+      "lat": 52.400455963151344,
+      "lng": 16.917615529980015
     },
     "isNearBorder": false,
     "areaM2": 425,
@@ -1427,8 +1427,8 @@
     "city": "Sierosław",
     "street": "Agatowa",
     "coordinates": {
-      "lat": 52.402984831243465,
-      "lng": 16.918573520436098
+      "lat": 52.41331258718454,
+      "lng": 16.926666041745776
     },
     "isNearBorder": false,
     "areaM2": 973,
@@ -1462,8 +1462,8 @@
     "city": "Murowana Goślina",
     "street": "ul. Gnieźnieńska",
     "coordinates": {
-      "lat": 52.57179407028355,
-      "lng": 17.015177584355474
+      "lat": 52.579467663767446,
+      "lng": 17.010328127383502
     },
     "isNearBorder": false,
     "areaM2": 837,
@@ -1496,8 +1496,8 @@
     "county": "obornicki",
     "city": "Owczegłowy",
     "coordinates": {
-      "lat": 52.64009572539223,
-      "lng": 16.809474565208067
+      "lat": 52.65270451176305,
+      "lng": 16.81502529392803
     },
     "isNearBorder": false,
     "areaM2": 1683,
@@ -1530,8 +1530,8 @@
     "county": "radziejowski",
     "city": "Połajewek",
     "coordinates": {
-      "lat": 52.61304660151439,
-      "lng": 18.513071848930366
+      "lat": 52.623770465648526,
+      "lng": 18.525580701082127
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -1565,8 +1565,8 @@
     "city": "Ostrów Wielkopolski",
     "street": "Śliwkowa",
     "coordinates": {
-      "lat": 51.65219684020839,
-      "lng": 17.801156313208196
+      "lat": 51.64818078042892,
+      "lng": 17.810268974440675
     },
     "isNearBorder": false,
     "areaM2": 836,
@@ -1600,8 +1600,8 @@
     "city": "Tarnowo Podgórne",
     "street": "ul. Rokietnicka",
     "coordinates": {
-      "lat": 52.472437522145,
-      "lng": 16.668908633833862
+      "lat": 52.46750300718292,
+      "lng": 16.665339856123055
     },
     "isNearBorder": false,
     "areaM2": 1044,
@@ -1635,8 +1635,8 @@
     "city": "Poznań",
     "street": "ul. Gościnna",
     "coordinates": {
-      "lat": 52.40217375106783,
-      "lng": 16.92357886559023
+      "lat": 52.411045332408094,
+      "lng": 16.926052804586575
     },
     "isNearBorder": false,
     "areaM2": 1600,
@@ -1669,8 +1669,8 @@
     "county": "gnieźnieński",
     "city": "Sokołowo",
     "coordinates": {
-      "lat": 52.19602293952956,
-      "lng": 18.637044431872738
+      "lat": 52.531822892892926,
+      "lng": 17.578118046631303
     },
     "isNearBorder": false,
     "areaM2": 834,
@@ -1704,8 +1704,8 @@
     "city": "Batorowo",
     "street": "ul. Stefana Batorego",
     "coordinates": {
-      "lat": 52.413665001877625,
-      "lng": 16.92164106676606
+      "lat": 52.40731033550976,
+      "lng": 16.926836188904296
     },
     "isNearBorder": false,
     "areaM2": 1050,
@@ -1739,8 +1739,8 @@
     "city": "Suchy Las",
     "street": "ul. Wojciecha Bogusławskiego",
     "coordinates": {
-      "lat": 52.48049331865491,
-      "lng": 16.87964432052227
+      "lat": 52.47985390744417,
+      "lng": 16.883568002420184
     },
     "isNearBorder": false,
     "areaM2": 500,
@@ -1773,8 +1773,8 @@
     "county": "wolsztyński",
     "city": "Nowa Obra",
     "coordinates": {
-      "lat": 52.11178822255964,
-      "lng": 16.105872239239734
+      "lat": 52.11210874100615,
+      "lng": 16.11168652978966
     },
     "isNearBorder": false,
     "areaM2": 950,
@@ -1807,8 +1807,8 @@
     "county": "poznański",
     "city": "Kórnik",
     "coordinates": {
-      "lat": 52.24135029953669,
-      "lng": 17.09315948346271
+      "lat": 52.24968601620853,
+      "lng": 17.086576476937324
     },
     "isNearBorder": false,
     "areaM2": 2601,
@@ -1842,8 +1842,8 @@
     "city": "Wierzyce",
     "street": "os. Osiedle Topolowe",
     "coordinates": {
-      "lat": 52.5298760026695,
-      "lng": 17.58577758687251
+      "lat": 52.53040506964074,
+      "lng": 17.585928646421948
     },
     "isNearBorder": false,
     "areaM2": 1586,
@@ -1877,8 +1877,8 @@
     "city": "Rudzica",
     "street": "ul. Łąkowa",
     "coordinates": {
-      "lat": 52.21585272751032,
-      "lng": 18.246261342552074
+      "lat": 52.21929191017818,
+      "lng": 18.25383643335155
     },
     "isNearBorder": false,
     "areaM2": 1128,
@@ -1912,8 +1912,8 @@
     "city": "Czmoniec",
     "street": "Liliowa",
     "coordinates": {
-      "lat": 52.40064993101788,
-      "lng": 16.92755260191409
+      "lat": 52.40597835960508,
+      "lng": 16.932576113004018
     },
     "isNearBorder": false,
     "areaM2": 1188,
@@ -1946,8 +1946,8 @@
     "county": "obornicki",
     "city": "Parkowo",
     "coordinates": {
-      "lat": 52.64860288628258,
-      "lng": 16.810010001965775
+      "lat": 52.64917222432347,
+      "lng": 16.822738344167842
     },
     "isNearBorder": false,
     "areaM2": 1650,
@@ -1981,8 +1981,8 @@
     "city": "Puszczykowo",
     "street": "Rumiankowa",
     "coordinates": {
-      "lat": 52.28686256866792,
-      "lng": 16.8549501101607
+      "lat": 52.277021956164056,
+      "lng": 16.850089100445647
     },
     "isNearBorder": false,
     "areaM2": 3708,
@@ -2016,8 +2016,8 @@
     "city": "Dąbcze",
     "street": "Malwowa",
     "coordinates": {
-      "lat": 51.846714520072624,
-      "lng": 16.584480724261773
+      "lat": 51.83687047644669,
+      "lng": 16.582215976155183
     },
     "isNearBorder": false,
     "areaM2": 879,
@@ -2050,8 +2050,8 @@
     "county": "obornicki",
     "city": "Parkowo",
     "coordinates": {
-      "lat": 52.64549280090285,
-      "lng": 16.8069775238956
+      "lat": 52.65265831836985,
+      "lng": 16.821634774280017
     },
     "isNearBorder": false,
     "areaM2": 2442,
@@ -2084,8 +2084,8 @@
     "county": "poznański",
     "city": "Poznań",
     "coordinates": {
-      "lat": 52.400958657364924,
-      "lng": 16.91741336754234
+      "lat": 52.40467681184419,
+      "lng": 16.93124352353933
     },
     "isNearBorder": false,
     "areaM2": 594,
@@ -2119,8 +2119,8 @@
     "city": "Poznań",
     "street": "ul. Szałwiowa",
     "coordinates": {
-      "lat": 52.40851959708961,
-      "lng": 16.931812094462423
+      "lat": 52.41109455689068,
+      "lng": 16.916557760542474
     },
     "isNearBorder": false,
     "areaM2": 9562,
@@ -2153,8 +2153,8 @@
     "county": "poznański",
     "city": "Kórnik",
     "coordinates": {
-      "lat": 52.238648610614206,
-      "lng": 17.093403444813035
+      "lat": 52.24131733211674,
+      "lng": 17.09769415515383
     },
     "isNearBorder": false,
     "areaM2": 1013,
@@ -2188,8 +2188,8 @@
     "city": "Piłka",
     "street": "ul. Gajówka",
     "coordinates": {
-      "lat": 52.904032180187386,
-      "lng": 16.56261334867339
+      "lat": 52.89605587887841,
+      "lng": 16.56959095469837
     },
     "isNearBorder": false,
     "areaM2": 35000,
@@ -2223,8 +2223,8 @@
     "city": "Niepruszewo",
     "street": "ul. Starowiejska",
     "coordinates": {
-      "lat": 52.399385451018304,
-      "lng": 16.91765304452621
+      "lat": 52.4001034976704,
+      "lng": 16.92412755233061
     },
     "isNearBorder": false,
     "areaM2": 3276,
@@ -2257,8 +2257,8 @@
     "county": "gostyński",
     "city": "Godurowo",
     "coordinates": {
-      "lat": 51.87438315134211,
-      "lng": 17.016044415243158
+      "lat": 51.88020177785389,
+      "lng": 17.01213122039297
     },
     "isNearBorder": false,
     "areaM2": 6826,
@@ -2291,8 +2291,8 @@
     "county": "złotowski",
     "city": "Zalesie",
     "coordinates": {
-      "lat": 53.35609391741926,
-      "lng": 17.04434260804387
+      "lat": 53.35621331514861,
+      "lng": 17.04079548554286
     },
     "isNearBorder": false,
     "areaM2": 1059,
@@ -2325,8 +2325,8 @@
     "county": "międzyrzecki",
     "city": "Borowy Młyn",
     "coordinates": {
-      "lat": 52.449803787795716,
-      "lng": 15.577625638611869
+      "lat": 52.45062859072307,
+      "lng": 15.582605411174042
     },
     "isNearBorder": false,
     "areaM2": 42254,
@@ -2360,8 +2360,8 @@
     "city": "Poznań",
     "street": "ul. Obodrzycka",
     "coordinates": {
-      "lat": 52.409747666216504,
-      "lng": 16.924026632579817
+      "lat": 52.403003953295425,
+      "lng": 16.91747595784175
     },
     "isNearBorder": false,
     "areaM2": 2854,
@@ -2395,8 +2395,8 @@
     "city": "Muchocin",
     "street": "Sosnowa",
     "coordinates": {
-      "lat": 52.60931875265587,
-      "lng": 15.880826623042024
+      "lat": 52.596258168440805,
+      "lng": 15.895037965473561
     },
     "isNearBorder": false,
     "areaM2": 851,
@@ -2430,8 +2430,8 @@
     "city": "Poznań",
     "street": "ul. Glebowa",
     "coordinates": {
-      "lat": 52.40776294642301,
-      "lng": 16.91860275380584
+      "lat": 52.413818994169034,
+      "lng": 16.93009877694185
     },
     "isNearBorder": false,
     "areaM2": 4716,
@@ -2465,8 +2465,8 @@
     "city": "Poznań",
     "street": "ul. Julii i Antoniego Wojkowskich",
     "coordinates": {
-      "lat": 52.41262671485784,
-      "lng": 16.930143598495356
+      "lat": 52.4129220088097,
+      "lng": 16.928194708937422
     },
     "isNearBorder": false,
     "areaM2": 830,
@@ -2499,8 +2499,8 @@
     "city": "Poznań",
     "street": "ul. Krzesiny",
     "coordinates": {
-      "lat": 52.398941201793974,
-      "lng": 16.930493139668016
+      "lat": 52.411475350325915,
+      "lng": 16.931504785315596
     },
     "isNearBorder": false,
     "areaM2": 2348,
@@ -2533,8 +2533,8 @@
     "county": "obornicki",
     "city": "Boguniewo",
     "coordinates": {
-      "lat": 52.64710758738294,
-      "lng": 16.81180130949119
+      "lat": 52.641281426645115,
+      "lng": 16.817280155505536
     },
     "isNearBorder": false,
     "areaM2": 1979,
@@ -2568,8 +2568,8 @@
     "city": "Brodowo",
     "street": "ul. Promykowa",
     "coordinates": {
-      "lat": 52.23090225913853,
-      "lng": 17.265510898976974
+      "lat": 52.22471785591036,
+      "lng": 17.269036751485064
     },
     "isNearBorder": false,
     "areaM2": 780,
@@ -2602,8 +2602,8 @@
     "county": "wolsztyński",
     "city": "Wieleń",
     "coordinates": {
-      "lat": 52.11931859380804,
-      "lng": 16.11424646144259
+      "lat": 52.11029865726347,
+      "lng": 16.123514547227284
     },
     "isNearBorder": false,
     "areaM2": 423,
@@ -2637,8 +2637,8 @@
     "city": "Wieleń",
     "street": "ul. Wczasowa",
     "coordinates": {
-      "lat": 52.11358658848559,
-      "lng": 16.107078450238077
+      "lat": 52.1116061161362,
+      "lng": 16.11108749741231
     },
     "isNearBorder": false,
     "areaM2": 894,
@@ -2671,8 +2671,8 @@
     "county": "obornicki",
     "city": "Lipa",
     "coordinates": {
-      "lat": 52.652148601146024,
-      "lng": 16.81860712896027
+      "lat": 52.652459374367524,
+      "lng": 16.82378462882665
     },
     "isNearBorder": false,
     "areaM2": 1011,
@@ -2706,8 +2706,8 @@
     "city": "Murowana Goślina",
     "street": "ul. Wojska Polskiego",
     "coordinates": {
-      "lat": 52.57427341285994,
-      "lng": 17.003772719917905
+      "lat": 52.57011335337267,
+      "lng": 17.001110017753927
     },
     "isNearBorder": false,
     "areaM2": 1142,
@@ -2741,8 +2741,8 @@
     "city": "Mórkowo",
     "street": "os. Osiedle Nowe Mórkowo",
     "coordinates": {
-      "lat": 51.84196516974474,
-      "lng": 16.584234406016655
+      "lat": 51.83770652794605,
+      "lng": 16.574953030646313
     },
     "isNearBorder": false,
     "areaM2": 1202,
@@ -2776,8 +2776,8 @@
     "city": "Jaszkowo",
     "street": "osiedle ostoja",
     "coordinates": {
-      "lat": 52.085088628537264,
-      "lng": 17.006344377667933
+      "lat": 52.086791754449756,
+      "lng": 17.005595359811636
     },
     "isNearBorder": false,
     "areaM2": 1050,
@@ -2811,8 +2811,8 @@
     "city": "Kobylniki",
     "street": "ul. Szamotulska",
     "coordinates": {
-      "lat": 52.405057150494514,
-      "lng": 16.925567397973055
+      "lat": 52.409553921676924,
+      "lng": 16.916716245952674
     },
     "isNearBorder": false,
     "areaM2": 7529,
@@ -2846,8 +2846,8 @@
     "city": "Gniezno",
     "street": "ul. Kresowa",
     "coordinates": {
-      "lat": 52.541215923269796,
-      "lng": 17.582874288857056
+      "lat": 52.53440656441711,
+      "lng": 17.576520393810224
     },
     "isNearBorder": false,
     "areaM2": 1085,
@@ -2880,8 +2880,8 @@
     "county": "gnieźnieński",
     "city": "Witkowo",
     "coordinates": {
-      "lat": 52.4314963727756,
-      "lng": 17.770970201504
+      "lat": 52.42801617060744,
+      "lng": 17.76737385821941
     },
     "isNearBorder": false,
     "areaM2": 709,
@@ -2915,8 +2915,8 @@
     "city": "Luboń",
     "street": "ul. 3 Maja",
     "coordinates": {
-      "lat": 52.3384812365847,
-      "lng": 16.884882635847546
+      "lat": 52.34621688847821,
+      "lng": 16.8890705330488
     },
     "isNearBorder": false,
     "areaM2": 508,
@@ -2950,8 +2950,8 @@
     "city": "Poznań",
     "street": "ul. Sianowska",
     "coordinates": {
-      "lat": 52.404994370809206,
-      "lng": 16.922284944289974
+      "lat": 52.40809576946271,
+      "lng": 16.92912772736824
     },
     "isNearBorder": false,
     "areaM2": 495,
@@ -2985,8 +2985,8 @@
     "city": "Poznań",
     "street": "ul. Droga Dębińska",
     "coordinates": {
-      "lat": 52.406250887617915,
-      "lng": 16.9268370503901
+      "lat": 52.40692403864179,
+      "lng": 16.92897637992502
     },
     "isNearBorder": false,
     "areaM2": 306,
@@ -3020,8 +3020,8 @@
     "city": "Ostrów Wielkopolski",
     "street": "ul. Matejki",
     "coordinates": {
-      "lat": 51.65716562504036,
-      "lng": 17.8088140949802
+      "lat": 51.653520036401005,
+      "lng": 17.808482649286315
     },
     "isNearBorder": false,
     "areaM2": 930,
@@ -3055,8 +3055,8 @@
     "city": "Września",
     "street": "Culica",
     "coordinates": {
-      "lat": 52.32254244671239,
-      "lng": 17.558717996837828
+      "lat": 52.32746125132403,
+      "lng": 17.556196506603
     },
     "isNearBorder": false,
     "areaM2": 3372,
@@ -3090,8 +3090,8 @@
     "city": "Środa Wielkopolska",
     "street": "ul. Brodowska",
     "coordinates": {
-      "lat": 52.22629540369892,
-      "lng": 17.276341158352146
+      "lat": 52.23058427565404,
+      "lng": 17.275434245562305
     },
     "isNearBorder": false,
     "areaM2": 2644,
@@ -3124,8 +3124,8 @@
     "city": "Kliny",
     "street": "ul. Dzięcioła",
     "coordinates": {
-      "lat": 52.40994040042462,
-      "lng": 16.933970732828683
+      "lat": 52.40078718295154,
+      "lng": 16.929928408041373
     },
     "isNearBorder": false,
     "areaM2": 996,
@@ -3159,8 +3159,8 @@
     "city": "Siekierki Wielkie",
     "street": "ul. Wiśniowa",
     "coordinates": {
-      "lat": 52.40207410196655,
-      "lng": 16.92735034810761
+      "lat": 52.40706485898514,
+      "lng": 16.926313211455557
     },
     "isNearBorder": false,
     "areaM2": 877,
@@ -3193,8 +3193,8 @@
     "county": "poznański",
     "city": "Zalasewo",
     "coordinates": {
-      "lat": 52.408097064386844,
-      "lng": 16.918547654767906
+      "lat": 52.40460035110353,
+      "lng": 16.920824169488867
     },
     "isNearBorder": false,
     "areaM2": 56000,
@@ -3227,8 +3227,8 @@
     "county": "wągrowiecki",
     "city": "Sienno",
     "coordinates": {
-      "lat": 52.813664688580396,
-      "lng": 17.200515845712232
+      "lat": 52.80509389174133,
+      "lng": 17.195507853351305
     },
     "isNearBorder": false,
     "areaM2": 135392,
@@ -3262,8 +3262,8 @@
     "city": "Siekierki Wielkie",
     "street": "ul. Wiśniowa",
     "coordinates": {
-      "lat": 52.399720679700934,
-      "lng": 16.916436106265678
+      "lat": 52.410693729921114,
+      "lng": 16.921373696034422
     },
     "isNearBorder": false,
     "areaM2": 813,
@@ -3297,8 +3297,8 @@
     "city": "Kościan",
     "street": "ul. gen. Dezyderego Chłapowskiego",
     "coordinates": {
-      "lat": 52.092073012306884,
-      "lng": 16.654448831244828
+      "lat": 52.0826186249441,
+      "lng": 16.64723774878431
     },
     "isNearBorder": false,
     "areaM2": 2798,
@@ -3331,8 +3331,8 @@
     "county": "ostrzeszowski",
     "city": "Bierzów",
     "coordinates": {
-      "lat": 51.4350481391712,
-      "lng": 17.915690055445836
+      "lat": 51.422085753401284,
+      "lng": 17.930149023594357
     },
     "isNearBorder": false,
     "areaM2": 984,
@@ -3366,8 +3366,8 @@
     "city": "Leszno",
     "street": "ul. Złotnicza",
     "coordinates": {
-      "lat": 51.847330345741575,
-      "lng": 16.583202037948116
+      "lat": 51.84957527302616,
+      "lng": 16.579059879631608
     },
     "isNearBorder": false,
     "areaM2": 1033,
@@ -3401,8 +3401,8 @@
     "city": "Kościelec",
     "street": "ul. Leśna",
     "coordinates": {
-      "lat": 52.20713610682366,
-      "lng": 18.636638937034217
+      "lat": 52.19484543897769,
+      "lng": 18.634593432657585
     },
     "isNearBorder": false,
     "areaM2": 1005,
@@ -3436,8 +3436,8 @@
     "city": "Laskowo",
     "street": "Wilcza",
     "coordinates": {
-      "lat": 52.99342005047591,
-      "lng": 16.915473447370804
+      "lat": 52.996321070201496,
+      "lng": 16.910106776575027
     },
     "isNearBorder": false,
     "areaM2": 1644,
@@ -3471,8 +3471,8 @@
     "city": "Lusówko",
     "street": "ul. Róży",
     "coordinates": {
-      "lat": 52.41111442801527,
-      "lng": 16.918912490645567
+      "lat": 52.4064587535993,
+      "lng": 16.91839956990366
     },
     "isNearBorder": false,
     "areaM2": 889,
@@ -3505,8 +3505,8 @@
     "county": "poznański",
     "city": "Poznań",
     "coordinates": {
-      "lat": 52.40598045691469,
-      "lng": 16.91795780807278
+      "lat": 52.40648624224375,
+      "lng": 16.933128364993692
     },
     "isNearBorder": false,
     "areaM2": 300,
@@ -3540,8 +3540,8 @@
     "city": "Poznań",
     "street": "ul. Chrzanowska",
     "coordinates": {
-      "lat": 52.40909258909693,
-      "lng": 16.926481514455325
+      "lat": 52.4077464598938,
+      "lng": 16.92017316669823
     },
     "isNearBorder": false,
     "areaM2": 943,
@@ -3574,8 +3574,8 @@
     "county": "nowotomyski",
     "city": "Przyłęk",
     "coordinates": {
-      "lat": 52.312790055872064,
-      "lng": 16.125795191220078
+      "lat": 52.31706973211297,
+      "lng": 16.140298406354805
     },
     "isNearBorder": false,
     "areaM2": 803,
@@ -3608,8 +3608,8 @@
     "county": "poznański",
     "city": "Poznań",
     "coordinates": {
-      "lat": 52.40586382156214,
-      "lng": 16.920470664013077
+      "lat": 52.41368115792105,
+      "lng": 16.921558333720903
     },
     "isNearBorder": false,
     "areaM2": 820,
@@ -3643,8 +3643,8 @@
     "city": "Janków Przygodzki",
     "street": "Łąkowa",
     "coordinates": {
-      "lat": 51.65609806720191,
-      "lng": 17.812250354298165
+      "lat": 51.65487285759971,
+      "lng": 17.810579636890083
     },
     "isNearBorder": false,
     "areaM2": 1400,
@@ -3677,8 +3677,8 @@
     "county": "złotowski",
     "city": "Głubczyn",
     "coordinates": {
-      "lat": 53.35984472840173,
-      "lng": 17.043785989023437
+      "lat": 53.36311765317368,
+      "lng": 17.035174276647567
     },
     "isNearBorder": false,
     "areaM2": 510,
@@ -3712,8 +3712,8 @@
     "city": "Bolechówko",
     "street": "ul. Kręta",
     "coordinates": {
-      "lat": 52.40265068966396,
-      "lng": 16.925579053041474
+      "lat": 52.399520515675995,
+      "lng": 16.91588920178564
     },
     "isNearBorder": false,
     "areaM2": 1200,
@@ -3747,8 +3747,8 @@
     "city": "Poznań",
     "street": "ul. Krzesiny",
     "coordinates": {
-      "lat": 52.40958940081931,
-      "lng": 16.928266907543804
+      "lat": 52.40559251232703,
+      "lng": 16.918870429807225
     },
     "isNearBorder": false,
     "areaM2": 2348,
@@ -3780,8 +3780,8 @@
     "county": "koninski",
     "city": "Cegielnia",
     "coordinates": {
-      "lat": 52.22631202117054,
-      "lng": 18.247783562866783
+      "lat": 52.22675714471234,
+      "lng": 18.249032034925378
     },
     "isNearBorder": false,
     "areaM2": 1837,
@@ -3814,8 +3814,8 @@
     "county": "koscianski",
     "city": "Kościan",
     "coordinates": {
-      "lat": 52.095319926212156,
-      "lng": 16.645169614782503
+      "lat": 52.094530716852255,
+      "lng": 16.65255589210981
     },
     "isNearBorder": false,
     "areaM2": 342,
@@ -3849,8 +3849,8 @@
     "city": "Kaleje",
     "street": "ul. Lipowa",
     "coordinates": {
-      "lat": 52.087956103174626,
-      "lng": 17.023878660084364
+      "lat": 52.08988428969176,
+      "lng": 17.016208998742133
     },
     "isNearBorder": false,
     "areaM2": 780,
@@ -3883,8 +3883,8 @@
     "county": "poznanski",
     "city": "Wiry",
     "coordinates": {
-      "lat": 52.40096675779683,
-      "lng": 16.927144385379627
+      "lat": 52.412201644902375,
+      "lng": 16.92966401552773
     },
     "isNearBorder": false,
     "areaM2": 5200,
@@ -3918,8 +3918,8 @@
     "city": "Luboń",
     "street": "ul. 3 Maja",
     "coordinates": {
-      "lat": 52.34128326676034,
-      "lng": 16.884252496543066
+      "lat": 52.336595362518594,
+      "lng": 16.894751490592707
     },
     "isNearBorder": false,
     "areaM2": 508,
@@ -3953,8 +3953,8 @@
     "city": "Poznań",
     "street": "ul. Droga Dębińska",
     "coordinates": {
-      "lat": 52.40015521410862,
-      "lng": 16.932126321713422
+      "lat": 52.3989241540005,
+      "lng": 16.935184565475286
     },
     "isNearBorder": false,
     "areaM2": 306,
@@ -3987,8 +3987,8 @@
     "county": "gnieznienski",
     "city": "Dębina",
     "coordinates": {
-      "lat": 52.53372081074637,
-      "lng": 17.58796585436735
+      "lat": 52.5333903267772,
+      "lng": 17.58914063056705
     },
     "isNearBorder": false,
     "areaM2": 855,
@@ -4022,8 +4022,8 @@
     "city": "Dębe",
     "street": "ul. Fiołkowa",
     "coordinates": {
-      "lat": 53.03782809787055,
-      "lng": 16.46132243061883
+      "lat": 53.04275967368735,
+      "lng": 16.45470166396806
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -4056,8 +4056,8 @@
     "county": "turecki",
     "city": "Mikulice",
     "coordinates": {
-      "lat": 52.01240073409127,
-      "lng": 18.508527523420096
+      "lat": 52.02179927405473,
+      "lng": 18.502416073247634
     },
     "isNearBorder": false,
     "areaM2": 6000,
@@ -4090,8 +4090,8 @@
     "county": "leszczynski",
     "city": "Dąbcze",
     "coordinates": {
-      "lat": 51.839231596009,
-      "lng": 16.56860173343713
+      "lat": 51.846251736093116,
+      "lng": 16.57830213421493
     },
     "isNearBorder": false,
     "areaM2": 821,
@@ -4125,8 +4125,8 @@
     "city": "Kicin",
     "street": "ul. Sosnowa 4",
     "coordinates": {
-      "lat": 52.412254606984185,
-      "lng": 16.92380302122852
+      "lat": 52.40364144151419,
+      "lng": 16.92496098663723
     },
     "isNearBorder": false,
     "areaM2": 1003,
@@ -4160,8 +4160,8 @@
     "city": "Poznań Ławica",
     "street": "ul. Złotowska",
     "coordinates": {
-      "lat": 52.40393367743464,
-      "lng": 16.926564118823315
+      "lat": 52.40185468232451,
+      "lng": 16.92052833824568
     },
     "isNearBorder": false,
     "areaM2": 300,
@@ -4194,8 +4194,8 @@
     "county": "pleszewski",
     "city": "Broniszewice",
     "coordinates": {
-      "lat": 51.89930869863866,
-      "lng": 17.792547068093494
+      "lat": 51.895848161679055,
+      "lng": 17.793879912395802
     },
     "isNearBorder": false,
     "areaM2": 1210,
@@ -4228,8 +4228,8 @@
     "county": "poznanski",
     "city": "Sierosław",
     "coordinates": {
-      "lat": 52.40349609225189,
-      "lng": 16.924946179153828
+      "lat": 52.40703418325731,
+      "lng": 16.9181993185133
     },
     "isNearBorder": false,
     "areaM2": 450,
@@ -4263,8 +4263,8 @@
     "city": "Poznań",
     "street": "Podolany",
     "coordinates": {
-      "lat": 52.41114959115322,
-      "lng": 16.92839797520644
+      "lat": 52.404171195098186,
+      "lng": 16.932237250152845
     },
     "isNearBorder": false,
     "areaM2": 1044,
@@ -4297,8 +4297,8 @@
     "county": "poznanski",
     "city": "Dąbrowa",
     "coordinates": {
-      "lat": 52.41094552836101,
-      "lng": 16.924319169877563
+      "lat": 52.40641264396,
+      "lng": 16.915878454214198
     },
     "isNearBorder": false,
     "areaM2": 13900,
@@ -4331,8 +4331,8 @@
     "county": "gostynski",
     "city": "Godurowo",
     "coordinates": {
-      "lat": 51.88350708105617,
-      "lng": 17.003696681757283
+      "lat": 51.87505037509356,
+      "lng": 17.015859920064766
     },
     "isNearBorder": false,
     "areaM2": 6826,
@@ -4366,8 +4366,8 @@
     "city": "Owczegłowy",
     "street": "ul. Cisowa",
     "coordinates": {
-      "lat": 52.652342627713296,
-      "lng": 16.82110481325571
+      "lat": 52.64176951286405,
+      "lng": 16.811243283557758
     },
     "isNearBorder": false,
     "areaM2": 715,
@@ -4401,8 +4401,8 @@
     "city": "Środa Wielkopolska",
     "street": "ul. Brodowska",
     "coordinates": {
-      "lat": 52.225862518809556,
-      "lng": 17.27551823322488
+      "lat": 52.2311781248472,
+      "lng": 17.28051691748424
     },
     "isNearBorder": false,
     "areaM2": 2644,
@@ -4436,8 +4436,8 @@
     "city": "Rakownia",
     "street": "ul. Dolna",
     "coordinates": {
-      "lat": 52.399994895254466,
-      "lng": 16.92545370837477
+      "lat": 52.403411198812016,
+      "lng": 16.93067645891318
     },
     "isNearBorder": false,
     "areaM2": 2402,
@@ -4471,8 +4471,8 @@
     "city": "Gołańcz",
     "street": "ul. ppłk. Włodzimierza Kowalskiego",
     "coordinates": {
-      "lat": 52.80878102377976,
-      "lng": 17.194800782605952
+      "lat": 52.80306311657778,
+      "lng": 17.201519215969647
     },
     "isNearBorder": false,
     "areaM2": 2606,
@@ -4505,8 +4505,8 @@
     "county": "poznanski",
     "city": "Pobiedziska",
     "coordinates": {
-      "lat": 52.484153744765,
-      "lng": 17.27852492889853
+      "lat": 52.486808936795754,
+      "lng": 17.28168478157604
     },
     "isNearBorder": false,
     "areaM2": 861,
@@ -4539,8 +4539,8 @@
     "county": "obornicki",
     "city": "Wychowaniec",
     "coordinates": {
-      "lat": 52.64867826942992,
-      "lng": 16.825114494035088
+      "lat": 52.64956003946009,
+      "lng": 16.810254207116703
     },
     "isNearBorder": false,
     "areaM2": 36000,
@@ -4573,8 +4573,8 @@
     "county": "sremski",
     "city": "Jaszkowo",
     "coordinates": {
-      "lat": 52.09220190429568,
-      "lng": 17.022738274919305
+      "lat": 52.090718875688594,
+      "lng": 17.01177732445653
     },
     "isNearBorder": false,
     "areaM2": 1050,
@@ -4608,8 +4608,8 @@
     "city": "Gołańcz",
     "street": "ul. ppłk. Włodzimierza Kowalskiego",
     "coordinates": {
-      "lat": 52.8023616954192,
-      "lng": 17.203786042543932
+      "lat": 52.814071627369316,
+      "lng": 17.198418022933097
     },
     "isNearBorder": false,
     "areaM2": 2559,
@@ -4642,8 +4642,8 @@
     "county": "miedzychodzki",
     "city": "Lutomek",
     "coordinates": {
-      "lat": 52.596566903734484,
-      "lng": 15.898611520801518
+      "lat": 52.603203438604574,
+      "lng": 15.898102727376042
     },
     "isNearBorder": false,
     "areaM2": 2485,
@@ -4676,8 +4676,8 @@
     "county": "gostynski",
     "city": "Skoków",
     "coordinates": {
-      "lat": 51.88333490766105,
-      "lng": 17.0049610571818
+      "lat": 51.881880031086155,
+      "lng": 17.01488074254863
     },
     "isNearBorder": false,
     "areaM2": 1623,
@@ -4711,8 +4711,8 @@
     "city": "Leszno Zatorze",
     "street": "ul. Dożynkowa",
     "coordinates": {
-      "lat": 51.84886236133344,
-      "lng": 16.56858892872343
+      "lat": 51.83957160265322,
+      "lng": 16.57909745774331
     },
     "isNearBorder": false,
     "areaM2": 300,
@@ -4745,8 +4745,8 @@
     "county": "grodziski",
     "city": "Słocin",
     "coordinates": {
-      "lat": 52.225729277972256,
-      "lng": 16.366279675700497
+      "lat": 52.229142018331174,
+      "lng": 16.370273465606743
     },
     "isNearBorder": false,
     "areaM2": 401,
@@ -4779,8 +4779,8 @@
     "county": "poznanski",
     "city": "Koziegłowy",
     "coordinates": {
-      "lat": 52.41312285156893,
-      "lng": 16.935098539786413
+      "lat": 52.41057163583741,
+      "lng": 16.922232447183482
     },
     "isNearBorder": false,
     "areaM2": 5958,
@@ -4813,8 +4813,8 @@
     "county": "sremski",
     "city": "Śrem",
     "coordinates": {
-      "lat": 52.0839218774229,
-      "lng": 17.009946060372584
+      "lat": 52.082202401427104,
+      "lng": 17.006239164802796
     },
     "isNearBorder": false,
     "areaM2": 300,
@@ -4848,8 +4848,8 @@
     "city": "Czeszewo",
     "street": "ul. Cmentarna",
     "coordinates": {
-      "lat": 52.32863343631382,
-      "lng": 17.574266592161756
+      "lat": 52.320846825013895,
+      "lng": 17.56799288244012
     },
     "isNearBorder": false,
     "areaM2": 1055,
@@ -4883,8 +4883,8 @@
     "city": "Gruszczyn",
     "street": "ul. Katarzyńska",
     "coordinates": {
-      "lat": 52.409867304035984,
-      "lng": 16.916763206554357
+      "lat": 52.410149592599744,
+      "lng": 16.92721452374895
     },
     "isNearBorder": false,
     "areaM2": 1100,
@@ -4917,8 +4917,8 @@
     "county": "poznanski",
     "city": "Sierosław",
     "coordinates": {
-      "lat": 52.40872310599096,
-      "lng": 16.920070780836767
+      "lat": 52.40969031339426,
+      "lng": 16.93349312275893
     },
     "isNearBorder": false,
     "areaM2": 1144,
@@ -4951,8 +4951,8 @@
     "county": "szamotulski",
     "city": "Kopanina",
     "coordinates": {
-      "lat": 52.610288716374406,
-      "lng": 16.579774777588195
+      "lat": 52.615573413019604,
+      "lng": 16.57899895375703
     },
     "isNearBorder": false,
     "areaM2": 1400,
@@ -4985,8 +4985,8 @@
     "county": "poznanski",
     "city": "Sierosław",
     "coordinates": {
-      "lat": 52.401406726079564,
-      "lng": 16.925409296207302
+      "lat": 52.40847546996528,
+      "lng": 16.928700722655893
     },
     "isNearBorder": false,
     "areaM2": 400,
@@ -5020,8 +5020,8 @@
     "city": "Plewiska",
     "street": "ul. Szkolna",
     "coordinates": {
-      "lat": 52.412951558876244,
-      "lng": 16.91764149076045
+      "lat": 52.413488976441975,
+      "lng": 16.93075103200716
     },
     "isNearBorder": false,
     "areaM2": 16800,
@@ -5054,8 +5054,8 @@
     "county": "poznanski",
     "city": "Biernatki",
     "coordinates": {
-      "lat": 52.413526325432166,
-      "lng": 16.932405863547405
+      "lat": 52.412360578059044,
+      "lng": 16.933236930006085
     },
     "isNearBorder": false,
     "areaM2": 1300,
@@ -5089,8 +5089,8 @@
     "city": "Konin Maliniec",
     "street": "ul. Maliniecka",
     "coordinates": {
-      "lat": 52.22296072773099,
-      "lng": 18.244986407887215
+      "lat": 52.227487532041614,
+      "lng": 18.25458645101589
     },
     "isNearBorder": false,
     "areaM2": 1360,
@@ -5123,8 +5123,8 @@
     "county": "poznanski",
     "city": "Szczytniki",
     "coordinates": {
-      "lat": 51.682327710186506,
-      "lng": 18.31635073142757
+      "lat": 51.67985266607339,
+      "lng": 18.312579537213498
     },
     "isNearBorder": false,
     "areaM2": 373,
@@ -5158,8 +5158,8 @@
     "city": "Śmigiel",
     "street": "ul. Tadeusza Kościuszki",
     "coordinates": {
-      "lat": 52.08171775228749,
-      "lng": 16.646158628074453
+      "lat": 52.08472824058754,
+      "lng": 16.644133698862174
     },
     "isNearBorder": false,
     "areaM2": 370,
@@ -5192,8 +5192,8 @@
     "county": "jarocinski",
     "city": "Cielcza",
     "coordinates": {
-      "lat": 51.976035466289446,
-      "lng": 17.500277096160517
+      "lat": 51.97473498606654,
+      "lng": 17.49663738648253
     },
     "isNearBorder": false,
     "areaM2": 1481,
@@ -5226,8 +5226,8 @@
     "county": "poznanski",
     "city": "Rogierówko",
     "coordinates": {
-      "lat": 52.40196017317245,
-      "lng": 16.93138523024583
+      "lat": 52.40931778768585,
+      "lng": 16.92224542367804
     },
     "isNearBorder": false,
     "areaM2": 750,
@@ -5260,8 +5260,8 @@
     "county": "slupecki",
     "city": "Piotrowice",
     "coordinates": {
-      "lat": 52.28899861174579,
-      "lng": 17.871683677535966
+      "lat": 52.29200617186687,
+      "lng": 17.869482620910837
     },
     "isNearBorder": false,
     "areaM2": 870,
@@ -5294,8 +5294,8 @@
     "county": "koninski",
     "city": "Adamowo",
     "coordinates": {
-      "lat": 52.2200691401325,
-      "lng": 18.24659796934954
+      "lat": 52.2286439580802,
+      "lng": 18.259426157018737
     },
     "isNearBorder": false,
     "areaM2": 2000,
@@ -5328,8 +5328,8 @@
     "county": "gnieznienski",
     "city": "Imielno",
     "coordinates": {
-      "lat": 52.53682116906604,
-      "lng": 17.58536221338884
+      "lat": 52.528193946334326,
+      "lng": 17.584624077175985
     },
     "isNearBorder": false,
     "areaM2": 480,
@@ -5362,8 +5362,8 @@
     "county": "obornicki",
     "city": "Oborniki",
     "coordinates": {
-      "lat": 52.64237933180884,
-      "lng": 16.823963214407655
+      "lat": 52.639662328018325,
+      "lng": 16.80957939572188
     },
     "isNearBorder": false,
     "areaM2": 997,
@@ -5396,8 +5396,8 @@
     "county": "koscianski",
     "city": "Nowy Dwór",
     "coordinates": {
-      "lat": 52.09270585424887,
-      "lng": 16.643188623879727
+      "lat": 52.09264530755374,
+      "lng": 16.652001042348967
     },
     "isNearBorder": false,
     "areaM2": 838,
@@ -5430,8 +5430,8 @@
     "county": "gnieznienski",
     "city": "Lednogóra",
     "coordinates": {
-      "lat": 52.53396931185502,
-      "lng": 17.592141162783246
+      "lat": 52.532597835297395,
+      "lng": 17.57971972864874
     },
     "isNearBorder": false,
     "areaM2": 1600,
@@ -5464,8 +5464,8 @@
     "county": "zlotowski",
     "city": "Złotów",
     "coordinates": {
-      "lat": 53.35792256715057,
-      "lng": 17.037143608670327
+      "lat": 53.35966662643206,
+      "lng": 17.043789659330372
     },
     "isNearBorder": false,
     "areaM2": 228,
@@ -5498,8 +5498,8 @@
     "county": "ostrowski",
     "city": "Karski",
     "coordinates": {
-      "lat": 51.64979139715981,
-      "lng": 17.80135844246724
+      "lat": 51.65247907161115,
+      "lng": 17.80206496064976
     },
     "isNearBorder": false,
     "areaM2": 1017,
@@ -5532,8 +5532,8 @@
     "county": "trzcianecki",
     "city": "Lubasz",
     "coordinates": {
-      "lat": 53.04269698094901,
-      "lng": 16.461524593302926
+      "lat": 53.042404085141115,
+      "lng": 16.454456074629434
     },
     "isNearBorder": false,
     "areaM2": 320,
@@ -5566,8 +5566,8 @@
     "county": "poznanski",
     "city": "Biernatki",
     "coordinates": {
-      "lat": 52.410306517184644,
-      "lng": 16.923677723744596
+      "lat": 52.410592189190346,
+      "lng": 16.9291354662857
     },
     "isNearBorder": false,
     "areaM2": 897,
@@ -5600,8 +5600,8 @@
     "county": "poznanski",
     "city": "Kołata",
     "coordinates": {
-      "lat": 52.41112302584933,
-      "lng": 16.933091734476253
+      "lat": 52.4133741663534,
+      "lng": 16.920619976713354
     },
     "isNearBorder": false,
     "areaM2": 4597,
@@ -5634,8 +5634,8 @@
     "county": "kaliski",
     "city": "Przystajnia",
     "coordinates": {
-      "lat": 51.760452236780544,
-      "lng": 18.083299378519822
+      "lat": 51.7679515983781,
+      "lng": 18.081468681388195
     },
     "isNearBorder": false,
     "areaM2": 889,
@@ -5669,8 +5669,8 @@
     "city": "Miały",
     "street": "ul. Fabryczna",
     "coordinates": {
-      "lat": 53.040745963909245,
-      "lng": 16.45388894180878
+      "lat": 53.036457340670104,
+      "lng": 16.46150379514591
     },
     "isNearBorder": false,
     "areaM2": 400,
@@ -5703,8 +5703,8 @@
     "county": "poznanski",
     "city": "Kostrzyn",
     "coordinates": {
-      "lat": 52.40332540573926,
-      "lng": 17.219930451092786
+      "lat": 52.392356928835675,
+      "lng": 17.229362922300318
     },
     "isNearBorder": false,
     "areaM2": 47500,
@@ -5737,8 +5737,8 @@
     "county": "koscianski",
     "city": "Kiełczewo",
     "coordinates": {
-      "lat": 52.088396403735416,
-      "lng": 16.641100249715617
+      "lat": 52.08644510764965,
+      "lng": 16.646886912243822
     },
     "isNearBorder": false,
     "areaM2": 2077,
@@ -5771,8 +5771,8 @@
     "county": "leszczyński",
     "city": "Leszno",
     "coordinates": {
-      "lat": 51.849458288011284,
-      "lng": 16.56740478933602
+      "lat": 51.83760877401262,
+      "lng": 16.575732507031724
     },
     "isNearBorder": false,
     "areaM2": 450,
@@ -5805,8 +5805,8 @@
     "county": "ostrzeszowski",
     "city": "Ostrzeszów",
     "coordinates": {
-      "lat": 51.42787784116903,
-      "lng": 17.926470174950957
+      "lat": 51.43248200801751,
+      "lng": 17.916943174844878
     },
     "isNearBorder": false,
     "areaM2": 1737,
@@ -5839,8 +5839,8 @@
     "county": "pleszewski",
     "city": "Kolonia Obory",
     "coordinates": {
-      "lat": 51.89203151743049,
-      "lng": 17.783860291893557
+      "lat": 51.9004544321138,
+      "lng": 17.78904001576742
     },
     "isNearBorder": false,
     "areaM2": 20000,
@@ -5873,8 +5873,8 @@
     "county": "koscianski",
     "city": "Nowy Dwór",
     "coordinates": {
-      "lat": 52.09080613822838,
-      "lng": 16.64318447014215
+      "lat": 52.08310211948911,
+      "lng": 16.642178324215006
     },
     "isNearBorder": false,
     "areaM2": 4054,
@@ -5907,8 +5907,8 @@
     "county": "trzcianecki",
     "city": "Piłka",
     "coordinates": {
-      "lat": 53.04282041344688,
-      "lng": 16.46715045942788
+      "lat": 53.04532436218929,
+      "lng": 16.4597864486022
     },
     "isNearBorder": false,
     "areaM2": 1298,
@@ -5942,8 +5942,8 @@
     "city": "Złotniczki",
     "street": "ul. Błękitna",
     "coordinates": {
-      "lat": 52.407888135753495,
-      "lng": 16.93375460552038
+      "lat": 52.4041325884405,
+      "lng": 16.933832400870738
     },
     "isNearBorder": false,
     "areaM2": 1643,
@@ -5976,8 +5976,8 @@
     "county": "wrzesinski",
     "city": "Stanisławowo",
     "coordinates": {
-      "lat": 52.3326597768613,
-      "lng": 17.57377108783119
+      "lat": 52.323814853391646,
+      "lng": 17.573335214577728
     },
     "isNearBorder": false,
     "areaM2": 80900,
@@ -6010,8 +6010,8 @@
     "county": "poznanski",
     "city": "Dąbrówka",
     "coordinates": {
-      "lat": 52.409633141416805,
-      "lng": 16.933675414915765
+      "lat": 52.40976023785156,
+      "lng": 16.927431950307916
     },
     "isNearBorder": false,
     "areaM2": 420,
@@ -6044,8 +6044,8 @@
     "county": "poznanski",
     "city": "Złotniki",
     "coordinates": {
-      "lat": 52.41145072752051,
-      "lng": 16.921225084176225
+      "lat": 52.41105284392209,
+      "lng": 16.921771829392615
     },
     "isNearBorder": false,
     "areaM2": 820,
@@ -6078,8 +6078,8 @@
     "county": "poznanski",
     "city": "Poklatki",
     "coordinates": {
-      "lat": 52.412032158782324,
-      "lng": 16.916391565117387
+      "lat": 52.408324487173196,
+      "lng": 16.919527737722923
     },
     "isNearBorder": false,
     "areaM2": 17900,
@@ -6112,8 +6112,8 @@
     "county": "gnieznienski",
     "city": "Strzyżewo Smykowe",
     "coordinates": {
-      "lat": 52.53997628648573,
-      "lng": 17.57439012956092
+      "lat": 52.529660904961595,
+      "lng": 17.577983771320568
     },
     "isNearBorder": false,
     "areaM2": 805,
@@ -6146,8 +6146,8 @@
     "county": "poznanski",
     "city": "Łopuchowo",
     "coordinates": {
-      "lat": 52.407650759409044,
-      "lng": 16.919806642064394
+      "lat": 52.404247570571194,
+      "lng": 16.929868778520163
     },
     "isNearBorder": false,
     "areaM2": 1008,
@@ -6180,8 +6180,8 @@
     "county": "sredzki",
     "city": "Lorenka",
     "coordinates": {
-      "lat": 52.22581220860616,
-      "lng": 17.27075341418781
+      "lat": 52.232982243702146,
+      "lng": 17.27893293247625
     },
     "isNearBorder": false,
     "areaM2": 1100,
@@ -6214,8 +6214,8 @@
     "county": "trzcianecki",
     "city": "Dzierżążno Małe",
     "coordinates": {
-      "lat": 53.03921693401441,
-      "lng": 16.453071044965213
+      "lat": 53.04206010497,
+      "lng": 16.466229587877542
     },
     "isNearBorder": false,
     "areaM2": 1035,
@@ -6248,8 +6248,8 @@
     "county": "poznanski",
     "city": "Gortatowo",
     "coordinates": {
-      "lat": 52.412881854381965,
-      "lng": 16.918162973099836
+      "lat": 52.40831386323591,
+      "lng": 16.92311033290534
     },
     "isNearBorder": false,
     "areaM2": 4100,
@@ -6283,8 +6283,8 @@
     "city": "Rogaszyce",
     "street": "ul. Wesoła",
     "coordinates": {
-      "lat": 51.421408514107746,
-      "lng": 17.92233381203549
+      "lat": 51.42410400405596,
+      "lng": 17.93080035892446
     },
     "isNearBorder": false,
     "areaM2": 1027,
@@ -6317,8 +6317,8 @@
     "county": "ostrzeszowski",
     "city": "Przedborów",
     "coordinates": {
-      "lat": 51.420928031436965,
-      "lng": 17.91839423348468
+      "lat": 51.42546761715725,
+      "lng": 17.933805369452433
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -6351,8 +6351,8 @@
     "county": "ostrowski",
     "city": "Tarchały Wielkie",
     "coordinates": {
-      "lat": 51.6569706251715,
-      "lng": 17.801668234572194
+      "lat": 51.66090977953593,
+      "lng": 17.814846686455056
     },
     "isNearBorder": false,
     "areaM2": 1100,
@@ -6385,8 +6385,8 @@
     "county": "szamotulski",
     "city": "Kiączyn",
     "coordinates": {
-      "lat": 52.61752030502598,
-      "lng": 16.582827272974704
+      "lat": 52.6186999503344,
+      "lng": 16.572821174715845
     },
     "isNearBorder": false,
     "areaM2": 824,
@@ -6420,8 +6420,8 @@
     "city": "Poznań",
     "street": "Krzesiny",
     "coordinates": {
-      "lat": 52.39922913234949,
-      "lng": 16.91686545585345
+      "lat": 52.399033103207685,
+      "lng": 16.923198488288204
     },
     "isNearBorder": false,
     "areaM2": 9000,
@@ -6455,8 +6455,8 @@
     "city": "Opalenica",
     "street": "ul. Strumykowa",
     "coordinates": {
-      "lat": 52.32169002416084,
-      "lng": 16.139297760414536
+      "lat": 52.31644058590628,
+      "lng": 16.12663045295741
     },
     "isNearBorder": false,
     "areaM2": 2528,
@@ -6489,8 +6489,8 @@
     "county": "poznanski",
     "city": "Wronczynek",
     "coordinates": {
-      "lat": 52.401765114498666,
-      "lng": 16.928461280857203
+      "lat": 52.4020928021971,
+      "lng": 16.92444221376482
     },
     "isNearBorder": false,
     "areaM2": 1266,
@@ -6524,8 +6524,8 @@
     "city": "Kobylniki",
     "street": "ul. Brzozowa",
     "coordinates": {
-      "lat": 52.40707855967309,
-      "lng": 16.920625795087105
+      "lat": 52.41012249841489,
+      "lng": 16.9299803698944
     },
     "isNearBorder": false,
     "areaM2": 979,
@@ -6558,8 +6558,8 @@
     "county": "trzcianecki",
     "city": "Czarnków",
     "coordinates": {
-      "lat": 52.89946580269167,
-      "lng": 16.56887809175269
+      "lat": 52.89628385607408,
+      "lng": 16.560326101480747
     },
     "isNearBorder": false,
     "areaM2": 15900,
@@ -6592,8 +6592,8 @@
     "county": "pleszewski",
     "city": "Tomice",
     "coordinates": {
-      "lat": 51.89898497346838,
-      "lng": 17.789909591059775
+      "lat": 51.900704599004285,
+      "lng": 17.789477653828477
     },
     "isNearBorder": false,
     "areaM2": 4200,
@@ -6626,8 +6626,8 @@
     "county": "koninski",
     "city": "Tręby Nowe",
     "coordinates": {
-      "lat": 52.21723200800792,
-      "lng": 18.259481088570652
+      "lat": 52.22232103476407,
+      "lng": 18.257029060148867
     },
     "isNearBorder": false,
     "areaM2": 1400,
@@ -6661,8 +6661,8 @@
     "city": "Września",
     "street": "ul. Bronisławy Śmidowicz",
     "coordinates": {
-      "lat": 52.32390964407358,
-      "lng": 17.566271543670332
+      "lat": 52.32642101706092,
+      "lng": 17.573852783822716
     },
     "isNearBorder": false,
     "areaM2": 300,
@@ -6695,8 +6695,8 @@
     "county": "gnieznienski",
     "city": "Gniezno",
     "coordinates": {
-      "lat": 52.53165359840961,
-      "lng": 17.591264474980182
+      "lat": 52.52780585284939,
+      "lng": 17.584553767248803
     },
     "isNearBorder": false,
     "areaM2": 425,
@@ -6729,8 +6729,8 @@
     "county": "leszczynski",
     "city": "Włoszakowice",
     "coordinates": {
-      "lat": 51.84025685439498,
-      "lng": 16.568473302226973
+      "lat": 51.846108315485885,
+      "lng": 16.56805303336316
     },
     "isNearBorder": false,
     "areaM2": 1171,
@@ -6763,8 +6763,8 @@
     "county": "leszczynski",
     "city": "Włoszakowice",
     "coordinates": {
-      "lat": 51.844641763498984,
-      "lng": 16.581532786621096
+      "lat": 51.84048517266921,
+      "lng": 16.5650919256161
     },
     "isNearBorder": false,
     "areaM2": 1117,
@@ -6798,8 +6798,8 @@
     "city": "Poznań",
     "street": "Szczepankowo",
     "coordinates": {
-      "lat": 52.40871106786085,
-      "lng": 16.92900384626941
+      "lat": 52.40926153240527,
+      "lng": 16.933251570259774
     },
     "isNearBorder": false,
     "areaM2": 2028,
@@ -6833,8 +6833,8 @@
     "city": "Poznań Kiekrz",
     "street": "ul. Morska",
     "coordinates": {
-      "lat": 52.407269973775236,
-      "lng": 16.932274274764325
+      "lat": 52.413456918179115,
+      "lng": 16.92127769089475
     },
     "isNearBorder": false,
     "areaM2": 435,
@@ -6867,8 +6867,8 @@
     "county": "krotoszynski",
     "city": "Konarzew",
     "coordinates": {
-      "lat": 51.69240837065484,
-      "lng": 17.44110333237478
+      "lat": 51.6926506833955,
+      "lng": 17.43307585251559
     },
     "isNearBorder": false,
     "areaM2": 1034,
@@ -6901,8 +6901,8 @@
     "county": "poznanski",
     "city": "Jaryszki",
     "coordinates": {
-      "lat": 52.40204059259457,
-      "lng": 16.919755334431414
+      "lat": 52.40478217379352,
+      "lng": 16.93163760916954
     },
     "isNearBorder": false,
     "areaM2": 700,
@@ -6936,8 +6936,8 @@
     "city": "Radawnica",
     "street": "ul. Złotowska",
     "coordinates": {
-      "lat": 53.36602331062318,
-      "lng": 17.041679123044297
+      "lat": 53.367641452437844,
+      "lng": 17.033833493782524
     },
     "isNearBorder": false,
     "areaM2": 1100,
@@ -6971,8 +6971,8 @@
     "city": "Zalasewo",
     "street": "ul. Kórnicka",
     "coordinates": {
-      "lat": 52.40784423222468,
-      "lng": 16.931181874871633
+      "lat": 52.40281460486321,
+      "lng": 16.91931624056462
     },
     "isNearBorder": false,
     "areaM2": 3360,
@@ -7006,8 +7006,8 @@
     "city": "Poznań",
     "street": "Wilda",
     "coordinates": {
-      "lat": 52.40004196350301,
-      "lng": 16.91981537574418
+      "lat": 52.40341084475856,
+      "lng": 16.924318070723274
     },
     "isNearBorder": false,
     "areaM2": 312,
@@ -7040,8 +7040,8 @@
     "county": "poznanski",
     "city": "Siekierki Wielkie",
     "coordinates": {
-      "lat": 52.41263676674057,
-      "lng": 16.934888482707137
+      "lat": 52.40065298521684,
+      "lng": 16.92245367441369
     },
     "isNearBorder": false,
     "areaM2": 5029,
@@ -7074,8 +7074,8 @@
     "county": "poznanski",
     "city": "Mieczewo",
     "coordinates": {
-      "lat": 52.41094529260201,
-      "lng": 16.923670605295076
+      "lat": 52.40491277438695,
+      "lng": 16.924068878593328
     },
     "isNearBorder": false,
     "areaM2": 9000,
@@ -7109,8 +7109,8 @@
     "city": "Lusówko",
     "street": "ul. Sztormowa",
     "coordinates": {
-      "lat": 52.40752255131944,
-      "lng": 16.92260942390242
+      "lat": 52.4104330228103,
+      "lng": 16.9328595052272
     },
     "isNearBorder": false,
     "areaM2": 1057,
@@ -7143,8 +7143,8 @@
     "county": "ostrowski",
     "city": "Ostrów Wielkopolski",
     "coordinates": {
-      "lat": 51.648390911390045,
-      "lng": 17.81200751375023
+      "lat": 51.65510471103078,
+      "lng": 17.808010632144832
     },
     "isNearBorder": false,
     "areaM2": 400,
@@ -7178,8 +7178,8 @@
     "city": "Kraszewice",
     "street": "ul. Leśna",
     "coordinates": {
-      "lat": 51.43148184641098,
-      "lng": 17.924615779565546
+      "lat": 51.429810440572915,
+      "lng": 17.92805015749611
     },
     "isNearBorder": false,
     "areaM2": 900,
@@ -7212,8 +7212,8 @@
     "county": "wrzesinski",
     "city": "Psary Małe",
     "coordinates": {
-      "lat": 52.33025626283161,
-      "lng": 17.564981584178284
+      "lat": 52.32843763147516,
+      "lng": 17.56751772294673
     },
     "isNearBorder": false,
     "areaM2": 3000,
@@ -7247,8 +7247,8 @@
     "city": "Wtórek",
     "street": "ul. Przyjazna",
     "coordinates": {
-      "lat": 51.647733592973054,
-      "lng": 17.797787657165216
+      "lat": 51.65463631824933,
+      "lng": 17.812078289564834
     },
     "isNearBorder": false,
     "areaM2": 1005,
@@ -7281,8 +7281,8 @@
     "county": "wolsztynski",
     "city": "Chorzemin",
     "coordinates": {
-      "lat": 52.12329594796947,
-      "lng": 16.117658561033238
+      "lat": 52.113117892744825,
+      "lng": 16.123832913345893
     },
     "isNearBorder": false,
     "areaM2": 981,
@@ -7315,8 +7315,8 @@
     "county": "kolski",
     "city": "Powiercie",
     "coordinates": {
-      "lat": 52.20280324839249,
-      "lng": 18.631763316554956
+      "lat": 52.20465525192914,
+      "lng": 18.639830618251565
     },
     "isNearBorder": false,
     "areaM2": 1518,
@@ -7349,8 +7349,8 @@
     "county": "poznanski",
     "city": "Dębogóra",
     "coordinates": {
-      "lat": 52.40590629822917,
-      "lng": 16.93077387494217
+      "lat": 52.402259390772564,
+      "lng": 16.927389922729255
     },
     "isNearBorder": false,
     "areaM2": 2883,
@@ -7383,8 +7383,8 @@
     "county": "miedzychodzki",
     "city": "Kaczlin",
     "coordinates": {
-      "lat": 52.605508532841064,
-      "lng": 15.89561870068562
+      "lat": 52.6031005524589,
+      "lng": 15.899024542055384
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -7418,8 +7418,8 @@
     "city": "Koło",
     "street": "ul. Szmaragdowa",
     "coordinates": {
-      "lat": 52.19471879201587,
-      "lng": 18.643072511650452
+      "lat": 52.1942930901924,
+      "lng": 18.63743484247812
     },
     "isNearBorder": false,
     "areaM2": 2120,
@@ -7452,8 +7452,8 @@
     "county": "miedzychodzki",
     "city": "Piłka",
     "coordinates": {
-      "lat": 52.60048842381056,
-      "lng": 15.899846396148977
+      "lat": 52.59971461819387,
+      "lng": 15.893050658497671
     },
     "isNearBorder": false,
     "areaM2": 3000,
@@ -7487,8 +7487,8 @@
     "city": "Gołuski",
     "street": "ul. Puchacza",
     "coordinates": {
-      "lat": 52.40089983987374,
-      "lng": 16.915766742003232
+      "lat": 52.40755411038141,
+      "lng": 16.922472961902937
     },
     "isNearBorder": false,
     "areaM2": 620,
@@ -7522,8 +7522,8 @@
     "city": "Poznań",
     "street": "Podolany",
     "coordinates": {
-      "lat": 52.409947991397274,
-      "lng": 16.923714349080797
+      "lat": 52.402768397264865,
+      "lng": 16.9282095928311
     },
     "isNearBorder": false,
     "areaM2": 2088,
@@ -7557,8 +7557,8 @@
     "city": "Czerwonak",
     "street": "ul. Zacisze",
     "coordinates": {
-      "lat": 52.45417004482378,
-      "lng": 16.990610973315185
+      "lat": 52.447941618657445,
+      "lng": 16.99102866272099
     },
     "isNearBorder": false,
     "areaM2": 420,
@@ -7592,8 +7592,8 @@
     "city": "Gniezno",
     "street": "ul. Sosnowa",
     "coordinates": {
-      "lat": 52.52745800373666,
-      "lng": 17.57774920144161
+      "lat": 52.52920272620618,
+      "lng": 17.572663220880514
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -7626,8 +7626,8 @@
     "county": "sredzki",
     "city": "Dębiczek",
     "coordinates": {
-      "lat": 52.22951130366198,
-      "lng": 17.268376976670908
+      "lat": 52.23460959643773,
+      "lng": 17.27395987819329
     },
     "isNearBorder": false,
     "areaM2": 800,
@@ -7660,8 +7660,8 @@
     "county": "wolsztynski",
     "city": "Tuchorza",
     "coordinates": {
-      "lat": 52.11747398835206,
-      "lng": 16.105435933288643
+      "lat": 52.11266841876525,
+      "lng": 16.118797291582236
     },
     "isNearBorder": false,
     "areaM2": 1003,
@@ -7694,8 +7694,8 @@
     "county": "poznanski",
     "city": "Pobiedziska",
     "coordinates": {
-      "lat": 52.48008009789538,
-      "lng": 17.2893750032536
+      "lat": 52.48179411803998,
+      "lng": 17.28656923018393
     },
     "isNearBorder": false,
     "areaM2": 2866,
@@ -7728,8 +7728,8 @@
     "county": "poznanski",
     "city": "Trojanowo",
     "coordinates": {
-      "lat": 52.402083713544,
-      "lng": 16.92203506874857
+      "lat": 52.404153635619494,
+      "lng": 16.928729189073067
     },
     "isNearBorder": false,
     "areaM2": 2900,
@@ -7762,8 +7762,8 @@
     "county": "poznanski",
     "city": "Brzeźno",
     "coordinates": {
-      "lat": 52.40493456085432,
-      "lng": 16.923305367033276
+      "lat": 52.40749835636499,
+      "lng": 16.917249086444635
     },
     "isNearBorder": false,
     "areaM2": 2407,
@@ -7796,8 +7796,8 @@
     "county": "koninski",
     "city": "Kamienica",
     "coordinates": {
-      "lat": 52.21729458223202,
-      "lng": 18.258049970060387
+      "lat": 52.225632525817566,
+      "lng": 18.24644952640663
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -7831,8 +7831,8 @@
     "city": "Biskupice",
     "street": "Biskupice Wielkopolskie",
     "coordinates": {
-      "lat": 52.400764260147746,
-      "lng": 16.91822146657196
+      "lat": 52.40193856347709,
+      "lng": 16.924991636595003
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -7866,8 +7866,8 @@
     "city": "Tarnowo Podgórne",
     "street": "ul. Marianowska",
     "coordinates": {
-      "lat": 52.472210859317904,
-      "lng": 16.67047486058456
+      "lat": 52.46617624723547,
+      "lng": 16.67442793271289
     },
     "isNearBorder": false,
     "areaM2": 1096,
@@ -7900,8 +7900,8 @@
     "county": "poznanski",
     "city": "Paczkowo",
     "coordinates": {
-      "lat": 52.4062579664422,
-      "lng": 16.92529890866024
+      "lat": 52.400229561197214,
+      "lng": 16.915376939872097
     },
     "isNearBorder": false,
     "areaM2": 4849,
@@ -7935,8 +7935,8 @@
     "city": "Trzcianka",
     "street": "ul. Czesława Miłosza",
     "coordinates": {
-      "lat": 53.045476252747626,
-      "lng": 16.46438644442364
+      "lat": 53.03586538473382,
+      "lng": 16.453118139877194
     },
     "isNearBorder": false,
     "areaM2": 1417,
@@ -7969,8 +7969,8 @@
     "county": "szamotulski",
     "city": "Gąsawy",
     "coordinates": {
-      "lat": 52.61434783153446,
-      "lng": 16.578931624928288
+      "lat": 52.6163346977388,
+      "lng": 16.585273738540966
     },
     "isNearBorder": false,
     "areaM2": 400,
@@ -8004,8 +8004,8 @@
     "city": "Kaczory",
     "street": "ul. Kościelna",
     "coordinates": {
-      "lat": 53.15415516786812,
-      "lng": 16.739120177778705
+      "lat": 53.14627706521617,
+      "lng": 16.746399059816092
     },
     "isNearBorder": false,
     "areaM2": 800,
@@ -8038,8 +8038,8 @@
     "county": "nowotomyski",
     "city": "Dąbrowa",
     "coordinates": {
-      "lat": 52.32104555583022,
-      "lng": 16.141005225278025
+      "lat": 52.312207666397576,
+      "lng": 16.125803483270367
     },
     "isNearBorder": false,
     "areaM2": 22300,
@@ -8072,8 +8072,8 @@
     "county": "poznanski",
     "city": "Stara Górka",
     "coordinates": {
-      "lat": 52.402804172327635,
-      "lng": 16.930762048919384
+      "lat": 52.408504049367245,
+      "lng": 16.932848218590994
     },
     "isNearBorder": false,
     "areaM2": 14800,
@@ -8107,8 +8107,8 @@
     "city": "Psary Małe",
     "street": "ul. Rolna",
     "coordinates": {
-      "lat": 52.32747588864755,
-      "lng": 17.555424452791843
+      "lat": 52.321257704436,
+      "lng": 17.573639991771806
     },
     "isNearBorder": false,
     "areaM2": 1179,
@@ -8141,8 +8141,8 @@
     "county": "sredzki",
     "city": "Lorenka",
     "coordinates": {
-      "lat": 52.22893601872002,
-      "lng": 17.27146600372185
+      "lat": 52.23416876070648,
+      "lng": 17.278239132437854
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -8176,8 +8176,8 @@
     "city": "Kosewo",
     "street": "ul. Wspólna",
     "coordinates": {
-      "lat": 52.28591996503248,
-      "lng": 17.879348985152582
+      "lat": 52.28339463568378,
+      "lng": 17.872348461390754
     },
     "isNearBorder": false,
     "areaM2": 3000,
@@ -8210,8 +8210,8 @@
     "county": "szamotulski",
     "city": "Pniewy",
     "coordinates": {
-      "lat": 52.511362132040404,
-      "lng": 16.249850084315966
+      "lat": 52.51271007957222,
+      "lng": 16.258048366385566
     },
     "isNearBorder": false,
     "areaM2": 1335,
@@ -8244,8 +8244,8 @@
     "county": "gnieznienski",
     "city": "Skrzetuszewo",
     "coordinates": {
-      "lat": 52.53959665242801,
-      "lng": 17.582447807251157
+      "lat": 52.52900830905418,
+      "lng": 17.590850736077204
     },
     "isNearBorder": false,
     "areaM2": 5700,
@@ -8279,8 +8279,8 @@
     "city": "Radzyny",
     "street": "ul. Winogronowa",
     "coordinates": {
-      "lat": 52.61618913881997,
-      "lng": 16.579270392050773
+      "lat": 52.61630138361599,
+      "lng": 16.574065457786265
     },
     "isNearBorder": false,
     "areaM2": 485,
@@ -8313,8 +8313,8 @@
     "county": "obornicki",
     "city": "Sycyn",
     "coordinates": {
-      "lat": 52.650935337828486,
-      "lng": 16.8180512239821
+      "lat": 52.65028564878478,
+      "lng": 16.821063225897966
     },
     "isNearBorder": false,
     "areaM2": 1500,
@@ -8347,8 +8347,8 @@
     "county": "obornicki",
     "city": "Sycyn",
     "coordinates": {
-      "lat": 52.64201722311458,
-      "lng": 16.822142699690822
+      "lat": 52.645806613427,
+      "lng": 16.82389059174493
     },
     "isNearBorder": false,
     "areaM2": 1500,
@@ -8382,8 +8382,8 @@
     "city": "Radzewice",
     "street": "ul. Bławatkowa",
     "coordinates": {
-      "lat": 52.40229091635099,
-      "lng": 16.918516940704738
+      "lat": 52.412053053205305,
+      "lng": 16.926246975859556
     },
     "isNearBorder": false,
     "areaM2": 3008,
@@ -8416,8 +8416,8 @@
     "county": "trzcianecki",
     "city": "Dzierżążno Małe",
     "coordinates": {
-      "lat": 53.03829439511271,
-      "lng": 16.460249813673496
+      "lat": 53.03488969940816,
+      "lng": 16.457150746675246
     },
     "isNearBorder": false,
     "areaM2": 729,
@@ -8450,8 +8450,8 @@
     "county": "grodziski",
     "city": "Błońsko",
     "coordinates": {
-      "lat": 52.23161115023565,
-      "lng": 16.357636345388617
+      "lat": 52.2330102558477,
+      "lng": 16.37497178927246
     },
     "isNearBorder": false,
     "areaM2": 821,
@@ -8484,8 +8484,8 @@
     "county": "wrzesinski",
     "city": "Nekla",
     "coordinates": {
-      "lat": 52.321817755218625,
-      "lng": 17.572343364996232
+      "lat": 52.321547244750285,
+      "lng": 17.557635485879324
     },
     "isNearBorder": false,
     "areaM2": 1156,
@@ -8518,8 +8518,8 @@
     "county": "poznanski",
     "city": "Czołowo",
     "coordinates": {
-      "lat": 52.411348651137125,
-      "lng": 16.916223676437912
+      "lat": 52.40455221457448,
+      "lng": 16.923145502144244
     },
     "isNearBorder": false,
     "areaM2": 2980,
@@ -8552,8 +8552,8 @@
     "county": "poznanski",
     "city": "Biernatki",
     "coordinates": {
-      "lat": 52.411670407476635,
-      "lng": 16.92714355130734
+      "lat": 52.39902246971825,
+      "lng": 16.92970803963551
     },
     "isNearBorder": false,
     "areaM2": 1050,
@@ -8586,8 +8586,8 @@
     "county": "miedzychodzki",
     "city": "Kurnatowice",
     "coordinates": {
-      "lat": 52.566805695368956,
-      "lng": 16.032663845558382
+      "lat": 52.55650004267608,
+      "lng": 16.02956316835827
     },
     "isNearBorder": false,
     "areaM2": 3557,
@@ -8620,8 +8620,8 @@
     "county": "nowotomyski",
     "city": "Przyłęk",
     "coordinates": {
-      "lat": 52.31360508326327,
-      "lng": 16.127578759657833
+      "lat": 52.32015038566369,
+      "lng": 16.13439714819588
     },
     "isNearBorder": false,
     "areaM2": 800,
@@ -8655,8 +8655,8 @@
     "city": "Podstolice",
     "street": "ul. Śliwkowa",
     "coordinates": {
-      "lat": 52.33160328521931,
-      "lng": 17.563416456495645
+      "lat": 52.32549883164823,
+      "lng": 17.562989357515914
     },
     "isNearBorder": false,
     "areaM2": 1081,
@@ -8689,8 +8689,8 @@
     "county": "szamotulski",
     "city": "Grzebienisko",
     "coordinates": {
-      "lat": 52.61109506702255,
-      "lng": 16.58234904232335
+      "lat": 52.6182898658334,
+      "lng": 16.577012226605696
     },
     "isNearBorder": false,
     "areaM2": 3037,
@@ -8723,8 +8723,8 @@
     "county": "wrzesinski",
     "city": "Barczyzna",
     "coordinates": {
-      "lat": 52.32993349104285,
-      "lng": 17.564433190948943
+      "lat": 52.32886489400349,
+      "lng": 17.562264439070194
     },
     "isNearBorder": false,
     "areaM2": 1050,
@@ -8757,8 +8757,8 @@
     "county": "ostrowski",
     "city": "Radziwiłłów",
     "coordinates": {
-      "lat": 51.65925226598434,
-      "lng": 17.80590931532002
+      "lat": 51.65272779117159,
+      "lng": 17.815781072820666
     },
     "isNearBorder": false,
     "areaM2": 3469,
@@ -8791,8 +8791,8 @@
     "county": "poznanski",
     "city": "Stęszew",
     "coordinates": {
-      "lat": 52.286235763695764,
-      "lng": 16.698116916729123
+      "lat": 52.285335217351125,
+      "lng": 16.704300598867892
     },
     "isNearBorder": false,
     "areaM2": 320,
@@ -8825,8 +8825,8 @@
     "county": "wolsztynski",
     "city": "Karpicko",
     "coordinates": {
-      "lat": 52.11285455826782,
-      "lng": 16.113243883288057
+      "lat": 52.11194103288095,
+      "lng": 16.10886879616107
     },
     "isNearBorder": false,
     "areaM2": 697,
@@ -8859,8 +8859,8 @@
     "county": "gnieznienski",
     "city": "Łubowo",
     "coordinates": {
-      "lat": 52.54166847892374,
-      "lng": 17.580617978613365
+      "lat": 52.53549601985818,
+      "lng": 17.585435822386312
     },
     "isNearBorder": false,
     "areaM2": 1161,
@@ -8894,8 +8894,8 @@
     "city": "Czarnków",
     "street": "ul. Wodna",
     "coordinates": {
-      "lat": 52.90420501290247,
-      "lng": 16.56392942521371
+      "lat": 52.9056165960568,
+      "lng": 16.570618142250733
     },
     "isNearBorder": false,
     "areaM2": 3518,
@@ -8929,8 +8929,8 @@
     "city": "Poznań Starołęka",
     "street": "ul. Bronisława Malinowskiego",
     "coordinates": {
-      "lat": 52.40939564899771,
-      "lng": 16.916357104482888
+      "lat": 52.39930291858717,
+      "lng": 16.91833021396467
     },
     "isNearBorder": false,
     "areaM2": 499,
@@ -8963,8 +8963,8 @@
     "county": "trzcianecki",
     "city": "Trzcianka",
     "coordinates": {
-      "lat": 53.04636487429126,
-      "lng": 16.460865593001955
+      "lat": 53.04592269350358,
+      "lng": 16.454044261597847
     },
     "isNearBorder": false,
     "areaM2": 304,
@@ -8998,8 +8998,8 @@
     "city": "Duszniki",
     "street": "ul. Rumiankowa",
     "coordinates": {
-      "lat": 52.613914336757354,
-      "lng": 16.583574087803832
+      "lat": 52.613266724789085,
+      "lng": 16.568354165509025
     },
     "isNearBorder": false,
     "areaM2": 741,
@@ -9032,8 +9032,8 @@
     "county": "jarocinski",
     "city": "Śmiełów",
     "coordinates": {
-      "lat": 51.97843262739228,
-      "lng": 17.49408515987465
+      "lat": 51.97797189491959,
+      "lng": 17.51120513007275
     },
     "isNearBorder": false,
     "areaM2": 1164,
@@ -9067,8 +9067,8 @@
     "city": "Młodojewo",
     "street": "Młodojewo DZIALKA",
     "coordinates": {
-      "lat": 52.29324084776909,
-      "lng": 17.871145040293246
+      "lat": 52.28300549155303,
+      "lng": 17.865380083672967
     },
     "isNearBorder": false,
     "areaM2": 2700,
@@ -9102,8 +9102,8 @@
     "city": "Lusówko",
     "street": "ul. Róży",
     "coordinates": {
-      "lat": 52.41029064432701,
-      "lng": 16.917173756936883
+      "lat": 52.40860178524951,
+      "lng": 16.931269067125523
     },
     "isNearBorder": false,
     "areaM2": 889,
@@ -9137,8 +9137,8 @@
     "city": "Margonin",
     "street": "Nowe Miasto",
     "coordinates": {
-      "lat": 52.99629449078607,
-      "lng": 16.921429481713957
+      "lat": 52.994895723306,
+      "lng": 16.920227904959415
     },
     "isNearBorder": false,
     "areaM2": 1152,
@@ -9171,8 +9171,8 @@
     "county": "gnieznienski",
     "city": "Goczałkowo",
     "coordinates": {
-      "lat": 52.53842097287125,
-      "lng": 17.57885827835286
+      "lat": 52.539630217724806,
+      "lng": 17.58273190179101
     },
     "isNearBorder": false,
     "areaM2": 849,
@@ -9206,8 +9206,8 @@
     "city": "Łopuchowo",
     "street": "ul. Muchomorowa",
     "coordinates": {
-      "lat": 52.40864206083161,
-      "lng": 16.92425648117611
+      "lat": 52.40923845643292,
+      "lng": 16.931343367284818
     },
     "isNearBorder": false,
     "areaM2": 1206,
@@ -9240,8 +9240,8 @@
     "county": "poznanski",
     "city": "Będlewo",
     "coordinates": {
-      "lat": 52.40384002194524,
-      "lng": 16.925271791776286
+      "lat": 52.40134097542623,
+      "lng": 16.920529620706603
     },
     "isNearBorder": false,
     "areaM2": 16600,
@@ -9275,8 +9275,8 @@
     "city": "Murzynowo Leśne",
     "street": "ul. Jasna",
     "coordinates": {
-      "lat": 52.23219973654559,
-      "lng": 17.26722497414886
+      "lat": 52.22368434317343,
+      "lng": 17.28265377339927
     },
     "isNearBorder": false,
     "areaM2": 603,
@@ -9310,8 +9310,8 @@
     "city": "Wielka Wieś",
     "street": "ul. Rolna",
     "coordinates": {
-      "lat": 52.39968165038313,
-      "lng": 16.921125250949544
+      "lat": 52.40185355553247,
+      "lng": 16.925636643024866
     },
     "isNearBorder": false,
     "areaM2": 955,
@@ -9345,8 +9345,8 @@
     "city": "Złotów",
     "street": "ul. Jastrowska",
     "coordinates": {
-      "lat": 53.356051552334264,
-      "lng": 17.044488388148835
+      "lat": 53.35957527114221,
+      "lng": 17.040805025724556
     },
     "isNearBorder": false,
     "areaM2": 300,
@@ -9379,8 +9379,8 @@
     "county": "trzcianecki",
     "city": "Nowe Kwiejce",
     "coordinates": {
-      "lat": 53.04525756166568,
-      "lng": 16.454619321127723
+      "lat": 53.03398963351008,
+      "lng": 16.458146974121554
     },
     "isNearBorder": false,
     "areaM2": 17100,
@@ -9413,8 +9413,8 @@
     "county": "miedzychodzki",
     "city": "Charcice",
     "coordinates": {
-      "lat": 52.59975556766859,
-      "lng": 15.893229081411935
+      "lat": 52.609755643638316,
+      "lng": 15.885689723703825
     },
     "isNearBorder": false,
     "areaM2": 3358,
@@ -9448,8 +9448,8 @@
     "city": "Poznań",
     "street": "ul. Droga Dębińska",
     "coordinates": {
-      "lat": 52.408589999124516,
-      "lng": 16.931026475157612
+      "lat": 52.407835168176824,
+      "lng": 16.93123830833055
     },
     "isNearBorder": false,
     "areaM2": 400,
@@ -9483,8 +9483,8 @@
     "city": "Poznań Grunwald",
     "street": "ul. Złotowska",
     "coordinates": {
-      "lat": 52.413767040344815,
-      "lng": 16.918667712656575
+      "lat": 52.408108455887465,
+      "lng": 16.93442526753011
     },
     "isNearBorder": false,
     "areaM2": 342,
@@ -9517,8 +9517,8 @@
     "county": "gnieznienski",
     "city": "Gniezno",
     "coordinates": {
-      "lat": 52.54043565587134,
-      "lng": 17.575625560183152
+      "lat": 52.53243519329437,
+      "lng": 17.587472966110077
     },
     "isNearBorder": false,
     "areaM2": 656,
@@ -9551,8 +9551,8 @@
     "county": "poznanski",
     "city": "Kołata",
     "coordinates": {
-      "lat": 52.406182974833186,
-      "lng": 16.926870922782015
+      "lat": 52.40751856784852,
+      "lng": 16.915769043550643
     },
     "isNearBorder": false,
     "areaM2": 3005,
@@ -9586,8 +9586,8 @@
     "city": "Poznań",
     "street": "Podolany",
     "coordinates": {
-      "lat": 52.40117863993352,
-      "lng": 16.930860136900396
+      "lat": 52.40400252671753,
+      "lng": 16.92283122366684
     },
     "isNearBorder": false,
     "areaM2": 417,
@@ -9621,8 +9621,8 @@
     "city": "Jerzykowo",
     "street": "ul. Poznańska",
     "coordinates": {
-      "lat": 52.41326312217983,
-      "lng": 16.915588849318567
+      "lat": 52.412515252144374,
+      "lng": 16.931786633601668
     },
     "isNearBorder": false,
     "areaM2": 6827,
@@ -9656,8 +9656,8 @@
     "city": "Poznań Głuszyna",
     "street": "ul. Głuszyna",
     "coordinates": {
-      "lat": 52.40677995231301,
-      "lng": 16.92607828353533
+      "lat": 52.41275412778976,
+      "lng": 16.925105338948274
     },
     "isNearBorder": false,
     "areaM2": 348,
@@ -9690,8 +9690,8 @@
     "county": "pilski",
     "city": "Piła",
     "coordinates": {
-      "lat": 53.155958835778485,
-      "lng": 16.72787717674645
+      "lat": 53.15762650230991,
+      "lng": 16.72813908263644
     },
     "isNearBorder": false,
     "areaM2": 500,
@@ -9725,8 +9725,8 @@
     "city": "Ostrów Wielkopolski Centrum",
     "street": "ul. Klonowicza 5",
     "coordinates": {
-      "lat": 51.6608685663233,
-      "lng": 17.808745801938297
+      "lat": 51.661732039057895,
+      "lng": 17.80008209605712
     },
     "isNearBorder": false,
     "areaM2": 241,
@@ -9759,8 +9759,8 @@
     "county": "trzcianecki",
     "city": "Klempicz",
     "coordinates": {
-      "lat": 53.03798986227454,
-      "lng": 16.460024141868196
+      "lat": 53.0451628704123,
+      "lng": 16.46592805338574
     },
     "isNearBorder": false,
     "areaM2": 3780,
@@ -9793,8 +9793,8 @@
     "county": "nowotomyski",
     "city": "Paproć",
     "coordinates": {
-      "lat": 52.31981149371825,
-      "lng": 16.125171328768687
+      "lat": 52.31091701259029,
+      "lng": 16.136578544967158
     },
     "isNearBorder": false,
     "areaM2": 6625,
@@ -9828,8 +9828,8 @@
     "city": "Koszanowo",
     "street": "ul. Przemysłowa",
     "coordinates": {
-      "lat": 52.08516593186469,
-      "lng": 16.644895326574566
+      "lat": 52.08737702332756,
+      "lng": 16.641010359563527
     },
     "isNearBorder": false,
     "areaM2": 10000,
@@ -9862,8 +9862,8 @@
     "county": "sredzki",
     "city": "Miąskowo",
     "coordinates": {
-      "lat": 52.23307543016434,
-      "lng": 17.27261778490794
+      "lat": 52.22475403490717,
+      "lng": 17.273951296814182
     },
     "isNearBorder": false,
     "areaM2": 10200,
@@ -9896,8 +9896,8 @@
     "county": "koninski",
     "city": "Obory",
     "coordinates": {
-      "lat": 52.219535098981986,
-      "lng": 18.243161150676677
+      "lat": 52.21615445954981,
+      "lng": 18.242209274675215
     },
     "isNearBorder": false,
     "areaM2": 13900,
@@ -9931,8 +9931,8 @@
     "city": "Poznań",
     "street": "ul. Leszczyńska",
     "coordinates": {
-      "lat": 52.39937128796903,
-      "lng": 16.934422538239456
+      "lat": 52.405365338610046,
+      "lng": 16.91755824939402
     },
     "isNearBorder": false,
     "areaM2": 295,
@@ -9965,8 +9965,8 @@
     "county": "ostrzeszowski",
     "city": "Stara Kuźnica",
     "coordinates": {
-      "lat": 51.42100937858325,
-      "lng": 17.92230778185372
+      "lat": 51.42139157457,
+      "lng": 17.91950239750749
     },
     "isNearBorder": false,
     "areaM2": 1302,
@@ -10000,8 +10000,8 @@
     "city": "Słupia",
     "street": "ul. Żonkilowa",
     "coordinates": {
-      "lat": 52.40441646894136,
-      "lng": 16.915200732056643
+      "lat": 52.400442788979696,
+      "lng": 16.917684291088023
     },
     "isNearBorder": false,
     "areaM2": 726,
@@ -10035,8 +10035,8 @@
     "city": "Gniezno",
     "street": "ul. Powstańców Wlkp.",
     "coordinates": {
-      "lat": 52.53775551167107,
-      "lng": 17.58295857013325
+      "lat": 52.531089723998925,
+      "lng": 17.587120797494208
     },
     "isNearBorder": false,
     "areaM2": 364,
@@ -10069,8 +10069,8 @@
     "county": "wagrowiecki",
     "city": "Wiatrowo",
     "coordinates": {
-      "lat": 52.81498597756011,
-      "lng": 17.199113323490227
+      "lat": 52.81137148015596,
+      "lng": 17.20821191732084
     },
     "isNearBorder": false,
     "areaM2": 5960,
@@ -10103,8 +10103,8 @@
     "county": "kolski",
     "city": "Kłodawa",
     "coordinates": {
-      "lat": 52.20268193240041,
-      "lng": 18.633022733562797
+      "lat": 52.20577406588418,
+      "lng": 18.644408575114017
     },
     "isNearBorder": false,
     "areaM2": 728,
@@ -10137,8 +10137,8 @@
     "county": "sremski",
     "city": "Chrząstowo",
     "coordinates": {
-      "lat": 52.0903463828108,
-      "lng": 17.015977218865356
+      "lat": 52.08659351148509,
+      "lng": 17.018176232147994
     },
     "isNearBorder": false,
     "areaM2": 550,
@@ -10171,8 +10171,8 @@
     "county": "kaliski",
     "city": "Plewnia",
     "coordinates": {
-      "lat": 51.773450689704454,
-      "lng": 18.087545075674118
+      "lat": 51.765531938952286,
+      "lng": 18.089972964800406
     },
     "isNearBorder": false,
     "areaM2": 1100,
@@ -10206,8 +10206,8 @@
     "city": "Łowyń",
     "street": "ul. Olchowa",
     "coordinates": {
-      "lat": 52.60544754250519,
-      "lng": 15.888996879019002
+      "lat": 52.596152075444564,
+      "lng": 15.883380138536173
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -10241,8 +10241,8 @@
     "city": "Rakowo",
     "street": "Lipki",
     "coordinates": {
-      "lat": 52.53088953049373,
-      "lng": 17.58893272773787
+      "lat": 52.53107095233973,
+      "lng": 17.588023096778254
     },
     "isNearBorder": false,
     "areaM2": 1480,
@@ -10275,8 +10275,8 @@
     "county": "gnieznienski",
     "city": "Imielno",
     "coordinates": {
-      "lat": 52.54032131866894,
-      "lng": 17.57851498677161
+      "lat": 52.53370447302129,
+      "lng": 17.582645359513716
     },
     "isNearBorder": false,
     "areaM2": 1249,
@@ -10309,8 +10309,8 @@
     "county": "kolski",
     "city": "Police Mostowe",
     "coordinates": {
-      "lat": 52.20029395415008,
-      "lng": 18.637631391812373
+      "lat": 52.205018052577415,
+      "lng": 18.639012108500882
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -10344,8 +10344,8 @@
     "city": "Luboń",
     "street": "ul. Długa",
     "coordinates": {
-      "lat": 52.342243482622216,
-      "lng": 16.88737289148488
+      "lat": 52.34299286362045,
+      "lng": 16.894966778505957
     },
     "isNearBorder": false,
     "areaM2": 1136,
@@ -10378,8 +10378,8 @@
     "county": "pilski",
     "city": "Równopole",
     "coordinates": {
-      "lat": 53.15709919174151,
-      "lng": 16.735214948727105
+      "lat": 53.156844265313225,
+      "lng": 16.72790316947815
     },
     "isNearBorder": false,
     "areaM2": 835,
@@ -10412,8 +10412,8 @@
     "county": "poznanski",
     "city": "Brzeźno",
     "coordinates": {
-      "lat": 52.412038706755744,
-      "lng": 16.931189318960172
+      "lat": 52.40573163224617,
+      "lng": 16.933008793990048
     },
     "isNearBorder": false,
     "areaM2": 19000,
@@ -10446,8 +10446,8 @@
     "county": "obornicki",
     "city": "Grudna",
     "coordinates": {
-      "lat": 52.653423493101386,
-      "lng": 16.814952062110738
+      "lat": 52.64032217280264,
+      "lng": 16.8104715986701
     },
     "isNearBorder": false,
     "areaM2": 2250,
@@ -10480,8 +10480,8 @@
     "county": "kolski",
     "city": "Korzecznik-Podlesie",
     "coordinates": {
-      "lat": 52.20174890439853,
-      "lng": 18.644676746424423
+      "lat": 52.20066962778787,
+      "lng": 18.6459874786026
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -10515,8 +10515,8 @@
     "city": "Kiełczewo",
     "street": "ul. Kościańska",
     "coordinates": {
-      "lat": 52.08622473942258,
-      "lng": 16.657904358244583
+      "lat": 52.085264912923,
+      "lng": 16.64340637052785
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -10550,8 +10550,8 @@
     "city": "Ołobok",
     "street": "ul. Wojciecha Brylińskiego",
     "coordinates": {
-      "lat": 51.64886952463024,
-      "lng": 17.814417738486306
+      "lat": 51.65951745822924,
+      "lng": 17.8148180576298
     },
     "isNearBorder": false,
     "areaM2": 2000,
@@ -10584,8 +10584,8 @@
     "county": "poznanski",
     "city": "Rogalin",
     "coordinates": {
-      "lat": 52.40384629675549,
-      "lng": 16.93337903605618
+      "lat": 52.40030368980563,
+      "lng": 16.928901187057495
     },
     "isNearBorder": false,
     "areaM2": 2862,
@@ -10618,8 +10618,8 @@
     "county": "wrzesinski",
     "city": "Nekla",
     "coordinates": {
-      "lat": 52.3222185780899,
-      "lng": 17.57191421623665
+      "lat": 52.32952592658931,
+      "lng": 17.55887171587855
     },
     "isNearBorder": false,
     "areaM2": 955,
@@ -10653,8 +10653,8 @@
     "city": "Rawicz",
     "street": "ul. Pogodna",
     "coordinates": {
-      "lat": 51.61119176936036,
-      "lng": 16.850228926192706
+      "lat": 51.60601423817033,
+      "lng": 16.864821502856255
     },
     "isNearBorder": false,
     "areaM2": 300,
@@ -10688,8 +10688,8 @@
     "city": "Stare Miasto",
     "street": "ul. Rumińska",
     "coordinates": {
-      "lat": 52.228972824172814,
-      "lng": 18.25460339501621
+      "lat": 52.22004286253344,
+      "lng": 18.24284097441828
     },
     "isNearBorder": false,
     "areaM2": 1080,
@@ -10723,8 +10723,8 @@
     "city": "Plewiska",
     "street": "ul. Polna",
     "coordinates": {
-      "lat": 52.404790149178275,
-      "lng": 16.930317650167947
+      "lat": 52.402830763199084,
+      "lng": 16.92372657134845
     },
     "isNearBorder": false,
     "areaM2": 3500,
@@ -10757,8 +10757,8 @@
     "county": "wrzesinski",
     "city": "Słomowo",
     "coordinates": {
-      "lat": 52.328529919802726,
-      "lng": 17.557806642200852
+      "lat": 52.31790710094052,
+      "lng": 17.559350767985475
     },
     "isNearBorder": false,
     "areaM2": 722,
@@ -10791,8 +10791,8 @@
     "county": "gnieznienski",
     "city": "Czerniejewo",
     "coordinates": {
-      "lat": 52.43380947221616,
-      "lng": 17.48672162493725
+      "lat": 52.42084318531754,
+      "lng": 17.48152787253243
     },
     "isNearBorder": false,
     "areaM2": 3839,
@@ -10825,8 +10825,8 @@
     "county": "krotoszynski",
     "city": "Zduny",
     "coordinates": {
-      "lat": 51.636803415916106,
-      "lng": 17.38623969970518
+      "lat": 51.63413408414018,
+      "lng": 17.38409264919908
     },
     "isNearBorder": false,
     "areaM2": 942,
@@ -10859,8 +10859,8 @@
     "county": "wrzesinski",
     "city": "Chwalibogowo",
     "coordinates": {
-      "lat": 52.32020188457951,
-      "lng": 17.558030845332762
+      "lat": 52.332208967992806,
+      "lng": 17.573116651998443
     },
     "isNearBorder": false,
     "areaM2": 72100,
@@ -10894,8 +10894,8 @@
     "city": "Pobiedziska",
     "street": "ul. Goślińska",
     "coordinates": {
-      "lat": 52.486210071671294,
-      "lng": 17.28907439193806
+      "lat": 52.48782027002267,
+      "lng": 17.283433714992075
     },
     "isNearBorder": false,
     "areaM2": 812,
@@ -10928,8 +10928,8 @@
     "county": "sredzki",
     "city": "Czarne Piątkowo",
     "coordinates": {
-      "lat": 52.22721941243989,
-      "lng": 17.266658437755265
+      "lat": 52.23205779308306,
+      "lng": 17.27321270975453
     },
     "isNearBorder": false,
     "areaM2": 1041,
@@ -10963,8 +10963,8 @@
     "city": "Poznań",
     "street": "ul. Droga Dębińska",
     "coordinates": {
-      "lat": 52.407827800463075,
-      "lng": 16.918646096584286
+      "lat": 52.40323796623273,
+      "lng": 16.918703265581225
     },
     "isNearBorder": false,
     "areaM2": 207,
@@ -10997,8 +10997,8 @@
     "county": "zlotowski",
     "city": "Zalesie",
     "coordinates": {
-      "lat": 53.36699892741944,
-      "lng": 17.03490828171099
+      "lat": 53.36259166583781,
+      "lng": 17.048093204671027
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -11031,8 +11031,8 @@
     "county": "pilski",
     "city": "Skrzatusz",
     "coordinates": {
-      "lat": 53.154530989918676,
-      "lng": 16.738988805282883
+      "lat": 53.15431063661489,
+      "lng": 16.730911911487528
     },
     "isNearBorder": false,
     "areaM2": 1200,
@@ -11065,8 +11065,8 @@
     "county": "wrzesinski",
     "city": "Chociczka",
     "coordinates": {
-      "lat": 52.321880651104344,
-      "lng": 17.556142537035498
+      "lat": 52.33228038348005,
+      "lng": 17.557605960235797
     },
     "isNearBorder": false,
     "areaM2": 1200,
@@ -11099,8 +11099,8 @@
     "county": "koninski",
     "city": "Licheń Stary",
     "coordinates": {
-      "lat": 52.220029569790206,
-      "lng": 18.246109180374976
+      "lat": 52.225646885183686,
+      "lng": 18.25140221724065
     },
     "isNearBorder": false,
     "areaM2": 1630,
@@ -11134,8 +11134,8 @@
     "city": "Luboń",
     "street": "ul. 3 Maja",
     "coordinates": {
-      "lat": 52.33417036535607,
-      "lng": 16.880931983830212
+      "lat": 52.340152051422145,
+      "lng": 16.890748674395322
     },
     "isNearBorder": false,
     "areaM2": 294,
@@ -11168,8 +11168,8 @@
     "county": "wagrowiecki",
     "city": "Potrzanowo",
     "coordinates": {
-      "lat": 52.81341497055812,
-      "lng": 17.200189364497238
+      "lat": 52.80369033612878,
+      "lng": 17.1916317929249
     },
     "isNearBorder": false,
     "areaM2": 9800,
@@ -11203,8 +11203,8 @@
     "city": "Kaźmierz Nowa Wieś",
     "street": "ul. Czereśniowa",
     "coordinates": {
-      "lat": 52.61067499775374,
-      "lng": 16.5850582202046
+      "lat": 52.61251307703097,
+      "lng": 16.57491123897098
     },
     "isNearBorder": false,
     "areaM2": 1010,
@@ -11237,8 +11237,8 @@
     "county": "leszczynski",
     "city": "Kąkolewo",
     "coordinates": {
-      "lat": 51.838627721020536,
-      "lng": 16.581966763014748
+      "lat": 51.84033407261208,
+      "lng": 16.582688305125785
     },
     "isNearBorder": false,
     "areaM2": 1346,
@@ -11272,8 +11272,8 @@
     "city": "Poznań",
     "street": "ul. Opolska",
     "coordinates": {
-      "lat": 52.41133246472543,
-      "lng": 16.920683680445865
+      "lat": 52.40020677694258,
+      "lng": 16.93492526320744
     },
     "isNearBorder": false,
     "areaM2": 414,
@@ -11307,8 +11307,8 @@
     "city": "Luboń",
     "street": "ul. 3 Maja",
     "coordinates": {
-      "lat": 52.33480993149194,
-      "lng": 16.900120634545633
+      "lat": 52.3412774037778,
+      "lng": 16.89400099088823
     },
     "isNearBorder": false,
     "areaM2": 510,
@@ -11342,8 +11342,8 @@
     "city": "Dębnica",
     "street": "ul. Litewska",
     "coordinates": {
-      "lat": 51.65868117534548,
-      "lng": 17.803223292357703
+      "lat": 51.65230991306886,
+      "lng": 17.80117997759839
     },
     "isNearBorder": false,
     "areaM2": 2025,
@@ -11377,8 +11377,8 @@
     "city": "Dębnica",
     "street": "ul. Litewska",
     "coordinates": {
-      "lat": 51.653505230918064,
-      "lng": 17.80093445473304
+      "lat": 51.65053276899575,
+      "lng": 17.804532888247454
     },
     "isNearBorder": false,
     "areaM2": 1774,
@@ -11411,8 +11411,8 @@
     "county": "wagrowiecki",
     "city": "Miłosławice",
     "coordinates": {
-      "lat": 52.81395792069394,
-      "lng": 17.204480283962685
+      "lat": 52.8130119892921,
+      "lng": 17.201911645072116
     },
     "isNearBorder": false,
     "areaM2": 32000,
@@ -11446,8 +11446,8 @@
     "city": "Poznań",
     "street": "ul. Leszczyńska",
     "coordinates": {
-      "lat": 52.40760745859801,
-      "lng": 16.91905179781264
+      "lat": 52.41253652514482,
+      "lng": 16.933832766647146
     },
     "isNearBorder": false,
     "areaM2": 310,
@@ -11481,8 +11481,8 @@
     "city": "Kąkolewo",
     "street": "ul. Malwowa",
     "coordinates": {
-      "lat": 51.83706935793279,
-      "lng": 16.57603781601404
+      "lat": 51.842593349061616,
+      "lng": 16.580851052573433
     },
     "isNearBorder": false,
     "areaM2": 3761,
@@ -11516,8 +11516,8 @@
     "city": "Jarocin",
     "street": "ul. Żerkowska",
     "coordinates": {
-      "lat": 51.97483968441851,
-      "lng": 17.49730713622499
+      "lat": 51.97375550501462,
+      "lng": 17.5081424345482
     },
     "isNearBorder": false,
     "areaM2": 300,
@@ -11550,8 +11550,8 @@
     "county": "ostrzeszowski",
     "city": "Stara Kuźnica",
     "coordinates": {
-      "lat": 51.43429206114899,
-      "lng": 17.926064061184157
+      "lat": 51.424162793408414,
+      "lng": 17.9233794374787
     },
     "isNearBorder": false,
     "areaM2": 1611,
@@ -11584,8 +11584,8 @@
     "county": "ostrowski",
     "city": "Świeca",
     "coordinates": {
-      "lat": 51.64872259461856,
-      "lng": 17.800477734716264
+      "lat": 51.66210237796247,
+      "lng": 17.79991700281923
     },
     "isNearBorder": false,
     "areaM2": 20000,
@@ -11619,8 +11619,8 @@
     "city": "Przygodzice",
     "street": "ul. Ogrodowa 31",
     "coordinates": {
-      "lat": 51.60037295175887,
-      "lng": 17.821308648006816
+      "lat": 51.603120552456744,
+      "lng": 17.810565434265396
     },
     "isNearBorder": false,
     "areaM2": 4279,
@@ -11654,8 +11654,8 @@
     "city": "Poznań",
     "street": "ul. Wrzesińska",
     "coordinates": {
-      "lat": 52.41100070361947,
-      "lng": 16.92237802807316
+      "lat": 52.40604544235113,
+      "lng": 16.926549565627127
     },
     "isNearBorder": false,
     "areaM2": 480,
@@ -11688,8 +11688,8 @@
     "county": "pleszewski",
     "city": "Zielona Łąka",
     "coordinates": {
-      "lat": 51.89031948472584,
-      "lng": 17.776140042459602
+      "lat": 51.89914055242397,
+      "lng": 17.78114063358738
     },
     "isNearBorder": false,
     "areaM2": 868,
@@ -11723,8 +11723,8 @@
     "city": "Pobiedziska",
     "street": "ul. Kaczyńska",
     "coordinates": {
-      "lat": 52.47552448081244,
-      "lng": 17.275161240311885
+      "lat": 52.48207874501124,
+      "lng": 17.271408597442214
     },
     "isNearBorder": false,
     "areaM2": 680,
@@ -11757,8 +11757,8 @@
     "county": "poznanski",
     "city": "Mosina",
     "coordinates": {
-      "lat": 52.24765557925473,
-      "lng": 16.842643662715155
+      "lat": 52.248598242390806,
+      "lng": 16.848823746019775
     },
     "isNearBorder": false,
     "areaM2": 315,
@@ -11791,8 +11791,8 @@
     "county": "leszczynski",
     "city": "Kąkolewo",
     "coordinates": {
-      "lat": 51.84977712517801,
-      "lng": 16.572846762317617
+      "lat": 51.83950873377512,
+      "lng": 16.58209988564639
     },
     "isNearBorder": false,
     "areaM2": 933,
@@ -11826,8 +11826,8 @@
     "city": "Poznań",
     "street": "ul. Leszczyńska",
     "coordinates": {
-      "lat": 52.412041948859276,
-      "lng": 16.932525659619856
+      "lat": 52.406832252418866,
+      "lng": 16.923554497418923
     },
     "isNearBorder": false,
     "areaM2": 295,
@@ -11861,8 +11861,8 @@
     "city": "Poznań",
     "street": "Starołęka",
     "coordinates": {
-      "lat": 52.410323270399175,
-      "lng": 16.91762577021549
+      "lat": 52.40571480932424,
+      "lng": 16.9179202731039
     },
     "isNearBorder": false,
     "areaM2": 465,
@@ -11895,8 +11895,8 @@
     "county": "wrzesinski",
     "city": "Września",
     "coordinates": {
-      "lat": 52.33058069382463,
-      "lng": 17.561212638715173
+      "lat": 52.32627508807363,
+      "lng": 17.57251802282694
     },
     "isNearBorder": false,
     "areaM2": 420,
@@ -11930,8 +11930,8 @@
     "city": "Szczytniki",
     "street": "ul. Rzeczna",
     "coordinates": {
-      "lat": 51.68681704686143,
-      "lng": 18.306808697292453
+      "lat": 51.679453324796654,
+      "lng": 18.317746362696443
     },
     "isNearBorder": false,
     "areaM2": 700,
@@ -11964,8 +11964,8 @@
     "county": "wagrowiecki",
     "city": "Wągrowiec",
     "coordinates": {
-      "lat": 52.80789461745206,
-      "lng": 17.208224874597967
+      "lat": 52.80101281647199,
+      "lng": 17.20261184469282
     },
     "isNearBorder": false,
     "areaM2": 27000,
@@ -11998,8 +11998,8 @@
     "county": "poznanski",
     "city": "Baranówko",
     "coordinates": {
-      "lat": 52.41365165501214,
-      "lng": 16.91527832549382
+      "lat": 52.40024163684681,
+      "lng": 16.922590503708495
     },
     "isNearBorder": false,
     "areaM2": 962,
@@ -12033,8 +12033,8 @@
     "city": "Chodzież",
     "street": "ul. Mostowa",
     "coordinates": {
-      "lat": 53.0008287893408,
-      "lng": 16.91132494046823
+      "lat": 52.99116298086195,
+      "lng": 16.911924514996446
     },
     "isNearBorder": false,
     "areaM2": 510,
@@ -12068,8 +12068,8 @@
     "city": "Kalisz Szczypiorno",
     "street": "ul. Poranna",
     "coordinates": {
-      "lat": 51.772385081094725,
-      "lng": 18.09104378315823
+      "lat": 51.77446888453065,
+      "lng": 18.093413774055296
     },
     "isNearBorder": false,
     "areaM2": 340,
@@ -12102,8 +12102,8 @@
     "county": "nowotomyski",
     "city": "Toczeń",
     "coordinates": {
-      "lat": 52.313411737536896,
-      "lng": 16.140056926403364
+      "lat": 52.31983374756586,
+      "lng": 16.126202880828213
     },
     "isNearBorder": false,
     "areaM2": 3000,
@@ -12137,8 +12137,8 @@
     "city": "Poznań",
     "street": "Strzeszyn",
     "coordinates": {
-      "lat": 52.40339004625836,
-      "lng": 16.93035749537241
+      "lat": 52.404630934638625,
+      "lng": 16.923929131625634
     },
     "isNearBorder": false,
     "areaM2": 6000,
@@ -12171,8 +12171,8 @@
     "county": "poznanski",
     "city": "Jerzykowo",
     "coordinates": {
-      "lat": 52.39953052031495,
-      "lng": 16.924386188553722
+      "lat": 52.40815915997783,
+      "lng": 16.927466298353067
     },
     "isNearBorder": false,
     "areaM2": 116100,
@@ -12206,8 +12206,8 @@
     "city": "Rosnówko",
     "street": "ul. Jarosławiecka",
     "coordinates": {
-      "lat": 52.4017758453829,
-      "lng": 16.91672292571962
+      "lat": 52.409658899519684,
+      "lng": 16.926921107332113
     },
     "isNearBorder": false,
     "areaM2": 600,
@@ -12240,8 +12240,8 @@
     "county": "sremski",
     "city": "Zbrudzewo",
     "coordinates": {
-      "lat": 52.09584566730968,
-      "lng": 17.014173619076473
+      "lat": 52.091077122926194,
+      "lng": 17.021497082876007
     },
     "isNearBorder": false,
     "areaM2": 1048,
@@ -12274,8 +12274,8 @@
     "county": "ostrzeszowski",
     "city": "Kobyla Góra",
     "coordinates": {
-      "lat": 51.42693710680863,
-      "lng": 17.932268567177402
+      "lat": 51.43398681511168,
+      "lng": 17.92563849906973
     },
     "isNearBorder": false,
     "areaM2": 49200,
@@ -12308,8 +12308,8 @@
     "county": "poznanski",
     "city": "Zborowo",
     "coordinates": {
-      "lat": 52.40872323664883,
-      "lng": 16.93079540440688
+      "lat": 52.39966275484023,
+      "lng": 16.924422948508948
     },
     "isNearBorder": false,
     "areaM2": 9814,
@@ -12343,8 +12343,8 @@
     "city": "Włodzimirów",
     "street": "ul. Ludwikowska",
     "coordinates": {
-      "lat": 52.22214178443179,
-      "lng": 18.250463488653512
+      "lat": 52.22608665361006,
+      "lng": 18.252777912183237
     },
     "isNearBorder": false,
     "areaM2": 7000,
@@ -12378,8 +12378,8 @@
     "city": "Bolechowo-Osiedle",
     "street": "ul. Cypriana Kamila Norwida",
     "coordinates": {
-      "lat": 52.40966538149579,
-      "lng": 16.918712544463073
+      "lat": 52.41152209648238,
+      "lng": 16.929227862407604
     },
     "isNearBorder": false,
     "areaM2": 2692,
@@ -12413,8 +12413,8 @@
     "city": "Sierosław",
     "street": "ul. Pokrzywnicka",
     "coordinates": {
-      "lat": 52.41096741810824,
-      "lng": 16.923937326998406
+      "lat": 52.40501934551418,
+      "lng": 16.92290568781766
     },
     "isNearBorder": false,
     "areaM2": 460,
@@ -12448,8 +12448,8 @@
     "city": "Słupca",
     "street": "droga Słomczycka",
     "coordinates": {
-      "lat": 52.296710404997356,
-      "lng": 17.8696102517628
+      "lat": 52.2962983526303,
+      "lng": 17.866530891851056
     },
     "isNearBorder": false,
     "areaM2": 1040,
@@ -12482,8 +12482,8 @@
     "county": "koscianski",
     "city": "Katarzynin",
     "coordinates": {
-      "lat": 52.08393250662437,
-      "lng": 16.655918577700152
+      "lat": 52.094725203774246,
+      "lng": 16.64343182466812
     },
     "isNearBorder": false,
     "areaM2": 524,
@@ -12516,8 +12516,8 @@
     "county": "gnieznienski",
     "city": "Wymysłowo",
     "coordinates": {
-      "lat": 52.540523190335705,
-      "lng": 17.582088337758268
+      "lat": 52.54086652955408,
+      "lng": 17.586152542895608
     },
     "isNearBorder": false,
     "areaM2": 1468,
@@ -12551,8 +12551,8 @@
     "city": "Krzyszkowo",
     "street": "ul. Jaskółcza",
     "coordinates": {
-      "lat": 52.40020848268892,
-      "lng": 16.93169336274928
+      "lat": 52.410054019578084,
+      "lng": 16.924537397289352
     },
     "isNearBorder": false,
     "areaM2": 562,
@@ -12585,8 +12585,8 @@
     "county": "wagrowiecki",
     "city": "Zbietka",
     "coordinates": {
-      "lat": 52.80691212058677,
-      "lng": 17.19530470818639
+      "lat": 52.80476010718203,
+      "lng": 17.196247101463314
     },
     "isNearBorder": false,
     "areaM2": 943,
@@ -12619,8 +12619,8 @@
     "county": "poznanski",
     "city": "Sierosław",
     "coordinates": {
-      "lat": 52.403227753897696,
-      "lng": 16.934584992031883
+      "lat": 52.404254401420296,
+      "lng": 16.93438209788549
     },
     "isNearBorder": false,
     "areaM2": 400,
@@ -12653,8 +12653,8 @@
     "county": "ostrowski",
     "city": "Boników",
     "coordinates": {
-      "lat": 51.658191766195394,
-      "lng": 17.812878373227065
+      "lat": 51.66082146162449,
+      "lng": 17.814989604264262
     },
     "isNearBorder": false,
     "areaM2": 10000,
@@ -12687,8 +12687,8 @@
     "county": "kaliski",
     "city": "Kalisz",
     "coordinates": {
-      "lat": 51.77463325694625,
-      "lng": 18.090575304200364
+      "lat": 51.77199189141601,
+      "lng": 18.081812113619627
     },
     "isNearBorder": false,
     "areaM2": 1700,
@@ -12722,8 +12722,8 @@
     "city": "Żerków",
     "street": "ul. Górki",
     "coordinates": {
-      "lat": 51.97212455234357,
-      "lng": 17.49863247626928
+      "lat": 51.970398862938815,
+      "lng": 17.50404943845739
     },
     "isNearBorder": false,
     "areaM2": 7514,
@@ -12757,8 +12757,8 @@
     "city": "Chludowo",
     "street": "ul. Szosa Poznańska",
     "coordinates": {
-      "lat": 52.408566889824364,
-      "lng": 16.917247133303196
+      "lat": 52.40575446683436,
+      "lng": 16.929028819600624
     },
     "isNearBorder": false,
     "areaM2": 1312,
@@ -12792,8 +12792,8 @@
     "city": "Daszewice",
     "street": "ul. Wierzbowa",
     "coordinates": {
-      "lat": 52.41264200522166,
-      "lng": 16.921553456097453
+      "lat": 52.41121330471015,
+      "lng": 16.91884834857716
     },
     "isNearBorder": false,
     "areaM2": 1224,
@@ -12826,8 +12826,8 @@
     "county": "kolski",
     "city": "Brzezie",
     "coordinates": {
-      "lat": 52.20346020915913,
-      "lng": 18.6385299469185
+      "lat": 52.20580213717928,
+      "lng": 18.63091435759728
     },
     "isNearBorder": false,
     "areaM2": 659,
@@ -12861,8 +12861,8 @@
     "city": "Poznań Piątkowo",
     "street": "ul. Obornicka",
     "coordinates": {
-      "lat": 52.40051321786342,
-      "lng": 16.927902609952753
+      "lat": 52.40578749202026,
+      "lng": 16.92771563973868
     },
     "isNearBorder": false,
     "areaM2": 5400,
@@ -12895,8 +12895,8 @@
     "county": "gnieznienski",
     "city": "Trzemeszno",
     "coordinates": {
-      "lat": 52.55440423302471,
-      "lng": 17.826342255471133
+      "lat": 52.55614700421416,
+      "lng": 17.816530457085324
     },
     "isNearBorder": false,
     "areaM2": 571,
@@ -12930,8 +12930,8 @@
     "city": "Sierosław",
     "street": "ul. Leśna",
     "coordinates": {
-      "lat": 52.402577030812665,
-      "lng": 16.927341252112775
+      "lat": 52.41174092334536,
+      "lng": 16.917434883067088
     },
     "isNearBorder": false,
     "areaM2": 430,
@@ -12964,8 +12964,8 @@
     "county": "poznanski",
     "city": "Sierosław",
     "coordinates": {
-      "lat": 52.40706723255564,
-      "lng": 16.920602551073085
+      "lat": 52.41318617514035,
+      "lng": 16.927263282627006
     },
     "isNearBorder": false,
     "areaM2": 400,
@@ -12998,8 +12998,8 @@
     "county": "poznanski",
     "city": "Drużyna",
     "coordinates": {
-      "lat": 52.40055957895635,
-      "lng": 16.930063180884073
+      "lat": 52.40870294610574,
+      "lng": 16.92030984059666
     },
     "isNearBorder": false,
     "areaM2": 817,
@@ -13033,8 +13033,8 @@
     "city": "Kalisz Szczypiorno",
     "street": "ul. Pogodna",
     "coordinates": {
-      "lat": 51.76819517326908,
-      "lng": 18.07891457138543
+      "lat": 51.76671200717257,
+      "lng": 18.09260192163865
     },
     "isNearBorder": false,
     "areaM2": 476,
@@ -13067,8 +13067,8 @@
     "county": "gnieznienski",
     "city": "Mnichowo",
     "coordinates": {
-      "lat": 52.538287465566924,
-      "lng": 17.57705785206568
+      "lat": 52.54076992189103,
+      "lng": 17.57282087151446
     },
     "isNearBorder": false,
     "areaM2": 828,
@@ -13101,8 +13101,8 @@
     "county": "poznanski",
     "city": "Sierosław",
     "coordinates": {
-      "lat": 52.398962162006626,
-      "lng": 16.93371011951385
+      "lat": 52.402414401666796,
+      "lng": 16.930429451617
     },
     "isNearBorder": false,
     "areaM2": 400,
@@ -13135,8 +13135,8 @@
     "county": "poznanski",
     "city": "Sierosław",
     "coordinates": {
-      "lat": 52.405628585282464,
-      "lng": 16.931546889278117
+      "lat": 52.41294488877381,
+      "lng": 16.929971911057482
     },
     "isNearBorder": false,
     "areaM2": 400,

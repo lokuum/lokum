@@ -258,6 +258,23 @@ export const CITY_COORDINATES: Record<string, { lat: number; lng: number }> = {
   suprasl: { lat: 53.2081, lng: 23.3364 },
   kuźnica: { lat: 53.5117, lng: 23.6456 },
   kuznica: { lat: 53.5117, lng: 23.6456 },
+  gruszki: { lat: 53.8627, lng: 23.4335 },
+  płaska: { lat: 53.9036, lng: 23.2508 },
+  plaska: { lat: 53.9036, lng: 23.2508 },
+  mikaszówka: { lat: 53.8872, lng: 23.3939 },
+  mikaszowka: { lat: 53.8872, lng: 23.3939 },
+  gorczyca: { lat: 53.8833, lng: 23.3333 },
+  rygol: { lat: 53.9000, lng: 23.4333 },
+  giby: { lat: 54.0333, lng: 23.3667 },
+  zelwa: { lat: 54.0000, lng: 23.4500 },
+  berżałowce: { lat: 54.0667, lng: 23.4333 },
+  berzalowce: { lat: 54.0667, lng: 23.4333 },
+  sidorówka: { lat: 54.2167, lng: 22.8833 },
+  sidorowka: { lat: 54.2167, lng: 22.8833 },
+  solniki: { lat: 53.0167, lng: 23.1667 },
+  szerenosy: { lat: 53.0000, lng: 23.1000 },
+  'odnoga-kuźmy': { lat: 52.8833, lng: 23.7500 },
+  'odnoga-kuzmy': { lat: 52.8833, lng: 23.7500 },
 
   // --- Podkarpackie ---
   rzeszów: { lat: 50.0412, lng: 21.9991 },
@@ -541,6 +558,20 @@ export const CITY_TO_COUNTY: Record<string, string> = {
   giby: 'sejneński',
   puńsk: 'sejneński',
   punsk: 'sejneński',
+  gruszki: 'augustowski',
+  gorczyca: 'augustowski',
+  mikaszówka: 'augustowski',
+  mikaszowka: 'augustowski',
+  rygol: 'augustowski',
+  zelwa: 'sejneński',
+  berżałowce: 'sejneński',
+  berzalowce: 'sejneński',
+  sidorówka: 'suwalski',
+  sidorowka: 'suwalski',
+  solniki: 'białostocki',
+  szerenosy: 'białostocki',
+  'odnoga-kuźmy': 'białostocki',
+  'odnoga-kuzmy': 'białostocki',
 
   // Podkarpackie
   przemyśl: 'przemyski',
@@ -806,11 +837,16 @@ export function isBorderCounty(voivodeship: Voivodeship, countyName?: string, ci
 export function getLocationCoordinates(
   voivodeship: Voivodeship,
   city?: string,
-  county?: string
+  county?: string,
+  commune?: string
 ): { lat: number; lng: number } {
   const rawCity = city?.trim();
   const normCity = rawCity?.toLowerCase();
   const cleanCity = rawCity ? normalizeText(rawCity) : undefined;
+
+  const rawCommune = commune?.replace(/^gmina\s+/i, '').trim();
+  const normCommune = rawCommune?.toLowerCase();
+  const cleanCommune = rawCommune ? normalizeText(rawCommune) : undefined;
 
   const rawCounty = county?.replace(/^powiat\s+/i, '').trim();
   const normCounty = rawCounty?.toLowerCase();
@@ -825,7 +861,16 @@ export function getLocationCoordinates(
     baseCoords = CITY_COORDINATES[cleanCity];
   }
 
-  // 2. Jeśli miejscowość nie jest znana, sprawdź czy mapuje się do znanego powiatu (inferCounty)
+  // 2. Dopasowanie gminy (commune)
+  if (!baseCoords && normCommune) {
+    if (CITY_COORDINATES[normCommune]) {
+      baseCoords = CITY_COORDINATES[normCommune];
+    } else if (cleanCommune && CITY_COORDINATES[cleanCommune]) {
+      baseCoords = CITY_COORDINATES[cleanCommune];
+    }
+  }
+
+  // 3. Jeśli miejscowość nie jest znana, sprawdź czy mapuje się do znanego powiatu (inferCounty)
   if (!baseCoords && rawCity) {
     const inferred = inferCounty(rawCity);
     if (inferred) {

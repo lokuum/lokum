@@ -93,17 +93,19 @@ export async function fetchOtodomPage(
       const sourceId = String(item.id);
       const sourceUrl = `https://www.otodom.pl/pl/oferta/${item.slug}`;
 
-      // Ekstrakcja powiatu i miasta z reverseGeocoding
+      // Ekstrakcja powiatu, gminy i miasta z reverseGeocoding
       const revLocations = item.location?.reverseGeocoding?.locations || [];
       const countyObj = revLocations.find((l) => l.locationLevel === 'county');
+      const communeObj = revLocations.find((l) => l.locationLevel === 'commune');
       const cityObj = revLocations.find((l) => l.locationLevel === 'city_or_village' || l.locationLevel === 'city');
 
       const rawCity = cityObj ? cityObj.name : item.location?.address?.city?.name || 'Nieznana miejscowość';
       let county = countyObj ? countyObj.name : undefined;
+      const commune = communeObj ? communeObj.name : undefined;
 
       // Sprawdź czy miasto nie ma praw powiatu lub czy powiat nie wynika ze ścieżki / nazwy
       if (!county) {
-        county = inferCounty(rawCity);
+        county = inferCounty(rawCity) || (commune ? inferCounty(commune) : undefined);
       }
       if (!county) {
         // Sprawdź czy w revLocations któryś id ma format np. lubelskie/zamosc/...
@@ -124,10 +126,10 @@ export async function fetchOtodomPage(
       const currentPricePerM2 =
         item.pricePerSquareMeter?.value || (areaM2 > 0 ? Math.round((currentPrice / areaM2) * 100) / 100 : 0);
 
-      // Dokładne współrzędne dla miejscowości/powiatu
+      // Dokładne współrzędne dla miejscowości/gminy/powiatu
       const coordinates = (item.location?.coordinates?.latitude && item.location?.coordinates?.longitude)
         ? { lat: item.location.coordinates.latitude, lng: item.location.coordinates.longitude }
-        : getLocationCoordinates(voivodeship, city, county);
+        : getLocationCoordinates(voivodeship, city, county, commune);
 
       const isNearBorder = isBorderLocation(voivodeship, county, city);
 
