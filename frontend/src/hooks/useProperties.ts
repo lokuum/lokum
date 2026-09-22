@@ -30,11 +30,11 @@ export function useProperties(favorites: Set<string> = new Set()) {
         }
 
         // 2. Pobierz partycje dla wszystkich województw
-        const voivodeships: Voivodeship[] = ['lubelskie', 'podlaskie', 'podkarpackie'];
+        const voivodeships: Voivodeship[] = ['lubelskie', 'podlaskie', 'podkarpackie', 'wielkopolskie'];
         const partitionPromises: Promise<PropertyOffer[]>[] = [];
 
         for (const v of voivodeships) {
-          for (const type of ['houses', 'plots'] as const) {
+          for (const type of ['houses', 'plots', 'habitats'] as const) {
             partitionPromises.push(
               fetch(`./data/${type}-${v}.json`)
                 .then((r) => (r.ok ? r.json() : []))
@@ -68,9 +68,10 @@ export function useProperties(favorites: Set<string> = new Set()) {
   // Filtrowanie i sortowanie po stronie klienta
   const filteredOffers = useMemo(() => {
     return allOffers.filter((item) => {
-      // 1. Filtr zakładki: domy vs działki vs tylko okazje vs ulubione
+      // 1. Filtr zakładki: domy vs działki vs siedliska vs tylko okazje vs ulubione
       if (filters.tab === 'houses' && item.propertyType !== 'house') return false;
       if (filters.tab === 'plots' && item.propertyType !== 'plot') return false;
+      if (filters.tab === 'habitats' && item.propertyType !== 'habitat') return false;
       if (filters.tab === 'drops' && item.priceChangeAmount >= 0 && item.status !== 'price_drop') return false;
       if (filters.tab === 'favorites' && !favorites.has(item.id)) return false;
 

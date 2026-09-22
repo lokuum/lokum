@@ -55,6 +55,13 @@ export const PropertyCard: React.FC<PropertyCardProps> = ({
 
         {/* Top badges */}
         <div className="absolute top-2 left-2 flex flex-wrap gap-1.5 max-w-[90%]">
+          {/* Habitat badge */}
+          {offer.propertyType === 'habitat' && (
+            <span className="bg-amber-600/90 backdrop-blur-xs text-white text-[10px] font-bold px-2 py-0.5 rounded-md shadow-xs">
+              🌾 Siedlisko
+            </span>
+          )}
+
           {/* Direct owner */}
           {offer.isDirectOwner && (
             <span className="bg-emerald-600/90 backdrop-blur-xs text-white text-[10px] font-bold px-2 py-0.5 rounded-md shadow-xs">
@@ -68,6 +75,22 @@ export const PropertyCard: React.FC<PropertyCardProps> = ({
               <ShieldAlert className="size-3" />
               Pas graniczny
             </span>
+          )}
+
+          {/* Price history count badge */}
+          {offer.priceHistory.length > 1 && (
+            <button
+              type="button"
+              onClick={(e) => {
+                e.stopPropagation();
+                onOpenHistory(offer);
+              }}
+              className="bg-indigo-600/90 hover:bg-indigo-700 backdrop-blur-xs text-white text-[10px] font-bold px-1.5 py-0.5 rounded-md shadow-xs flex items-center gap-1 transition-colors"
+              title="Historia zmian cen"
+            >
+              <History className="size-2.5" />
+              {offer.priceHistory.length}
+            </button>
           )}
 
           {/* Source badge */}
@@ -117,14 +140,18 @@ export const PropertyCard: React.FC<PropertyCardProps> = ({
         <div className="flex items-center gap-3 py-1.5 px-2.5 bg-neutral-50 rounded-lg text-xs font-medium text-neutral-700 border border-neutral-100">
           <div>
             <span className="text-neutral-400 block text-[10px] uppercase">
-              {offer.propertyType === 'house' ? 'Pow. domu' : 'Pow. działki'}
+              {offer.propertyType === 'house'
+                ? 'Pow. domu'
+                : offer.propertyType === 'habitat'
+                ? 'Pow. zabudowy'
+                : 'Pow. działki'}
             </span>
             <strong className="text-neutral-900 font-bold">
               {formatArea(offer.areaM2, offer.propertyType === 'plot')}
             </strong>
           </div>
 
-          {offer.propertyType === 'house' && offer.plotAreaM2 != null && (
+          {(offer.propertyType === 'house' || offer.propertyType === 'habitat') && offer.plotAreaM2 != null && (
             <div className="border-l border-neutral-200 pl-3">
               <span className="text-neutral-400 flex items-center gap-1 text-[10px] uppercase">
                 <Trees className="size-2.5" /> Działka

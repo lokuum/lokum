@@ -12,8 +12,8 @@ export const DEFAULT_FILTERS: FilterState = {
   viewMode: 'cards',
 };
 
-const VALID_TABS: FilterState['tab'][] = ['houses', 'plots', 'drops', 'favorites'];
-const VALID_VOIVODESHIPS: (Voivodeship | 'all')[] = ['all', 'lubelskie', 'podlaskie', 'podkarpackie'];
+const VALID_TABS: FilterState['tab'][] = ['houses', 'plots', 'habitats', 'drops', 'favorites'];
+const VALID_VOIVODESHIPS: (Voivodeship | 'all')[] = ['all', 'lubelskie', 'podlaskie', 'podkarpackie', 'wielkopolskie'];
 const VALID_VIEWS: FilterState['viewMode'][] = ['cards', 'map'];
 const VALID_SORTS: FilterState['sortBy'][] = [
   'drop_percent_desc',

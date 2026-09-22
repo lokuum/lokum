@@ -139,7 +139,13 @@ export const PropertyMap: React.FC<PropertyMapProps> = ({
           const offer = c.properties as PropertyOffer;
           const isDrop = offer.priceChangeAmount < 0 || offer.status === 'price_drop';
 
-          const markerColor = isDrop ? 'bg-rose-600' : offer.propertyType === 'house' ? 'bg-emerald-600' : 'bg-amber-600';
+          const markerColor = isDrop
+            ? 'bg-rose-600'
+            : offer.propertyType === 'house'
+            ? 'bg-emerald-600'
+            : offer.propertyType === 'habitat'
+            ? 'bg-orange-600'
+            : 'bg-amber-600';
 
           const iconHtml = `
             <div class="px-2 py-1 rounded-md text-white font-bold text-[11px] shadow-md border-2 border-white flex items-center gap-1 ${markerColor} whitespace-nowrap cursor-pointer hover:scale-105 transition-transform">
@@ -181,7 +187,7 @@ export const PropertyMap: React.FC<PropertyMapProps> = ({
                 : ''
             }
             <div class="font-medium text-neutral-700 line-clamp-1">
-              ${offer.propertyType === 'house' ? '🏠 Dom' : '🌲 Działka'}: ${formatArea(offer.areaM2, offer.propertyType === 'plot')}
+              ${offer.propertyType === 'house' ? '🏠 Dom' : offer.propertyType === 'habitat' ? '🌾 Siedlisko' : '🌲 Działka'}: ${formatArea(offer.areaM2, offer.propertyType === 'plot')}
               ${offer.plotAreaM2 ? ` • Działka: ${formatArea(offer.plotAreaM2, true)}` : ''}
             </div>
             <div class="text-neutral-500 text-[11px]">

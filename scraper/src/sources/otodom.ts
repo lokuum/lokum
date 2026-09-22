@@ -1,5 +1,5 @@
 import type { PropertyOffer, PropertyType, Voivodeship } from 'shared';
-import { getLocationCoordinates, inferCounty, isBorderLocation } from 'shared';
+import { classifyPropertyType, getLocationCoordinates, inferCounty, isBorderLocation } from 'shared';
 import { fetchWithRetry } from '../utils/http.js';
 
 interface OtodomSearchResponse {
@@ -135,12 +135,18 @@ export async function fetchOtodomPage(
 
       const dateCreated = item.dateCreated ? new Date(item.dateCreated).toISOString() : now;
 
+      const resolvedType = classifyPropertyType(type === 'habitat' ? 'plot' : type, {
+        title: item.title,
+        sourceUrl,
+        street,
+      });
+
       return {
         id,
         source: 'otodom' as const,
         sourceId,
         sourceUrl,
-        propertyType: type,
+        propertyType: resolvedType,
         title: item.title,
         voivodeship,
         county,
@@ -149,7 +155,10 @@ export async function fetchOtodomPage(
         coordinates,
         isNearBorder,
         areaM2,
-        plotAreaM2: type === 'house' && item.terrainAreaInSquareMeters ? item.terrainAreaInSquareMeters : undefined,
+        plotAreaM2:
+          (resolvedType === 'house' || resolvedType === 'habitat') && item.terrainAreaInSquareMeters
+            ? item.terrainAreaInSquareMeters
+            : undefined,
         currentPrice,
         currentPricePerM2,
         initialPrice: currentPrice,

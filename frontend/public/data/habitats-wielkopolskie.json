@@ -1,0 +1,485 @@
+[
+  {
+    "id": "otodom-67139152",
+    "source": "otodom",
+    "sourceId": "67139152",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/magiczne-siedlisko-w-foluszu-kolo-pleszewa-ID4xHXy",
+    "propertyType": "habitat",
+    "title": "magiczne siedlisko w Foluszu koło Pleszewa",
+    "voivodeship": "wielkopolskie",
+    "county": "pleszewski",
+    "city": "Folusz",
+    "street": "ul. Folusz, gmina Pleszew",
+    "coordinates": {
+      "lat": 52.39943880596543,
+      "lng": 16.922501656510466
+    },
+    "isNearBorder": false,
+    "areaM2": 256,
+    "plotAreaM2": 11140,
+    "currentPrice": 1150000,
+    "currentPricePerM2": 4492.19,
+    "initialPrice": 1150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 1150000,
+        "pricePerM2": 4492.19
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T15:46:05.000Z",
+    "lastSeenAt": "2026-09-22T20:40:27.689Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndweDJjY2hicDVndDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Rfdo2j4tR52jjGxiXJbZNj1UUK9HdNrCtXKZsc4PpmE/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68448795",
+    "source": "otodom",
+    "sourceId": "68448795",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-na-sprzedaz-ok-75m-dzialka-902-m-ID4DcEP",
+    "propertyType": "habitat",
+    "title": "Siedlisko na sprzedaż – ok 75m², działka 902 m².",
+    "voivodeship": "wielkopolskie",
+    "county": "radziejowski",
+    "city": "Nowa Wieś",
+    "coordinates": {
+      "lat": 52.40367063408967,
+      "lng": 16.918219322424726
+    },
+    "isNearBorder": false,
+    "areaM2": 75,
+    "plotAreaM2": 902,
+    "currentPrice": 355000,
+    "currentPricePerM2": 4733.33,
+    "initialPrice": 355000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 355000,
+        "pricePerM2": 4733.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T12:54:59.000Z",
+    "lastSeenAt": "2026-09-22T20:40:27.689Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjQweDJlcWVyYWlzODItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5c0U5_KoOyJeJdZnc4zp7q1GNo71zofobyNEf-jMvSg/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4257450",
+    "source": "adresowo",
+    "sourceId": "4257450",
+    "sourceUrl": "https://adresowo.pl/o/dom-wysoka-jeziorki-kosztowskie-250-m2-o5t0n7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jeziorki Kosztowskie",
+    "voivodeship": "wielkopolskie",
+    "county": "pilski",
+    "city": "Jeziorki Kosztowskie",
+    "coordinates": {
+      "lat": 52.4002551677813,
+      "lng": 16.920895577001108
+    },
+    "isNearBorder": false,
+    "areaM2": 250,
+    "currentPrice": 2000000,
+    "currentPricePerM2": 8000,
+    "initialPrice": 2000000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 2000000,
+        "pricePerM2": 8000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T20:40:08.189Z",
+    "lastSeenAt": "2026-09-22T20:40:27.689Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/53/29/40f6aa_3709_cover@2x-dom-pilski-jeziorki-kosztowskie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4248460",
+    "source": "adresowo",
+    "sourceId": "4248460",
+    "sourceUrl": "https://adresowo.pl/o/dom-osieczna-frankowo-270-m2-w3y4u0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Frankowo",
+    "voivodeship": "wielkopolskie",
+    "county": "leszczynski",
+    "city": "Frankowo",
+    "coordinates": {
+      "lat": 52.4076366562217,
+      "lng": 16.934932384339064
+    },
+    "isNearBorder": false,
+    "areaM2": 270,
+    "currentPrice": 690000,
+    "currentPricePerM2": 2555.56,
+    "initialPrice": 690000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 690000,
+        "pricePerM2": 2555.56
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T20:40:08.189Z",
+    "lastSeenAt": "2026-09-22T20:40:27.689Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/19/4e/40d38c_a0ad_cover@2x-dom-leszczynski-frankowo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4252318",
+    "source": "adresowo",
+    "sourceId": "4252318",
+    "sourceUrl": "https://adresowo.pl/o/dom-czerniejewo-kapiel-160-m2-e9u6l5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kąpiel",
+    "voivodeship": "wielkopolskie",
+    "county": "gnieznienski",
+    "city": "Kąpiel",
+    "coordinates": {
+      "lat": 52.412002869581,
+      "lng": 16.91838046952582
+    },
+    "isNearBorder": false,
+    "areaM2": 160,
+    "currentPrice": 885000,
+    "currentPricePerM2": 5531.25,
+    "initialPrice": 885000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 885000,
+        "pricePerM2": 5531.25
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T20:40:08.189Z",
+    "lastSeenAt": "2026-09-22T20:40:27.689Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/14/68/40e29e_ba4d_cover@2x-dom-gnieznienski-kapiel.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4250606",
+    "source": "adresowo",
+    "sourceId": "4250606",
+    "sourceUrl": "https://adresowo.pl/o/dom-szczytniki-sobieseki-pierwsze-210-m2-r1u1x5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Sobiesęki Pierwsze, Wesółka",
+    "voivodeship": "wielkopolskie",
+    "county": "kaliski",
+    "city": "Sobiesęki Pierwsze",
+    "street": "Wesółka",
+    "coordinates": {
+      "lat": 52.410328286756695,
+      "lng": 16.915257457647257
+    },
+    "isNearBorder": false,
+    "areaM2": 210,
+    "currentPrice": 1150000,
+    "currentPricePerM2": 5476.19,
+    "initialPrice": 1150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 1150000,
+        "pricePerM2": 5476.19
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T20:40:08.189Z",
+    "lastSeenAt": "2026-09-22T20:40:27.689Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2a/14/40dbee_c558_cover@2x-dom-kaliski-sobieseki-pierwsze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68366711",
+    "source": "otodom",
+    "sourceId": "68366711",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-z-siedliskiem-26-2330-ha-glazewo-lowyn-bielsko-ID4CRiT",
+    "propertyType": "habitat",
+    "title": "Gospodarstwo rolne z siedliskiem – 26,2330 HA /Głażewo/Łowyń/Bielsko",
+    "voivodeship": "wielkopolskie",
+    "county": "międzychodzki",
+    "city": "Głażewo",
+    "coordinates": {
+      "lat": 52.40872560816079,
+      "lng": 16.91906121776196
+    },
+    "isNearBorder": false,
+    "areaM2": 263000,
+    "currentPrice": 2355000,
+    "currentPricePerM2": 8.95,
+    "initialPrice": 2355000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 2355000,
+        "pricePerM2": 8.95
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T18:48:37.000Z",
+    "lastSeenAt": "2026-09-22T20:40:27.689Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9kbnBvcG11ZDd1ajItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.eyDE1GS_TRk4bcetvOqZsdFe1sDc_YvsJwZ12v2cvCI/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68317795",
+    "source": "otodom",
+    "sourceId": "68317795",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-grodzisk-wielkopolski-ID4CEzW",
+    "propertyType": "habitat",
+    "title": "Działka siedliskowa Grodzisk Wielkopolski",
+    "voivodeship": "wielkopolskie",
+    "county": "grodziski",
+    "city": "Grodzisk Wielkopolski",
+    "coordinates": {
+      "lat": 52.22017841416274,
+      "lng": 16.357759094980793
+    },
+    "isNearBorder": false,
+    "areaM2": 8000,
+    "currentPrice": 1200000,
+    "currentPricePerM2": 150,
+    "initialPrice": 1200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 1200000,
+        "pricePerM2": 150
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T08:39:28.000Z",
+    "lastSeenAt": "2026-09-22T20:40:27.689Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ2Ymk1YnZ5OHB5cTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.h6DRf--Lp8psBegrMy8c42dpnI16V5-SJ058HzAans0/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4252194",
+    "source": "adresowo",
+    "sourceId": "4252194",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wierzbinek-cegielnia-rudki-6-200-m2-s0d2r3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Cegielnia-Rudki, Pagórki",
+    "voivodeship": "wielkopolskie",
+    "county": "koninski",
+    "city": "Cegielnia-Rudki",
+    "street": "Pagórki",
+    "coordinates": {
+      "lat": 52.406599421785096,
+      "lng": 16.932522489419846
+    },
+    "isNearBorder": false,
+    "areaM2": 6200,
+    "currentPrice": 300000,
+    "currentPricePerM2": 48.39,
+    "initialPrice": 300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 300000,
+        "pricePerM2": 48.39
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T20:40:20.918Z",
+    "lastSeenAt": "2026-09-22T20:40:27.689Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/59/32/40e222_abbe_cover@2x-dzialka-siedliskowa-koninski-cegielnia-rudki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4266040",
+    "source": "adresowo",
+    "sourceId": "4266040",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-tuliszkow-tarnowa-5-ha-b6r1y3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Tarnowa",
+    "voivodeship": "wielkopolskie",
+    "county": "turecki",
+    "city": "Tarnowa",
+    "coordinates": {
+      "lat": 52.40410253868423,
+      "lng": 16.924314102858283
+    },
+    "isNearBorder": false,
+    "areaM2": 52600,
+    "currentPrice": 499000,
+    "currentPricePerM2": 9.49,
+    "initialPrice": 499000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 499000,
+        "pricePerM2": 9.49
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T20:40:20.918Z",
+    "lastSeenAt": "2026-09-22T20:40:27.689Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6e/4c/411838_ae50_cover@2x-dzialka-rolna-turecki-tarnowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4263820",
+    "source": "adresowo",
+    "sourceId": "4263820",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-brzeziny-czempisz-1-700-m2-f6t0l8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Czempisz, Dziadowice",
+    "voivodeship": "wielkopolskie",
+    "county": "kaliski",
+    "city": "Czempisz",
+    "street": "Dziadowice",
+    "coordinates": {
+      "lat": 52.407425249482024,
+      "lng": 16.91783757603251
+    },
+    "isNearBorder": false,
+    "areaM2": 1700,
+    "currentPrice": 170000,
+    "currentPricePerM2": 100,
+    "initialPrice": 170000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 170000,
+        "pricePerM2": 100
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T20:40:23.489Z",
+    "lastSeenAt": "2026-09-22T20:40:27.689Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/58/2f/410f8c_389f_cover@2x-dzialka-siedliskowa-kaliski-czempisz.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4249398",
+    "source": "adresowo",
+    "sourceId": "4249398",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-poznan-801-m2-i0b3x0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Poznań, Pokrzywno",
+    "voivodeship": "wielkopolskie",
+    "county": "poznański",
+    "city": "Poznań",
+    "street": "Pokrzywno",
+    "coordinates": {
+      "lat": 52.40873531962345,
+      "lng": 16.932173972791034
+    },
+    "isNearBorder": false,
+    "areaM2": 801,
+    "currentPrice": 580000,
+    "currentPricePerM2": 724.09,
+    "initialPrice": 580000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 580000,
+        "pricePerM2": 724.09
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T20:40:23.489Z",
+    "lastSeenAt": "2026-09-22T20:40:27.689Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7b/66/40d736_cb2b_cover@2x-dzialka-budowlana-poznan.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4249388",
+    "source": "adresowo",
+    "sourceId": "4249388",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-kwilcz-kurnatowice-1-025-m2-c9f9w9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kurnatowice",
+    "voivodeship": "wielkopolskie",
+    "county": "miedzychodzki",
+    "city": "Kurnatowice",
+    "coordinates": {
+      "lat": 52.41030997158043,
+      "lng": 16.924828637784916
+    },
+    "isNearBorder": false,
+    "areaM2": 1025,
+    "currentPrice": 87000,
+    "currentPricePerM2": 84.88,
+    "initialPrice": 87000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 87000,
+        "pricePerM2": 84.88
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T20:40:23.489Z",
+    "lastSeenAt": "2026-09-22T20:40:27.689Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/79/39/40d72c_df09_cover@2x-dzialka-budowlana-miedzychodzki-kurnatowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4255810",
+    "source": "adresowo",
+    "sourceId": "4255810",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-sosnie-pawlow-5-ha-q9u0m2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Pawłów",
+    "voivodeship": "wielkopolskie",
+    "county": "ostrowski",
+    "city": "Pawłów",
+    "coordinates": {
+      "lat": 52.399718592787714,
+      "lng": 16.91702063222806
+    },
+    "isNearBorder": false,
+    "areaM2": 51700,
+    "currentPrice": 568700,
+    "currentPricePerM2": 11,
+    "initialPrice": 568700,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 568700,
+        "pricePerM2": 11
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T20:40:23.489Z",
+    "lastSeenAt": "2026-09-22T20:40:27.689Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7d/3c/40f042_646e_cover@2x-dzialka-siedliskowa-ostrowski-pawlow.webp",
+    "isDirectOwner": true
+  }
+]

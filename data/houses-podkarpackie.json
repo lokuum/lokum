@@ -1137,41 +1137,6 @@
     "county": "rzeszowski"
   },
   {
-    "id": "otodom-68430257",
-    "source": "otodom",
-    "sourceId": "68430257",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-siedlisko-dz-33-ar-las-2xdzialki-rolne-ID4D7PP",
-    "propertyType": "house",
-    "title": "Sprzedam siedlisko, dz. 33 ar/las/2xdziałki rolne.",
-    "voivodeship": "podkarpackie",
-    "county": "jarosławski",
-    "city": "Korczowa",
-    "coordinates": {
-      "lat": 49.9521821927876,
-      "lng": 22.290319980083776
-    },
-    "isNearBorder": true,
-    "areaM2": 60,
-    "plotAreaM2": 3278,
-    "currentPrice": 134000,
-    "currentPricePerM2": 2233.33,
-    "initialPrice": 134000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 134000,
-        "pricePerM2": 2233.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T10:55:17.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5iY2NjeGRvN2JxMTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tBYP2bdjur9WZSjquWbeR18Xr1-XnAi-eh-I8DdnNfQ/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68429911",
     "source": "otodom",
     "sourceId": "68429911",
@@ -2348,40 +2313,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/3a/3d/40c520_6fc1_cover@2x-dom-krosno.webp",
     "isDirectOwner": true,
     "county": "krośnieński"
-  },
-  {
-    "id": "adresowo-4243584",
-    "source": "adresowo",
-    "sourceId": "4243584",
-    "sourceUrl": "https://adresowo.pl/o/dom-lubenia-siedliska-224-m2-p0t5y9",
-    "propertyType": "house",
-    "title": "Dom — Siedliska",
-    "voivodeship": "podkarpackie",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.952304196919854,
-      "lng": 22.303749657649547
-    },
-    "isNearBorder": false,
-    "areaM2": 224,
-    "currentPrice": 1950000,
-    "currentPricePerM2": 8705.36,
-    "initialPrice": 1950000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1950000,
-        "pricePerM2": 8705.36
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T21:51:11.506Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/66/51/40c080_aaf3_cover@2x-dom-rzeszowski-siedliska.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
   },
   {
     "id": "adresowo-4248788",
@@ -6964,41 +6895,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "otodom-68418599",
-    "source": "otodom",
-    "sourceId": "68418599",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-ocieka-gmina-ostrow-ID4D4NN",
-    "propertyType": "house",
-    "title": "Gospodarstwo rolne – Ocieka, gmina Ostrów",
-    "voivodeship": "podkarpackie",
-    "county": "ropczycko-sędziszowski",
-    "city": "Ocieka",
-    "coordinates": {
-      "lat": 49.956455590462035,
-      "lng": 22.29248193802436
-    },
-    "isNearBorder": false,
-    "areaM2": 91,
-    "plotAreaM2": 29400,
-    "currentPrice": 320000,
-    "currentPricePerM2": 3516.48,
-    "initialPrice": 320000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 320000,
-        "pricePerM2": 3516.48
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-14T16:11:45.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRvNjc0ZGhvdXBxaS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.j0PlExci77HfOEgdyWkP6TcU1ZNv_z7IzmVwom0yCcI/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67835979",
     "source": "otodom",
     "sourceId": "67835979",
@@ -11318,41 +11214,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68407006",
-    "source": "otodom",
-    "sourceId": "68407006",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/klimatyczne-siedlisko-w-polomi-ID4D1MO",
-    "propertyType": "house",
-    "title": "Klimatyczne siedlisko w Połomi.",
-    "voivodeship": "podkarpackie",
-    "county": "strzyżowski",
-    "city": "Połomia",
-    "coordinates": {
-      "lat": 49.947359543742365,
-      "lng": 22.302959652790417
-    },
-    "isNearBorder": false,
-    "areaM2": 150,
-    "plotAreaM2": 7500,
-    "currentPrice": 675000,
-    "currentPricePerM2": 4500,
-    "initialPrice": 675000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 675000,
-        "pricePerM2": 4500
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-11T09:13:37.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ4cGw3dmZ5aHB1YzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.citTARRA8aTCPoMFOtN7xE4tQII0ET2hr5icOjbxJ38/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68406868",
     "source": "otodom",
     "sourceId": "68406868",
@@ -11775,41 +11636,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68405347",
-    "source": "otodom",
-    "sourceId": "68405347",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/okazyjna-cena-siedlisko-przy-sanie-grabowiec-ID4D1m3",
-    "propertyType": "house",
-    "title": "Okazyjna Cena / Siedlisko Przy Sanie / Grabowiec",
-    "voivodeship": "podkarpackie",
-    "county": "jarosławski",
-    "city": "Radymno",
-    "coordinates": {
-      "lat": 49.94258600536335,
-      "lng": 22.81530570686263
-    },
-    "isNearBorder": true,
-    "areaM2": 70,
-    "plotAreaM2": 2100,
-    "currentPrice": 99000,
-    "currentPricePerM2": 1414.29,
-    "initialPrice": 99000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 99000,
-        "pricePerM2": 1414.29
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-10T15:22:39.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inpvd3g1YTFlNGNvaTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bWnUJN0Lx8UaKV1bbI-VXKdPKdwabyoIRSpZt5uwvjo/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68356134",
     "source": "otodom",
     "sourceId": "68356134",
@@ -11843,41 +11669,6 @@
     "firstSeenAt": "2026-09-10T15:17:25.000Z",
     "lastSeenAt": "2026-09-22T09:06:42.880Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZsem8zY3J3Z2doejItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cIoV3Pv953khJ0pSPKpsVHqRASK8vVp1yfvr0ogykXA/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68405312",
-    "source": "otodom",
-    "sourceId": "68405312",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-dom-wysoka-strzyzowska-49-34-ar-ID4D1lu",
-    "propertyType": "house",
-    "title": "Siedlisko/Dom Wysoka Strzyżowska 49,34 ar",
-    "voivodeship": "podkarpackie",
-    "county": "strzyżowski",
-    "city": "Wysoka Strzyżowska",
-    "coordinates": {
-      "lat": 49.9526467187061,
-      "lng": 22.308833247384182
-    },
-    "isNearBorder": false,
-    "areaM2": 115,
-    "plotAreaM2": 4934,
-    "currentPrice": 359000,
-    "currentPricePerM2": 3121.74,
-    "initialPrice": 359000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 359000,
-        "pricePerM2": 3121.74
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-10T15:11:51.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNwZDVkdHI2cjNoYTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.75WZ12oS4lrHj9_6ylClqdbwc2cTG3EZzw1D0y-5XPU/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -13636,41 +13427,6 @@
     "county": "przemyski"
   },
   {
-    "id": "otodom-66764258",
-    "source": "otodom",
-    "sourceId": "66764258",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-nad-rzeka-sopotnik-k-arlamowa-ID4v8qS",
-    "propertyType": "house",
-    "title": "Gospodarstwo nad rzeką | Sopotnik k. Arłamowa",
-    "voivodeship": "podkarpackie",
-    "county": "bieszczadzki",
-    "city": "Arłamów",
-    "coordinates": {
-      "lat": 49.950748907793844,
-      "lng": 22.299368918182964
-    },
-    "isNearBorder": true,
-    "areaM2": 100,
-    "plotAreaM2": 19500,
-    "currentPrice": 939000,
-    "currentPricePerM2": 9390,
-    "initialPrice": 939000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 939000,
-        "pricePerM2": 9390
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-09T10:25:50.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImkyODhhNG4yZjlxejEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lXXtVJxnEtw6K_KpGz3gqDLVKEzLRzgpAaTQoN8-mlk/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68399227",
     "source": "otodom",
     "sourceId": "68399227",
@@ -15016,41 +14772,6 @@
     "isDirectOwner": false,
     "county": "rzeszowski",
     "previousPrice": 669000
-  },
-  {
-    "id": "otodom-68395885",
-    "source": "otodom",
-    "sourceId": "68395885",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/widokowe-siedlisko-przy-lesie-dom-bud-gosp-ID4CYTr",
-    "propertyType": "house",
-    "title": "Widokowe siedlisko przy lesie (dom + bud. gosp.)",
-    "voivodeship": "podkarpackie",
-    "county": "strzyżowski",
-    "city": "Jawornik",
-    "coordinates": {
-      "lat": 49.95215149608693,
-      "lng": 22.302267396566226
-    },
-    "isNearBorder": false,
-    "areaM2": 60,
-    "plotAreaM2": 10500,
-    "currentPrice": 179000,
-    "currentPricePerM2": 2983.33,
-    "initialPrice": 179000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 179000,
-        "pricePerM2": 2983.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-08T12:08:05.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhuZTI2cTExZHpvczEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.WGyLLHknvdgWKCe9HQTY6wRwluEuGqgBteri7r7Hp_Y/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-68052778",
@@ -16505,41 +16226,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "otodom-68388633",
-    "source": "otodom",
-    "sourceId": "68388633",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/nowoczesny-dom-224-m-30-arow-siedliska-ID4CX0t",
-    "propertyType": "house",
-    "title": "NOWOCZESNY DOM 224 m² | 30 ARÓW | SIEDLISKA",
-    "voivodeship": "podkarpackie",
-    "county": "rzeszowski",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.95517656317114,
-      "lng": 22.306933562351798
-    },
-    "isNearBorder": false,
-    "areaM2": 224,
-    "plotAreaM2": 5600,
-    "currentPrice": 1950000,
-    "currentPricePerM2": 8705.36,
-    "initialPrice": 1950000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1950000,
-        "pricePerM2": 8705.36
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-06T19:10:53.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ3NnRkdDVleGxsMzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vNojCvUlmUkD9ytv3sT8xjrZqVL-1LJI335O134S70A/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67289316",
     "source": "otodom",
     "sourceId": "67289316",
@@ -16820,41 +16506,6 @@
     "firstSeenAt": "2026-09-06T11:27:55.000Z",
     "lastSeenAt": "2026-09-22T09:06:42.880Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVwdWJycDZpcHFlNjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DRFKCGRRLIpHCvJSk6HTQY4yx8R83uNsohg9zqH8V-s/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68387386",
-    "source": "otodom",
-    "sourceId": "68387386",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-38-arow-z-drewnianym-domem-bachow-podkarpacie-ID4CVGm",
-    "propertyType": "house",
-    "title": "Siedlisko 38 arów z drewnianym domem - Bachów (Podkarpacie)",
-    "voivodeship": "podkarpackie",
-    "county": "przemyski",
-    "city": "Bachów",
-    "coordinates": {
-      "lat": 49.950059324911045,
-      "lng": 22.304427699364304
-    },
-    "isNearBorder": true,
-    "areaM2": 80,
-    "plotAreaM2": 3800,
-    "currentPrice": 300000,
-    "currentPricePerM2": 3750,
-    "initialPrice": 300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 300000,
-        "pricePerM2": 3750
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-06T10:13:34.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE2YnZyZHlkODk4NTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.9-rvczPXCoPwZTzCt7RWCAa96yW0Y79zPU2aoeyFtd4/image;s=655x491;q=80",
     "isDirectOwner": true
   },
   {
@@ -17748,41 +17399,6 @@
     "firstSeenAt": "2026-09-04T10:42:17.000Z",
     "lastSeenAt": "2026-09-22T09:06:42.880Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imt1Zmhnd2RpMG94YzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vGGEZ_Kj8hnPY2pjzann32WmIXSbjgsjBcBNQyG0o-E/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68382220",
-    "source": "otodom",
-    "sourceId": "68382220",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-oddalone-30min-od-rzeszowa-dzialka-75ar-ID4CWl2",
-    "propertyType": "house",
-    "title": "Siedlisko oddalone 30min od Rzeszowa | Działka 75ar",
-    "voivodeship": "podkarpackie",
-    "county": "strzyżowski",
-    "city": "Połomia",
-    "coordinates": {
-      "lat": 49.94451773547688,
-      "lng": 22.294761285479154
-    },
-    "isNearBorder": false,
-    "areaM2": 150,
-    "plotAreaM2": 7500,
-    "currentPrice": 675000,
-    "currentPricePerM2": 4500,
-    "initialPrice": 675000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 675000,
-        "pricePerM2": 4500
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-04T10:07:04.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQ1cXp2N3AzeWZuNy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.3pmrzlnV9Dye1xpJYPOjlHXB_NpmUIgD7kgwrIHZ4-E/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -23308,41 +22924,6 @@
     "county": "rzeszowski"
   },
   {
-    "id": "otodom-68111527",
-    "source": "otodom",
-    "sourceId": "68111527",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-na-pieknej-dzialce-przy-parku-magurskim-ID4BMW1",
-    "propertyType": "house",
-    "title": "Siedlisko na pięknej działce przy Parku Magurskim!",
-    "voivodeship": "podkarpackie",
-    "county": "jasielski",
-    "city": "Kotań",
-    "coordinates": {
-      "lat": 49.9485255111699,
-      "lng": 22.309459844874215
-    },
-    "isNearBorder": false,
-    "areaM2": 184.4,
-    "plotAreaM2": 3400,
-    "currentPrice": 549000,
-    "currentPricePerM2": 2977.22,
-    "initialPrice": 549000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 549000,
-        "pricePerM2": 2977.22
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-27T08:06:14.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRoaTRrMTRrMG93dC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.eg91IaS92rU5-6fzrCan_7o1dgzueJVX64IpZuyMwYY/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68354368",
     "source": "otodom",
     "sourceId": "68354368",
@@ -23908,41 +23489,6 @@
     "lastSeenAt": "2026-09-22T09:06:42.880Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx0YmQyZHZtbDM2azItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HLkKSDgyqugmYUV_NKCeGjvjOWzoy-v-S4T0wW7gbRk/image;s=655x491;q=80",
     "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67989819",
-    "source": "otodom",
-    "sourceId": "67989819",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/do-zamieszkania-zadbany-dom-z-garazem-i-9-arowa-dzialka-siedliska-ID4BhfZ",
-    "propertyType": "house",
-    "title": "Do zamieszkania zadbany dom z garażem i 9-arową działką – Siedliska",
-    "voivodeship": "podkarpackie",
-    "county": "przemyski",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.953269186778115,
-      "lng": 22.306730867078436
-    },
-    "isNearBorder": true,
-    "areaM2": 110,
-    "plotAreaM2": 900,
-    "currentPrice": 699000,
-    "currentPricePerM2": 6354.55,
-    "initialPrice": 699000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 699000,
-        "pricePerM2": 6354.55
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-26T08:20:57.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFwcG54dTZveGFhMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.x3sNmDLY8pgnqEqnZNO9FGTsxuSWcZidS9XwqVbiiRY/image;s=655x491;q=80",
-    "isDirectOwner": true
   },
   {
     "id": "otodom-68350400",
@@ -25857,41 +25403,6 @@
     "county": "rzeszowski"
   },
   {
-    "id": "otodom-68339577",
-    "source": "otodom",
-    "sourceId": "68339577",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-dzialka-4600-m2-ogrod-ID4CKff",
-    "propertyType": "house",
-    "title": "Siedlisko | działka 4600 m2 | ogród",
-    "voivodeship": "podkarpackie",
-    "county": "bieszczadzki",
-    "city": "Polana",
-    "coordinates": {
-      "lat": 49.954732179970684,
-      "lng": 22.297058652410104
-    },
-    "isNearBorder": true,
-    "areaM2": 120,
-    "plotAreaM2": 4600,
-    "currentPrice": 380000,
-    "currentPricePerM2": 3166.67,
-    "initialPrice": 380000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 380000,
-        "pricePerM2": 3166.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-22T10:46:25.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJzenc4aG85aHpxNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.s_NfYnaHzYi2nEO455Xm5_JvCsqUe5hOQGVHkpR96ww/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68339494",
     "source": "otodom",
     "sourceId": "68339494",
@@ -26030,41 +25541,6 @@
     "firstSeenAt": "2026-08-21T19:58:07.000Z",
     "lastSeenAt": "2026-09-22T09:06:42.880Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBienRydmxqZTByZTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KbAYXATEYB9PmRBxwookEoxZE7D6vG93T3rSBWT4elA/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68273544",
-    "source": "otodom",
-    "sourceId": "68273544",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwe-siedlisko-pod-lipami-na-44-ar-dzialce-dom-stodola-i-sad-ID4Ct4c",
-    "propertyType": "house",
-    "title": "Urokliwe \"Siedlisko pod Lipami\" na 44-ar działce / Dom, stodoła i sad",
-    "voivodeship": "podkarpackie",
-    "county": "łańcucki",
-    "city": "Rogóżno",
-    "coordinates": {
-      "lat": 49.9567276520979,
-      "lng": 22.299297020225037
-    },
-    "isNearBorder": false,
-    "areaM2": 87,
-    "plotAreaM2": 4400,
-    "currentPrice": 499900,
-    "currentPricePerM2": 5745.98,
-    "initialPrice": 499900,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 499900,
-        "pricePerM2": 5745.98
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-21T18:34:53.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpudGlhdzBhZTBqbTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UVZV-35gMOEhUpqy5XnevrXgatXik9B780DPif_GIbQ/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -28589,41 +28065,6 @@
     "firstSeenAt": "2026-08-15T14:27:44.000Z",
     "lastSeenAt": "2026-09-22T09:06:42.880Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjcxZW5ibGg4b2M1cTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xl_R9cLDMCs29b-IVvbuHL-B3vrnYP1Rb99Wp_tLsy0/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68315882",
-    "source": "otodom",
-    "sourceId": "68315882",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/piekne-siedlisko-otoczone-lasem-ID4CE54",
-    "propertyType": "house",
-    "title": "Piękne siedlisko otoczone lasem",
-    "voivodeship": "podkarpackie",
-    "county": "niżański",
-    "city": "Bukowina",
-    "coordinates": {
-      "lat": 49.955667271110116,
-      "lng": 22.309207272946374
-    },
-    "isNearBorder": false,
-    "areaM2": 60,
-    "plotAreaM2": 4120,
-    "currentPrice": 169000,
-    "currentPricePerM2": 2816.67,
-    "initialPrice": 169000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 169000,
-        "pricePerM2": 2816.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-15T10:03:54.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjB2Z2gzeHk0cnFhbDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VoM9c7OvI2qH_RN-tF0-331toDDn2LhCl3epf7W72gA/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -32267,41 +31708,6 @@
     "county": "rzeszowski"
   },
   {
-    "id": "otodom-68270934",
-    "source": "otodom",
-    "sourceId": "68270934",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/przytulny-dom-w-malowniczej-spokojnej-okolicy-siedlisko-ID4Cso6",
-    "propertyType": "house",
-    "title": "Przytulny dom w malowniczej spokojnej okolicy, siedlisko.",
-    "voivodeship": "podkarpackie",
-    "county": "przemyski",
-    "city": "Bachów",
-    "coordinates": {
-      "lat": 49.943580982245834,
-      "lng": 22.3066590760486
-    },
-    "isNearBorder": true,
-    "areaM2": 70,
-    "plotAreaM2": 1600,
-    "currentPrice": 220000,
-    "currentPricePerM2": 3142.86,
-    "initialPrice": 220000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 220000,
-        "pricePerM2": 3142.86
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-31T20:06:09.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJ2M2kzcXB5NXVyYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3FpgusjOPMpqER4_izl3xbE7Oo7UK-nUSRcErwu3oqQ/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
     "id": "otodom-68270453",
     "source": "otodom",
     "sourceId": "68270453",
@@ -32335,41 +31741,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ0N2VxZ2p2bTh2Yy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.MP0fD3yKaNQckM2SvpqqOmRXynbxb3FMFOkzD0KtG5o/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "rzeszowski"
-  },
-  {
-    "id": "otodom-67839662",
-    "source": "otodom",
-    "sourceId": "67839662",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwy-dom-wolnostojacy-siedlisko-na-trasie-w-bieszczady-ID4AEc6",
-    "propertyType": "house",
-    "title": "Urokliwy dom wolnostojący, siedlisko na trasie w Bieszczady",
-    "voivodeship": "podkarpackie",
-    "county": "strzyżowski",
-    "city": "Lutcza",
-    "coordinates": {
-      "lat": 49.95225106653028,
-      "lng": 22.306438402706803
-    },
-    "isNearBorder": false,
-    "areaM2": 100,
-    "plotAreaM2": 4570,
-    "currentPrice": 249000,
-    "currentPricePerM2": 2490,
-    "initialPrice": 249000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 249000,
-        "pricePerM2": 2490
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-31T14:00:58.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA3ZjFnZDQ5bW13ay1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.vTw1-EpmrwaHgDsHSUwPFV6fImLCpQ6X8W3FeDHREhY/image;s=655x491;q=80",
-    "isDirectOwner": true
   },
   {
     "id": "otodom-68269427",
@@ -33182,41 +32553,6 @@
     "firstSeenAt": "2026-07-30T08:59:26.000Z",
     "lastSeenAt": "2026-09-22T09:06:42.880Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc3M24xenN2ajhyZTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.h4RjBVdqIV0uUBe9auJ6eLN6MtEmTCMcdd0_qyhBk_c/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68263802",
-    "source": "otodom",
-    "sourceId": "68263802",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-o-pow-5-83-ha-z-budynkiem-mieszkalnym-ID4Cqx4",
-    "propertyType": "house",
-    "title": "Gospodarstwo o pow 5,83 ha z budynkiem mieszkalnym",
-    "voivodeship": "podkarpackie",
-    "county": "biłgorajski",
-    "city": "Zamch",
-    "coordinates": {
-      "lat": 49.95534439767876,
-      "lng": 22.30357881253525
-    },
-    "isNearBorder": false,
-    "areaM2": 240,
-    "plotAreaM2": 58307,
-    "currentPrice": 1100000,
-    "currentPricePerM2": 4583.33,
-    "initialPrice": 1100000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1100000,
-        "pricePerM2": 4583.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-29T16:25:19.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdwN2xzNTNmOXp5MzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bK5eDsltkbMbU422H5JuW8mzJUSYG9qpI25_wNCuy2Y/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -34939,41 +34275,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68243846",
-    "source": "otodom",
-    "sourceId": "68243846",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-po-remoncie-huta-rozaniecka-ID4Cllc",
-    "propertyType": "house",
-    "title": "Siedlisko po remoncie | Huta Różaniecka",
-    "voivodeship": "podkarpackie",
-    "county": "lubaczowski",
-    "city": "Huta Różaniecka",
-    "coordinates": {
-      "lat": 49.944322044425874,
-      "lng": 22.30600612559252
-    },
-    "isNearBorder": true,
-    "areaM2": 70,
-    "plotAreaM2": 574,
-    "currentPrice": 285000,
-    "currentPricePerM2": 4071.43,
-    "initialPrice": 285000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 285000,
-        "pricePerM2": 4071.43
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-23T08:53:36.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVmZnAzcWV6bnRody1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.4hwU8hNR7Dvg3WJo7iPUdYESVwm0EaCujUANlikVfg8/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68243093",
     "source": "otodom",
     "sourceId": "68243093",
@@ -35394,41 +34695,6 @@
     "firstSeenAt": "2026-07-21T14:02:13.000Z",
     "lastSeenAt": "2026-09-22T09:06:42.880Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InB0Y2dyMjVtMThucy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.NJASYdjAmkGuwfdk6JXcLWvsGkW90pGNwNIZM1Hnz04/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68234887",
-    "source": "otodom",
-    "sourceId": "68234887",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-z-domem-i-zabudowaniami-2-51-ha-ID4Cj0H",
-    "propertyType": "house",
-    "title": "Gospodarstwo z domem i zabudowaniami – 2,51 ha",
-    "voivodeship": "podkarpackie",
-    "county": "przemyski",
-    "city": "Drohobyczka",
-    "coordinates": {
-      "lat": 49.95186101350881,
-      "lng": 22.2938714515384
-    },
-    "isNearBorder": true,
-    "areaM2": 106,
-    "plotAreaM2": 25100,
-    "currentPrice": 410000,
-    "currentPricePerM2": 3867.92,
-    "initialPrice": 410000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 410000,
-        "pricePerM2": 3867.92
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-21T12:19:28.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM5dXdvMnV2bDlkOTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.4gjzNqWfPpx2JJx5OxxuSI4Rj3OiwTkIdByFdNfCsjk/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -36843,41 +36109,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68215465",
-    "source": "otodom",
-    "sourceId": "68215465",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-widokowa-dzialka-i-potencjalem-ID4CdXr",
-    "propertyType": "house",
-    "title": "Siedlisko z widokową działką i potencjałem",
-    "voivodeship": "podkarpackie",
-    "county": "przeworski",
-    "city": "Manasterz",
-    "coordinates": {
-      "lat": 49.95544423847851,
-      "lng": 22.304300269603182
-    },
-    "isNearBorder": false,
-    "areaM2": 62,
-    "plotAreaM2": 12400,
-    "currentPrice": 289000,
-    "currentPricePerM2": 4661.29,
-    "initialPrice": 289000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 289000,
-        "pricePerM2": 4661.29
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-15T14:35:27.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhsdDRvZWlzeWVxdjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.t__Xiv1Y1XjXqiUb_EXF0oVvYJAsM4WF78HxqLeUOtg/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68215335",
     "source": "otodom",
     "sourceId": "68215335",
@@ -37197,40 +36428,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/6b/47/40d016_a1d6_cover@2x-dom-tarnobrzeg.webp",
     "isDirectOwner": true,
     "county": "tarnobrzeski"
-  },
-  {
-    "id": "adresowo-4246912",
-    "source": "adresowo",
-    "sourceId": "4246912",
-    "sourceUrl": "https://adresowo.pl/o/dom-lubenia-siedliska-225-m2-l2e5z8",
-    "propertyType": "house",
-    "title": "Dom — Siedliska",
-    "voivodeship": "podkarpackie",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.95385439900708,
-      "lng": 22.305690346470797
-    },
-    "isNearBorder": false,
-    "areaM2": 225,
-    "currentPrice": 1689000,
-    "currentPricePerM2": 7506.67,
-    "initialPrice": 1689000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1689000,
-        "pricePerM2": 7506.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:20:11.425Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/61/17/40cd80_68d5_cover@2x-dom-rzeszowski-siedliska.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
   },
   {
     "id": "adresowo-4240388",
@@ -53703,40 +52900,6 @@
     "county": "rzeszowski"
   },
   {
-    "id": "adresowo-4065448",
-    "source": "adresowo",
-    "sourceId": "4065448",
-    "sourceUrl": "https://adresowo.pl/o/dom-medyka-siedliska-110-m2-k2q7o9",
-    "propertyType": "house",
-    "title": "Dom — Siedliska",
-    "voivodeship": "podkarpackie",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.949206087315986,
-      "lng": 22.306316951304307
-    },
-    "isNearBorder": true,
-    "areaM2": 110,
-    "currentPrice": 745000,
-    "currentPricePerM2": 6772.73,
-    "initialPrice": 745000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 745000,
-        "pricePerM2": 6772.73
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:20:20.378Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5b/19/3e08a8_5423_cover@2x-dom-przemyski-siedliska.webp",
-    "isDirectOwner": true,
-    "county": "przemyski"
-  },
-  {
     "id": "adresowo-4064872",
     "source": "adresowo",
     "sourceId": "4064872",
@@ -58230,40 +57393,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/4c/24/3bc234_f2df_cover@2x-dom-brzozowski-brzozow.webp",
     "isDirectOwner": true,
     "county": "brzozowski"
-  },
-  {
-    "id": "adresowo-3913316",
-    "source": "adresowo",
-    "sourceId": "3913316",
-    "sourceUrl": "https://adresowo.pl/o/dom-lubenia-siedliska-165-m2-k8q4c0",
-    "propertyType": "house",
-    "title": "Dom — Siedliska",
-    "voivodeship": "podkarpackie",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.9495070062717,
-      "lng": 22.296824378602835
-    },
-    "isNearBorder": false,
-    "areaM2": 165,
-    "currentPrice": 800000,
-    "currentPricePerM2": 4848.48,
-    "initialPrice": 800000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 800000,
-        "pricePerM2": 4848.48
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:20:21.854Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/52/67/3bb664_81ac_cover@2x-dom-rzeszowski-siedliska.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
   },
   {
     "id": "adresowo-3912678",
@@ -71607,42 +70736,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68446580",
-    "source": "otodom",
-    "sourceId": "68446580",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/izbiska-77-gmina-wadowice-gornesiedlisko-o-pow-50arow-ID4Dc56",
-    "propertyType": "house",
-    "title": "IZBISKA 77  gmina Wadowice Górne\nSiedlisko o pow. 50arów",
-    "voivodeship": "podkarpackie",
-    "county": "mielecki",
-    "city": "Izbiska",
-    "street": "Izbiska 77",
-    "coordinates": {
-      "lat": 49.945953692172594,
-      "lng": 22.300198055017596
-    },
-    "isNearBorder": false,
-    "areaM2": 92,
-    "plotAreaM2": 5000,
-    "currentPrice": 350000,
-    "currentPricePerM2": 3804.35,
-    "initialPrice": 350000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-22",
-        "price": 350000,
-        "pricePerM2": 3804.35
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-22T10:48:23.000Z",
-    "lastSeenAt": "2026-09-22T09:06:42.880Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5MGo3MTRsaWg2MDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qNCX1y5RhgUlqZYqWoEfuxwy1d-jh4Jaow6GND9yRAs/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68446419",
     "source": "otodom",
     "sourceId": "68446419",
@@ -76479,40 +75572,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-96827354400067",
-    "source": "otodom",
-    "sourceId": "96827354400067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwe-siedlisko-pod-lipami-na-44-ar-dzialce-dom-stodola-i-sad-ID4Ct4c",
-    "propertyType": "house",
-    "title": "Urokliwe \"Siedlisko pod Lipami\" na 44-ar działce / Dom, stodoła i sad",
-    "voivodeship": "podkarpackie",
-    "county": "łańcucki",
-    "city": "Rogóżno",
-    "coordinates": {
-      "lat": 49.94702655220307,
-      "lng": 22.292106541803943
-    },
-    "isNearBorder": false,
-    "areaM2": 87,
-    "plotAreaM2": 4400,
-    "currentPrice": 499900,
-    "currentPricePerM2": 5745.98,
-    "initialPrice": 499900,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-21",
-        "price": 499900,
-        "pricePerM2": 5745.98
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-21T09:38:43.447Z",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-96832657000067",
     "source": "otodom",
     "sourceId": "96832657000067",
@@ -79293,40 +78352,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-96838863300067",
-    "source": "otodom",
-    "sourceId": "96838863300067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/nowoczesny-dom-224-m-30-arow-siedliska-ID4CX0t",
-    "propertyType": "house",
-    "title": "NOWOCZESNY DOM 224 m² | 30 ARÓW | SIEDLISKA",
-    "voivodeship": "podkarpackie",
-    "county": "rzeszowski",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.94539696006311,
-      "lng": 22.294000629738225
-    },
-    "isNearBorder": false,
-    "areaM2": 224,
-    "plotAreaM2": 5600,
-    "currentPrice": 1950000,
-    "currentPricePerM2": 8705.36,
-    "initialPrice": 1950000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-19",
-        "price": 1950000,
-        "pricePerM2": 8705.36
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-19T08:36:01.168Z",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-96822897400067",
     "source": "otodom",
     "sourceId": "96822897400067",
@@ -79737,40 +78762,6 @@
     "firstSeenAt": "1999-03-01T00:00:01.000Z",
     "lastSeenAt": "2026-09-19T08:36:01.168Z",
     "isDirectOwner": false
-  },
-  {
-    "id": "otodom-96783966200067",
-    "source": "otodom",
-    "sourceId": "96783966200067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwy-dom-wolnostojacy-siedlisko-na-trasie-w-bieszczady-ID4AEc6",
-    "propertyType": "house",
-    "title": "Urokliwy dom wolnostojący, siedlisko na trasie w Bieszczady",
-    "voivodeship": "podkarpackie",
-    "county": "strzyżowski",
-    "city": "Lutcza",
-    "coordinates": {
-      "lat": 49.94851868953097,
-      "lng": 22.307250393810154
-    },
-    "isNearBorder": false,
-    "areaM2": 100,
-    "plotAreaM2": 4570,
-    "currentPrice": 249000,
-    "currentPricePerM2": 2490,
-    "initialPrice": 249000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-19",
-        "price": 249000,
-        "pricePerM2": 2490
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-19T08:36:01.168Z",
-    "isDirectOwner": true
   },
   {
     "id": "otodom-96740101900067",
@@ -81504,40 +80495,6 @@
         "date": "2026-09-18",
         "price": 1447483,
         "pricePerM2": 11244.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-18T08:48:24.518Z",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-96823488700067",
-    "source": "otodom",
-    "sourceId": "96823488700067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-z-domem-i-zabudowaniami-2-51-ha-ID4Cj0H",
-    "propertyType": "house",
-    "title": "Gospodarstwo z domem i zabudowaniami – 2,51 ha",
-    "voivodeship": "podkarpackie",
-    "county": "przemyski",
-    "city": "Drohobyczka",
-    "coordinates": {
-      "lat": 49.95168864251346,
-      "lng": 22.300667489262647
-    },
-    "isNearBorder": true,
-    "areaM2": 106,
-    "plotAreaM2": 25100,
-    "currentPrice": 410000,
-    "currentPricePerM2": 3867.92,
-    "initialPrice": 410000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-18",
-        "price": 410000,
-        "pricePerM2": 3867.92
       }
     ],
     "status": "active",
@@ -83892,42 +82849,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68179982",
-    "source": "otodom",
-    "sourceId": "68179982",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-drewnianym-domem-w-kobylanach-ID4C4J8",
-    "propertyType": "house",
-    "title": "Siedlisko z drewnianym domem w Kobylanach.",
-    "voivodeship": "podkarpackie",
-    "county": "krośnieński",
-    "city": "Kobylany",
-    "street": "ul. Dworska",
-    "coordinates": {
-      "lat": 49.94746067367657,
-      "lng": 22.299560326737176
-    },
-    "isNearBorder": false,
-    "areaM2": 97,
-    "plotAreaM2": 30100,
-    "currentPrice": 460000,
-    "currentPricePerM2": 4742.27,
-    "initialPrice": 460000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 460000,
-        "pricePerM2": 4742.27
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-07T09:34:52.000Z",
-    "lastSeenAt": "2026-09-17T22:20:25.774Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im53Y2pxZG1vaXc5NzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ivZeYzxgSl6hIpx4ey7IpMyYkoFiXwT2eWjdbcNbsJY/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-65766749",
     "source": "otodom",
     "sourceId": "65766749",
@@ -86016,41 +84937,6 @@
     "county": "rzeszowski"
   },
   {
-    "id": "otodom-68148807",
-    "source": "otodom",
-    "sourceId": "68148807",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-1-76ha-dom-budynek-gospodarczy-ID4BVCj",
-    "propertyType": "house",
-    "title": "Siedlisko 1,76ha (dom + budynek gospodarczy)",
-    "voivodeship": "podkarpackie",
-    "county": "kolbuszowski",
-    "city": "Wola Raniżowska",
-    "coordinates": {
-      "lat": 49.947925709980986,
-      "lng": 22.296580826701
-    },
-    "isNearBorder": false,
-    "areaM2": 60,
-    "plotAreaM2": 17600,
-    "currentPrice": 495000,
-    "currentPricePerM2": 8250,
-    "initialPrice": 495000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 495000,
-        "pricePerM2": 8250
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-26T15:50:29.000Z",
-    "lastSeenAt": "2026-09-17T22:20:25.774Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQzYzE0cDZ5ZjZnMjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.H82CcCyHBvPrJhhnZwwzvv7qzkGmQ6yH7O4I9JmVDaI/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68148725",
     "source": "otodom",
     "sourceId": "68148725",
@@ -87503,41 +86389,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67932422",
-    "source": "otodom",
-    "sourceId": "67932422",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-z-duzym-potencjalem-w-siedliskach-ID4B2ke",
-    "propertyType": "house",
-    "title": "Dom z dużym potencjałem w Siedliskach!!!",
-    "voivodeship": "podkarpackie",
-    "county": "rzeszowski",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.95573758134719,
-      "lng": 22.30345760859938
-    },
-    "isNearBorder": false,
-    "areaM2": 100,
-    "plotAreaM2": 1700,
-    "currentPrice": 369000,
-    "currentPricePerM2": 3690,
-    "initialPrice": 369000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 369000,
-        "pricePerM2": 3690
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-19T10:56:05.000Z",
-    "lastSeenAt": "2026-09-17T22:20:25.774Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJoM3V6ZjhtMzcwdDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Vgbzpj3mHgHx3pmcdyexDnnmNamyirgz94hH187Xnkc/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-66147182",
     "source": "otodom",
     "sourceId": "66147182",
@@ -88735,40 +87586,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh2NnNvOXM1ZHRneDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zayg2RxBkoVpEXwlGHH6mtKvF-Th5lMHH8OEkt6q2DA/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "rzeszowski"
-  },
-  {
-    "id": "otodom-96793242200067",
-    "source": "otodom",
-    "sourceId": "96793242200067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-z-duzym-potencjalem-w-siedliskach-ID4B2ke",
-    "propertyType": "house",
-    "title": "Dom z dużym potencjałem w Siedliskach!!!",
-    "voivodeship": "podkarpackie",
-    "county": "rzeszowski",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.94465359895248,
-      "lng": 22.30583502903652
-    },
-    "isNearBorder": false,
-    "areaM2": 100,
-    "plotAreaM2": 1700,
-    "currentPrice": 369000,
-    "currentPricePerM2": 3690,
-    "initialPrice": 369000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 369000,
-        "pricePerM2": 3690
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-02-28T23:00:01.000Z",
-    "lastSeenAt": "2026-09-17T22:20:25.774Z",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-68095307",
@@ -91207,41 +90024,6 @@
     "county": "rzeszowski"
   },
   {
-    "id": "otodom-68034666",
-    "source": "otodom",
-    "sourceId": "68034666",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-wola-rusinowska-ID4BsWk",
-    "propertyType": "house",
-    "title": "Gospodarstwo rolne – Wola Rusinowska",
-    "voivodeship": "podkarpackie",
-    "county": "kolbuszowski",
-    "city": "Wola Rusinowska",
-    "coordinates": {
-      "lat": 49.95251695423341,
-      "lng": 22.309429706264236
-    },
-    "isNearBorder": false,
-    "areaM2": 120,
-    "plotAreaM2": 48133,
-    "currentPrice": 499000,
-    "currentPricePerM2": 4158.33,
-    "initialPrice": 499000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 499000,
-        "pricePerM2": 4158.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-22T10:58:39.000Z",
-    "lastSeenAt": "2026-09-17T22:20:25.774Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZhZmN5MXIzNWNoMjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.IsWazON7aFtgV30W_uU_6YaeHfiFNDjpaSWMOOo6z68/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68033566",
     "source": "otodom",
     "sourceId": "68033566",
@@ -91804,41 +90586,6 @@
     "firstSeenAt": "2026-05-18T09:22:42.000Z",
     "lastSeenAt": "2026-09-17T22:20:25.774Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjYxb3UxdmhmNjF3Ni1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.UuG_3PKeqd6LjUOVZFpHncQuCx-WEQQyDiKQrB1GI4U/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67980404",
-    "source": "otodom",
-    "sourceId": "67980404",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-2-3-ha-z-duzym-potencjalem-ID4BeO8",
-    "propertyType": "house",
-    "title": "Siedlisko 2,3 ha z dużym potencjałem",
-    "voivodeship": "podkarpackie",
-    "county": "stalowowolski",
-    "city": "Gielnia",
-    "coordinates": {
-      "lat": 49.95048509672371,
-      "lng": 22.291265762437167
-    },
-    "isNearBorder": false,
-    "areaM2": 97,
-    "plotAreaM2": 23193,
-    "currentPrice": 399000,
-    "currentPricePerM2": 4113.4,
-    "initialPrice": 399000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 399000,
-        "pricePerM2": 4113.4
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-15T15:53:07.000Z",
-    "lastSeenAt": "2026-09-17T22:20:25.774Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlueGhpZ2hyazdhYTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qhdLbWMbPwYcuMOKfKnzN1VVnAGzKT8Ea9GEil3c0VU/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -93181,42 +91928,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67962664",
-    "source": "otodom",
-    "sourceId": "67962664",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-z-siedliskiem-i-zabudowaniami-gospodarczymi-ID4Bac0",
-    "propertyType": "house",
-    "title": "Dom z siedliskiem i zabudowaniami gospodarczymi",
-    "voivodeship": "podkarpackie",
-    "county": "przemyski",
-    "city": "Dubiecko",
-    "street": "Śliwnicka",
-    "coordinates": {
-      "lat": 49.957388475420245,
-      "lng": 22.30920080216846
-    },
-    "isNearBorder": true,
-    "areaM2": 72,
-    "plotAreaM2": 20000,
-    "currentPrice": 299000,
-    "currentPricePerM2": 4152.78,
-    "initialPrice": 299000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 299000,
-        "pricePerM2": 4152.78
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-01T07:49:34.000Z",
-    "lastSeenAt": "2026-09-17T22:20:25.774Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNybXF2bnRka2ZnODEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.S3xjklXYalwPahpM-c36jsCSOOicPfs8rZEoLBWzt5Y/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67958775",
     "source": "otodom",
     "sourceId": "67958775",
@@ -93991,42 +92702,6 @@
     "firstSeenAt": "2026-04-22T14:22:35.000Z",
     "lastSeenAt": "2026-09-17T22:20:25.774Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ0cjlmamFhMWxhdS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.DlldPeC47HZAYaq_Nq5rKE1rmgar_sOheNigSyAyU7g/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67932398",
-    "source": "otodom",
-    "sourceId": "67932398",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-raclawicach-1-15-ha-dom-z-bala-i-potencjal-blisko-zalewu-ID4B2jQ",
-    "propertyType": "house",
-    "title": "Siedlisko w Racławicach! 1,15 ha, dom z bala i potencjał blisko Zalewu",
-    "voivodeship": "podkarpackie",
-    "county": "niżański",
-    "city": "Racławice",
-    "street": "ul. Grądy",
-    "coordinates": {
-      "lat": 49.94311440263633,
-      "lng": 22.29448200394781
-    },
-    "isNearBorder": false,
-    "areaM2": 69,
-    "plotAreaM2": 11500,
-    "currentPrice": 340000,
-    "currentPricePerM2": 4927.54,
-    "initialPrice": 340000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 340000,
-        "pricePerM2": 4927.54
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-04-22T11:02:26.000Z",
-    "lastSeenAt": "2026-09-17T22:20:25.774Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdtMDUxZWw1dTY4dDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nvkYWZZoF4N0sjD5c6NBaCIMKziIE7xiw4tlbWELvs0/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -101277,41 +99952,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67537850",
-    "source": "otodom",
-    "sourceId": "67537850",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-na-roztoczu-gmina-susiec-ID4znGa",
-    "propertyType": "house",
-    "title": "Siedlisko na Roztoczu, gmina Susiec",
-    "voivodeship": "podkarpackie",
-    "county": "tomaszowski",
-    "city": "Maziły",
-    "coordinates": {
-      "lat": 49.94254614598279,
-      "lng": 22.305646523996284
-    },
-    "isNearBorder": false,
-    "areaM2": 112.6,
-    "plotAreaM2": 1971,
-    "currentPrice": 250000,
-    "currentPricePerM2": 2220.25,
-    "initialPrice": 250000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 250000,
-        "pricePerM2": 2220.25
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-12-17T08:55:26.000Z",
-    "lastSeenAt": "2026-09-17T22:20:25.774Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF0dXFtYXhoNnViejEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.U5ITwUrGNRlAZYEfvFW-f5tqo-tz2GdstV5soPSr8i4/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67539325",
     "source": "otodom",
     "sourceId": "67539325",
@@ -105615,42 +104255,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-66999221",
-    "source": "otodom",
-    "sourceId": "66999221",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedaz-gospodarstwo-dom-kopanie-zolynskie-ID4x7yB",
-    "propertyType": "house",
-    "title": "Sprzedaż, Gospodarstwo, Dom, Kopanie Żołyńskie",
-    "voivodeship": "podkarpackie",
-    "county": "łańcucki",
-    "city": "Żołynia",
-    "street": "Mickiewicza",
-    "coordinates": {
-      "lat": 49.95663446163165,
-      "lng": 22.29101857922498
-    },
-    "isNearBorder": false,
-    "areaM2": 300,
-    "plotAreaM2": 10600,
-    "currentPrice": 2399000,
-    "currentPricePerM2": 7996.67,
-    "initialPrice": 2399000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 2399000,
-        "pricePerM2": 7996.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-07-08T08:42:14.000Z",
-    "lastSeenAt": "2026-09-17T22:20:25.774Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw0bHpjcW96ZmE4ei1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.pP04i5T6lCJpSS1lAzWU3RsbGN2-fGAfPZ7Tqt2KSyg/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-96681621100067",
     "source": "otodom",
     "sourceId": "96681621100067",
@@ -106672,42 +105276,6 @@
     "firstSeenAt": "2025-04-05T09:31:20.000Z",
     "lastSeenAt": "2026-09-17T22:20:25.774Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijhya3E3eXZ5Z3M1MzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.80OQEfYnPrcye7RAViVM83T0PUD9E2En8y85Tx3uCLc/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-66672932",
-    "source": "otodom",
-    "sourceId": "66672932",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/duze-gospodarstwo-z-zabudowaniami-w-komborni-ID4wKFS",
-    "propertyType": "house",
-    "title": "Duże gospodarstwo z zabudowaniami w Komborni.",
-    "voivodeship": "podkarpackie",
-    "county": "krośnieński",
-    "city": "Kombornia",
-    "street": "ul. Graniczna",
-    "coordinates": {
-      "lat": 49.95606106132392,
-      "lng": 22.303177538551697
-    },
-    "isNearBorder": false,
-    "areaM2": 250,
-    "plotAreaM2": 30600,
-    "currentPrice": 459000,
-    "currentPricePerM2": 1836,
-    "initialPrice": 459000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 459000,
-        "pricePerM2": 1836
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-04-02T08:54:34.000Z",
-    "lastSeenAt": "2026-09-17T22:20:25.774Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9kaWU2ZjdoMHE1OTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hOvEQtZHNLnUs1Q_OcFuci4PEyKIXa_e6Lwli8eIdng/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {

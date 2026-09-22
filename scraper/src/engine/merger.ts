@@ -40,6 +40,18 @@ export function mergeOffers(
 
     if (!existing) {
       // Nowa oferta
+      const firstSeenDate = (fresh.firstSeenAt || nowIso).split('T')[0];
+      const initialHistory: typeof fresh.priceHistory =
+        fresh.priceHistory && fresh.priceHistory.length > 0
+          ? [...fresh.priceHistory]
+          : [
+              {
+                date: firstSeenDate,
+                price: fresh.currentPrice,
+                pricePerM2: fresh.currentPricePerM2,
+              },
+            ];
+
       const newOffer: PropertyOffer = {
         ...fresh,
         status: 'active',
@@ -48,13 +60,7 @@ export function mergeOffers(
         initialPrice: fresh.currentPrice,
         priceChangeAmount: 0,
         priceChangePercent: 0,
-        priceHistory: [
-          {
-            date: todayStr,
-            price: fresh.currentPrice,
-            pricePerM2: fresh.currentPricePerM2,
-          },
-        ],
+        priceHistory: initialHistory,
       };
       existingMap.set(fresh.id, newOffer);
       stats.newOffersCount++;
@@ -72,6 +78,18 @@ export function mergeOffers(
       if (fresh.county && !existing.county) existing.county = fresh.county;
       if (fresh.coordinates && !existing.coordinates) existing.coordinates = fresh.coordinates;
 
+      // Zapewnienie poprawności priceHistory w istniejącym rekordzie
+      if (!Array.isArray(existing.priceHistory) || existing.priceHistory.length === 0) {
+        const initDate = (existing.firstSeenAt || nowIso).split('T')[0];
+        existing.priceHistory = [
+          {
+            date: initDate,
+            price: existing.initialPrice || existing.currentPrice,
+            pricePerM2: existing.currentPricePerM2,
+          },
+        ];
+      }
+
       const priceChanged = fresh.currentPrice !== existing.currentPrice;
 
       if (priceChanged) {
@@ -85,7 +103,7 @@ export function mergeOffers(
             ? Math.round(((fresh.currentPrice - existing.initialPrice) / existing.initialPrice) * 1000) / 10
             : 0;
 
-        // Aktualizacja lub dopisanie wpisu do priceHistory
+        // Aktualizacja lub dopisanie wpisu do chronologicznej historii cen (data - cena)
         const lastHistory = existing.priceHistory[existing.priceHistory.length - 1];
         if (lastHistory && lastHistory.date === todayStr) {
           lastHistory.price = fresh.currentPrice;
@@ -97,6 +115,9 @@ export function mergeOffers(
             pricePerM2: fresh.currentPricePerM2,
           });
         }
+
+        // Sortowanie chronologiczne po dacie rosnąco
+        existing.priceHistory.sort((a, b) => a.date.localeCompare(b.date));
 
         if (fresh.currentPrice < oldPrice) {
           existing.status = 'price_drop';

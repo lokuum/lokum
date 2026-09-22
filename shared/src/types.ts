@@ -1,6 +1,6 @@
-export type PropertyType = 'house' | 'plot';
+export type PropertyType = 'house' | 'plot' | 'habitat';
 
-export type Voivodeship = 'lubelskie' | 'podlaskie' | 'podkarpackie';
+export type Voivodeship = 'lubelskie' | 'podlaskie' | 'podkarpackie' | 'wielkopolskie';
 
 export type PropertyStatus = 'active' | 'price_drop' | 'price_increase' | 'removed';
 
@@ -29,8 +29,8 @@ export interface PropertyOffer {
   isNearBorder?: boolean; // Powiat w pasie przygranicznym z UA/BY
 
   // Parametry powierzchni
-  areaM2: number; // Dom: pow. użytkowa / Działka: pow. działki
-  plotAreaM2?: number; // Dla domów: wielkość działki w m²
+  areaM2: number; // Dom: pow. użytkowa / Działka: pow. działki / Siedlisko: pow. budynku lub działki
+  plotAreaM2?: number; // Dla domów i siedlisk: wielkość działki w m²
 
   // Finanse
   currentPrice: number;
@@ -54,15 +54,17 @@ export interface PropertyOffer {
 export interface SummaryStats {
   totalHouses: number;
   totalPlots: number;
+  totalHabitats: number;
   totalPriceDrops: number;
   avgHousePricePerM2: number;
   avgPlotPricePerM2: number;
+  avgHabitatPricePerM2: number;
   lastUpdated: string;
   topPriceDrops: PropertyOffer[];
 }
 
 export interface FilterState {
-  tab: 'houses' | 'plots' | 'drops' | 'favorites';
+  tab: 'houses' | 'plots' | 'habitats' | 'drops' | 'favorites';
   voivodeship: Voivodeship | 'all';
   county?: string;
   minPrice?: number;

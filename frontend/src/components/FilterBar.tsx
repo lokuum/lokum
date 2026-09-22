@@ -81,7 +81,9 @@ export const FilterBar: React.FC<FilterBarProps> = ({ filters, onChange, filtere
             <option value="price_m2_asc">Cena za m²: najniższa</option>
             <option value="price_m2_desc">Cena za m²: najwyższa</option>
             <option value="area_desc">Powierzchnia: największa</option>
-            {filters.tab === 'houses' && <option value="plot_area_desc">Działka przy domu: największa</option>}
+            {(filters.tab === 'houses' || filters.tab === 'habitats') && (
+              <option value="plot_area_desc">Działka przy domu: największa</option>
+            )}
             <option value="newest">Najnowsze ogłoszenia</option>
           </select>
 
@@ -224,7 +226,11 @@ export const FilterBar: React.FC<FilterBarProps> = ({ filters, onChange, filtere
             {/* Area range */}
             <div className="space-y-1">
               <label className="font-medium text-neutral-700">
-                {filters.tab === 'houses' ? 'Powierzchnia domu (m²)' : 'Powierzchnia działki (m²)'}
+                {filters.tab === 'houses'
+                  ? 'Powierzchnia domu (m²)'
+                  : filters.tab === 'habitats'
+                  ? 'Powierzchnia zabudowy (m²)'
+                  : 'Powierzchnia działki (m²)'}
               </label>
               <div className="flex items-center gap-2">
                 <input
@@ -245,10 +251,10 @@ export const FilterBar: React.FC<FilterBarProps> = ({ filters, onChange, filtere
               </div>
             </div>
 
-            {/* Plot Area for houses */}
-            {filters.tab === 'houses' && (
+            {/* Plot Area for houses and habitats */}
+            {(filters.tab === 'houses' || filters.tab === 'habitats') && (
               <div className="space-y-1">
-                <label className="font-medium text-neutral-700">Powierzchnia działki przydomowej (m²)</label>
+                <label className="font-medium text-neutral-700">Powierzchnia działki / gruntu (m²)</label>
                 <div className="flex items-center gap-2">
                   <input
                     type="number"

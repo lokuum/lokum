@@ -311,41 +311,6 @@
     "county": "rzeszowski"
   },
   {
-    "id": "otodom-68431619",
-    "source": "otodom",
-    "sourceId": "68431619",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dwie-dzialki-z-wz-zabudowa-zagrodowa-sudoly-ID4D8bN",
-    "propertyType": "plot",
-    "title": "Dwie działki z Wz | Zabudowa zagrodowa | Sudoły",
-    "voivodeship": "podkarpackie",
-    "county": "stalowowolski",
-    "city": "Pysznica",
-    "street": "ul. Wiśniowa",
-    "coordinates": {
-      "lat": 49.94401873557437,
-      "lng": 22.308347917467245
-    },
-    "isNearBorder": false,
-    "areaM2": 928,
-    "currentPrice": 111360,
-    "currentPricePerM2": 120,
-    "initialPrice": 111360,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 111360,
-        "pricePerM2": 120
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T14:25:09.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InprZzUxdzloZGtkYTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.N_qpY_S_jHws6c72lnKjwQwEKbRqM4UWGlkyKQHFE0c/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-64547101",
     "source": "otodom",
     "sourceId": "64547101",
@@ -1206,52 +1171,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "adresowo-4257254",
-    "source": "adresowo",
-    "sourceId": "4257254",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-czudec-ul-lesna-b7k5g7",
-    "propertyType": "plot",
-    "title": "Działka — Czudec Leśniczówka, ul. Leśna",
-    "voivodeship": "podkarpackie",
-    "city": "Czudec Leśniczówka",
-    "street": "ul. Leśna",
-    "coordinates": {
-      "lat": 49.95241822791722,
-      "lng": 22.297735661924225
-    },
-    "isNearBorder": false,
-    "areaM2": 1400,
-    "currentPrice": 182000,
-    "currentPricePerM2": 130,
-    "initialPrice": 196000,
-    "priceChangeAmount": -14000,
-    "priceChangePercent": -7.1,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 196000,
-        "pricePerM2": 140
-      },
-      {
-        "date": "2026-09-18",
-        "price": 168000,
-        "pricePerM2": 120
-      },
-      {
-        "date": "2026-09-21",
-        "price": 182000,
-        "pricePerM2": 130
-      }
-    ],
-    "status": "price_increase",
-    "firstSeenAt": "2026-09-17T21:51:15.895Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/20/26/40f5e6_abf5_cover@2x-dzialka-budowlana-strzyzowski-czudec.webp",
-    "isDirectOwner": true,
-    "county": "strzyzowski",
-    "previousPrice": 168000
-  },
-  {
     "id": "adresowo-4261816",
     "source": "adresowo",
     "sourceId": "4261816",
@@ -1493,40 +1412,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/7a/5d/40ecde_77a4_cover@2x-dzialka-budowlana-jaroslawski-jaroslaw.webp",
     "isDirectOwner": true,
     "county": "jaroslawski"
-  },
-  {
-    "id": "adresowo-4254920",
-    "source": "adresowo",
-    "sourceId": "4254920",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-dukla-leki-dukielskie-5-100-m2-p9z3h6",
-    "propertyType": "plot",
-    "title": "Działka — Łęki Dukielskie",
-    "voivodeship": "podkarpackie",
-    "city": "Łęki Dukielskie",
-    "coordinates": {
-      "lat": 49.951367557166066,
-      "lng": 22.30162592766761
-    },
-    "isNearBorder": false,
-    "areaM2": 5100,
-    "currentPrice": 80000,
-    "currentPricePerM2": 15.69,
-    "initialPrice": 80000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 80000,
-        "pricePerM2": 15.69
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T21:51:15.895Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/43/66/40ecc8_ffc6_cover@2x-dzialka-siedliskowa-krosnienski-leki-dukielskie.webp",
-    "isDirectOwner": true,
-    "county": "krosnienski"
   },
   {
     "id": "adresowo-4261408",
@@ -1972,40 +1857,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/17/42/40fd64_5a0c_cover@2x-dzialka-budowlana-bieszczadzki-ustjanowa-dolna.webp",
     "isDirectOwner": true,
     "county": "bieszczadzki"
-  },
-  {
-    "id": "adresowo-4249782",
-    "source": "adresowo",
-    "sourceId": "4249782",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-lubenia-siedliska-1-113-m2-i4j9g2",
-    "propertyType": "plot",
-    "title": "Działka — Siedliska",
-    "voivodeship": "podkarpackie",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.946910117982306,
-      "lng": 22.290545264784747
-    },
-    "isNearBorder": false,
-    "areaM2": 1113,
-    "currentPrice": 166950,
-    "currentPricePerM2": 150,
-    "initialPrice": 166950,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 166950,
-        "pricePerM2": 150
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T21:51:15.895Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/55/68/40d8b6_a698_cover@2x-dzialka-rolno-budowlana-rzeszowski-siedliska.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
   },
   {
     "id": "adresowo-4249774",
@@ -8730,40 +8581,6 @@
     "county": "rzeszowski"
   },
   {
-    "id": "otodom-68395880",
-    "source": "otodom",
-    "sourceId": "68395880",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-w-jaworniku-ID4CYTm",
-    "propertyType": "plot",
-    "title": "Działka siedliskowa w Jaworniku",
-    "voivodeship": "podkarpackie",
-    "county": "strzyżowski",
-    "city": "Jawornik",
-    "coordinates": {
-      "lat": 49.949670753538044,
-      "lng": 22.307096439393973
-    },
-    "isNearBorder": false,
-    "areaM2": 22800,
-    "currentPrice": 345000,
-    "currentPricePerM2": 15.13,
-    "initialPrice": 345000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 345000,
-        "pricePerM2": 15.13
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-08T12:07:13.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc0MDQxNDF5M2dwcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uCgOgZRoKgMjK0JixjnvQ8wNv6viBy5zIhqUPlPi2DQ/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68395516",
     "source": "otodom",
     "sourceId": "68395516",
@@ -9445,40 +9262,6 @@
     "firstSeenAt": "2026-09-07T19:27:45.000Z",
     "lastSeenAt": "2026-09-22T09:09:10.224Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJ3dWtnOGxsc3dvZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1rZylMYOYif2GNCG0rXwM3Kjrnj4lClmWdcRPvOoZfQ/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68224975",
-    "source": "otodom",
-    "sourceId": "68224975",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-67-ar-centrum-tarnawki-media-dom-stodola-ID4CgqP",
-    "propertyType": "plot",
-    "title": "Siedlisko 67 ar • Centrum Tarnawki • Media • Dom + Stodoła •",
-    "voivodeship": "podkarpackie",
-    "county": "łańcucki",
-    "city": "Tarnawka",
-    "coordinates": {
-      "lat": 49.95000312388171,
-      "lng": 22.306803275477538
-    },
-    "isNearBorder": false,
-    "areaM2": 6700,
-    "currentPrice": 330000,
-    "currentPricePerM2": 49.25,
-    "initialPrice": 330000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 330000,
-        "pricePerM2": 49.25
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-07T18:35:17.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNzNXMxbmlzN2EyNjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.EuGO-eJW0DlvkByy8lZPUQD5pjRVfWS3XYGiLyZ3ctY/image;s=655x491;q=80",
     "isDirectOwner": true
   },
   {
@@ -11861,40 +11644,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68378456",
-    "source": "otodom",
-    "sourceId": "68378456",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-na-sprzedaz-w-siedliskach-ID4CUmk",
-    "propertyType": "plot",
-    "title": "Działki na sprzedaż w Siedliskach",
-    "voivodeship": "podkarpackie",
-    "county": "rzeszowski",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.94542217176255,
-      "lng": 22.294503581806698
-    },
-    "isNearBorder": false,
-    "areaM2": 1113,
-    "currentPrice": 166950,
-    "currentPricePerM2": 150,
-    "initialPrice": 166950,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 166950,
-        "pricePerM2": 150
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-03T11:01:31.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ind2b284em02MnlzcjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rMDDNfA2qUkCrycGmu3-EeuAJB3YDkJSXiWDk4wsYvU/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68378354",
     "source": "otodom",
     "sourceId": "68378354",
@@ -12785,40 +12534,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "otodom-67366770",
-    "source": "otodom",
-    "sourceId": "67366770",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/leszczawa-gorna-dzialka-siedliskowa-ID4yFaO",
-    "propertyType": "plot",
-    "title": "Leszczawa Górna - działka siedliskowa",
-    "voivodeship": "podkarpackie",
-    "county": "przemyski",
-    "city": "Leszczawa Górna",
-    "coordinates": {
-      "lat": 49.94619098992712,
-      "lng": 22.304535096286386
-    },
-    "isNearBorder": true,
-    "areaM2": 39944,
-    "currentPrice": 425000,
-    "currentPricePerM2": 10.64,
-    "initialPrice": 425000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 425000,
-        "pricePerM2": 10.64
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-01T17:57:06.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlnNHJlamxiM2h2ZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.pHI85dTsS40ICBWfa40vSNmNp144gvOvw8WAsLp7EOY/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
     "id": "otodom-68371292",
     "source": "otodom",
     "sourceId": "68371292",
@@ -13169,40 +12884,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9tM2dzeXphNTR5ay1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.HFBO_rNRQGaq_O--uuBa_fA1tTQBX0v05x500I-kiQE/image;s=655x491;q=80",
     "isDirectOwner": true,
     "previousPrice": 135000
-  },
-  {
-    "id": "otodom-68366536",
-    "source": "otodom",
-    "sourceId": "68366536",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-siedliskowe-2-od-sedziszow-mlp-full-medi-ID4CRg4",
-    "propertyType": "plot",
-    "title": "Działki siedliskowe, 2 od Sędziszów Młp, Full Medi",
-    "voivodeship": "podkarpackie",
-    "county": "ropczycko-sędziszowski",
-    "city": "Gnojnica",
-    "coordinates": {
-      "lat": 49.95390156304887,
-      "lng": 22.29230701046101
-    },
-    "isNearBorder": false,
-    "areaM2": 1400,
-    "currentPrice": 112000,
-    "currentPricePerM2": 80,
-    "initialPrice": 112000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 112000,
-        "pricePerM2": 80
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-31T13:31:45.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlhYmphbDlwb3owNDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LhZzLoyYX0W2pCZXpa67iETwNoSAm6hQ5tivCo8AAkc/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-68366503",
@@ -14125,40 +13806,6 @@
     "firstSeenAt": "2026-08-29T11:28:50.000Z",
     "lastSeenAt": "2026-09-22T09:09:10.224Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InozeTZwajQyYzQ1eDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CrH5pAklVAupL9_sWr7T4o7H8DTu1di_0EM1d7yZczg/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68361637",
-    "source": "otodom",
-    "sourceId": "68361637",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-50-55-ar-z-wz-na-dom-siedliska-slawecinskie-ID4CPZ3",
-    "propertyType": "plot",
-    "title": "Działka 50,55 ar z WZ na dom | Siedliska Sławęcińskie",
-    "voivodeship": "podkarpackie",
-    "county": "jasielski",
-    "city": "Przysieki",
-    "coordinates": {
-      "lat": 49.95106377626306,
-      "lng": 22.305201879011474
-    },
-    "isNearBorder": false,
-    "areaM2": 5055,
-    "currentPrice": 219000,
-    "currentPricePerM2": 43.32,
-    "initialPrice": 219000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 219000,
-        "pricePerM2": 43.32
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-29T10:35:53.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBwOGs4eGx0dzhhbzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-JaVovh-cVitnpbhXNeVclVGpdyDzGLIm7UGEsC77k0/image;s=655x491;q=80",
     "isDirectOwner": true
   },
   {
@@ -19110,40 +18757,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68315113",
-    "source": "otodom",
-    "sourceId": "68315113",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/bieszczady-1-2-ha-siedliskowa-widokowy-stok-ID4CDSF",
-    "propertyType": "plot",
-    "title": "Bieszczady - 1,2 ha siedliskowa | Widokowy stok",
-    "voivodeship": "podkarpackie",
-    "county": "bieszczadzki",
-    "city": "Hoszów",
-    "coordinates": {
-      "lat": 49.94951112940177,
-      "lng": 22.309259854717382
-    },
-    "isNearBorder": true,
-    "areaM2": 12000,
-    "currentPrice": 120000,
-    "currentPricePerM2": 10,
-    "initialPrice": 120000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 120000,
-        "pricePerM2": 10
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-14T18:25:19.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inprd3N3Z2VpZDYxay1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.19wGUXtkFQvmnamQpW0taGvyzn9w6m_PjdVeVZ75eXw/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68314895",
     "source": "otodom",
     "sourceId": "68314895",
@@ -20060,40 +19673,6 @@
     "firstSeenAt": "2026-08-11T13:15:57.000Z",
     "lastSeenAt": "2026-09-22T09:09:10.224Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtqMWlkOHE5NDFjMDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-4rFE9Jzeq-1yPUSOUYDQbPS7PmOD17uW4JqvtZ9N-s/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68205994",
-    "source": "otodom",
-    "sourceId": "68205994",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/1-2-ha-mozliwosc-zabudowy-zagrodowej-ID4CbuG",
-    "propertyType": "plot",
-    "title": "1,2 HA | Możliwość zabudowy zagrodowej|",
-    "voivodeship": "podkarpackie",
-    "county": "jasielski",
-    "city": "Ujazd",
-    "coordinates": {
-      "lat": 49.9556420824507,
-      "lng": 22.30951027874594
-    },
-    "isNearBorder": false,
-    "areaM2": 12300,
-    "currentPrice": 199000,
-    "currentPricePerM2": 16.18,
-    "initialPrice": 199000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 199000,
-        "pricePerM2": 16.18
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-11T11:17:35.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNjZ2VwMGU4ejgyMTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.EEZ2pRPriDVbdBJng2KtTzwwwkTVzzL-_KraUJajJFc/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -24527,41 +24106,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68222509",
-    "source": "otodom",
-    "sourceId": "68222509",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-z-wz-1-987-m-zabudowa-zagrodowa-sud-ID4CfN3",
-    "propertyType": "plot",
-    "title": "Działka z Wz | 1 987 m² | Zabudowa zagrodowa | Sud",
-    "voivodeship": "podkarpackie",
-    "county": "stalowowolski",
-    "city": "Pysznica",
-    "street": "ul. Wiśniowa",
-    "coordinates": {
-      "lat": 49.95538262384987,
-      "lng": 22.305171483148502
-    },
-    "isNearBorder": false,
-    "areaM2": 1987,
-    "currentPrice": 238440,
-    "currentPricePerM2": 120,
-    "initialPrice": 238440,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 238440,
-        "pricePerM2": 120
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-17T14:52:34.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw1a202eDQ0NzJqbDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.w0ATg6kgIOiEr4Hira2t_8wIixTEel9bgN51RcdlAaU/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67985154",
     "source": "otodom",
     "sourceId": "67985154",
@@ -27997,40 +27541,6 @@
     "county": "rzeszowski"
   },
   {
-    "id": "otodom-68158256",
-    "source": "otodom",
-    "sourceId": "68158256",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-25-6a-25-km-do-rzeszowa-ID4BZ4I",
-    "propertyType": "plot",
-    "title": "Działka siedliskowa 25,6a | 25 km do Rzeszowa",
-    "voivodeship": "podkarpackie",
-    "county": "ropczycko-sędziszowski",
-    "city": "Wiśniowa",
-    "coordinates": {
-      "lat": 49.9430184821185,
-      "lng": 22.29142683438326
-    },
-    "isNearBorder": false,
-    "areaM2": 2568,
-    "currentPrice": 69000,
-    "currentPricePerM2": 26.87,
-    "initialPrice": 69000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 69000,
-        "pricePerM2": 26.87
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-30T13:43:13.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InYzbDBrYWFyc3VndDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zThUgzYisq7OJH5NhY8EQhSKv61YkGsmdOseWwo2oZs/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68130680",
     "source": "otodom",
     "sourceId": "68130680",
@@ -28130,40 +27640,6 @@
     "firstSeenAt": "2026-06-30T13:12:04.000Z",
     "lastSeenAt": "2026-09-22T09:09:10.224Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjF6MGR3cDNjNDhkZTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dJ0TuWKo3_WI-XIiUhynUrpKgPnLddKPCPKy9caBXvo/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68157784",
-    "source": "otodom",
-    "sourceId": "68157784",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-83a-wz-25-km-od-rzeszowa-ID4BYX6",
-    "propertyType": "plot",
-    "title": "Siedlisko 83a | WZ | 25 km od Rzeszowa",
-    "voivodeship": "podkarpackie",
-    "county": "ropczycko-sędziszowski",
-    "city": "Wiśniowa",
-    "coordinates": {
-      "lat": 49.94527968133912,
-      "lng": 22.29657912182969
-    },
-    "isNearBorder": false,
-    "areaM2": 8300,
-    "currentPrice": 109000,
-    "currentPricePerM2": 13.13,
-    "initialPrice": 109000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 109000,
-        "pricePerM2": 13.13
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-30T12:30:38.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9rNzFtMXgzYWp6azEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8C89zn1RcJhfXd6sb5og-UyzLELuUPViDGnbgFAhpaY/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -28609,40 +28085,6 @@
     "firstSeenAt": "2026-06-26T16:05:21.000Z",
     "lastSeenAt": "2026-09-22T09:09:10.224Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNreDNiaGpnN3h4di1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.9iJNMDnBLYhD_df7mfuYb9OA3ThAYVq9b1spJm_6iW4/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68148801",
-    "source": "otodom",
-    "sourceId": "68148801",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-1-76ha-dom-budynek-gospodarczy-ID4BVCd",
-    "propertyType": "plot",
-    "title": "Siedlisko 1,76ha (dom + budynek gospodarczy)",
-    "voivodeship": "podkarpackie",
-    "county": "kolbuszowski",
-    "city": "Wola Raniżowska",
-    "coordinates": {
-      "lat": 49.95201631532783,
-      "lng": 22.30166281589115
-    },
-    "isNearBorder": false,
-    "areaM2": 17600,
-    "currentPrice": 495000,
-    "currentPricePerM2": 28.13,
-    "initialPrice": 495000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 495000,
-        "pricePerM2": 28.13
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-26T15:47:36.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijk3NWt4c284ZWg2MzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MGohdXqY2JhP2XZeVKZMMyqlQ9NTy9SZFqq-8vYfY2k/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -29613,40 +29055,6 @@
     "firstSeenAt": "2026-06-22T19:11:25.000Z",
     "lastSeenAt": "2026-09-22T09:09:10.224Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inc5MnRvb3Fla2RkZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.zWoLOv1ptVoK8sKcKUek0jUek_uCOUBquXE_dsM259c/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68132883",
-    "source": "otodom",
-    "sourceId": "68132883",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/twoje-siedlisko-20-km-od-rzeszowa-29-5-a-wz-ID4BStt",
-    "propertyType": "plot",
-    "title": "Twoje siedlisko 20 km od Rzeszowa | 29,5 a | WZ",
-    "voivodeship": "podkarpackie",
-    "county": "rzeszowski",
-    "city": "Błażowa Dolna",
-    "coordinates": {
-      "lat": 49.94492560593854,
-      "lng": 22.30012700665229
-    },
-    "isNearBorder": false,
-    "areaM2": 2950,
-    "currentPrice": 134000,
-    "currentPricePerM2": 45.42,
-    "initialPrice": 134000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 134000,
-        "pricePerM2": 45.42
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-22T17:19:08.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imtnemt5cHoyZGIxMTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YkqydNbLfq2_RUDuOJkWCjlYl0HkD_f2JsgHmHKj600/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -35986,40 +35394,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67962288",
-    "source": "otodom",
-    "sourceId": "67962288",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-domem-dylagowka-2-dzialki-wz-w-toku-ID4Ba5V",
-    "propertyType": "plot",
-    "title": "Siedlisko z domem Dylągówka 2 działki, Wz w toku",
-    "voivodeship": "podkarpackie",
-    "county": "rzeszowski",
-    "city": "Dylągówka",
-    "coordinates": {
-      "lat": 49.945746611781814,
-      "lng": 22.297929091920647
-    },
-    "isNearBorder": false,
-    "areaM2": 7400,
-    "currentPrice": 189000,
-    "currentPricePerM2": 25.54,
-    "initialPrice": 189000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 189000,
-        "pricePerM2": 25.54
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-04-30T20:45:51.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inlubzl5azJmc2w3ay1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.pRK3o_v4TOWi3EAOUBnLZp_s3biyJ_0hIcyObMo4NWU/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67962291",
     "source": "otodom",
     "sourceId": "67962291",
@@ -36871,40 +36245,6 @@
     "firstSeenAt": "2026-04-22T11:20:46.000Z",
     "lastSeenAt": "2026-09-22T09:09:10.224Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhpNWdpZXFtNTU2MjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jN1mRjH4r1Hq6FQKhy3TsjF2PJOWwJh6FdwmhlXNzC8/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67932484",
-    "source": "otodom",
-    "sourceId": "67932484",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedliska-kolo-rzeszowa-dzialka-rolna-z-dostepem-do-mediow-ID4B2le",
-    "propertyType": "plot",
-    "title": "Siedliska koło Rzeszowa, działka rolna z dostępem do mediów!",
-    "voivodeship": "podkarpackie",
-    "county": "rzeszowski",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.95030355575063,
-      "lng": 22.29308336162718
-    },
-    "isNearBorder": false,
-    "areaM2": 4600,
-    "currentPrice": 359000,
-    "currentPricePerM2": 78.04,
-    "initialPrice": 359000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 359000,
-        "pricePerM2": 78.04
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-04-22T11:18:46.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1vNnZmNjl4anU4ejEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kiGVmVR53pI0_wxMCoC6rCjgKHNfJf9V8EZtA8gBIuE/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -39067,41 +38407,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/1a/45/40382c_ea2e_cover@2x-dzialka-budowlana-krosnienski-targowiska.webp",
     "isDirectOwner": true,
     "county": "krosnienski"
-  },
-  {
-    "id": "adresowo-4253066",
-    "source": "adresowo",
-    "sourceId": "4253066",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-radomysl-nad-sanem-wola-rzeczycka-2-511-m2-x9s3u3",
-    "propertyType": "plot",
-    "title": "Działka — Wola Rzeczycka, Turki",
-    "voivodeship": "podkarpackie",
-    "city": "Wola Rzeczycka",
-    "street": "Turki",
-    "coordinates": {
-      "lat": 49.952217825762524,
-      "lng": 22.300147605749352
-    },
-    "isNearBorder": false,
-    "areaM2": 2511,
-    "currentPrice": 214000,
-    "currentPricePerM2": 85.23,
-    "initialPrice": 214000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 214000,
-        "pricePerM2": 85.23
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:36.481Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/61/7c/40e58a_416a_cover@2x-dzialka-siedliskowa-stalowowolski-wola-rzeczycka.webp",
-    "isDirectOwner": true,
-    "county": "stalowowolski"
   },
   {
     "id": "adresowo-4252498",
@@ -42987,74 +42292,6 @@
     "county": "lancucki"
   },
   {
-    "id": "adresowo-4236576",
-    "source": "adresowo",
-    "sourceId": "4236576",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-dubiecko-drohobyczka-2-ha-r1l2c1",
-    "propertyType": "plot",
-    "title": "Działka — Drohobyczka",
-    "voivodeship": "podkarpackie",
-    "city": "Drohobyczka",
-    "coordinates": {
-      "lat": 49.95251348928859,
-      "lng": 22.298522831106073
-    },
-    "isNearBorder": true,
-    "areaM2": 27000,
-    "currentPrice": 300000,
-    "currentPricePerM2": 11.11,
-    "initialPrice": 300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 300000,
-        "pricePerM2": 11.11
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:38.664Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/14/3d/40a520_d640_cover@2x-dzialka-siedliskowa-przemyski-drohobyczka.webp",
-    "isDirectOwner": true,
-    "county": "przemyski"
-  },
-  {
-    "id": "adresowo-4236058",
-    "source": "adresowo",
-    "sourceId": "4236058",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-skolyszyn-siedliska-slawecinskie-5-055-m2-d4d9v7",
-    "propertyType": "plot",
-    "title": "Działka — Siedliska Sławęcińskie",
-    "voivodeship": "podkarpackie",
-    "city": "Siedliska Sławęcińskie",
-    "coordinates": {
-      "lat": 49.94375889448372,
-      "lng": 22.29829670446318
-    },
-    "isNearBorder": false,
-    "areaM2": 5055,
-    "currentPrice": 219000,
-    "currentPricePerM2": 43.32,
-    "initialPrice": 219000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 219000,
-        "pricePerM2": 43.32
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:38.664Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6c/24/40a31a_aef9_cover@2x-dzialka-budowlana-jasielski-siedliska-slawecinskie.webp",
-    "isDirectOwner": true,
-    "county": "jasielski"
-  },
-  {
     "id": "adresowo-4153984",
     "source": "adresowo",
     "sourceId": "4153984",
@@ -46263,40 +45500,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/46/1c/3ecd0a_a906_cover@2x-dzialka-budowlana-krosnienski-jaszczew.webp",
     "isDirectOwner": true,
     "county": "krosnienski"
-  },
-  {
-    "id": "adresowo-4226030",
-    "source": "adresowo",
-    "sourceId": "4226030",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-chmielnik-2-400-m2-n4f8g0",
-    "propertyType": "plot",
-    "title": "Działka — Chmielnik",
-    "voivodeship": "podkarpackie",
-    "city": "Chmielnik",
-    "coordinates": {
-      "lat": 49.95096042005761,
-      "lng": 22.298872735475367
-    },
-    "isNearBorder": false,
-    "areaM2": 2400,
-    "currentPrice": 330000,
-    "currentPricePerM2": 137.5,
-    "initialPrice": 330000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 330000,
-        "pricePerM2": 137.5
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:40.624Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6a/10/407bee_4df7_cover@2x-dzialka-siedliskowa-rzeszowski-chmielnik.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
   },
   {
     "id": "adresowo-4225892",
@@ -51116,40 +50319,6 @@
     "county": "debicki"
   },
   {
-    "id": "adresowo-4205286",
-    "source": "adresowo",
-    "sourceId": "4205286",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-lubenia-siedliska-2-800-m2-j1r2y8",
-    "propertyType": "plot",
-    "title": "Działka — Siedliska",
-    "voivodeship": "podkarpackie",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.94662209573154,
-      "lng": 22.294803607658388
-    },
-    "isNearBorder": false,
-    "areaM2": 2800,
-    "currentPrice": 130000,
-    "currentPricePerM2": 46.43,
-    "initialPrice": 130000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 130000,
-        "pricePerM2": 46.43
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:42.684Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/64/32/402ae6_a3cb_cover@2x-dzialka-rolno-budowlana-rzeszowski-siedliska.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
-  },
-  {
     "id": "adresowo-4002756",
     "source": "adresowo",
     "sourceId": "4002756",
@@ -51730,40 +50899,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/43/71/3cb722_9fc7_cover@2x-dzialka-budowlana-leski-bukowiec.webp",
     "isDirectOwner": true,
     "county": "leski"
-  },
-  {
-    "id": "adresowo-4203838",
-    "source": "adresowo",
-    "sourceId": "4203838",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-narol-plazow-4-498-m2-e8j4t8",
-    "propertyType": "plot",
-    "title": "Działka — Płazów",
-    "voivodeship": "podkarpackie",
-    "city": "Płazów",
-    "coordinates": {
-      "lat": 49.94588763513359,
-      "lng": 22.30580794455417
-    },
-    "isNearBorder": true,
-    "areaM2": 4498,
-    "currentPrice": 99000,
-    "currentPricePerM2": 22.01,
-    "initialPrice": 99000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 99000,
-        "pricePerM2": 22.01
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:42.684Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/49/5c/40253e_9bd2_cover@2x-dzialka-siedliskowa-lubaczowski-plazow.webp",
-    "isDirectOwner": true,
-    "county": "lubaczowski"
   },
   {
     "id": "adresowo-4203834",
@@ -57488,40 +56623,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/65/47/3fb32a_5ccd_cover@2x-dzialka-budowlana-jaroslawski-jaroslaw.webp",
     "isDirectOwner": true,
     "county": "jaroslawski"
-  },
-  {
-    "id": "adresowo-4174614",
-    "source": "adresowo",
-    "sourceId": "4174614",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-lubenia-siedliska-1-800-m2-x7w5v3",
-    "propertyType": "plot",
-    "title": "Działka — Siedliska",
-    "voivodeship": "podkarpackie",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.94720089159405,
-      "lng": 22.305307061631332
-    },
-    "isNearBorder": false,
-    "areaM2": 1800,
-    "currentPrice": 16000,
-    "currentPricePerM2": 8.89,
-    "initialPrice": 16000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 16000,
-        "pricePerM2": 8.89
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:47.322Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6c/45/3fb316_7e66_cover@2x-dzialka-budowlana-rzeszowski-siedliska.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
   },
   {
     "id": "adresowo-4174566",
@@ -64347,40 +63448,6 @@
     "county": "rzeszowski"
   },
   {
-    "id": "adresowo-4118446",
-    "source": "adresowo",
-    "sourceId": "4118446",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-boguchwala-2-200-m2-m8l0v4",
-    "propertyType": "plot",
-    "title": "Działka — Boguchwała",
-    "voivodeship": "podkarpackie",
-    "city": "Boguchwała",
-    "coordinates": {
-      "lat": 49.94510456473717,
-      "lng": 22.302755408695447
-    },
-    "isNearBorder": false,
-    "areaM2": 2200,
-    "currentPrice": 1350000,
-    "currentPricePerM2": 613.64,
-    "initialPrice": 1350000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1350000,
-        "pricePerM2": 613.64
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:49.874Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/56/49/3ed7ae_7be6_cover@2x-dzialka-siedliskowa-rzeszowski-boguchwala.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
-  },
-  {
     "id": "adresowo-4118356",
     "source": "adresowo",
     "sourceId": "4118356",
@@ -64833,40 +63900,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/6f/28/3ec5a8_8c1a_cover@2x-dzialka-budowlana-rzeszowski-tyczyn.webp",
     "isDirectOwner": true,
     "county": "rzeszowski"
-  },
-  {
-    "id": "adresowo-4113804",
-    "source": "adresowo",
-    "sourceId": "4113804",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-markowa-tarnawka-6-900-m2-d2v0y8",
-    "propertyType": "plot",
-    "title": "Działka — Tarnawka",
-    "voivodeship": "podkarpackie",
-    "city": "Tarnawka",
-    "coordinates": {
-      "lat": 49.94552409040957,
-      "lng": 22.30537457695872
-    },
-    "isNearBorder": false,
-    "areaM2": 6900,
-    "currentPrice": 330000,
-    "currentPricePerM2": 47.83,
-    "initialPrice": 330000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 330000,
-        "pricePerM2": 47.83
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:49.874Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/16/7b/3ec58c_f605_cover@2x-dzialka-siedliskowa-lancucki-tarnawka.webp",
-    "isDirectOwner": true,
-    "county": "lancucki"
   },
   {
     "id": "adresowo-4113798",
@@ -66136,40 +65169,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/4a/1d/3e90d2_6c74_cover@2x-dzialka-budowlana-jaroslawski-radawa.webp",
     "isDirectOwner": true,
     "county": "jaroslawski"
-  },
-  {
-    "id": "adresowo-4098218",
-    "source": "adresowo",
-    "sourceId": "4098218",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-jawornik-polski-manasterz-1-800-m2-l3s3d2",
-    "propertyType": "plot",
-    "title": "Działka — Manasterz",
-    "voivodeship": "podkarpackie",
-    "city": "Manasterz",
-    "coordinates": {
-      "lat": 49.94770169822606,
-      "lng": 22.295404765340034
-    },
-    "isNearBorder": false,
-    "areaM2": 1800,
-    "currentPrice": 150000,
-    "currentPricePerM2": 83.33,
-    "initialPrice": 150000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 150000,
-        "pricePerM2": 83.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:51.419Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6d/21/3e88aa_b338_cover@2x-dzialka-siedliskowa-przeworski-manasterz.webp",
-    "isDirectOwner": true,
-    "county": "przeworski"
   },
   {
     "id": "adresowo-4097140",
@@ -68868,40 +67867,6 @@
     "county": "sedziszowski"
   },
   {
-    "id": "adresowo-4071106",
-    "source": "adresowo",
-    "sourceId": "4071106",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-frysztak-pulanki-1-150-m2-q2z2s1",
-    "propertyType": "plot",
-    "title": "Działka — Pułanki",
-    "voivodeship": "podkarpackie",
-    "city": "Pułanki",
-    "coordinates": {
-      "lat": 49.95747917078716,
-      "lng": 22.301622298953415
-    },
-    "isNearBorder": false,
-    "areaM2": 1150,
-    "currentPrice": 69000,
-    "currentPricePerM2": 60,
-    "initialPrice": 69000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 69000,
-        "pricePerM2": 60
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:51.419Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/54/4f/3e1ec2_e91f_cover@2x-dzialka-siedliskowa-strzyzowski-pulanki.webp",
-    "isDirectOwner": true,
-    "county": "strzyzowski"
-  },
-  {
     "id": "adresowo-4070828",
     "source": "adresowo",
     "sourceId": "4070828",
@@ -71350,40 +70315,6 @@
     "county": "leski"
   },
   {
-    "id": "adresowo-4043602",
-    "source": "adresowo",
-    "sourceId": "4043602",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-zurawica-wyszatyce-914-m2-c2h1d3",
-    "propertyType": "plot",
-    "title": "Działka — Wyszatyce",
-    "voivodeship": "podkarpackie",
-    "city": "Wyszatyce",
-    "coordinates": {
-      "lat": 49.94763779729552,
-      "lng": 22.30091545485469
-    },
-    "isNearBorder": true,
-    "areaM2": 914,
-    "currentPrice": 39000,
-    "currentPricePerM2": 42.67,
-    "initialPrice": 39000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 39000,
-        "pricePerM2": 42.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:53.801Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6e/29/3db352_30fa_cover@2x-dzialka-siedliskowa-przemyski-wyszatyce.webp",
-    "isDirectOwner": true,
-    "county": "przemyski"
-  },
-  {
     "id": "adresowo-4043486",
     "source": "adresowo",
     "sourceId": "4043486",
@@ -72001,40 +70932,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/1a/30/3d968a_47a7_cover@2x-dzialka-budowlana-lezajski-chalupki-debnianskie.webp",
     "isDirectOwner": true,
     "county": "lezajski"
-  },
-  {
-    "id": "adresowo-4036210",
-    "source": "adresowo",
-    "sourceId": "4036210",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-krzeszow-kustrawa-6-330-m2-g3a2z7",
-    "propertyType": "plot",
-    "title": "Działka — Kustrawa",
-    "voivodeship": "podkarpackie",
-    "city": "Kustrawa",
-    "coordinates": {
-      "lat": 49.94543847468326,
-      "lng": 22.294834021849642
-    },
-    "isNearBorder": false,
-    "areaM2": 6330,
-    "currentPrice": 140000,
-    "currentPricePerM2": 22.12,
-    "initialPrice": 140000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 140000,
-        "pricePerM2": 22.12
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:53.801Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7a/6c/3d9672_a77b_cover@2x-dzialka-siedliskowa-nizanski-kustrawa.webp",
-    "isDirectOwner": true,
-    "county": "nizanski"
   },
   {
     "id": "adresowo-4036128",
@@ -72827,40 +71724,6 @@
     "county": "mielecki"
   },
   {
-    "id": "adresowo-4024912",
-    "source": "adresowo",
-    "sourceId": "4024912",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-zurawica-batycze-3-150-m2-i8o7y6",
-    "propertyType": "plot",
-    "title": "Działka — Batycze",
-    "voivodeship": "podkarpackie",
-    "city": "Batycze",
-    "coordinates": {
-      "lat": 49.94678947049443,
-      "lng": 22.30977838721349
-    },
-    "isNearBorder": true,
-    "areaM2": 3150,
-    "currentPrice": 140000,
-    "currentPricePerM2": 44.44,
-    "initialPrice": 140000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 140000,
-        "pricePerM2": 44.44
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:53.801Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7c/57/3d6a50_4242_cover@2x-dzialka-siedliskowa-przemyski-batycze.webp",
-    "isDirectOwner": true,
-    "county": "przemyski"
-  },
-  {
     "id": "adresowo-4023828",
     "source": "adresowo",
     "sourceId": "4023828",
@@ -72893,40 +71756,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/29/25/3d6614_f7e2_cover@2x-dzialka-budowlana-rzeszowski-zglobien.webp",
     "isDirectOwner": true,
     "county": "rzeszowski"
-  },
-  {
-    "id": "adresowo-4023390",
-    "source": "adresowo",
-    "sourceId": "4023390",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-markowa-tarnawka-3-933-m2-h2h7q7",
-    "propertyType": "plot",
-    "title": "Działka — Tarnawka",
-    "voivodeship": "podkarpackie",
-    "city": "Tarnawka",
-    "coordinates": {
-      "lat": 49.95161447085188,
-      "lng": 22.30151545097303
-    },
-    "isNearBorder": false,
-    "areaM2": 3933,
-    "currentPrice": 295000,
-    "currentPricePerM2": 75.01,
-    "initialPrice": 295000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 295000,
-        "pricePerM2": 75.01
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:53.801Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/38/73/3d645e_a70c_cover@2x-dzialka-siedliskowa-lancucki-tarnawka.webp",
-    "isDirectOwner": true,
-    "county": "lancucki"
   },
   {
     "id": "adresowo-4022970",
@@ -75231,41 +74060,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/13/5c/3d071c_c9c5_cover@2x-dzialka-budowlana-tarnobrzeski-trzesn.webp",
     "isDirectOwner": true,
     "county": "tarnobrzeski"
-  },
-  {
-    "id": "adresowo-3999276",
-    "source": "adresowo",
-    "sourceId": "3999276",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-lubenia-siedliska-3-000-m2-p4r7f8",
-    "propertyType": "plot",
-    "title": "Działka — Siedliska, Broniakówka",
-    "voivodeship": "podkarpackie",
-    "city": "Siedliska",
-    "street": "Broniakówka",
-    "coordinates": {
-      "lat": 49.94351958318017,
-      "lng": 22.30039120790943
-    },
-    "isNearBorder": false,
-    "areaM2": 3000,
-    "currentPrice": 300000,
-    "currentPricePerM2": 100,
-    "initialPrice": 300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 300000,
-        "pricePerM2": 100
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:55.472Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6b/20/3d062c_8df5_cover@2x-dzialka-budowlana-rzeszowski-siedliska.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
   },
   {
     "id": "adresowo-3948178",
@@ -79539,40 +78333,6 @@
     "county": "lubaczowski"
   },
   {
-    "id": "adresowo-3948294",
-    "source": "adresowo",
-    "sourceId": "3948294",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-lubenia-siedliska-2-200-m2-m6x1f1",
-    "propertyType": "plot",
-    "title": "Działka — Siedliska",
-    "voivodeship": "podkarpackie",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.94569001931105,
-      "lng": 22.292085898255504
-    },
-    "isNearBorder": false,
-    "areaM2": 2200,
-    "currentPrice": 60000,
-    "currentPricePerM2": 27.27,
-    "initialPrice": 60000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 60000,
-        "pricePerM2": 27.27
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:57.144Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/69/35/3c3f06_965f_cover@2x-dzialka-rolna-rzeszowski-siedliska.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
-  },
-  {
     "id": "adresowo-3947626",
     "source": "adresowo",
     "sourceId": "3947626",
@@ -81050,40 +79810,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/39/32/3bfa0a_6609_cover@2x-dzialka-lesna-lezajski-kurylowka.webp",
     "isDirectOwner": true,
     "county": "lezajski"
-  },
-  {
-    "id": "adresowo-3930440",
-    "source": "adresowo",
-    "sourceId": "3930440",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-sedziszow-malopolski-zagorzyce-1-ha-s5h6q0",
-    "propertyType": "plot",
-    "title": "Działka — Zagorzyce",
-    "voivodeship": "podkarpackie",
-    "city": "Zagorzyce",
-    "coordinates": {
-      "lat": 49.95212746256153,
-      "lng": 22.295858803804602
-    },
-    "isNearBorder": false,
-    "areaM2": 10800,
-    "currentPrice": 289000,
-    "currentPricePerM2": 26.76,
-    "initialPrice": 289000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 289000,
-        "pricePerM2": 26.76
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:22:57.144Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5f/75/3bf948_34cf_cover@2x-dzialka-siedliskowa-ropczycko-sedziszowski-zagorzyce.webp",
-    "isDirectOwner": true,
-    "county": "sedziszowski"
   },
   {
     "id": "adresowo-3929582",
@@ -87109,40 +85835,6 @@
     "county": "kolbuszowski"
   },
   {
-    "id": "adresowo-3855014",
-    "source": "adresowo",
-    "sourceId": "3855014",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-brzostek-siedliska-bogusz-1-400-m2-w7x7x7",
-    "propertyType": "plot",
-    "title": "Działka — Siedliska-Bogusz",
-    "voivodeship": "podkarpackie",
-    "city": "Siedliska-Bogusz",
-    "coordinates": {
-      "lat": 49.95185263383464,
-      "lng": 22.30920601588048
-    },
-    "isNearBorder": false,
-    "areaM2": 1400,
-    "currentPrice": 49000,
-    "currentPricePerM2": 35,
-    "initialPrice": 49000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 49000,
-        "pricePerM2": 35
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:01.361Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3c/39/3ad2a6_b7e5_cover@2x-dzialka-budowlana-debicki-siedliska-bogusz.webp",
-    "isDirectOwner": true,
-    "county": "debicki"
-  },
-  {
     "id": "adresowo-3853998",
     "source": "adresowo",
     "sourceId": "3853998",
@@ -88995,40 +87687,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/7e/11/3a665e_728e_cover@2x-dzialka-budowlana-rzeszow.webp",
     "isDirectOwner": true,
     "county": "rzeszowski"
-  },
-  {
-    "id": "adresowo-3826914",
-    "source": "adresowo",
-    "sourceId": "3826914",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-ustrzyki-dolne-wojtkowka-9-ha-z9u6z0",
-    "propertyType": "plot",
-    "title": "Działka — Wojtkówka",
-    "voivodeship": "podkarpackie",
-    "city": "Wojtkówka",
-    "coordinates": {
-      "lat": 49.95434199948701,
-      "lng": 22.29121727190723
-    },
-    "isNearBorder": true,
-    "areaM2": 95000,
-    "currentPrice": 700000,
-    "currentPricePerM2": 7.37,
-    "initialPrice": 700000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 700000,
-        "pricePerM2": 7.37
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:01.361Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1d/5b/3a64e2_c736_cover@2x-dzialka-siedliskowa-bieszczadzki-wojtkowka.webp",
-    "isDirectOwner": true,
-    "county": "bieszczadzki"
   },
   {
     "id": "adresowo-3826428",
@@ -91194,40 +89852,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/11/54/39cc36_c0fa_cover@2x-dzialka-budowlana-rzeszowski-krasne.webp",
     "isDirectOwner": true,
     "county": "rzeszowski"
-  },
-  {
-    "id": "adresowo-3787218",
-    "source": "adresowo",
-    "sourceId": "3787218",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-bircza-leszczawa-gorna-3-ha-d4c1m8",
-    "propertyType": "plot",
-    "title": "Działka — Leszczawa Górna",
-    "voivodeship": "podkarpackie",
-    "city": "Leszczawa Górna",
-    "coordinates": {
-      "lat": 49.9451722708286,
-      "lng": 22.30439524128594
-    },
-    "isNearBorder": true,
-    "areaM2": 39900,
-    "currentPrice": 390000,
-    "currentPricePerM2": 9.77,
-    "initialPrice": 390000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 390000,
-        "pricePerM2": 9.77
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:03.120Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3d/57/39c9d2_b58c_cover@2x-dzialka-siedliskowa-przemyski-leszczawa-gorna.webp",
-    "isDirectOwner": true,
-    "county": "przemyski"
   },
   {
     "id": "adresowo-3786778",
@@ -97505,40 +96129,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/7c/66/37e9c8_98ba_cover@2x-dzialka-budowlana-rzeszowski-raclawowka.webp",
     "isDirectOwner": true,
     "county": "rzeszowski"
-  },
-  {
-    "id": "adresowo-3664038",
-    "source": "adresowo",
-    "sourceId": "3664038",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-radomysl-wielki-zgorsko-7-500-m2-n2x1e0",
-    "propertyType": "plot",
-    "title": "Działka — Zgórsko",
-    "voivodeship": "podkarpackie",
-    "city": "Zgórsko",
-    "coordinates": {
-      "lat": 49.95703245987474,
-      "lng": 22.29330832825619
-    },
-    "isNearBorder": false,
-    "areaM2": 7500,
-    "currentPrice": 60000,
-    "currentPricePerM2": 8,
-    "initialPrice": 60000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 60000,
-        "pricePerM2": 8
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:06.416Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7b/1a/37e8a6_2ec2_cover@2x-dzialka-siedliskowa-mielecki-zgorsko.webp",
-    "isDirectOwner": true,
-    "county": "mielecki"
   },
   {
     "id": "adresowo-3663644",
@@ -104390,41 +102980,6 @@
     "county": "sedziszowski"
   },
   {
-    "id": "adresowo-3495164",
-    "source": "adresowo",
-    "sourceId": "3495164",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-lubenia-siedliska-3-528-m2-t1o1p8",
-    "propertyType": "plot",
-    "title": "Działka — Siedliska, Różanka",
-    "voivodeship": "podkarpackie",
-    "city": "Siedliska",
-    "street": "Różanka",
-    "coordinates": {
-      "lat": 49.94532498533736,
-      "lng": 22.297077690796936
-    },
-    "isNearBorder": false,
-    "areaM2": 3528,
-    "currentPrice": 564480,
-    "currentPricePerM2": 160,
-    "initialPrice": 564480,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 564480,
-        "pricePerM2": 160
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:07.888Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7f/70/3554fc_d467_cover@2x-dzialka-budowlana-rzeszowski-siedliska.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
-  },
-  {
     "id": "adresowo-3495070",
     "source": "adresowo",
     "sourceId": "3495070",
@@ -104457,40 +103012,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/31/3f/35549e_6e41_cover@2x-dzialka-rolna-jaroslawski-tuczempy.webp",
     "isDirectOwner": true,
     "county": "jaroslawski"
-  },
-  {
-    "id": "adresowo-3494486",
-    "source": "adresowo",
-    "sourceId": "3494486",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-dydnia-krzywe-8-500-m2-t2j2b7",
-    "propertyType": "plot",
-    "title": "Działka — Krzywe",
-    "voivodeship": "podkarpackie",
-    "city": "Krzywe",
-    "coordinates": {
-      "lat": 49.95072266870757,
-      "lng": 22.303959137409027
-    },
-    "isNearBorder": false,
-    "areaM2": 8500,
-    "currentPrice": 300000,
-    "currentPricePerM2": 35.29,
-    "initialPrice": 300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 300000,
-        "pricePerM2": 35.29
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:07.888Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/35/74/355256_d73b_cover@2x-dzialka-siedliskowa-brzozowski-krzywe.webp",
-    "isDirectOwner": true,
-    "county": "brzozowski"
   },
   {
     "id": "adresowo-3493482",
@@ -110184,40 +108705,6 @@
     "county": "brzozowski"
   },
   {
-    "id": "adresowo-3326310",
-    "source": "adresowo",
-    "sourceId": "3326310",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-domaradz-golcowa-4-444-m2-i2v7w9",
-    "propertyType": "plot",
-    "title": "Działka — Golcowa",
-    "voivodeship": "podkarpackie",
-    "city": "Golcowa",
-    "coordinates": {
-      "lat": 49.94578664494189,
-      "lng": 22.295139780977706
-    },
-    "isNearBorder": false,
-    "areaM2": 4444,
-    "currentPrice": 79900,
-    "currentPricePerM2": 17.98,
-    "initialPrice": 79900,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 79900,
-        "pricePerM2": 17.98
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:12.625Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3d/4c/32c166_62be_cover@2x-dzialka-siedliskowa-brzozowski-golcowa.webp",
-    "isDirectOwner": true,
-    "county": "brzozowski"
-  },
-  {
     "id": "adresowo-3322832",
     "source": "adresowo",
     "sourceId": "3322832",
@@ -110800,40 +109287,6 @@
     "firstSeenAt": "2026-09-17T22:23:12.625Z",
     "lastSeenAt": "2026-09-22T09:09:10.224Z",
     "imageUrl": "https://s2.adresowa.pl/oi/28/40/3257ee_cf4f_cover@2x-dzialka-rolno-budowlana-przemyski-sielnica.webp",
-    "isDirectOwner": true,
-    "county": "przemyski"
-  },
-  {
-    "id": "adresowo-3299308",
-    "source": "adresowo",
-    "sourceId": "3299308",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-dubiecko-sielnica-6-200-m2-g7b5u7",
-    "propertyType": "plot",
-    "title": "Działka — Sielnica",
-    "voivodeship": "podkarpackie",
-    "city": "Sielnica",
-    "coordinates": {
-      "lat": 49.95508050744136,
-      "lng": 22.293558985221907
-    },
-    "isNearBorder": true,
-    "areaM2": 6200,
-    "currentPrice": 150000,
-    "currentPricePerM2": 24.19,
-    "initialPrice": 150000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 150000,
-        "pricePerM2": 24.19
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:12.625Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/4c/29/3257ec_e30d_cover@2x-dzialka-siedliskowa-przemyski-sielnica.webp",
     "isDirectOwner": true,
     "county": "przemyski"
   },
@@ -114274,40 +112727,6 @@
     "county": "debicki"
   },
   {
-    "id": "adresowo-3195852",
-    "source": "adresowo",
-    "sourceId": "3195852",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-czarna-michniowiec-8-400-m2-o6i4g2",
-    "propertyType": "plot",
-    "title": "Działka — Michniowiec",
-    "voivodeship": "podkarpackie",
-    "city": "Michniowiec",
-    "coordinates": {
-      "lat": 49.944984779309884,
-      "lng": 22.30119944160928
-    },
-    "isNearBorder": true,
-    "areaM2": 8400,
-    "currentPrice": 460000,
-    "currentPricePerM2": 54.76,
-    "initialPrice": 460000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 460000,
-        "pricePerM2": 54.76
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:14.487Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/75/60/30c3cc_9560_cover@2x-dzialka-siedliskowa-bieszczadzki-michniowiec.webp",
-    "isDirectOwner": true,
-    "county": "bieszczadzki"
-  },
-  {
     "id": "adresowo-3195412",
     "source": "adresowo",
     "sourceId": "3195412",
@@ -116430,41 +114849,6 @@
     "firstSeenAt": "2026-09-17T22:23:14.487Z",
     "lastSeenAt": "2026-09-22T09:09:10.224Z",
     "imageUrl": "https://s2.adresowa.pl/oi/59/58/2f567a_ba87_cover@2x-dzialka-rolno-budowlana-rzeszowski-zarzecze.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
-  },
-  {
-    "id": "adresowo-3100574",
-    "source": "adresowo",
-    "sourceId": "3100574",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-boguchwala-wola-zglobienska-9-700-m2-h4c5a8",
-    "propertyType": "plot",
-    "title": "Działka — Wola Zgłobieńska, Lisiaki",
-    "voivodeship": "podkarpackie",
-    "city": "Wola Zgłobieńska",
-    "street": "Lisiaki",
-    "coordinates": {
-      "lat": 49.94965243288808,
-      "lng": 22.30738619467095
-    },
-    "isNearBorder": false,
-    "areaM2": 9700,
-    "currentPrice": 230000,
-    "currentPricePerM2": 23.71,
-    "initialPrice": 230000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 230000,
-        "pricePerM2": 23.71
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:14.487Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1d/57/2f4f9e_607b_cover@2x-dzialka-siedliskowa-rzeszowski-wola-zglobienska.webp",
     "isDirectOwner": true,
     "county": "rzeszowski"
   },
@@ -118766,41 +117150,6 @@
     "county": "rzeszowski"
   },
   {
-    "id": "adresowo-2974694",
-    "source": "adresowo",
-    "sourceId": "2974694",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lubaczow-ul-kard-stefana-wyszynskiego-d3j1m8",
-    "propertyType": "plot",
-    "title": "Działka — Lubaczów, ul. kard. Stefana Wyszyńskiego",
-    "voivodeship": "podkarpackie",
-    "city": "Lubaczów",
-    "street": "ul. kard. Stefana Wyszyńskiego",
-    "coordinates": {
-      "lat": 50.15053660494706,
-      "lng": 23.125965106460605
-    },
-    "isNearBorder": true,
-    "areaM2": 700,
-    "currentPrice": 450000,
-    "currentPricePerM2": 642.86,
-    "initialPrice": 450000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 450000,
-        "pricePerM2": 642.86
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:16.469Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/31/51/2d63e6_3aeb_cover@2x-dzialka-siedliskowa-lubaczowski-lubaczow.webp",
-    "isDirectOwner": true,
-    "county": "lubaczowski"
-  },
-  {
     "id": "adresowo-2972508",
     "source": "adresowo",
     "sourceId": "2972508",
@@ -119382,40 +117731,6 @@
     "county": "tarnobrzeski"
   },
   {
-    "id": "adresowo-2944830",
-    "source": "adresowo",
-    "sourceId": "2944830",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-debica-braciejowa-8-200-m2-b6i9z0",
-    "propertyType": "plot",
-    "title": "Działka — Braciejowa",
-    "voivodeship": "podkarpackie",
-    "city": "Braciejowa",
-    "coordinates": {
-      "lat": 49.947859124899566,
-      "lng": 22.30900470795572
-    },
-    "isNearBorder": false,
-    "areaM2": 8200,
-    "currentPrice": 250000,
-    "currentPricePerM2": 30.49,
-    "initialPrice": 250000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 250000,
-        "pricePerM2": 30.49
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:16.469Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/68/12/2cef3e_f0a4_cover@2x-dzialka-siedliskowa-debicki-braciejowa.webp",
-    "isDirectOwner": true,
-    "county": "debicki"
-  },
-  {
     "id": "adresowo-2944828",
     "source": "adresowo",
     "sourceId": "2944828",
@@ -119896,40 +118211,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/5e/16/2c6bdc_a84b_cover@2x-dzialka-budowlana-mielecki-bialy-bor.webp",
     "isDirectOwner": true,
     "county": "mielecki"
-  },
-  {
-    "id": "adresowo-2929564",
-    "source": "adresowo",
-    "sourceId": "2929564",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-krasne-malawa-2-ha-v8k9u3",
-    "propertyType": "plot",
-    "title": "Działka — Malawa",
-    "voivodeship": "podkarpackie",
-    "city": "Malawa",
-    "coordinates": {
-      "lat": 49.94667801119025,
-      "lng": 22.29414801324035
-    },
-    "isNearBorder": false,
-    "areaM2": 23900,
-    "currentPrice": 4700000,
-    "currentPricePerM2": 196.65,
-    "initialPrice": 4700000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 4700000,
-        "pricePerM2": 196.65
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:16.469Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7e/6e/2cb39c_6d75_cover@2x-dzialka-siedliskowa-rzeszowski-malawa.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
   },
   {
     "id": "adresowo-2929350",
@@ -122331,40 +120612,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/22/2a/2b1b4c_676d_cover@2x-dzialka-inwestycyjna-lezajski-lezajsk.webp",
     "isDirectOwner": true,
     "county": "lezajski"
-  },
-  {
-    "id": "adresowo-2822462",
-    "source": "adresowo",
-    "sourceId": "2822462",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-ustrzyki-dolne-liskowate-4-ha-m7h5d5",
-    "propertyType": "plot",
-    "title": "Działka — Liskowate",
-    "voivodeship": "podkarpackie",
-    "city": "Liskowate",
-    "coordinates": {
-      "lat": 49.943171719553895,
-      "lng": 22.29669269960508
-    },
-    "isNearBorder": true,
-    "areaM2": 40100,
-    "currentPrice": 520000,
-    "currentPricePerM2": 12.97,
-    "initialPrice": 520000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 520000,
-        "pricePerM2": 12.97
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:17.886Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7d/4e/2b113e_d644_cover@2x-dzialka-siedliskowa-bieszczadzki-liskowate.webp",
-    "isDirectOwner": true,
-    "county": "bieszczadzki"
   },
   {
     "id": "adresowo-2822188",
@@ -124938,40 +123185,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/40/10/28c8d4_3388_cover@2x-dzialka-budowlana-lubaczowski-oleszyce.webp",
     "isDirectOwner": true,
     "county": "lubaczowski"
-  },
-  {
-    "id": "adresowo-2670472",
-    "source": "adresowo",
-    "sourceId": "2670472",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lutowiska-ustrzyki-gorne-3-500-m2-k8q5u9",
-    "propertyType": "plot",
-    "title": "Działka — Ustrzyki Górne",
-    "voivodeship": "podkarpackie",
-    "city": "Ustrzyki Górne",
-    "coordinates": {
-      "lat": 49.94610091395766,
-      "lng": 22.30615547302458
-    },
-    "isNearBorder": true,
-    "areaM2": 3500,
-    "currentPrice": 199000,
-    "currentPricePerM2": 56.86,
-    "initialPrice": 199000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 199000,
-        "pricePerM2": 56.86
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:17.886Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5f/4c/28bf88_9dec_cover@2x-dzialka-siedliskowa-bieszczadzki-ustrzyki-gorne.webp",
-    "isDirectOwner": true,
-    "county": "bieszczadzki"
   },
   {
     "id": "adresowo-2669844",
@@ -127824,40 +126037,6 @@
     "county": "rzeszowski"
   },
   {
-    "id": "adresowo-2441700",
-    "source": "adresowo",
-    "sourceId": "2441700",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-glogow-malopolski-rudna-mala-2-472-m2-j6a9h2",
-    "propertyType": "plot",
-    "title": "Działka — Rudna Mała",
-    "voivodeship": "podkarpackie",
-    "city": "Rudna Mała",
-    "coordinates": {
-      "lat": 49.948106663302916,
-      "lng": 22.294603449246164
-    },
-    "isNearBorder": false,
-    "areaM2": 2472,
-    "currentPrice": 618000,
-    "currentPricePerM2": 250,
-    "initialPrice": 618000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 618000,
-        "pricePerM2": 250
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:19.619Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/10/46/2541e4_87f9_cover@2x-dzialka-siedliskowa-rzeszowski-rudna-mala.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
-  },
-  {
     "id": "adresowo-2428936",
     "source": "adresowo",
     "sourceId": "2428936",
@@ -128749,40 +126928,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/63/68/2322b8_b4aa_cover@2x-dzialka-budowlana-mielecki-podleszany.webp",
     "isDirectOwner": true,
     "county": "mielecki"
-  },
-  {
-    "id": "adresowo-2291520",
-    "source": "adresowo",
-    "sourceId": "2291520",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-krasiczyn-olszany-3-000-m2-x8g1f7",
-    "propertyType": "plot",
-    "title": "Działka — Olszany",
-    "voivodeship": "podkarpackie",
-    "city": "Olszany",
-    "coordinates": {
-      "lat": 49.95178491598898,
-      "lng": 22.293285666707657
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 70000,
-    "currentPricePerM2": 23.33,
-    "initialPrice": 70000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 70000,
-        "pricePerM2": 23.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:19.619Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1a/76/22f740_667c_cover@2x-dzialka-siedliskowa-przemyski-olszany.webp",
-    "isDirectOwner": true,
-    "county": "przemyski"
   },
   {
     "id": "adresowo-2278832",
@@ -135617,40 +133762,6 @@
     "county": "krosnienski"
   },
   {
-    "id": "adresowo-998607",
-    "source": "adresowo",
-    "sourceId": "998607",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-lubenia-siedliska-1-000-m2-d2a1n6",
-    "propertyType": "plot",
-    "title": "Działka — Siedliska",
-    "voivodeship": "podkarpackie",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.94941283905718,
-      "lng": 22.2999647922593
-    },
-    "isNearBorder": false,
-    "areaM2": 1000,
-    "currentPrice": 99000,
-    "currentPricePerM2": 99,
-    "initialPrice": 99000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 99000,
-        "pricePerM2": 99
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:23.581Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/11/64/f3ccf_7476_cover@2x-dzialka-budowlana-rzeszowski-siedliska.webp",
-    "isDirectOwner": true,
-    "county": "rzeszowski"
-  },
-  {
     "id": "adresowo-963293",
     "source": "adresowo",
     "sourceId": "963293",
@@ -135684,40 +133795,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/7d/18/eb2dd_9a7e_cover@2x-dzialka-inwestycyjna-przemysl.webp",
     "isDirectOwner": true,
     "county": "przemyski"
-  },
-  {
-    "id": "adresowo-936847",
-    "source": "adresowo",
-    "sourceId": "936847",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-solina-gorzanka-5-ha-c6e8n6",
-    "propertyType": "plot",
-    "title": "Działka — Górzanka",
-    "voivodeship": "podkarpackie",
-    "city": "Górzanka",
-    "coordinates": {
-      "lat": 49.9487170857818,
-      "lng": 22.295580533200244
-    },
-    "isNearBorder": true,
-    "areaM2": 55800,
-    "currentPrice": 1060400,
-    "currentPricePerM2": 19,
-    "initialPrice": 1060400,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1060400,
-        "pricePerM2": 19
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:23.581Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/16/57/e4b8f_e5d3_cover@2x-dzialka-siedliskowa-leski-gorzanka.webp",
-    "isDirectOwner": true,
-    "county": "leski"
   },
   {
     "id": "adresowo-916131",
@@ -136062,40 +134139,6 @@
     "county": "przemyski"
   },
   {
-    "id": "adresowo-240869",
-    "source": "adresowo",
-    "sourceId": "240869",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-brzostek-siedliska-bogusz-2-000-m2-owolhb",
-    "propertyType": "plot",
-    "title": "Działka — Siedliska-Bogusz",
-    "voivodeship": "podkarpackie",
-    "city": "Siedliska-Bogusz",
-    "coordinates": {
-      "lat": 49.94490023657423,
-      "lng": 22.29910388854537
-    },
-    "isNearBorder": false,
-    "areaM2": 2000,
-    "currentPrice": 55000,
-    "currentPricePerM2": 27.5,
-    "initialPrice": 55000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 55000,
-        "pricePerM2": 27.5
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:23:23.581Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/2f/16/3ace5_3df0_cover@2x-dzialka-budowlana-debicki-siedliska-bogusz.webp",
-    "isDirectOwner": true,
-    "county": "debicki"
-  },
-  {
     "id": "adresowo-233661",
     "source": "adresowo",
     "sourceId": "233661",
@@ -136299,40 +134342,6 @@
     "lastSeenAt": "2026-09-22T09:09:10.224Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1qOHVodWo5YzNzdDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.R8Dt53rTxSIYQh42W0I6Mfx2paLMSlghWWFuU3SwUz0/image;s=655x491;q=80",
     "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68435708",
-    "source": "otodom",
-    "sourceId": "68435708",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-potencjalem-inwestycyjnym-kupno2-3-ha-ID4D9fK",
-    "propertyType": "plot",
-    "title": "Siedlisko z Potencjałem inwestycyjnym/ Kupno2,3 Ha",
-    "voivodeship": "podkarpackie",
-    "county": "kolbuszowski",
-    "city": "Kupno",
-    "coordinates": {
-      "lat": 49.95133096838336,
-      "lng": 22.30380671985546
-    },
-    "isNearBorder": false,
-    "areaM2": 2326,
-    "currentPrice": 690000,
-    "currentPricePerM2": 296.65,
-    "initialPrice": 690000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-19",
-        "price": 690000,
-        "pricePerM2": 296.65
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-18T15:23:03.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdrczZpcWI3bnVsdDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.SsPTJ8jgZM2c2XHsfDrDI3gSAUPiNBW5uBjejGC37SA/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-68434367",
@@ -136922,40 +134931,6 @@
     "firstSeenAt": "2026-09-21T10:36:34.000Z",
     "lastSeenAt": "2026-09-22T09:09:10.224Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY0dHkyNmx3a3NtaTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kXXtV9YEvrO2ITBv457ukGF5y4rsnEEVx-XIRxYXIUE/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-64417833",
-    "source": "otodom",
-    "sourceId": "64417833",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/duza-dzialka-siedlisko-stary-dom-ID4mi1j",
-    "propertyType": "plot",
-    "title": "Duża działka/siedlisko, stary dom",
-    "voivodeship": "podkarpackie",
-    "county": "przemyski",
-    "city": "Drohojów",
-    "coordinates": {
-      "lat": 49.95020763043325,
-      "lng": 22.30080063133947
-    },
-    "isNearBorder": true,
-    "areaM2": 8113,
-    "currentPrice": 169000,
-    "currentPricePerM2": 20.83,
-    "initialPrice": 169000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-21",
-        "price": 169000,
-        "pricePerM2": 20.83
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-21T09:59:38.000Z",
-    "lastSeenAt": "2026-09-22T09:09:10.224Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlqaWZ6cDA3bmMzdDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JnS0fhFN4vcSd9is-84R6HP3VHBz3ofBgY7MP_5skwk/image;s=655x491;q=80",
     "isDirectOwner": true
   },
   {
@@ -141438,39 +139413,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-96815825600067",
-    "source": "otodom",
-    "sourceId": "96815825600067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-25-6a-25-km-do-rzeszowa-ID4BZ4I",
-    "propertyType": "plot",
-    "title": "Działka siedliskowa 25,6a | 25 km do Rzeszowa",
-    "voivodeship": "podkarpackie",
-    "county": "ropczycko-sędziszowski",
-    "city": "Wiśniowa",
-    "coordinates": {
-      "lat": 49.95183786687734,
-      "lng": 22.294998910983534
-    },
-    "isNearBorder": false,
-    "areaM2": 2568,
-    "currentPrice": 69000,
-    "currentPricePerM2": 26.87,
-    "initialPrice": 69000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-21",
-        "price": 69000,
-        "pricePerM2": 26.87
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-21T09:41:00.043Z",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-96813621700067",
     "source": "otodom",
     "sourceId": "96813621700067",
@@ -142509,39 +140451,6 @@
         "date": "2026-09-20",
         "price": 315000,
         "pricePerM2": 601.15
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-20T09:10:30.575Z",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-96836653600067",
-    "source": "otodom",
-    "sourceId": "96836653600067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-siedliskowe-2-od-sedziszow-mlp-full-medi-ID4CRg4",
-    "propertyType": "plot",
-    "title": "Działki siedliskowe, 2 od Sędziszów Młp, Full Medi",
-    "voivodeship": "podkarpackie",
-    "county": "ropczycko-sędziszowski",
-    "city": "Gnojnica",
-    "coordinates": {
-      "lat": 49.949513047977284,
-      "lng": 22.30123306633272
-    },
-    "isNearBorder": false,
-    "areaM2": 1400,
-    "currentPrice": 112000,
-    "currentPricePerM2": 80,
-    "initialPrice": 112000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-20",
-        "price": 112000,
-        "pricePerM2": 80
       }
     ],
     "status": "active",
@@ -152453,41 +150362,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67630554",
-    "source": "otodom",
-    "sourceId": "67630554",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-z-lasem-na-sprzedaz-wisniowa-ID4zLNo",
-    "propertyType": "plot",
-    "title": "Gospodarstwo z lasem na sprzedaż, Wiśniowa",
-    "voivodeship": "podkarpackie",
-    "county": "ropczycko-sędziszowski",
-    "city": "Wiśniowa",
-    "street": "Wiśniowa",
-    "coordinates": {
-      "lat": 49.948796211889245,
-      "lng": 22.296930751014344
-    },
-    "isNearBorder": false,
-    "areaM2": 18506,
-    "currentPrice": 800000,
-    "currentPricePerM2": 43.23,
-    "initialPrice": 800000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 800000,
-        "pricePerM2": 43.23
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-01-21T06:11:17.000Z",
-    "lastSeenAt": "2026-09-17T22:23:23.594Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFvc3JzN2Z6eTNqazEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5yfPuea4PhCJ1QJmfE9azIUTZdn4ONDzBIF_OtjgMoU/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-96767976400067",
     "source": "otodom",
     "sourceId": "96767976400067",
@@ -154226,40 +152100,6 @@
     "firstSeenAt": "2025-12-04T13:15:32.000Z",
     "lastSeenAt": "2026-09-17T22:23:23.594Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN5NDhtNXk3OHFybi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.QHVKU24X1cGB7Yc9gtTgZDQSXm0Y_zjAYpLPeM4VJCY/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67507703",
-    "source": "otodom",
-    "sourceId": "67507703",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-zagrodowa-siennow-ID4zfPW",
-    "propertyType": "plot",
-    "title": "Działka budowlana (zagrodowa) Siennów",
-    "voivodeship": "podkarpackie",
-    "county": "przeworski",
-    "city": "Siennów",
-    "coordinates": {
-      "lat": 49.94549521509716,
-      "lng": 22.303965130835106
-    },
-    "isNearBorder": false,
-    "areaM2": 1900,
-    "currentPrice": 55000,
-    "currentPricePerM2": 28.95,
-    "initialPrice": 55000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 55000,
-        "pricePerM2": 28.95
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-12-04T10:25:25.000Z",
-    "lastSeenAt": "2026-09-17T22:23:23.594Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imlpb3Y2bms4b3JuMzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.m4edlXXkxhWl_Qh5gzK3vmhvJOIdDusMSSBcsKQRFgM/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -161486,41 +159326,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-66964847",
-    "source": "otodom",
-    "sourceId": "66964847",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-inwestycyjna-ID4vYCb",
-    "propertyType": "plot",
-    "title": "Działka budowlana/inwestycyjna",
-    "voivodeship": "podkarpackie",
-    "county": "stalowowolski",
-    "city": "Stalowa Wola",
-    "street": "ul. Siedliska",
-    "coordinates": {
-      "lat": 50.58241720865733,
-      "lng": 22.060197642660587
-    },
-    "isNearBorder": false,
-    "areaM2": 2439,
-    "currentPrice": 449000,
-    "currentPricePerM2": 184.09,
-    "initialPrice": 449000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 449000,
-        "pricePerM2": 184.09
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-06-24T10:26:48.000Z",
-    "lastSeenAt": "2026-09-17T22:23:23.594Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNmcmIxeXZzcDNuci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.oHjzajEVAb-DEbg0TkYquqbnQxFpazNQkCVCyBhG55A/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-66955796",
     "source": "otodom",
     "sourceId": "66955796",
@@ -164600,41 +162405,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImE5aHc1dm5qb3lwNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Y-xeKkO7E7-et3MxA_onl9C_cPJiYCgeh7qNkZW2Wns/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "rzeszowski"
-  },
-  {
-    "id": "otodom-66484515",
-    "source": "otodom",
-    "sourceId": "66484515",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-na-sprzedaz-globikowa-ID4uXET",
-    "propertyType": "plot",
-    "title": "Działka siedliskowa na sprzedaż, Głobikowa",
-    "voivodeship": "podkarpackie",
-    "county": "dębicki",
-    "city": "Głobikowa",
-    "street": "Głobikowa",
-    "coordinates": {
-      "lat": 49.947140540101394,
-      "lng": 22.297979869616764
-    },
-    "isNearBorder": false,
-    "areaM2": 5961,
-    "currentPrice": 110000,
-    "currentPricePerM2": 18.45,
-    "initialPrice": 110000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 110000,
-        "pricePerM2": 18.45
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-02-14T15:48:48.000Z",
-    "lastSeenAt": "2026-09-17T22:23:23.594Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjY2ZHR5ZWYxMDZwci1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.-cgTlGiDbzHWvN5MX77Mdk58zxNGXR6Q_njI84lsvG8/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-66479475",

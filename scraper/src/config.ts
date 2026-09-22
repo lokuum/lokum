@@ -7,13 +7,14 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 export const DATA_OUTPUT_DIR = path.resolve(__dirname, '../../frontend/public/data');
 export const BACKUP_DATA_DIR = path.resolve(__dirname, '../../data');
 
-export const SUPPORTED_VOIVODESHIPS: Voivodeship[] = ['lubelskie', 'podlaskie', 'podkarpackie'];
-export const SUPPORTED_TYPES: PropertyType[] = ['house', 'plot'];
+export const SUPPORTED_VOIVODESHIPS: Voivodeship[] = ['lubelskie', 'podlaskie', 'podkarpackie', 'wielkopolskie'];
+export const SUPPORTED_TYPES: PropertyType[] = ['house', 'plot', 'habitat'];
 
 export const ADRESOWO_VOIVODESHIP_CODES: Record<Voivodeship, string> = {
   lubelskie: 'flu',
   podlaskie: 'fpd',
   podkarpackie: 'fpk',
+  wielkopolskie: 'fwp',
 };
 
 export const SCRAPER_CONFIG = {

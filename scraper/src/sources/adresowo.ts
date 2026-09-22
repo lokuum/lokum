@@ -1,6 +1,6 @@
 import * as cheerio from 'cheerio';
 import type { PropertyOffer, PropertyType, Voivodeship } from 'shared';
-import { getLocationCoordinates, inferCounty, isBorderLocation } from 'shared';
+import { classifyPropertyType, getLocationCoordinates, inferCounty, isBorderLocation } from 'shared';
 import { ADRESOWO_VOIVODESHIP_CODES } from '../config.js';
 import { fetchWithRetry } from '../utils/http.js';
 import type { FetchResult } from './otodom.js';
@@ -163,7 +163,15 @@ export function parseAdresowoHtml(
       }
     }
 
-    const title = `${type === 'house' ? 'Dom' : 'Działka'} — ${city}${street ? `, ${street}` : ''}`;
+    const resolvedType = classifyPropertyType(type === 'habitat' ? 'plot' : type, {
+      title: `${type === 'house' ? 'Dom' : 'Działka'} — ${city}`,
+      sourceUrl,
+      street,
+      description: descText,
+    });
+
+    const typeLabel = resolvedType === 'habitat' ? 'Siedlisko' : resolvedType === 'house' ? 'Dom' : 'Działka';
+    const title = `${typeLabel} — ${city}${street ? `, ${street}` : ''}`;
     const coordinates = getLocationCoordinates(voivodeship, city, county);
     const isNearBorder = isBorderLocation(voivodeship, county, city);
 
@@ -172,7 +180,7 @@ export function parseAdresowoHtml(
       source: 'adresowo',
       sourceId: rawId,
       sourceUrl,
-      propertyType: type,
+      propertyType: resolvedType,
       title,
       voivodeship,
       county,

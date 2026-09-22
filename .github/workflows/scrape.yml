@@ -65,13 +65,22 @@ jobs:
           echo "=== Rozpoczynam scrapowanie woj. Podkarpackiego (limit: $LIMIT stron) ==="
           npm run scrape:podkarpackie -- --limit "$LIMIT"
 
-      # Krok 4: Generowanie globalnego podsumowania (summary.json) ze wszystkich partycji
+      # Krok 4: Województwo Wielkopolskie
+      - name: Scrape Wielkopolskie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'wielkopolskie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Wielkopolskiego (limit: $LIMIT stron) ==="
+          npm run scrape:wielkopolskie -- --limit "$LIMIT"
+
+      # Krok 5: Generowanie globalnego podsumowania (summary.json) ze wszystkich partycji
       - name: Generate Summary and Global Stats
         run: |
           echo "=== Generowanie globalnego summary.json z aktualnych partycji ==="
           npm run scrape:summary
 
-      # Krok 5: Commit i push zmian do repozytorium
+      # Krok 6: Commit i push zmian do repozytorium
       - name: Commit and push changes
         id: commit
         run: |

@@ -136,9 +136,11 @@ async function main() {
     console.log(`Podsumowanie wygenerowane:`);
     console.log(`- Wszystkie domy: ${summary.totalHouses}`);
     console.log(`- Wszystkie działki: ${summary.totalPlots}`);
+    console.log(`- Wszystkie siedliska: ${summary.totalHabitats}`);
     console.log(`- Liczba obniżek cen: ${summary.totalPriceDrops}`);
     console.log(`- Średnia cena m² dom: ${summary.avgHousePricePerM2} zł/m²`);
     console.log(`- Średnia cena m² działka: ${summary.avgPlotPricePerM2} zł/m²`);
+    console.log(`- Średnia cena m² siedlisko: ${summary.avgHabitatPricePerM2} zł/m²`);
     return;
   }
 
@@ -150,16 +152,38 @@ async function main() {
   console.log(`- Dry run: ${options.dryRun}`);
 
   for (const voivodeship of options.voivodeships) {
-    for (const type of options.types) {
-      const existing = await loadPartition(voivodeship, type);
-      console.log(`\nWczytano z bazy: ${existing.length} ofert (${voivodeship} / ${type})`);
+    // 1. Wczytaj istniejące partycje
+    const existingHouses = await loadPartition(voivodeship, 'house');
+    const existingPlots = await loadPartition(voivodeship, 'plot');
+    const existingHabitats = await loadPartition(voivodeship, 'habitat');
 
-      const fresh = await scrapeCategory(voivodeship, type, options.maxPages, options.sources);
-      console.log(`Pobrano łącznie ${fresh.length} ofert.`);
+    console.log(`\nWczytano z bazy dla ${voivodeship.toUpperCase()}:`);
+    console.log(`  - Domy: ${existingHouses.length}`);
+    console.log(`  - Działki: ${existingPlots.length}`);
+    console.log(`  - Siedliska: ${existingHabitats.length}`);
 
+    // Określamy kategorie do odpytania portali (domy i działki obejmują wszystkie nieruchomości, w tym siedliska)
+    const typesToScrape: ('house' | 'plot')[] = [];
+    if (options.types.includes('house') || options.types.includes('habitat')) typesToScrape.push('house');
+    if (options.types.includes('plot') || options.types.includes('habitat')) {
+      if (!typesToScrape.includes('plot')) typesToScrape.push('plot');
+    }
+
+    const freshAll: PropertyOffer[] = [];
+    for (const scrapeType of typesToScrape) {
+      const fresh = await scrapeCategory(voivodeship, scrapeType, options.maxPages, options.sources);
+      freshAll.push(...fresh);
+    }
+    console.log(`Pobrano łącznie ${freshAll.length} ofert dla ${voivodeship}.`);
+
+    // Podział na 3 grupy
+    const freshHouses = freshAll.filter((o) => o.propertyType === 'house');
+    const freshPlots = freshAll.filter((o) => o.propertyType === 'plot');
+    const freshHabitats = freshAll.filter((o) => o.propertyType === 'habitat');
+
+    const updateGroup = async (name: string, type: PropertyType, existing: PropertyOffer[], fresh: PropertyOffer[]) => {
       const { merged, stats } = mergeOffers(existing, fresh);
-
-      console.log(`\n--- Statystyki aktualizacji (${voivodeship} / ${type}) ---`);
+      console.log(`\n--- Statystyki aktualizacji (${voivodeship} / ${name}) ---`);
       console.log(`  Nowe oferty:       ${stats.newOffersCount}`);
       console.log(`  Obniżki cen:       ${stats.priceDropsCount} 🔥`);
       console.log(`  Podwyżki cen:      ${stats.priceIncreasesCount}`);
@@ -169,8 +193,18 @@ async function main() {
 
       if (!options.dryRun) {
         await savePartition(voivodeship, type, merged);
-        console.log(`Zapisano partycję dla ${voivodeship} / ${type}`);
+        console.log(`Zapisano partycję dla ${voivodeship} / ${name} (${merged.length} ofert)`);
       }
+    };
+
+    if (options.types.includes('house')) {
+      await updateGroup('Domy', 'house', existingHouses, freshHouses);
+    }
+    if (options.types.includes('plot')) {
+      await updateGroup('Działki', 'plot', existingPlots, freshPlots);
+    }
+    if (options.types.includes('habitat')) {
+      await updateGroup('Siedliska', 'habitat', existingHabitats, freshHabitats);
     }
   }
 
@@ -180,9 +214,11 @@ async function main() {
     console.log(`Podsumowanie wygenerowane:`);
     console.log(`- Wszystkie domy: ${summary.totalHouses}`);
     console.log(`- Wszystkie działki: ${summary.totalPlots}`);
+    console.log(`- Wszystkie siedliska: ${summary.totalHabitats}`);
     console.log(`- Liczba obniżek cen: ${summary.totalPriceDrops}`);
     console.log(`- Średnia cena m² dom: ${summary.avgHousePricePerM2} zł/m²`);
     console.log(`- Średnia cena m² działka: ${summary.avgPlotPricePerM2} zł/m²`);
+    console.log(`- Średnia cena m² siedlisko: ${summary.avgHabitatPricePerM2} zł/m²`);
   }
 
   console.log(`\n[SUKCES] Zakończono proces scrapowania.`);

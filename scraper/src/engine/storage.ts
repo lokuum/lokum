@@ -1,10 +1,10 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import type { PropertyOffer, PropertyType, SummaryStats, Voivodeship } from 'shared';
-import { BACKUP_DATA_DIR, DATA_OUTPUT_DIR } from '../config.js';
+import { BACKUP_DATA_DIR, DATA_OUTPUT_DIR, SUPPORTED_TYPES, SUPPORTED_VOIVODESHIPS } from '../config.js';
 
 export function getPartitionFilename(voivodeship: Voivodeship, type: PropertyType): string {
-  const category = type === 'house' ? 'houses' : 'plots';
+  const category = type === 'house' ? 'houses' : type === 'plot' ? 'plots' : 'habitats';
   return `${category}-${voivodeship}.json`;
 }
 
@@ -52,6 +52,7 @@ export async function generateAndSaveSummary(allOffers: PropertyOffer[]): Promis
 
   const houses = activeOffers.filter((o) => o.propertyType === 'house');
   const plots = activeOffers.filter((o) => o.propertyType === 'plot');
+  const habitats = activeOffers.filter((o) => o.propertyType === 'habitat');
 
   const priceDrops = activeOffers.filter((o) => o.priceChangeAmount < 0 || o.status === 'price_drop');
 
@@ -65,6 +66,11 @@ export async function generateAndSaveSummary(allOffers: PropertyOffer[]): Promis
       ? Math.round(plots.reduce((acc, p) => acc + (p.currentPricePerM2 || 0), 0) / plots.length)
       : 0;
 
+  const avgHabitatM2 =
+    habitats.length > 0
+      ? Math.round(habitats.reduce((acc, h) => acc + (h.currentPricePerM2 || 0), 0) / habitats.length)
+      : 0;
+
   // Największe obniżki (posortowane po % spadku)
   const topPriceDrops = [...priceDrops]
     .sort((a, b) => a.priceChangePercent - b.priceChangePercent)
@@ -73,9 +79,11 @@ export async function generateAndSaveSummary(allOffers: PropertyOffer[]): Promis
   const summary: SummaryStats = {
     totalHouses: houses.length,
     totalPlots: plots.length,
+    totalHabitats: habitats.length,
     totalPriceDrops: priceDrops.length,
     avgHousePricePerM2: avgHouseM2,
     avgPlotPricePerM2: avgPlotM2,
+    avgHabitatPricePerM2: avgHabitatM2,
     lastUpdated: new Date().toISOString(),
     topPriceDrops,
   };
@@ -93,8 +101,8 @@ export async function generateAndSaveSummary(allOffers: PropertyOffer[]): Promis
 
 export async function generateSummaryFromAllPartitions(): Promise<SummaryStats> {
   const allOffers: PropertyOffer[] = [];
-  const voivodeships: Voivodeship[] = ['lubelskie', 'podlaskie', 'podkarpackie'];
-  const types: PropertyType[] = ['house', 'plot'];
+  const voivodeships: Voivodeship[] = [...SUPPORTED_VOIVODESHIPS];
+  const types: PropertyType[] = [...SUPPORTED_TYPES];
 
   for (const v of voivodeships) {
     for (const t of types) {

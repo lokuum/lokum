@@ -1928,40 +1928,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-4257546",
-    "source": "adresowo",
-    "sourceId": "4257546",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kuznica-lososna-wielka-1-ha-u9w3e1",
-    "propertyType": "plot",
-    "title": "Działka — Łosośna Wielka",
-    "voivodeship": "podlaskie",
-    "city": "Łosośna Wielka",
-    "coordinates": {
-      "lat": 53.1305480181881,
-      "lng": 23.164176037668526
-    },
-    "isNearBorder": true,
-    "areaM2": 10300,
-    "currentPrice": 100000,
-    "currentPricePerM2": 9.71,
-    "initialPrice": 100000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 100000,
-        "pricePerM2": 9.71
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T21:51:01.985Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3b/51/40f70a_5768_cover@2x-dzialka-siedliskowa-sokolski-lososna-wielka.webp",
-    "isDirectOwner": true,
-    "county": "sokolski"
-  },
-  {
     "id": "adresowo-4256916",
     "source": "adresowo",
     "sourceId": "4256916",
@@ -1994,40 +1960,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/21/72/40f494_5b48_cover@2x-dzialka-rolna-siemiatycki-osnowka.webp",
     "isDirectOwner": true,
     "county": "siemiatycki"
-  },
-  {
-    "id": "adresowo-4256538",
-    "source": "adresowo",
-    "sourceId": "4256538",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kolno-koziol-970-m2-a5p1a8",
-    "propertyType": "plot",
-    "title": "Działka — Kozioł",
-    "voivodeship": "podlaskie",
-    "city": "Kozioł",
-    "coordinates": {
-      "lat": 53.126029732110446,
-      "lng": 23.16389896927923
-    },
-    "isNearBorder": false,
-    "areaM2": 970,
-    "currentPrice": 210000,
-    "currentPricePerM2": 216.49,
-    "initialPrice": 210000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 210000,
-        "pricePerM2": 216.49
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T21:51:01.985Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5c/71/40f31a_b11b_cover@2x-dzialka-siedliskowa-kolnenski-koziol.webp",
-    "isDirectOwner": true,
-    "county": "kolnenski"
   },
   {
     "id": "adresowo-4259780",
@@ -3610,39 +3542,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "otodom-68423559",
-    "source": "otodom",
-    "sourceId": "68423559",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwa-dzialka-siedliskowa-1-03-ha-z-prywatnym-lasem-lososna-wielka-ID4D65N",
-    "propertyType": "plot",
-    "title": "Urokliwa działka siedliskowa 1,03 ha z prywatnym lasem –Łosośna Wielka",
-    "voivodeship": "podlaskie",
-    "county": "sokólski",
-    "city": "Łosośna Wielka",
-    "coordinates": {
-      "lat": 53.12615338070401,
-      "lng": 23.173314641681177
-    },
-    "isNearBorder": true,
-    "areaM2": 10294,
-    "currentPrice": 100000,
-    "currentPricePerM2": 9.71,
-    "initialPrice": 100000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 100000,
-        "pricePerM2": 9.71
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-15T17:09:16.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "isDirectOwner": true
-  },
-  {
     "id": "otodom-68068347",
     "source": "otodom",
     "sourceId": "68068347",
@@ -4479,40 +4378,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "otodom-68418511",
-    "source": "otodom",
-    "sourceId": "68418511",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-polozone-nad-lasami-i-lakami-ID4D4Mn",
-    "propertyType": "plot",
-    "title": "Siedlisko położone nad lasami i łąkami",
-    "voivodeship": "podlaskie",
-    "county": "augustowski",
-    "city": "Siółko",
-    "coordinates": {
-      "lat": 53.13391374311711,
-      "lng": 23.16804310522318
-    },
-    "isNearBorder": true,
-    "areaM2": 100000,
-    "currentPrice": 600000,
-    "currentPricePerM2": 6,
-    "initialPrice": 600000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 600000,
-        "pricePerM2": 6
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-14T15:44:48.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFxbzJobzRoNW1sYjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mg5Cix7v2ANUgCCr1YftCEazQuZC7r937jM9gPyZH0s/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
     "id": "otodom-68341258",
     "source": "otodom",
     "sourceId": "68341258",
@@ -4613,40 +4478,6 @@
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImszbmVhOWcxMm16czMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wpBjRDptC3S1rOzxj4JO2urJn27OdhoEEecieefPwyk/image;s=655x491;q=80",
     "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68417756",
-    "source": "otodom",
-    "sourceId": "68417756",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-z-siedliskiem-i-wz-na-dom-jednorodzinny-ID4D4Ac",
-    "propertyType": "plot",
-    "title": "Działka z siedliskiem i WZ na dom jednorodzinny!",
-    "voivodeship": "podlaskie",
-    "county": "białostocki",
-    "city": "Dobrzyniówka",
-    "coordinates": {
-      "lat": 53.13339387881877,
-      "lng": 23.16419055627432
-    },
-    "isNearBorder": true,
-    "areaM2": 2000,
-    "currentPrice": 299000,
-    "currentPricePerM2": 149.5,
-    "initialPrice": 299000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 299000,
-        "pricePerM2": 149.5
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-14T13:41:03.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVpejNiMzJzOXRhajEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jHa4o-oCHf8tq-ihy0wBra29xrUVo3m_-0ohtEZfPe4/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-67938794",
@@ -5443,40 +5274,6 @@
     "firstSeenAt": "2026-09-11T20:43:04.000Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJlNXZzc2M0ZWhheS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.X_27LDw4rtVmXzzo8r5kj9SGOse292-m7_vaCz92z_E/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-67988994",
-    "source": "otodom",
-    "sourceId": "67988994",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-suwalszczyzna-zadrzewione-wz-na-kolejny-budynek-ID4Bh2G",
-    "propertyType": "plot",
-    "title": "Siedlisko, suwalszczyzna, zadrzewione, WZ na kolejny budynek",
-    "voivodeship": "podlaskie",
-    "county": "suwalski",
-    "city": "Kazimierówka",
-    "coordinates": {
-      "lat": 53.13098477122212,
-      "lng": 23.177704537731536
-    },
-    "isNearBorder": true,
-    "areaM2": 5573,
-    "currentPrice": 850000,
-    "currentPricePerM2": 152.52,
-    "initialPrice": 850000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 850000,
-        "pricePerM2": 152.52
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-11T19:14:06.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV1eTJjazc2cjdqaTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ivCBoqD3QLPI2XxISz_x3cv3mvboTFGZb1UsuqoEi8I/image;s=655x491;q=80",
     "isDirectOwner": true
   },
   {
@@ -9075,40 +8872,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68220144",
-    "source": "otodom",
-    "sourceId": "68220144",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-siedliskowe-natura-2000-ID4CfaU",
-    "propertyType": "plot",
-    "title": "Działki siedliskowe Natura 2000",
-    "voivodeship": "podlaskie",
-    "county": "hajnowski",
-    "city": "Doratynka",
-    "coordinates": {
-      "lat": 53.13753286803045,
-      "lng": 23.177223579022694
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 105000,
-    "currentPricePerM2": 35,
-    "initialPrice": 105000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 105000,
-        "pricePerM2": 35
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-07T07:25:19.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV5Z3AxbXpmZXowNDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mwC-DmFMV3MuL0-998xIUYtUFpVKwT-m5-vYj_aM4I4/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
     "id": "otodom-68389164",
     "source": "otodom",
     "sourceId": "68389164",
@@ -11316,40 +11079,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68371561",
-    "source": "otodom",
-    "sourceId": "68371561",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gmina-korycin-14-19-ha-dzialki-rolne-80-000-zl-ha-siedlisko-ID4CSz7",
-    "propertyType": "plot",
-    "title": "Gmina Korycin 14,19 ha działki rolne 80.000 zł/ha + siedlisko",
-    "voivodeship": "podlaskie",
-    "county": "sokólski",
-    "city": "Krukowszczyzna",
-    "coordinates": {
-      "lat": 53.13377296636828,
-      "lng": 23.17271361232864
-    },
-    "isNearBorder": true,
-    "areaM2": 10000,
-    "currentPrice": 80000,
-    "currentPricePerM2": 8,
-    "initialPrice": 80000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 80000,
-        "pricePerM2": 8
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-01T16:47:18.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdneXlxaHIwamsweC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.gFYlle7eVTpVGujEhXulefNlMgbvO_JFl1-G4jTvi1U/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68370923",
     "source": "otodom",
     "sourceId": "68370923",
@@ -12554,40 +12283,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68361697",
-    "source": "otodom",
-    "sourceId": "68361697",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwe-siedlisko-na-podlasiu-ostrow-polnocny-ID4CQ01",
-    "propertyType": "plot",
-    "title": "Urokliwe siedlisko na Podlasiu - Ostrów Północny",
-    "voivodeship": "podlaskie",
-    "county": "sokólski",
-    "city": "Ostrów Północny",
-    "coordinates": {
-      "lat": 53.13741601217537,
-      "lng": 23.16968258167778
-    },
-    "isNearBorder": true,
-    "areaM2": 4831,
-    "currentPrice": 266000,
-    "currentPricePerM2": 55.06,
-    "initialPrice": 266000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 266000,
-        "pricePerM2": 55.06
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-29T11:08:05.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImoydDA5MTVpamYxODItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3za1vPGVhrwMbhmWqYeaje0Ubs5ENriJXeaJtI_683U/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
     "id": "otodom-68361684",
     "source": "otodom",
     "sourceId": "68361684",
@@ -13786,40 +13481,6 @@
     "firstSeenAt": "2026-08-26T17:14:13.000Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inl3Z2xkczJ3MDZ2cS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.3rZB4Vu3WARoJRpScMdaV4NJROmFcL84wOqzycZzvRc/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68351668",
-    "source": "otodom",
-    "sourceId": "68351668",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-5-km-od-zalewu-siemianowka-ID4CNog",
-    "propertyType": "plot",
-    "title": "Działka siedliskowa 5 km od zalewu Siemianówka",
-    "voivodeship": "podlaskie",
-    "county": "hajnowski",
-    "city": "Eliaszuki",
-    "coordinates": {
-      "lat": 53.13721171673067,
-      "lng": 23.17587932282657
-    },
-    "isNearBorder": true,
-    "areaM2": 73337,
-    "currentPrice": 249000,
-    "currentPricePerM2": 3.4,
-    "initialPrice": 249000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 249000,
-        "pricePerM2": 3.4
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-26T11:06:26.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im90OGk2NzgzZm5hODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MaDq5kz54yFO5rj-2ejVmbVlMi8QRWQ0g9zco9nyQKM/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -17492,40 +17153,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68320980",
-    "source": "otodom",
-    "sourceId": "68320980",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowe-siedlisko-w-otulinie-lasow-ID4CFpi",
-    "propertyType": "plot",
-    "title": "Wyjątkowe Siedlisko W Otulinie Lasów",
-    "voivodeship": "podlaskie",
-    "county": "siemiatycki",
-    "city": "Siemichocze",
-    "coordinates": {
-      "lat": 53.1393134880252,
-      "lng": 23.178562325948196
-    },
-    "isNearBorder": true,
-    "areaM2": 151701,
-    "currentPrice": 1137758,
-    "currentPricePerM2": 7.5,
-    "initialPrice": 1137758,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1137758,
-        "pricePerM2": 7.5
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-17T13:07:07.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQ5M3NjdGE0cDZhdTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pvlYGh763KQeZiC1v9bByQXhvhsF1L1RYv8XqDYMKg4/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67905165",
     "source": "otodom",
     "sourceId": "67905165",
@@ -17593,40 +17220,6 @@
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh4bjltaDUwaWFhcC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.e2Q9mBRWqbCHXXAdEofqec_hrfnzKs3DN1jFTtzbJEc/image;s=655x491;q=80",
     "isDirectOwner": false
-  },
-  {
-    "id": "otodom-66865354",
-    "source": "otodom",
-    "sourceId": "66865354",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-gospodarstwo-rolne-zabudowane-danowo-ID4vyJs",
-    "propertyType": "plot",
-    "title": "Sprzedam gospodarstwo rolne zabudowane- DANOWO",
-    "voivodeship": "podlaskie",
-    "county": "grajewski",
-    "city": "Danowo",
-    "coordinates": {
-      "lat": 53.13513181851829,
-      "lng": 23.176256598572845
-    },
-    "isNearBorder": false,
-    "areaM2": 9500,
-    "currentPrice": 1500000,
-    "currentPricePerM2": 157.89,
-    "initialPrice": 1500000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1500000,
-        "pricePerM2": 157.89
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-16T08:40:40.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlldXUweXRnd3JqOTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Nlli1UuK5SXwoRe9I1uuYMUrDIzaUnjp8nkbo1juKQ4/image;s=655x491;q=80",
-    "isDirectOwner": true
   },
   {
     "id": "otodom-67368693",
@@ -18377,40 +17970,6 @@
     "firstSeenAt": "2026-08-12T12:13:49.000Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxrenNiMmJ4cXU2azEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ajytiNfjmde6tRZgLOUkXqMPeD3eQDF8ekpVyTjIUWs/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68306841",
-    "source": "otodom",
-    "sourceId": "68306841",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-3000-m-ID4CBJf",
-    "propertyType": "plot",
-    "title": "Działka siedliskowa 3000 m²",
-    "voivodeship": "podlaskie",
-    "county": "białostocki",
-    "city": "Rafałówka",
-    "coordinates": {
-      "lat": 53.13436891992855,
-      "lng": 23.164212014414666
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 159000,
-    "currentPricePerM2": 53,
-    "initialPrice": 159000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 159000,
-        "pricePerM2": 53
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-12T12:08:30.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndlMHBpNHBhZzJndjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.IpA07ZxVXNWOPrythpDMfmyk-6QpxuLzT-_jBJAp2uE/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -19511,40 +19070,6 @@
     "isDirectOwner": true,
     "county": "białostocki",
     "previousPrice": 810000
-  },
-  {
-    "id": "otodom-68273932",
-    "source": "otodom",
-    "sourceId": "68273932",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-widokiem-na-las-stary-szor-15-km-od-sokolki-ID4Ctas",
-    "propertyType": "plot",
-    "title": "SIEDLISKO Z WIDOKIEM NA LAS – Stary Szor, 15 km od Sokółki",
-    "voivodeship": "podlaskie",
-    "county": "sokólski",
-    "city": "Stary Szor",
-    "coordinates": {
-      "lat": 53.13423295274629,
-      "lng": 23.1616181673125
-    },
-    "isNearBorder": true,
-    "areaM2": 9300,
-    "currentPrice": 370000,
-    "currentPricePerM2": 39.78,
-    "initialPrice": 370000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 370000,
-        "pricePerM2": 39.78
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-09T09:35:07.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJhamxyNmdha2owbTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6pe42UYISZQmM7N1GNWQSgLtYfgsj3btMjIJJC4t3UE/image;s=655x491;q=80",
-    "isDirectOwner": true
   },
   {
     "id": "otodom-67833431",
@@ -22928,40 +22453,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68266331",
-    "source": "otodom",
-    "sourceId": "68266331",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-ID4CrbR",
-    "propertyType": "plot",
-    "title": "Działka siedliskowa",
-    "voivodeship": "podlaskie",
-    "county": "białostocki",
-    "city": "Kobuzie",
-    "coordinates": {
-      "lat": 53.13054717209138,
-      "lng": 23.169684521143612
-    },
-    "isNearBorder": true,
-    "areaM2": 3048,
-    "currentPrice": 240000,
-    "currentPricePerM2": 78.74,
-    "initialPrice": 240000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 240000,
-        "pricePerM2": 78.74
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-30T12:49:43.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im96aXBsc3ozb2EydzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.g9AbVMpp7yzEun_31rR7KmCleV-CB5U8oNtLm65RQM8/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68266301",
     "source": "otodom",
     "sourceId": "68266301",
@@ -23574,40 +23065,6 @@
     "firstSeenAt": "2026-07-29T09:43:26.000Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZyMjgyd2p5Y2p2ZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.s2EBci42Hxjp5Ctjgq7OiBDxa0_8t038Hz0oi8d8eA8/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-59613151",
-    "source": "otodom",
-    "sourceId": "59613151",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-rolne-w-zaciszu-z-warunkami-zabudowy-zagrodowej-ID4286r",
-    "propertyType": "plot",
-    "title": "Działki rolne w Zaciszu z warunkami zabudowy zagrodowej",
-    "voivodeship": "podlaskie",
-    "county": "białostocki",
-    "city": "Zacisze",
-    "coordinates": {
-      "lat": 53.13207322639877,
-      "lng": 23.175370213264955
-    },
-    "isNearBorder": true,
-    "areaM2": 31600,
-    "currentPrice": 590000,
-    "currentPricePerM2": 18.67,
-    "initialPrice": 590000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 590000,
-        "pricePerM2": 18.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-29T03:58:05.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU2cGJ6ZjJmdXZsby1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.S2FcEfLABl2vm5nAoXBvS2-WpmIqzQ2x-NLxEWJAEKw/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -24564,40 +24021,6 @@
     "firstSeenAt": "2026-07-26T13:52:35.000Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBodm1hcmNqaXY2cTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.m1k7uNK5_KvanHeWp61s6p42Ms03cuGw6GbfAM6yZVE/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68177577",
-    "source": "otodom",
-    "sourceId": "68177577",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-13400-m-nowy-dwor-ID4C46l",
-    "propertyType": "plot",
-    "title": "Działka  siedliskowa 13400 m² Nowy Dwór",
-    "voivodeship": "podlaskie",
-    "county": "sokólski",
-    "city": "Nowy Dwór",
-    "coordinates": {
-      "lat": 53.13188324971124,
-      "lng": 23.172220641562177
-    },
-    "isNearBorder": true,
-    "areaM2": 30000,
-    "currentPrice": 245000,
-    "currentPricePerM2": 8.17,
-    "initialPrice": 245000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 245000,
-        "pricePerM2": 8.17
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-26T13:42:08.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtsNjhna281ZnpvczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3aNvbG8pT-n-K8niQxz5NnFe8hCyBLW7OGWXeST9NGQ/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -29833,41 +29256,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68158114",
-    "source": "otodom",
-    "sourceId": "68158114",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urocze-siedlisko-w-bialogorach-gmina-giby-ID4BZ2q",
-    "propertyType": "plot",
-    "title": "Urocze siedlisko w Białogórach gmina Giby",
-    "voivodeship": "podlaskie",
-    "county": "sejneński",
-    "city": "Białogóry",
-    "street": "Białogóry 28",
-    "coordinates": {
-      "lat": 53.135774690490756,
-      "lng": 23.160973926587303
-    },
-    "isNearBorder": true,
-    "areaM2": 14476,
-    "currentPrice": 499000,
-    "currentPricePerM2": 34.47,
-    "initialPrice": 499000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 499000,
-        "pricePerM2": 34.47
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-30T13:25:54.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJndzBzNzRkbjU3MTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5v8Fa-N43D2Lrrfi9DLBvvqflE953XXVJDpaAfqs15s/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67992180",
     "source": "otodom",
     "sourceId": "67992180",
@@ -30273,40 +29661,6 @@
     "firstSeenAt": "2026-06-29T09:17:38.000Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlpMm5qN3Nkczl6OTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.AUOWaQ1vezLlYwf_qyj6hxv6MYHjubRcbhomCQgGrLg/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68152561",
-    "source": "otodom",
-    "sourceId": "68152561",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-siedliskowe-w-gminie-choroszcz-ID4BXAR",
-    "propertyType": "plot",
-    "title": "Działki siedliskowe  w gminie Choroszcz",
-    "voivodeship": "podlaskie",
-    "county": "białostocki",
-    "city": "Zaczerlany",
-    "coordinates": {
-      "lat": 53.13461051820222,
-      "lng": 23.165840807345205
-    },
-    "isNearBorder": true,
-    "areaM2": 3001,
-    "currentPrice": 330000,
-    "currentPricePerM2": 109.96,
-    "initialPrice": 330000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 330000,
-        "pricePerM2": 109.96
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-29T08:45:35.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRocXRwdDlnaXFuYzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ZgcSKLvPGwS6_tydDqmcl8dHrFmLdyBN41NQ0dcasZ4/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -31554,40 +30908,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-66942993",
-    "source": "otodom",
-    "sourceId": "66942993",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/16-ha-ziemi-z-siedliskiem-ID4vSWH",
-    "propertyType": "plot",
-    "title": "16 ha ziemi z siedliskiem",
-    "voivodeship": "podlaskie",
-    "county": "sejneński",
-    "city": "Berżałowce",
-    "coordinates": {
-      "lat": 53.13435200518297,
-      "lng": 23.15974039826259
-    },
-    "isNearBorder": true,
-    "areaM2": 157921,
-    "currentPrice": 1230000,
-    "currentPricePerM2": 7.79,
-    "initialPrice": 1230000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1230000,
-        "pricePerM2": 7.79
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-20T10:33:09.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhzZTViNzlsM2J0djEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8vuHBpMYcx6Yvg9a0cNyC8hOnCZAdwf1crQU93hX0Tw/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68126563",
     "source": "otodom",
     "sourceId": "68126563",
@@ -32233,74 +31553,6 @@
     "firstSeenAt": "2026-06-17T09:47:04.000Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9yc3AxNm8yZjV0MzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JiEFVP_YMlO7229TYhXSpND3w2YlnU13zQ5mBdS3WTc/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68116068",
-    "source": "otodom",
-    "sourceId": "68116068",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-dzialka-siedliskowa-nad-czarna-hancza-ID4BO6g",
-    "propertyType": "plot",
-    "title": "Na sprzedaż działka siedliskowa nad Czarną Hańczą.",
-    "voivodeship": "podlaskie",
-    "county": "suwalski",
-    "city": "Podwysokie Jeleniewskie",
-    "coordinates": {
-      "lat": 53.12720504536336,
-      "lng": 23.167923098120752
-    },
-    "isNearBorder": true,
-    "areaM2": 6890,
-    "currentPrice": 280000,
-    "currentPricePerM2": 40.64,
-    "initialPrice": 280000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 280000,
-        "pricePerM2": 40.64
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-17T09:27:34.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRyN3o1bTdpOXpkaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.NwB6Cree6BJnWrow4wl5USuyMsaoPwXRSOo_WIIwDm4/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68116055",
-    "source": "otodom",
-    "sourceId": "68116055",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-z-dostepem-do-rzeki-ID4BO63",
-    "propertyType": "plot",
-    "title": "Działka siedliskowa z dostępem do rzeki",
-    "voivodeship": "podlaskie",
-    "county": "suwalski",
-    "city": "Podwysokie Jeleniewskie",
-    "coordinates": {
-      "lat": 53.12846361234656,
-      "lng": 23.161907405678463
-    },
-    "isNearBorder": true,
-    "areaM2": 6347,
-    "currentPrice": 260000,
-    "currentPricePerM2": 40.96,
-    "initialPrice": 260000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 260000,
-        "pricePerM2": 40.96
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-17T09:24:24.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFqYWF4dTJscXA0ZjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mjgw1br9wBt0LZru1PodNRYQvf8ms6ujGPjgE_dZFz0/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -33192,40 +32444,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68106376",
-    "source": "otodom",
-    "sourceId": "68106376",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/duza-dzialka-pod-zabudowe-zagrodowa-w-pogorzalkach-ID4BLzV",
-    "propertyType": "plot",
-    "title": "Duża działka pod zabudowę zagrodową w Pogorzałkach.",
-    "voivodeship": "podlaskie",
-    "county": "białostocki",
-    "city": "Pogorzałki",
-    "coordinates": {
-      "lat": 53.126077076266746,
-      "lng": 23.168226742497282
-    },
-    "isNearBorder": true,
-    "areaM2": 8820,
-    "currentPrice": 495000,
-    "currentPricePerM2": 56.12,
-    "initialPrice": 495000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 495000,
-        "pricePerM2": 56.12
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-14T18:11:03.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdjYjZ5OGVha2g0eDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kWoVQCYIzzetJOKtwRyGBAUb_ZFa0-wMMYm7sROZ_b0/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67719659",
     "source": "otodom",
     "sourceId": "67719659",
@@ -33602,40 +32820,6 @@
     "firstSeenAt": "2026-06-11T13:16:46.000Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRjaWhpbDRlZnRjMzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.OYKqNQYp0p_C5bdToX3JSOML6bb-4M3XZgJ-K7igBsI/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68097984",
-    "source": "otodom",
-    "sourceId": "68097984",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-siedlisko-zagruszany-gm-zabludow-ID4BJoA",
-    "propertyType": "plot",
-    "title": "Na sprzedaż siedlisko – Zagruszany, gm. Zabłudów",
-    "voivodeship": "podlaskie",
-    "county": "białostocki",
-    "city": "Zagruszany",
-    "coordinates": {
-      "lat": 53.134993274791555,
-      "lng": 23.161223544219325
-    },
-    "isNearBorder": true,
-    "areaM2": 5136,
-    "currentPrice": 385200,
-    "currentPricePerM2": 75,
-    "initialPrice": 385200,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 385200,
-        "pricePerM2": 75
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-11T12:30:53.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN2c3I2dGpsZDV6ZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UkdhDKtmnUvZY7mpf9299y6NF96UalXpg4TEQar3ITA/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -34567,74 +33751,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68083228",
-    "source": "otodom",
-    "sourceId": "68083228",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/lazy-krosna-siedlisko-nad-narwia-1-85-ha-ID4BFyA",
-    "propertyType": "plot",
-    "title": "ŁAZY KROSNA – SIEDLISKO NAD NARWIĄ  1,85 HA",
-    "voivodeship": "podlaskie",
-    "county": "białostocki",
-    "city": "Łazy Małe",
-    "coordinates": {
-      "lat": 53.12551945794119,
-      "lng": 23.17825810194697
-    },
-    "isNearBorder": true,
-    "areaM2": 18500,
-    "currentPrice": 449000,
-    "currentPricePerM2": 24.27,
-    "initialPrice": 449000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 449000,
-        "pricePerM2": 24.27
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-08T07:16:22.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRyeGZyczFuM2Jpdi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.3BXdOV6ZQRh2NbO_dvZssOjVFC5Y7vXNYKMFUN4NiI0/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67983790",
-    "source": "otodom",
-    "sourceId": "67983790",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-z-wydanymi-warunkami-zabudowy-ID4BfGK",
-    "propertyType": "plot",
-    "title": "Działka siedliskowa z wydanymi warunkami zabudowy",
-    "voivodeship": "podlaskie",
-    "county": "augustowski",
-    "city": "Wrotki",
-    "coordinates": {
-      "lat": 53.129605956818,
-      "lng": 23.161853625976818
-    },
-    "isNearBorder": true,
-    "areaM2": 11264,
-    "currentPrice": 150000,
-    "currentPricePerM2": 13.32,
-    "initialPrice": 150000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 150000,
-        "pricePerM2": 13.32
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-08T05:04:53.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijk2ZHhmam9wZ2Z5NS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.FBONCOz3y9R5WDGTLMfxcTg4bPDMf7N7Fc_aGXtDsYk/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68079698",
     "source": "otodom",
     "sourceId": "68079698",
@@ -35314,40 +34430,6 @@
     "firstSeenAt": "2026-06-01T07:22:03.000Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRoeHM5bXpleHY5dzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Puaixm5_202JiUezeBRskfwQP0XU_h26LqDLmAg3fOw/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68062022",
-    "source": "otodom",
-    "sourceId": "68062022",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-ogromnym-potencjalem-policzna-ID4BA2y",
-    "propertyType": "plot",
-    "title": "Siedlisko z ogromnym potencjałem | Policzna",
-    "voivodeship": "podlaskie",
-    "county": "hajnowski",
-    "city": "Kruhłe",
-    "coordinates": {
-      "lat": 53.139051860727974,
-      "lng": 23.16122132988843
-    },
-    "isNearBorder": true,
-    "areaM2": 3500,
-    "currentPrice": 110000,
-    "currentPricePerM2": 31.43,
-    "initialPrice": 110000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 110000,
-        "pricePerM2": 31.43
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-31T08:04:25.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxzN3RpeHdvMm80NTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vEpeAdAXRs7Cuq-GGoe2zsLh9KBpgWRvJyCcdI7-zpE/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -36617,40 +35699,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67743089",
-    "source": "otodom",
-    "sourceId": "67743089",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-rolna-2-56-ha-z-potencjalem-siedliskowym-ID4Af4t",
-    "propertyType": "plot",
-    "title": "Działka rolna 2,56 ha z potencjałem siedliskowym",
-    "voivodeship": "podlaskie",
-    "county": "siemiatycki",
-    "city": "Augustynka",
-    "coordinates": {
-      "lat": 53.139521241156565,
-      "lng": 23.172606120777836
-    },
-    "isNearBorder": true,
-    "areaM2": 25611,
-    "currentPrice": 99883,
-    "currentPricePerM2": 3.9,
-    "initialPrice": 99883,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 99883,
-        "pricePerM2": 3.9
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-15T12:05:55.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUxODhkdjFzMGR0aTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.myrvDuuL1QQdfhlvGsQ2V4cIeuW2YOJ5C2D32wtxQdk/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68007805",
     "source": "otodom",
     "sourceId": "68007805",
@@ -36750,40 +35798,6 @@
     "firstSeenAt": "2026-05-15T06:54:50.000Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ind4ZmVmcTRuemdnMy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.qMAnOcT7tRfySPgQoo8jTlYSongXyRq0FxIZmWErdXw/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68005253",
-    "source": "otodom",
-    "sourceId": "68005253",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-zielony-gaj-21-87ha-ID4BlgW",
-    "propertyType": "plot",
-    "title": "Siedlisko Zielony Gaj 21,87ha",
-    "voivodeship": "podlaskie",
-    "county": "sokólski",
-    "city": "Zielony Gaj",
-    "coordinates": {
-      "lat": 53.13374863460218,
-      "lng": 23.165322406833983
-    },
-    "isNearBorder": true,
-    "areaM2": 218700,
-    "currentPrice": 1190000,
-    "currentPricePerM2": 5.44,
-    "initialPrice": 1190000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1190000,
-        "pricePerM2": 5.44
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-14T12:59:49.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN4amo1Y3hkYTNrcDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._3woikg7CHdaQ0nQ9BeEd9gH52FDcrxKBB-Bus93od8/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -38648,40 +37662,6 @@
     "county": "wysokomazowiecki"
   },
   {
-    "id": "adresowo-4248198",
-    "source": "adresowo",
-    "sourceId": "4248198",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-perlejewo-granne-1-ha-m3l3r2",
-    "propertyType": "plot",
-    "title": "Działka — Granne",
-    "voivodeship": "podlaskie",
-    "city": "Granne",
-    "coordinates": {
-      "lat": 53.139616301527084,
-      "lng": 23.17394660600911
-    },
-    "isNearBorder": true,
-    "areaM2": 10500,
-    "currentPrice": 749000,
-    "currentPricePerM2": 71.33,
-    "initialPrice": 749000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 749000,
-        "pricePerM2": 71.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:09.280Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3a/79/40d286_e32b_cover@2x-dzialka-siedliskowa-siemiatycki-granne.webp",
-    "isDirectOwner": true,
-    "county": "siemiatycki"
-  },
-  {
     "id": "adresowo-4259706",
     "source": "adresowo",
     "sourceId": "4259706",
@@ -38885,40 +37865,6 @@
     "firstSeenAt": "2026-09-17T22:17:09.280Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://s2.adresowa.pl/oi/7a/61/40ff76_b8aa_cover@2x-dzialka-rolna-sokolski-orlowicze.webp",
-    "isDirectOwner": true,
-    "county": "sokolski"
-  },
-  {
-    "id": "adresowo-4259700",
-    "source": "adresowo",
-    "sourceId": "4259700",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-dabrowa-bialostocka-hamulka-2-647-m2-p3u9k8",
-    "propertyType": "plot",
-    "title": "Działka — Hamulka",
-    "voivodeship": "podlaskie",
-    "city": "Hamulka",
-    "coordinates": {
-      "lat": 53.12530192940308,
-      "lng": 23.17554661651582
-    },
-    "isNearBorder": true,
-    "areaM2": 2647,
-    "currentPrice": 109000,
-    "currentPricePerM2": 41.18,
-    "initialPrice": 109000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 109000,
-        "pricePerM2": 41.18
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:09.280Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7c/2d/40ff74_4077_cover@2x-dzialka-siedliskowa-sokolski-hamulka.webp",
     "isDirectOwner": true,
     "county": "sokolski"
   },
@@ -40297,40 +39243,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-4238586",
-    "source": "adresowo",
-    "sourceId": "4238586",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-maly-plock-kolaki-wietrzychowo-7-900-m2-c7h6n0",
-    "propertyType": "plot",
-    "title": "Działka — Kołaki-Wietrzychowo",
-    "voivodeship": "podlaskie",
-    "city": "Kołaki-Wietrzychowo",
-    "coordinates": {
-      "lat": 53.127952192756254,
-      "lng": 23.159159359988355
-    },
-    "isNearBorder": false,
-    "areaM2": 7900,
-    "currentPrice": 190000,
-    "currentPricePerM2": 24.05,
-    "initialPrice": 190000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 190000,
-        "pricePerM2": 24.05
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:09.280Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/48/57/40acfa_5168_cover@2x-dzialka-siedliskowa-kolnenski-kolaki-wietrzychowo.webp",
-    "isDirectOwner": true,
-    "county": "kolnenski"
-  },
-  {
     "id": "adresowo-4238220",
     "source": "adresowo",
     "sourceId": "4238220",
@@ -40846,40 +39758,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/23/67/40a140_507d_cover@2x-dzialka-budowlana-bialostocki-markowszczyzna.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-4235390",
-    "source": "adresowo",
-    "sourceId": "4235390",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-suchowola-zgierszczanskie-5-000-m2-k7n0o8",
-    "propertyType": "plot",
-    "title": "Działka — Zgierszczańskie",
-    "voivodeship": "podlaskie",
-    "city": "Zgierszczańskie",
-    "coordinates": {
-      "lat": 53.13353068461872,
-      "lng": 23.175847840446792
-    },
-    "isNearBorder": true,
-    "areaM2": 5000,
-    "currentPrice": 1000000,
-    "currentPricePerM2": 200,
-    "initialPrice": 1000000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1000000,
-        "pricePerM2": 200
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:09.280Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/49/28/40a07e_7eba_cover@2x-dzialka-siedliskowa-sokolski-zgierszczanskie.webp",
-    "isDirectOwner": true,
-    "county": "sokolski"
   },
   {
     "id": "adresowo-4235260",
@@ -41777,40 +40655,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/40/65/408e0a_c561_cover@2x-dzialka-budowlana-wysokomazowiecki-wysokie-mazowieckie.webp",
     "isDirectOwner": true,
     "county": "wysokomazowiecki"
-  },
-  {
-    "id": "adresowo-4229544",
-    "source": "adresowo",
-    "sourceId": "4229544",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-grodek-chomontowce-4-000-m2-s2c4k5",
-    "propertyType": "plot",
-    "title": "Działka — Chomontowce",
-    "voivodeship": "podlaskie",
-    "city": "Chomontowce",
-    "coordinates": {
-      "lat": 53.128913368141745,
-      "lng": 23.163336548993083
-    },
-    "isNearBorder": true,
-    "areaM2": 4000,
-    "currentPrice": 189000,
-    "currentPricePerM2": 47.25,
-    "initialPrice": 189000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 189000,
-        "pricePerM2": 47.25
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:11.433Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/64/46/4089a8_3934_cover@2x-dzialka-siedliskowa-bialostocki-chomontowce.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
   },
   {
     "id": "adresowo-4259598",
@@ -44624,40 +43468,6 @@
     "county": "lomzynski"
   },
   {
-    "id": "adresowo-4202800",
-    "source": "adresowo",
-    "sourceId": "4202800",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-tykocin-krosno-1-ha-j8h0z3",
-    "propertyType": "plot",
-    "title": "Działka — Krosno",
-    "voivodeship": "podlaskie",
-    "city": "Krosno",
-    "coordinates": {
-      "lat": 49.69564231393961,
-      "lng": 21.773323367541845
-    },
-    "isNearBorder": true,
-    "areaM2": 17200,
-    "currentPrice": 1200000,
-    "currentPricePerM2": 69.77,
-    "initialPrice": 1200000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1200000,
-        "pricePerM2": 69.77
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:11.433Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/25/26/402130_554e_cover@2x-dzialka-siedliskowa-bialostocki-krosno.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
     "id": "adresowo-4213392",
     "source": "adresowo",
     "sourceId": "4213392",
@@ -46616,40 +45426,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-4200002",
-    "source": "adresowo",
-    "sourceId": "4200002",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wysokie-mazowieckie-mystki-rzym-3-900-m2-h5k5c1",
-    "propertyType": "plot",
-    "title": "Działka — Mystki-Rzym",
-    "voivodeship": "podlaskie",
-    "city": "Mystki-Rzym",
-    "coordinates": {
-      "lat": 53.13807132235355,
-      "lng": 23.170334825015725
-    },
-    "isNearBorder": false,
-    "areaM2": 3900,
-    "currentPrice": 400000,
-    "currentPricePerM2": 102.56,
-    "initialPrice": 400000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 400000,
-        "pricePerM2": 102.56
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:13.746Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1c/50/401642_3547_cover@2x-dzialka-siedliskowa-wysokomazowiecki-mystki-rzym.webp",
-    "isDirectOwner": true,
-    "county": "wysokomazowiecki"
-  },
-  {
     "id": "adresowo-4199960",
     "source": "adresowo",
     "sourceId": "4199960",
@@ -46894,40 +45670,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/32/4e/400c98_d983_cover@2x-dzialka-budowlana-bialostocki-halickie.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-4149776",
-    "source": "adresowo",
-    "sourceId": "4149776",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-nowy-dwor-3-ha-s3p5n4",
-    "propertyType": "plot",
-    "title": "Działka — Nowy Dwór",
-    "voivodeship": "podlaskie",
-    "city": "Nowy Dwór",
-    "coordinates": {
-      "lat": 53.13215104372815,
-      "lng": 23.17505608150385
-    },
-    "isNearBorder": true,
-    "areaM2": 30000,
-    "currentPrice": 245000,
-    "currentPricePerM2": 8.17,
-    "initialPrice": 245000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 245000,
-        "pricePerM2": 8.17
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:13.746Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/66/26/3f5210_b6ff_cover@2x-dzialka-siedliskowa-sokolski-nowy-dwor.webp",
-    "isDirectOwner": true,
-    "county": "sokolski"
   },
   {
     "id": "adresowo-4148590",
@@ -47305,40 +46047,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/5b/3e/3efdf4_55a9_cover@2x-dzialka-budowlana-bialostocki-izbiszcze.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-4196500",
-    "source": "adresowo",
-    "sourceId": "4196500",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-suwalki-osinki-7-561-m2-i0m6t1",
-    "propertyType": "plot",
-    "title": "Działka — Osinki",
-    "voivodeship": "podlaskie",
-    "city": "Osinki",
-    "coordinates": {
-      "lat": 53.134485528370426,
-      "lng": 23.170437874973246
-    },
-    "isNearBorder": true,
-    "areaM2": 7561,
-    "currentPrice": 530000,
-    "currentPricePerM2": 70.1,
-    "initialPrice": 530000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 530000,
-        "pricePerM2": 70.1
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:13.746Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3f/55/400894_c3cc_cover@2x-dzialka-siedliskowa-suwalski-osinki.webp",
-    "isDirectOwner": true,
-    "county": "suwalski"
   },
   {
     "id": "adresowo-4196090",
@@ -47924,40 +46632,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/3b/65/3d2c36_beee_cover@2x-dzialka-inwestycyjna-suwalski-gulbieniszki.webp",
     "isDirectOwner": true,
     "county": "suwalski"
-  },
-  {
-    "id": "adresowo-3992418",
-    "source": "adresowo",
-    "sourceId": "3992418",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-rajgrod-orzechowka-4-464-m2-g3d4u2",
-    "propertyType": "plot",
-    "title": "Działka — Orzechówka",
-    "voivodeship": "podlaskie",
-    "city": "Orzechówka",
-    "coordinates": {
-      "lat": 53.139516122584894,
-      "lng": 23.162820921457897
-    },
-    "isNearBorder": false,
-    "areaM2": 4464,
-    "currentPrice": 95000,
-    "currentPricePerM2": 21.28,
-    "initialPrice": 95000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 95000,
-        "pricePerM2": 21.28
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:13.746Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/18/51/3ceb62_97bc_cover@2x-dzialka-siedliskowa-grajewski-orzechowka.webp",
-    "isDirectOwner": true,
-    "county": "grajewski"
   },
   {
     "id": "adresowo-4192182",
@@ -49126,75 +47800,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-3831972",
-    "source": "adresowo",
-    "sourceId": "3831972",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-suwalki-ul-polnocna-g2c6e4",
-    "propertyType": "plot",
-    "title": "Działka — Suwałki, ul. Północna",
-    "voivodeship": "podlaskie",
-    "city": "Suwałki",
-    "street": "ul. Północna",
-    "coordinates": {
-      "lat": 54.09495413953602,
-      "lng": 22.935111648045588
-    },
-    "isNearBorder": true,
-    "areaM2": 15900,
-    "currentPrice": 869000,
-    "currentPricePerM2": 54.65,
-    "initialPrice": 869000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 869000,
-        "pricePerM2": 54.65
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:13.746Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/49/1c/3a78a4_3fc4_cover@2x-dzialka-siedliskowa-suwalki.webp",
-    "isDirectOwner": true,
-    "county": "suwalski"
-  },
-  {
-    "id": "adresowo-4183332",
-    "source": "adresowo",
-    "sourceId": "4183332",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-turosl-popiolki-7-ha-h4q8a0",
-    "propertyType": "plot",
-    "title": "Działka — Popiołki",
-    "voivodeship": "podlaskie",
-    "city": "Popiołki",
-    "coordinates": {
-      "lat": 53.13517386559313,
-      "lng": 23.159780763641418
-    },
-    "isNearBorder": false,
-    "areaM2": 75300,
-    "currentPrice": 945000,
-    "currentPricePerM2": 12.55,
-    "initialPrice": 945000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 945000,
-        "pricePerM2": 12.55
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:13.746Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3c/28/3fd524_6f07_cover@2x-dzialka-siedliskowa-kolnenski-popiolki.webp",
-    "isDirectOwner": true,
-    "county": "kolnenski"
-  },
-  {
     "id": "adresowo-4183296",
     "source": "adresowo",
     "sourceId": "4183296",
@@ -49363,41 +47968,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/5c/4e/3fd2a0_69c1_cover@2x-dzialka-rolno-budowlana-bialostocki-wolka-przedmiescie.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-4182390",
-    "source": "adresowo",
-    "sourceId": "4182390",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-filipow-nowa-debszczyzna-3-000-m2-k3f2k1",
-    "propertyType": "plot",
-    "title": "Działka — Nowa Dębszczyzna, Jemielistka Linia",
-    "voivodeship": "podlaskie",
-    "city": "Nowa Dębszczyzna",
-    "street": "Jemielistka Linia",
-    "coordinates": {
-      "lat": 53.129515910346846,
-      "lng": 23.173121797307434
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 75000,
-    "currentPricePerM2": 25,
-    "initialPrice": 75000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 75000,
-        "pricePerM2": 25
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:13.746Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1d/4e/3fd176_a20d_cover@2x-dzialka-siedliskowa-suwalski-nowa-debszczyzna.webp",
-    "isDirectOwner": true,
-    "county": "suwalski"
   },
   {
     "id": "adresowo-4182102",
@@ -49948,40 +48518,6 @@
     "county": "łomżyński"
   },
   {
-    "id": "adresowo-3819256",
-    "source": "adresowo",
-    "sourceId": "3819256",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-turosn-koscielna-borowskie-gziki-3-001-m2-h9i9n1",
-    "propertyType": "plot",
-    "title": "Działka — Borowskie Gziki",
-    "voivodeship": "podlaskie",
-    "city": "Borowskie Gziki",
-    "coordinates": {
-      "lat": 53.13666853061482,
-      "lng": 23.16946066466779
-    },
-    "isNearBorder": true,
-    "areaM2": 3001,
-    "currentPrice": 200000,
-    "currentPricePerM2": 66.64,
-    "initialPrice": 200000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 200000,
-        "pricePerM2": 66.64
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:16.341Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/32/38/3a46f8_4868_cover@2x-dzialka-siedliskowa-bialostocki-borowskie-gziki.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
     "id": "adresowo-3819246",
     "source": "adresowo",
     "sourceId": "3819246",
@@ -50084,40 +48620,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/1d/53/3fbd0e_2d88_cover@2x-dzialka-budowlana-bialostocki-tykocin.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-4176758",
-    "source": "adresowo",
-    "sourceId": "4176758",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-rajgrod-orzechowka-4-800-m2-g4g6a0",
-    "propertyType": "plot",
-    "title": "Działka — Orzechówka",
-    "voivodeship": "podlaskie",
-    "city": "Orzechówka",
-    "coordinates": {
-      "lat": 53.13991430172251,
-      "lng": 23.160685447858516
-    },
-    "isNearBorder": false,
-    "areaM2": 4800,
-    "currentPrice": 430000,
-    "currentPricePerM2": 89.58,
-    "initialPrice": 430000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 430000,
-        "pricePerM2": 89.58
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:16.341Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/44/32/3fbb76_5095_cover@2x-dzialka-siedliskowa-grajewski-orzechowka.webp",
-    "isDirectOwner": true,
-    "county": "grajewski"
   },
   {
     "id": "adresowo-3790540",
@@ -50979,40 +49481,6 @@
     "county": "grajewski"
   },
   {
-    "id": "adresowo-4171098",
-    "source": "adresowo",
-    "sourceId": "4171098",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-barglow-koscielny-drenstwo-1-ha-k9j1d8",
-    "propertyType": "plot",
-    "title": "Działka — Dreństwo",
-    "voivodeship": "podlaskie",
-    "city": "Dreństwo",
-    "coordinates": {
-      "lat": 53.135389414694814,
-      "lng": 23.172404148481608
-    },
-    "isNearBorder": true,
-    "areaM2": 18800,
-    "currentPrice": 1450000,
-    "currentPricePerM2": 77.13,
-    "initialPrice": 1450000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1450000,
-        "pricePerM2": 77.13
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:16.341Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3f/5e/3fa55a_cbd2_cover@2x-dzialka-siedliskowa-augustowski-drenstwo.webp",
-    "isDirectOwner": true,
-    "county": "augustowski"
-  },
-  {
     "id": "adresowo-4170656",
     "source": "adresowo",
     "sourceId": "4170656",
@@ -51561,40 +50029,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/1b/73/3f85a8_66bf_cover@2x-dzialka-rod-sokolski-sokolka.webp",
     "isDirectOwner": true,
     "county": "sokolski"
-  },
-  {
-    "id": "adresowo-4134586",
-    "source": "adresowo",
-    "sourceId": "4134586",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-rutka-tartak-pobondzie-3-000-m2-k2n1z5",
-    "propertyType": "plot",
-    "title": "Działka — Pobondzie",
-    "voivodeship": "podlaskie",
-    "city": "Pobondzie",
-    "coordinates": {
-      "lat": 53.129191196792874,
-      "lng": 23.17635208959687
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 150000,
-    "currentPricePerM2": 50,
-    "initialPrice": 150000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 150000,
-        "pricePerM2": 50
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:16.341Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/44/3e/3f16ba_2f45_cover@2x-dzialka-siedliskowa-suwalski-pobondzie.webp",
-    "isDirectOwner": true,
-    "county": "suwalski"
   },
   {
     "id": "adresowo-4162244",
@@ -52251,40 +50685,6 @@
     "county": "augustowski"
   },
   {
-    "id": "adresowo-4153924",
-    "source": "adresowo",
-    "sourceId": "4153924",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-hajnowka-bielszczyzna-4-ha-t7y3c6",
-    "propertyType": "plot",
-    "title": "Działka — Bielszczyzna",
-    "voivodeship": "podlaskie",
-    "city": "Bielszczyzna",
-    "coordinates": {
-      "lat": 53.1352229418465,
-      "lng": 23.177237707531173
-    },
-    "isNearBorder": true,
-    "areaM2": 45000,
-    "currentPrice": 2000000,
-    "currentPricePerM2": 44.44,
-    "initialPrice": 2000000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 2000000,
-        "pricePerM2": 44.44
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:16.341Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/42/78/3f6244_ef80_cover@2x-dzialka-siedliskowa-hajnowski-bielszczyzna.webp",
-    "isDirectOwner": true,
-    "county": "hajnowski"
-  },
-  {
     "id": "adresowo-4153584",
     "source": "adresowo",
     "sourceId": "4153584",
@@ -52560,40 +50960,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-4152042",
-    "source": "adresowo",
-    "sourceId": "4152042",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-czeremcha-zubacze-2-400-m2-j7o5g7",
-    "propertyType": "plot",
-    "title": "Działka — Zubacze",
-    "voivodeship": "podlaskie",
-    "city": "Zubacze",
-    "coordinates": {
-      "lat": 53.1295231043077,
-      "lng": 23.15924288755371
-    },
-    "isNearBorder": true,
-    "areaM2": 2400,
-    "currentPrice": 185000,
-    "currentPricePerM2": 77.08,
-    "initialPrice": 185000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 185000,
-        "pricePerM2": 77.08
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:16.341Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6d/50/3f5aea_a8c4_cover@2x-dzialka-siedliskowa-hajnowski-zubacze.webp",
-    "isDirectOwner": true,
-    "county": "hajnowski"
-  },
-  {
     "id": "adresowo-4150696",
     "source": "adresowo",
     "sourceId": "4150696",
@@ -52769,40 +51135,6 @@
     "isDirectOwner": true,
     "county": "kolnenski",
     "previousPrice": 115000
-  },
-  {
-    "id": "adresowo-4148782",
-    "source": "adresowo",
-    "sourceId": "4148782",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-narewka-lewkowo-nowe-1-ha-z6o2e7",
-    "propertyType": "plot",
-    "title": "Działka — Lewkowo Nowe",
-    "voivodeship": "podlaskie",
-    "city": "Lewkowo Nowe",
-    "coordinates": {
-      "lat": 53.12512740748088,
-      "lng": 23.169604400314675
-    },
-    "isNearBorder": true,
-    "areaM2": 14200,
-    "currentPrice": 350000,
-    "currentPricePerM2": 24.65,
-    "initialPrice": 350000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 350000,
-        "pricePerM2": 24.65
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:16.341Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6c/6e/3f4e2e_a7b9_cover@2x-dzialka-siedliskowa-hajnowski-lewkowo-nowe.webp",
-    "isDirectOwner": true,
-    "county": "hajnowski"
   },
   {
     "id": "adresowo-4148092",
@@ -53078,40 +51410,6 @@
     "county": "bielski"
   },
   {
-    "id": "adresowo-4143296",
-    "source": "adresowo",
-    "sourceId": "4143296",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-czarna-bialostocka-brzozowka-ziemianska-3-145-m2-q8i1p2",
-    "propertyType": "plot",
-    "title": "Działka — Brzozówka Ziemiańska",
-    "voivodeship": "podlaskie",
-    "city": "Brzozówka Ziemiańska",
-    "coordinates": {
-      "lat": 49.69881242361642,
-      "lng": 22.01872462919072
-    },
-    "isNearBorder": true,
-    "areaM2": 3145,
-    "currentPrice": 60000,
-    "currentPricePerM2": 19.08,
-    "initialPrice": 60000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 60000,
-        "pricePerM2": 19.08
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:16.341Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5d/46/3f38c0_c84b_cover@2x-dzialka-siedliskowa-bialostocki-brzozowka-ziemianska.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
     "id": "adresowo-4143094",
     "source": "adresowo",
     "sourceId": "4143094",
@@ -53281,40 +51579,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/46/7b/3f350a_dcfb_cover@2x-dzialka-budowlana-bielski-bielsk-podlaski.webp",
     "isDirectOwner": true,
     "county": "bielski"
-  },
-  {
-    "id": "adresowo-4141934",
-    "source": "adresowo",
-    "sourceId": "4141934",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-zabludow-pasynki-4-500-m2-n9h4d8",
-    "propertyType": "plot",
-    "title": "Działka — Pasynki",
-    "voivodeship": "podlaskie",
-    "city": "Pasynki",
-    "coordinates": {
-      "lat": 53.12679148753067,
-      "lng": 23.175474198121638
-    },
-    "isNearBorder": true,
-    "areaM2": 4500,
-    "currentPrice": 178900,
-    "currentPricePerM2": 39.76,
-    "initialPrice": 178900,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 178900,
-        "pricePerM2": 39.76
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:16.341Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/51/68/3f336e_7641_cover@2x-dzialka-siedliskowa-bialostocki-pasynki.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
   },
   {
     "id": "adresowo-4141446",
@@ -54311,40 +52575,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/26/26/3f082c_e900_cover@2x-dzialka-rod-bialystok.webp",
     "isDirectOwner": true,
     "county": "białostocki"
-  },
-  {
-    "id": "adresowo-4130786",
-    "source": "adresowo",
-    "sourceId": "4130786",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-grodzisk-malyszczyn-8-200-m2-b1q9k6",
-    "propertyType": "plot",
-    "title": "Działka — Małyszczyn",
-    "voivodeship": "podlaskie",
-    "city": "Małyszczyn",
-    "coordinates": {
-      "lat": 53.13190857144567,
-      "lng": 23.174700246473307
-    },
-    "isNearBorder": true,
-    "areaM2": 8200,
-    "currentPrice": 420000,
-    "currentPricePerM2": 51.22,
-    "initialPrice": 420000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 420000,
-        "pricePerM2": 51.22
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:18.879Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/2b/19/3f07e2_356b_cover@2x-dzialka-siedliskowa-siemiatycki-malyszczyn.webp",
-    "isDirectOwner": true,
-    "county": "siemiatycki"
   },
   {
     "id": "adresowo-4130332",
@@ -55930,40 +54160,6 @@
     "county": "białostocki"
   },
   {
-    "id": "adresowo-4106602",
-    "source": "adresowo",
-    "sourceId": "4106602",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-giby-iwanowka-8-ha-e1x1t3",
-    "propertyType": "plot",
-    "title": "Działka — Iwanówka",
-    "voivodeship": "podlaskie",
-    "city": "Iwanówka",
-    "coordinates": {
-      "lat": 53.12689433348211,
-      "lng": 23.172597736183757
-    },
-    "isNearBorder": true,
-    "areaM2": 85000,
-    "currentPrice": 700000,
-    "currentPricePerM2": 8.24,
-    "initialPrice": 700000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 700000,
-        "pricePerM2": 8.24
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:18.879Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6a/2e/3ea96a_3ceb_cover@2x-dzialka-siedliskowa-sejnenski-iwanowka.webp",
-    "isDirectOwner": true,
-    "county": "sejnenski"
-  },
-  {
     "id": "adresowo-4106218",
     "source": "adresowo",
     "sourceId": "4106218",
@@ -57170,40 +55366,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/1c/41/3e70f4_75b0_cover@2x-dzialka-rolno-budowlana-sokolski-geniusze.webp",
     "isDirectOwner": true,
     "county": "sokolski"
-  },
-  {
-    "id": "adresowo-4092130",
-    "source": "adresowo",
-    "sourceId": "4092130",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-michalowo-stara-luplanka-6-000-m2-p8u7d9",
-    "propertyType": "plot",
-    "title": "Działka — Stara Łuplanka",
-    "voivodeship": "podlaskie",
-    "city": "Stara Łuplanka",
-    "coordinates": {
-      "lat": 53.12710421244046,
-      "lng": 23.170500957996705
-    },
-    "isNearBorder": true,
-    "areaM2": 6000,
-    "currentPrice": 135000,
-    "currentPricePerM2": 22.5,
-    "initialPrice": 135000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 135000,
-        "pricePerM2": 22.5
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:18.879Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/61/53/3e70e2_4e2a_cover@2x-dzialka-siedliskowa-bialostocki-stara-luplanka.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
   },
   {
     "id": "adresowo-4091732",
@@ -58548,40 +56710,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-4074150",
-    "source": "adresowo",
-    "sourceId": "4074150",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-zambrow-przezdziecko-mroczki-1-326-m2-r0j0m2",
-    "propertyType": "plot",
-    "title": "Działka — Przeździecko-Mroczki",
-    "voivodeship": "podlaskie",
-    "city": "Przeździecko-Mroczki",
-    "coordinates": {
-      "lat": 53.13739358273989,
-      "lng": 23.165862864292382
-    },
-    "isNearBorder": false,
-    "areaM2": 1326,
-    "currentPrice": 205000,
-    "currentPricePerM2": 154.6,
-    "initialPrice": 205000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 205000,
-        "pricePerM2": 154.6
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:21.231Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/35/1b/3e2aa6_5c06_cover@2x-dzialka-siedliskowa-zambrowski-przezdziecko-mroczki.webp",
-    "isDirectOwner": true,
-    "county": "zambrowski"
-  },
-  {
     "id": "adresowo-4073116",
     "source": "adresowo",
     "sourceId": "4073116",
@@ -58648,40 +56776,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/43/64/3e2696_908d_cover@2x-dzialka-rolno-budowlana-grajewski-czarna-wies.webp",
     "isDirectOwner": true,
     "county": "grajewski"
-  },
-  {
-    "id": "adresowo-4072682",
-    "source": "adresowo",
-    "sourceId": "4072682",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-zabludow-krynickie-1-717-m2-r6n7r4",
-    "propertyType": "plot",
-    "title": "Działka — Krynickie",
-    "voivodeship": "podlaskie",
-    "city": "Krynickie",
-    "coordinates": {
-      "lat": 53.139635661825444,
-      "lng": 23.170367829482316
-    },
-    "isNearBorder": true,
-    "areaM2": 1717,
-    "currentPrice": 200000,
-    "currentPricePerM2": 116.48,
-    "initialPrice": 200000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 200000,
-        "pricePerM2": 116.48
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:21.231Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/22/41/3e24ea_3341_cover@2x-dzialka-siedliskowa-bialostocki-krynickie.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
   },
   {
     "id": "adresowo-4072602",
@@ -58956,40 +57050,6 @@
     "firstSeenAt": "2026-09-17T22:17:21.231Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://s2.adresowa.pl/oi/64/1f/3e1dc8_f060_cover@2x-dzialka-budowlana-bielski-bielsk-podlaski.webp",
-    "isDirectOwner": true,
-    "county": "bielski"
-  },
-  {
-    "id": "adresowo-4069216",
-    "source": "adresowo",
-    "sourceId": "4069216",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-bielsk-podlaski-holody-3-000-m2-l3w1a4",
-    "propertyType": "plot",
-    "title": "Działka — Hołody",
-    "voivodeship": "podlaskie",
-    "city": "Hołody",
-    "coordinates": {
-      "lat": 53.1291767486065,
-      "lng": 23.168402684225214
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 150000,
-    "currentPricePerM2": 50,
-    "initialPrice": 150000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 150000,
-        "pricePerM2": 50
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:21.231Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/57/7a/3e1760_738a_cover@2x-dzialka-siedliskowa-bielski-holody.webp",
     "isDirectOwner": true,
     "county": "bielski"
   },
@@ -59440,40 +57500,6 @@
     "county": "hajnowski"
   },
   {
-    "id": "adresowo-4061638",
-    "source": "adresowo",
-    "sourceId": "4061638",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-sidra-andrzejewo-20-ha-m3d2p2",
-    "propertyType": "plot",
-    "title": "Działka — Andrzejewo",
-    "voivodeship": "podlaskie",
-    "city": "Andrzejewo",
-    "coordinates": {
-      "lat": 53.12538122656423,
-      "lng": 23.175223799232036
-    },
-    "isNearBorder": true,
-    "areaM2": 207100,
-    "currentPrice": 1300000,
-    "currentPricePerM2": 6.28,
-    "initialPrice": 1300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1300000,
-        "pricePerM2": 6.28
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:21.231Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/63/38/3df9c6_4d6f_cover@2x-dzialka-siedliskowa-sokolski-andrzejewo.webp",
-    "isDirectOwner": true,
-    "county": "sokolski"
-  },
-  {
     "id": "adresowo-4060108",
     "source": "adresowo",
     "sourceId": "4060108",
@@ -59504,40 +57530,6 @@
     "firstSeenAt": "2026-09-17T22:17:21.231Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://s2.adresowa.pl/oi/75/33/3df3cc_e9a2_cover@2x-dzialka-rolno-budowlana-hajnowski-dubiny.webp",
-    "isDirectOwner": true,
-    "county": "hajnowski"
-  },
-  {
-    "id": "adresowo-4060106",
-    "source": "adresowo",
-    "sourceId": "4060106",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-hajnowka-7-000-m2-c1j0a6",
-    "propertyType": "plot",
-    "title": "Działka — Hajnówka",
-    "voivodeship": "podlaskie",
-    "city": "Hajnówka",
-    "coordinates": {
-      "lat": 52.73663851396987,
-      "lng": 23.59068429479505
-    },
-    "isNearBorder": true,
-    "areaM2": 7000,
-    "currentPrice": 500000,
-    "currentPricePerM2": 71.43,
-    "initialPrice": 500000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 500000,
-        "pricePerM2": 71.43
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:21.231Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/22/2d/3df3ca_763e_cover@2x-dzialka-siedliskowa-hajnowski-hajnowka.webp",
     "isDirectOwner": true,
     "county": "hajnowski"
   },
@@ -61703,40 +59695,6 @@
     "county": "sokolski"
   },
   {
-    "id": "adresowo-4024210",
-    "source": "adresowo",
-    "sourceId": "4024210",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-nowinka-krusznik-3-ha-i0e5e3",
-    "propertyType": "plot",
-    "title": "Działka — Krusznik",
-    "voivodeship": "podlaskie",
-    "city": "Krusznik",
-    "coordinates": {
-      "lat": 53.13107202576328,
-      "lng": 23.176500739383993
-    },
-    "isNearBorder": true,
-    "areaM2": 34300,
-    "currentPrice": 1500000,
-    "currentPricePerM2": 43.73,
-    "initialPrice": 1500000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1500000,
-        "pricePerM2": 43.73
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:22.679Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/53/41/3d6792_5a6a_cover@2x-dzialka-siedliskowa-augustowski-krusznik.webp",
-    "isDirectOwner": true,
-    "county": "augustowski"
-  },
-  {
     "id": "adresowo-4024112",
     "source": "adresowo",
     "sourceId": "4024112",
@@ -63144,41 +61102,6 @@
     "county": "białostocki"
   },
   {
-    "id": "adresowo-4002110",
-    "source": "adresowo",
-    "sourceId": "4002110",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-rudka-ul-olendzka-e8b8c8",
-    "propertyType": "plot",
-    "title": "Działka — Rudka, ul. Olendzka",
-    "voivodeship": "podlaskie",
-    "city": "Rudka",
-    "street": "ul. Olendzka",
-    "coordinates": {
-      "lat": 53.1351289631977,
-      "lng": 23.160065092672163
-    },
-    "isNearBorder": true,
-    "areaM2": 6100,
-    "currentPrice": 305000,
-    "currentPricePerM2": 50,
-    "initialPrice": 305000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 305000,
-        "pricePerM2": 50
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:22.679Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/43/63/3d113e_5bfe_cover@2x-dzialka-siedliskowa-bielski-rudka.webp",
-    "isDirectOwner": true,
-    "county": "bielski"
-  },
-  {
     "id": "adresowo-4001904",
     "source": "adresowo",
     "sourceId": "4001904",
@@ -63245,40 +61168,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/4f/46/3d101a_70c2_cover@2x-dzialka-budowlana-siemiatycki-baciki-blizsze.webp",
     "isDirectOwner": true,
     "county": "siemiatycki"
-  },
-  {
-    "id": "adresowo-4000960",
-    "source": "adresowo",
-    "sourceId": "4000960",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kobylin-borzymy-kurowo-1-000-m2-k2p0c4",
-    "propertyType": "plot",
-    "title": "Działka — Kurowo",
-    "voivodeship": "podlaskie",
-    "city": "Kurowo",
-    "coordinates": {
-      "lat": 53.12548576635481,
-      "lng": 23.16134709916424
-    },
-    "isNearBorder": false,
-    "areaM2": 1000,
-    "currentPrice": 220000,
-    "currentPricePerM2": 220,
-    "initialPrice": 220000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 220000,
-        "pricePerM2": 220
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:22.679Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1a/76/3d0cc0_285f_cover@2x-dzialka-siedliskowa-wysokomazowiecki-kurowo.webp",
-    "isDirectOwner": true,
-    "county": "wysokomazowiecki"
   },
   {
     "id": "adresowo-4000790",
@@ -64278,40 +62167,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/32/2e/3ccc14_4a0c_cover@2x-dzialka-rolno-budowlana-suwalski-dzierwany.webp",
     "isDirectOwner": true,
     "county": "suwalski"
-  },
-  {
-    "id": "adresowo-3984052",
-    "source": "adresowo",
-    "sourceId": "3984052",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wyszki-tworki-3-084-m2-o1d2z9",
-    "propertyType": "plot",
-    "title": "Działka — Tworki",
-    "voivodeship": "podlaskie",
-    "city": "Tworki",
-    "coordinates": {
-      "lat": 53.13401449311784,
-      "lng": 23.162085124500646
-    },
-    "isNearBorder": true,
-    "areaM2": 3084,
-    "currentPrice": 149000,
-    "currentPricePerM2": 48.31,
-    "initialPrice": 149000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 149000,
-        "pricePerM2": 48.31
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:22.679Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/46/3c/3ccab4_51bc_cover@2x-dzialka-siedliskowa-bielski-tworki.webp",
-    "isDirectOwner": true,
-    "county": "bielski"
   },
   {
     "id": "adresowo-3983366",
@@ -65805,40 +63660,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/40/13/3c37f6_6aa4_cover@2x-dzialka-rolno-budowlana-bialostocki-wierobie.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-3945364",
-    "source": "adresowo",
-    "sourceId": "3945364",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lipsk-stare-lesne-bohatery-1-900-m2-h7p9y9",
-    "propertyType": "plot",
-    "title": "Działka — Stare Leśne Bohatery",
-    "voivodeship": "podlaskie",
-    "city": "Stare Leśne Bohatery",
-    "coordinates": {
-      "lat": 53.133114192791474,
-      "lng": 23.17871762819784
-    },
-    "isNearBorder": true,
-    "areaM2": 1900,
-    "currentPrice": 119000,
-    "currentPricePerM2": 62.63,
-    "initialPrice": 119000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 119000,
-        "pricePerM2": 62.63
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:24.275Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/76/42/3c3394_be59_cover@2x-dzialka-siedliskowa-augustowski-stare-lesne-bohatery.webp",
-    "isDirectOwner": true,
-    "county": "augustowski"
   },
   {
     "id": "adresowo-3944808",
@@ -68533,46 +66354,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-3916790",
-    "source": "adresowo",
-    "sourceId": "3916790",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-grodek-mieleszki-kolonia-3-001-m2-a9u1a8",
-    "propertyType": "plot",
-    "title": "Działka — Mieleszki-Kolonia",
-    "voivodeship": "podlaskie",
-    "city": "Mieleszki-Kolonia",
-    "coordinates": {
-      "lat": 53.139316151734924,
-      "lng": 23.163479811032555
-    },
-    "isNearBorder": true,
-    "areaM2": 3001,
-    "currentPrice": 87000,
-    "currentPricePerM2": 28.99,
-    "initialPrice": 88000,
-    "priceChangeAmount": -1000,
-    "priceChangePercent": -1.1,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 88000,
-        "pricePerM2": 29.32
-      },
-      {
-        "date": "2026-09-22",
-        "price": 87000,
-        "pricePerM2": 28.99
-      }
-    ],
-    "status": "price_drop",
-    "firstSeenAt": "2026-09-17T22:17:24.275Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/13/63/3bc3f6_7549_cover@2x-dzialka-siedliskowa-bialostocki-mieleszki-kolonia.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki",
-    "previousPrice": 88000
-  },
-  {
     "id": "adresowo-3916614",
     "source": "adresowo",
     "sourceId": "3916614",
@@ -70672,40 +68453,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-3873442",
-    "source": "adresowo",
-    "sourceId": "3873442",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-ciechanowiec-kosiorki-2-049-m2-n9b1w0",
-    "propertyType": "plot",
-    "title": "Działka — Kosiorki",
-    "voivodeship": "podlaskie",
-    "city": "Kosiorki",
-    "coordinates": {
-      "lat": 53.13066871509158,
-      "lng": 23.178382035682926
-    },
-    "isNearBorder": false,
-    "areaM2": 2049,
-    "currentPrice": 149000,
-    "currentPricePerM2": 72.72,
-    "initialPrice": 149000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 149000,
-        "pricePerM2": 72.72
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:26.447Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/22/7d/3b1aa2_a410_cover@2x-dzialka-siedliskowa-wysokomazowiecki-kosiorki.webp",
-    "isDirectOwner": true,
-    "county": "wysokomazowiecki"
-  },
-  {
     "id": "adresowo-3872918",
     "source": "adresowo",
     "sourceId": "3872918",
@@ -70909,40 +68656,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/47/6d/3b153c_3852_cover@2x-dzialka-rolna-bialostocki-dobrzyniowka.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-3871830",
-    "source": "adresowo",
-    "sourceId": "3871830",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-krypno-zygmunty-3-028-m2-g4z6k3",
-    "propertyType": "plot",
-    "title": "Działka — Zygmunty",
-    "voivodeship": "podlaskie",
-    "city": "Zygmunty",
-    "coordinates": {
-      "lat": 53.12527992527453,
-      "lng": 23.170595343781173
-    },
-    "isNearBorder": false,
-    "areaM2": 3028,
-    "currentPrice": 130000,
-    "currentPricePerM2": 42.93,
-    "initialPrice": 130000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 130000,
-        "pricePerM2": 42.93
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:26.447Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/41/5e/3b1456_92e5_cover@2x-dzialka-siedliskowa-moniecki-zygmunty.webp",
-    "isDirectOwner": true,
-    "county": "moniecki"
   },
   {
     "id": "adresowo-3870722",
@@ -71702,40 +69415,6 @@
     "county": "bielski"
   },
   {
-    "id": "adresowo-3856986",
-    "source": "adresowo",
-    "sourceId": "3856986",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-bielsk-podlaski-hacki-5-251-m2-l6n2i5",
-    "propertyType": "plot",
-    "title": "Działka — Haćki",
-    "voivodeship": "podlaskie",
-    "city": "Haćki",
-    "coordinates": {
-      "lat": 53.135721634807936,
-      "lng": 23.16100945368506
-    },
-    "isNearBorder": true,
-    "areaM2": 5251,
-    "currentPrice": 209000,
-    "currentPricePerM2": 39.8,
-    "initialPrice": 209000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 209000,
-        "pricePerM2": 39.8
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:26.447Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/69/62/3ada5a_6059_cover@2x-dzialka-siedliskowa-bielski-hacki.webp",
-    "isDirectOwner": true,
-    "county": "bielski"
-  },
-  {
     "id": "adresowo-3856670",
     "source": "adresowo",
     "sourceId": "3856670",
@@ -72491,40 +70170,6 @@
     "county": "bielski"
   },
   {
-    "id": "adresowo-3836212",
-    "source": "adresowo",
-    "sourceId": "3836212",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kuznica-saczkowce-2-690-m2-d7j5k6",
-    "propertyType": "plot",
-    "title": "Działka — Saczkowce",
-    "voivodeship": "podlaskie",
-    "city": "Saczkowce",
-    "coordinates": {
-      "lat": 53.135823240955105,
-      "lng": 23.16753444035646
-    },
-    "isNearBorder": true,
-    "areaM2": 2690,
-    "currentPrice": 200000,
-    "currentPricePerM2": 74.35,
-    "initialPrice": 200000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 200000,
-        "pricePerM2": 74.35
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:26.447Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/4e/4f/3a8934_a628_cover@2x-dzialka-siedliskowa-sokolski-saczkowce.webp",
-    "isDirectOwner": true,
-    "county": "sokolski"
-  },
-  {
     "id": "adresowo-3835760",
     "source": "adresowo",
     "sourceId": "3835760",
@@ -72939,40 +70584,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-3828554",
-    "source": "adresowo",
-    "sourceId": "3828554",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-orla-topczykaly-2-200-m2-h7s8y3",
-    "propertyType": "plot",
-    "title": "Działka — Topczykały",
-    "voivodeship": "podlaskie",
-    "city": "Topczykały",
-    "coordinates": {
-      "lat": 53.12742757312683,
-      "lng": 23.177435850691033
-    },
-    "isNearBorder": true,
-    "areaM2": 2200,
-    "currentPrice": 135000,
-    "currentPricePerM2": 61.36,
-    "initialPrice": 135000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 135000,
-        "pricePerM2": 61.36
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:26.447Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/2e/36/3a6b4a_3434_cover@2x-dzialka-siedliskowa-bielski-topczykaly.webp",
-    "isDirectOwner": true,
-    "county": "bielski"
-  },
-  {
     "id": "adresowo-3827402",
     "source": "adresowo",
     "sourceId": "3827402",
@@ -73383,40 +70994,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/6d/51/3a3f5e_8640_cover@2x-dzialka-rolna-sokolski-krynki.webp",
     "isDirectOwner": true,
     "county": "sokolski"
-  },
-  {
-    "id": "adresowo-3815578",
-    "source": "adresowo",
-    "sourceId": "3815578",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wysokie-mazowieckie-mazury-2-793-m2-i5u9y3",
-    "propertyType": "plot",
-    "title": "Działka — Mazury",
-    "voivodeship": "podlaskie",
-    "city": "Mazury",
-    "coordinates": {
-      "lat": 53.13016023005718,
-      "lng": 23.159187881984327
-    },
-    "isNearBorder": false,
-    "areaM2": 2793,
-    "currentPrice": 200000,
-    "currentPricePerM2": 71.61,
-    "initialPrice": 200000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 200000,
-        "pricePerM2": 71.61
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:26.447Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/47/62/3a389a_7798_cover@2x-dzialka-siedliskowa-wysokomazowiecki-mazury.webp",
-    "isDirectOwner": true,
-    "county": "wysokomazowiecki"
   },
   {
     "id": "adresowo-3815410",
@@ -75490,40 +73067,6 @@
     "county": "augustowski"
   },
   {
-    "id": "adresowo-3761504",
-    "source": "adresowo",
-    "sourceId": "3761504",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-bielsk-podlaski-brzescianka-4-759-m2-c6n9y7",
-    "propertyType": "plot",
-    "title": "Działka — Brześcianka",
-    "voivodeship": "podlaskie",
-    "city": "Brześcianka",
-    "coordinates": {
-      "lat": 53.12834724052466,
-      "lng": 23.171144541333074
-    },
-    "isNearBorder": true,
-    "areaM2": 4759,
-    "currentPrice": 209000,
-    "currentPricePerM2": 43.92,
-    "initialPrice": 209000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 209000,
-        "pricePerM2": 43.92
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:27.870Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/2d/11/396560_7572_cover@2x-dzialka-siedliskowa-bielski-brzescianka.webp",
-    "isDirectOwner": true,
-    "county": "bielski"
-  },
-  {
     "id": "adresowo-3761454",
     "source": "adresowo",
     "sourceId": "3761454",
@@ -75659,40 +73202,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/2f/50/395b9c_3146_cover@2x-dzialka-budowlana-augustowski-plaska.webp",
     "isDirectOwner": true,
     "county": "augustowski"
-  },
-  {
-    "id": "adresowo-3758140",
-    "source": "adresowo",
-    "sourceId": "3758140",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wizajny-wysokie-9-ha-s5c9q8",
-    "propertyType": "plot",
-    "title": "Działka — Wysokie",
-    "voivodeship": "podlaskie",
-    "city": "Wysokie",
-    "coordinates": {
-      "lat": 53.128849856583095,
-      "lng": 23.161458750022312
-    },
-    "isNearBorder": true,
-    "areaM2": 90000,
-    "currentPrice": 1200000,
-    "currentPricePerM2": 13.33,
-    "initialPrice": 1200000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1200000,
-        "pricePerM2": 13.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:27.870Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/22/60/39583c_7e89_cover@2x-dzialka-siedliskowa-suwalski-wysokie.webp",
-    "isDirectOwner": true,
-    "county": "suwalski"
   },
   {
     "id": "adresowo-3757874",
@@ -75933,40 +73442,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/77/5d/3946e8_7d86_cover@2x-dzialka-inwestycyjna-sokolski-sokolka.webp",
     "isDirectOwner": true,
     "county": "sokolski"
-  },
-  {
-    "id": "adresowo-3751848",
-    "source": "adresowo",
-    "sourceId": "3751848",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-dobrzyniewo-duze-chraboly-8-400-m2-x4j7p1",
-    "propertyType": "plot",
-    "title": "Działka — Chraboły",
-    "voivodeship": "podlaskie",
-    "city": "Chraboły",
-    "coordinates": {
-      "lat": 53.12605786960021,
-      "lng": 23.169203292049932
-    },
-    "isNearBorder": true,
-    "areaM2": 8400,
-    "currentPrice": 600000,
-    "currentPricePerM2": 71.43,
-    "initialPrice": 600000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 600000,
-        "pricePerM2": 71.43
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:27.870Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/2d/37/393fa8_91e7_cover@2x-dzialka-siedliskowa-bialostocki-chraboly.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
   },
   {
     "id": "adresowo-3751570",
@@ -76622,40 +74097,6 @@
     "county": "hajnowski"
   },
   {
-    "id": "adresowo-3736422",
-    "source": "adresowo",
-    "sourceId": "3736422",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-dobrzyniewo-duze-podlence-1-895-m2-a0y3a4",
-    "propertyType": "plot",
-    "title": "Działka — Podleńce",
-    "voivodeship": "podlaskie",
-    "city": "Podleńce",
-    "coordinates": {
-      "lat": 53.136610118892406,
-      "lng": 23.162107588537
-    },
-    "isNearBorder": true,
-    "areaM2": 1895,
-    "currentPrice": 340000,
-    "currentPricePerM2": 179.42,
-    "initialPrice": 340000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 340000,
-        "pricePerM2": 179.42
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:27.870Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/28/5f/390366_feb9_cover@2x-dzialka-siedliskowa-bialostocki-podlence.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
     "id": "adresowo-3736418",
     "source": "adresowo",
     "sourceId": "3736418",
@@ -76860,40 +74301,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/74/60/38eae2_542b_cover@2x-dzialka-rolno-budowlana-bielski-miekisze.webp",
     "isDirectOwner": true,
     "county": "bielski"
-  },
-  {
-    "id": "adresowo-3729666",
-    "source": "adresowo",
-    "sourceId": "3729666",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-juchnowiec-koscielny-klewinowo-2-740-m2-v2l9c9",
-    "propertyType": "plot",
-    "title": "Działka — Klewinowo",
-    "voivodeship": "podlaskie",
-    "city": "Klewinowo",
-    "coordinates": {
-      "lat": 53.12901567355488,
-      "lng": 23.168510402167588
-    },
-    "isNearBorder": true,
-    "areaM2": 2740,
-    "currentPrice": 250000,
-    "currentPricePerM2": 91.24,
-    "initialPrice": 250000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 250000,
-        "pricePerM2": 91.24
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:27.870Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3b/5f/38e902_9eb4_cover@2x-dzialka-siedliskowa-bialostocki-klewinowo.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
   },
   {
     "id": "adresowo-3728844",
@@ -77928,40 +75335,6 @@
     "county": "augustowski"
   },
   {
-    "id": "adresowo-3695780",
-    "source": "adresowo",
-    "sourceId": "3695780",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-rutki-kolomyjka-1-ha-x0v1j8",
-    "propertyType": "plot",
-    "title": "Działka — Kołomyjka",
-    "voivodeship": "podlaskie",
-    "city": "Kołomyjka",
-    "coordinates": {
-      "lat": 53.128339553843404,
-      "lng": 23.17314298003787
-    },
-    "isNearBorder": false,
-    "areaM2": 10000,
-    "currentPrice": 390000,
-    "currentPricePerM2": 39,
-    "initialPrice": 390000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 390000,
-        "pricePerM2": 39
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:29.798Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/79/45/3864a4_da41_cover@2x-dzialka-siedliskowa-zambrowski-kolomyjka.webp",
-    "isDirectOwner": true,
-    "county": "zambrowski"
-  },
-  {
     "id": "adresowo-3694306",
     "source": "adresowo",
     "sourceId": "3694306",
@@ -78858,40 +76231,6 @@
     "county": "lomzynski"
   },
   {
-    "id": "adresowo-3669296",
-    "source": "adresowo",
-    "sourceId": "3669296",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wysokie-mazowieckie-wolka-duza-4-400-m2-f4j1k1",
-    "propertyType": "plot",
-    "title": "Działka — Wólka Duża",
-    "voivodeship": "podlaskie",
-    "city": "Wólka Duża",
-    "coordinates": {
-      "lat": 53.13883110219682,
-      "lng": 23.169030509809364
-    },
-    "isNearBorder": false,
-    "areaM2": 4400,
-    "currentPrice": 210000,
-    "currentPricePerM2": 47.73,
-    "initialPrice": 210000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 210000,
-        "pricePerM2": 47.73
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:29.798Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/19/49/37fd30_d697_cover@2x-dzialka-siedliskowa-wysokomazowiecki-wolka-duza.webp",
-    "isDirectOwner": true,
-    "county": "wysokomazowiecki"
-  },
-  {
     "id": "adresowo-3667282",
     "source": "adresowo",
     "sourceId": "3667282",
@@ -79269,40 +76608,6 @@
     "firstSeenAt": "2026-09-17T22:17:29.798Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://s2.adresowa.pl/oi/6e/43/37e956_e840_cover@2x-dzialka-rolna-bialostocki-kowalowce.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-3661426",
-    "source": "adresowo",
-    "sourceId": "3661426",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wasilkow-studzianki-4-ha-h5i4z3",
-    "propertyType": "plot",
-    "title": "Działka — Studzianki",
-    "voivodeship": "podlaskie",
-    "city": "Studzianki",
-    "coordinates": {
-      "lat": 53.13996164562364,
-      "lng": 23.168108471285624
-    },
-    "isNearBorder": true,
-    "areaM2": 47500,
-    "currentPrice": 2000000,
-    "currentPricePerM2": 42.11,
-    "initialPrice": 2000000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 2000000,
-        "pricePerM2": 42.11
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:29.798Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/14/19/37de72_5d50_cover@2x-dzialka-siedliskowa-bialostocki-studzianki.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
   },
@@ -79853,40 +77158,6 @@
     "county": "sejnenski"
   },
   {
-    "id": "adresowo-3645828",
-    "source": "adresowo",
-    "sourceId": "3645828",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-narewka-lewkowo-nowe-5-000-m2-s6a5h3",
-    "propertyType": "plot",
-    "title": "Działka — Lewkowo Nowe",
-    "voivodeship": "podlaskie",
-    "city": "Lewkowo Nowe",
-    "coordinates": {
-      "lat": 53.13367033644943,
-      "lng": 23.162057010036815
-    },
-    "isNearBorder": true,
-    "areaM2": 5000,
-    "currentPrice": 400000,
-    "currentPricePerM2": 80,
-    "initialPrice": 400000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 400000,
-        "pricePerM2": 80
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:29.798Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5d/2a/37a184_b82d_cover@2x-dzialka-siedliskowa-hajnowski-lewkowo-nowe.webp",
-    "isDirectOwner": true,
-    "county": "hajnowski"
-  },
-  {
     "id": "adresowo-3645544",
     "source": "adresowo",
     "sourceId": "3645544",
@@ -79919,40 +77190,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/6f/23/37a068_f93a_cover@2x-dzialka-rekreacyjna-siemiatycki-wolka-zamkowa.webp",
     "isDirectOwner": true,
     "county": "siemiatycki"
-  },
-  {
-    "id": "adresowo-3645008",
-    "source": "adresowo",
-    "sourceId": "3645008",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wyszki-mulawicze-5-200-m2-o5c6o6",
-    "propertyType": "plot",
-    "title": "Działka — Mulawicze",
-    "voivodeship": "podlaskie",
-    "city": "Mulawicze",
-    "coordinates": {
-      "lat": 53.12633808291912,
-      "lng": 23.166528986349714
-    },
-    "isNearBorder": true,
-    "areaM2": 5200,
-    "currentPrice": 540000,
-    "currentPricePerM2": 103.85,
-    "initialPrice": 540000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 540000,
-        "pricePerM2": 103.85
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:29.798Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3c/71/379e50_5128_cover@2x-dzialka-siedliskowa-bielski-mulawicze.webp",
-    "isDirectOwner": true,
-    "county": "bielski"
   },
   {
     "id": "adresowo-3643526",
@@ -80503,40 +77740,6 @@
     "county": "bielski"
   },
   {
-    "id": "adresowo-3633988",
-    "source": "adresowo",
-    "sourceId": "3633988",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-szudzialowo-lipowy-most-3-379-m2-s9u6u3",
-    "propertyType": "plot",
-    "title": "Działka — Lipowy Most",
-    "voivodeship": "podlaskie",
-    "city": "Lipowy Most",
-    "coordinates": {
-      "lat": 53.12626544961653,
-      "lng": 23.16520820991065
-    },
-    "isNearBorder": true,
-    "areaM2": 3379,
-    "currentPrice": 199000,
-    "currentPricePerM2": 58.89,
-    "initialPrice": 199000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 199000,
-        "pricePerM2": 58.89
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:29.798Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1e/39/377344_849a_cover@2x-dzialka-siedliskowa-sokolski-lipowy-most.webp",
-    "isDirectOwner": true,
-    "county": "sokolski"
-  },
-  {
     "id": "adresowo-3633846",
     "source": "adresowo",
     "sourceId": "3633846",
@@ -81015,41 +78218,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/11/33/375cb6_4ca2_cover@2x-dzialka-budowlana-moniecki-goniadz.webp",
     "isDirectOwner": true,
     "county": "moniecki"
-  },
-  {
-    "id": "adresowo-3626952",
-    "source": "adresowo",
-    "sourceId": "3626952",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-bransk-oleksin-1-800-m2-f6g9v6",
-    "propertyType": "plot",
-    "title": "Działka — Oleksin, Oleksin",
-    "voivodeship": "podlaskie",
-    "city": "Oleksin",
-    "street": "Oleksin",
-    "coordinates": {
-      "lat": 53.12590130067171,
-      "lng": 23.174384258846356
-    },
-    "isNearBorder": true,
-    "areaM2": 1800,
-    "currentPrice": 169000,
-    "currentPricePerM2": 93.89,
-    "initialPrice": 169000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 169000,
-        "pricePerM2": 93.89
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:29.798Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/25/6d/3757c8_acbf_cover@2x-dzialka-siedliskowa-bielski-oleksin.webp",
-    "isDirectOwner": true,
-    "county": "bielski"
   },
   {
     "id": "adresowo-3624246",
@@ -82387,40 +79555,6 @@
     "county": "suwalski"
   },
   {
-    "id": "adresowo-3568746",
-    "source": "adresowo",
-    "sourceId": "3568746",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-michalowo-topolany-3-300-m2-s1k9u8",
-    "propertyType": "plot",
-    "title": "Działka — Topolany",
-    "voivodeship": "podlaskie",
-    "city": "Topolany",
-    "coordinates": {
-      "lat": 53.12585710996524,
-      "lng": 23.168965916018195
-    },
-    "isNearBorder": true,
-    "areaM2": 3300,
-    "currentPrice": 90000,
-    "currentPricePerM2": 27.27,
-    "initialPrice": 90000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 90000,
-        "pricePerM2": 27.27
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:32.042Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/4c/64/36746a_e8c4_cover@2x-dzialka-siedliskowa-bialostocki-topolany.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
     "id": "adresowo-3568644",
     "source": "adresowo",
     "sourceId": "3568644",
@@ -82592,40 +79726,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/62/26/3666a8_44f5_cover@2x-dzialka-budowlana-sokolski-sokolka.webp",
     "isDirectOwner": true,
     "county": "sokolski"
-  },
-  {
-    "id": "adresowo-3562576",
-    "source": "adresowo",
-    "sourceId": "3562576",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-bielsk-podlaski-dubiazyn-2-000-m2-o8n5n7",
-    "propertyType": "plot",
-    "title": "Działka — Dubiażyn",
-    "voivodeship": "podlaskie",
-    "city": "Dubiażyn",
-    "coordinates": {
-      "lat": 53.13847506506338,
-      "lng": 23.159797919650643
-    },
-    "isNearBorder": true,
-    "areaM2": 2000,
-    "currentPrice": 230000,
-    "currentPricePerM2": 115,
-    "initialPrice": 230000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 230000,
-        "pricePerM2": 115
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:32.042Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/21/1c/365c50_db85_cover@2x-dzialka-siedliskowa-bielski-dubiazyn.webp",
-    "isDirectOwner": true,
-    "county": "bielski"
   },
   {
     "id": "adresowo-3561206",
@@ -83220,41 +80320,6 @@
     "county": "białostocki"
   },
   {
-    "id": "adresowo-3549560",
-    "source": "adresowo",
-    "sourceId": "3549560",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-mielnik-mackowicze-2-000-m2-f8t9k6",
-    "propertyType": "plot",
-    "title": "Działka — Maćkowicze, Kudelicze",
-    "voivodeship": "podlaskie",
-    "city": "Maćkowicze",
-    "street": "Kudelicze",
-    "coordinates": {
-      "lat": 53.138114298275234,
-      "lng": 23.166755666322103
-    },
-    "isNearBorder": true,
-    "areaM2": 2000,
-    "currentPrice": 100000,
-    "currentPricePerM2": 50,
-    "initialPrice": 100000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 100000,
-        "pricePerM2": 50
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:32.042Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/15/29/362978_c43c_cover@2x-dzialka-siedliskowa-siemiatycki-mackowicze.webp",
-    "isDirectOwner": true,
-    "county": "siemiatycki"
-  },
-  {
     "id": "adresowo-3549290",
     "source": "adresowo",
     "sourceId": "3549290",
@@ -83765,40 +80830,6 @@
     "firstSeenAt": "2026-09-17T22:17:32.042Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://s2.adresowa.pl/oi/3d/5c/35f5c0_da83_cover@2x-dzialka-rolna-bialostocki-chraboly.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-3529270",
-    "source": "adresowo",
-    "sourceId": "3529270",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-grodek-zasady-1-589-m2-e8j1g1",
-    "propertyType": "plot",
-    "title": "Działka — Zasady",
-    "voivodeship": "podlaskie",
-    "city": "Zasady",
-    "coordinates": {
-      "lat": 53.12510634595837,
-      "lng": 23.16539225666018
-    },
-    "isNearBorder": true,
-    "areaM2": 1589,
-    "currentPrice": 174790,
-    "currentPricePerM2": 110,
-    "initialPrice": 174790,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 174790,
-        "pricePerM2": 110
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:32.042Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/58/68/35da36_55f3_cover@2x-dzialka-siedliskowa-bialostocki-zasady.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
   },
@@ -84972,40 +82003,6 @@
     "county": "lomzynski"
   },
   {
-    "id": "adresowo-3481170",
-    "source": "adresowo",
-    "sourceId": "3481170",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wyszki-mulawicze-8-095-m2-z5x7q6",
-    "propertyType": "plot",
-    "title": "Działka — Mulawicze",
-    "voivodeship": "podlaskie",
-    "city": "Mulawicze",
-    "coordinates": {
-      "lat": 53.134362799731804,
-      "lng": 23.166287506106972
-    },
-    "isNearBorder": true,
-    "areaM2": 8095,
-    "currentPrice": 210000,
-    "currentPricePerM2": 25.94,
-    "initialPrice": 210000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 210000,
-        "pricePerM2": 25.94
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:32.042Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/51/64/351e52_fdf1_cover@2x-dzialka-siedliskowa-bielski-mulawicze.webp",
-    "isDirectOwner": true,
-    "county": "bielski"
-  },
-  {
     "id": "adresowo-3480170",
     "source": "adresowo",
     "sourceId": "3480170",
@@ -85038,40 +82035,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/38/6d/351a6a_84c8_cover@2x-dzialka-inwestycyjna-bialostocki-halickie.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-3474640",
-    "source": "adresowo",
-    "sourceId": "3474640",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kolno-rydzewo-swiatki-1-ha-x5m6p5",
-    "propertyType": "plot",
-    "title": "Działka — Rydzewo-Świątki",
-    "voivodeship": "podlaskie",
-    "city": "Rydzewo-Świątki",
-    "coordinates": {
-      "lat": 53.127140403042816,
-      "lng": 23.164319065565603
-    },
-    "isNearBorder": false,
-    "areaM2": 14800,
-    "currentPrice": 450000,
-    "currentPricePerM2": 30.41,
-    "initialPrice": 450000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 450000,
-        "pricePerM2": 30.41
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:32.042Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/39/33/3504d0_c614_cover@2x-dzialka-siedliskowa-kolnenski-rydzewo-swiatki.webp",
-    "isDirectOwner": true,
-    "county": "kolnenski"
   },
   {
     "id": "adresowo-3473636",
@@ -87443,40 +84406,6 @@
     "county": "zambrowski"
   },
   {
-    "id": "adresowo-3366166",
-    "source": "adresowo",
-    "sourceId": "3366166",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-dobrzyniewo-duze-bohdan-3-000-m2-w6u9u4",
-    "propertyType": "plot",
-    "title": "Działka — Bohdan",
-    "voivodeship": "podlaskie",
-    "city": "Bohdan",
-    "coordinates": {
-      "lat": 53.129846821551,
-      "lng": 23.168098526194118
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 285000,
-    "currentPricePerM2": 95,
-    "initialPrice": 285000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 285000,
-        "pricePerM2": 95
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:34.560Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6b/32/335d16_938d_cover@2x-dzialka-siedliskowa-bialostocki-bohdan.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
     "id": "adresowo-3364580",
     "source": "adresowo",
     "sourceId": "3364580",
@@ -87645,40 +84574,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/14/75/333efe_acb4_cover@2x-dzialka-rolna-bialostocki-folwarki-male.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-3357842",
-    "source": "adresowo",
-    "sourceId": "3357842",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-miastkowo-3-000-m2-h8j4s2",
-    "propertyType": "plot",
-    "title": "Działka — Miastkowo",
-    "voivodeship": "podlaskie",
-    "city": "Miastkowo",
-    "coordinates": {
-      "lat": 53.12737448749741,
-      "lng": 23.16572923870302
-    },
-    "isNearBorder": false,
-    "areaM2": 3000,
-    "currentPrice": 395000,
-    "currentPricePerM2": 131.67,
-    "initialPrice": 395000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 395000,
-        "pricePerM2": 131.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:34.560Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/78/2b/333c92_726b_cover@2x-dzialka-siedliskowa-lomzynski-miastkowo.webp",
-    "isDirectOwner": true,
-    "county": "lomzynski"
   },
   {
     "id": "adresowo-3356870",
@@ -88298,40 +85193,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-3334964",
-    "source": "adresowo",
-    "sourceId": "3334964",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-orla-koszki-3-400-m2-v0f5j0",
-    "propertyType": "plot",
-    "title": "Działka — Koszki",
-    "voivodeship": "podlaskie",
-    "city": "Koszki",
-    "coordinates": {
-      "lat": 53.13207680907869,
-      "lng": 23.174417421393645
-    },
-    "isNearBorder": true,
-    "areaM2": 3400,
-    "currentPrice": 250000,
-    "currentPricePerM2": 73.53,
-    "initialPrice": 250000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 250000,
-        "pricePerM2": 73.53
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:34.560Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3b/1a/32e334_8425_cover@2x-dzialka-siedliskowa-bielski-koszki.webp",
-    "isDirectOwner": true,
-    "county": "bielski"
-  },
-  {
     "id": "adresowo-3333742",
     "source": "adresowo",
     "sourceId": "3333742",
@@ -88365,40 +85226,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/12/1f/32de6e_dc74_cover@2x-dzialka-budowlana-suwalski-bakalarzewo.webp",
     "isDirectOwner": true,
     "county": "suwalski"
-  },
-  {
-    "id": "adresowo-3329098",
-    "source": "adresowo",
-    "sourceId": "3329098",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-nowy-dwor-jaginty-2-700-m2-t8h2t6",
-    "propertyType": "plot",
-    "title": "Działka — Jaginty",
-    "voivodeship": "podlaskie",
-    "city": "Jaginty",
-    "coordinates": {
-      "lat": 53.12686110927612,
-      "lng": 23.178494889500296
-    },
-    "isNearBorder": true,
-    "areaM2": 2700,
-    "currentPrice": 80000,
-    "currentPricePerM2": 29.63,
-    "initialPrice": 80000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 80000,
-        "pricePerM2": 29.63
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:34.560Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5c/1e/32cc4a_652a_cover@2x-dzialka-siedliskowa-sokolski-jaginty.webp",
-    "isDirectOwner": true,
-    "county": "sokolski"
   },
   {
     "id": "adresowo-3325832",
@@ -89807,74 +86634,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-3223126",
-    "source": "adresowo",
-    "sourceId": "3223126",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-czyze-5-400-m2-g2h7x5",
-    "propertyType": "plot",
-    "title": "Działka — Czyże",
-    "voivodeship": "podlaskie",
-    "city": "Czyże",
-    "coordinates": {
-      "lat": 53.126708613939044,
-      "lng": 23.161007430484773
-    },
-    "isNearBorder": true,
-    "areaM2": 5400,
-    "currentPrice": 180000,
-    "currentPricePerM2": 33.33,
-    "initialPrice": 180000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 180000,
-        "pricePerM2": 33.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:35.992Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/56/55/312e56_51b2_cover@2x-dzialka-siedliskowa-hajnowski-czyze.webp",
-    "isDirectOwner": true,
-    "county": "hajnowski"
-  },
-  {
-    "id": "adresowo-3219542",
-    "source": "adresowo",
-    "sourceId": "3219542",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-zabludow-rzepniki-705-m2-u3w9d7",
-    "propertyType": "plot",
-    "title": "Działka — Rzepniki",
-    "voivodeship": "podlaskie",
-    "city": "Rzepniki",
-    "coordinates": {
-      "lat": 53.138438203140545,
-      "lng": 23.1757489291489
-    },
-    "isNearBorder": true,
-    "areaM2": 705,
-    "currentPrice": 140000,
-    "currentPricePerM2": 198.58,
-    "initialPrice": 140000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 140000,
-        "pricePerM2": 198.58
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:35.992Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/4c/58/312056_fbf4_cover@2x-dzialka-siedliskowa-bialostocki-rzepniki.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
     "id": "adresowo-3218754",
     "source": "adresowo",
     "sourceId": "3218754",
@@ -90043,40 +86802,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/16/17/30ee46_5666_cover@2x-dzialka-budowlana-suwalski-bakalarzewo.webp",
     "isDirectOwner": true,
     "county": "suwalski"
-  },
-  {
-    "id": "adresowo-3204998",
-    "source": "adresowo",
-    "sourceId": "3204998",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-bransk-zaluskie-koscielne-3-164-m2-q5b6w6",
-    "propertyType": "plot",
-    "title": "Działka — Załuskie Kościelne",
-    "voivodeship": "podlaskie",
-    "city": "Załuskie Kościelne",
-    "coordinates": {
-      "lat": 53.12944575188479,
-      "lng": 23.16690427444997
-    },
-    "isNearBorder": true,
-    "areaM2": 3164,
-    "currentPrice": 160000,
-    "currentPricePerM2": 50.57,
-    "initialPrice": 160000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 160000,
-        "pricePerM2": 50.57
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:35.992Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/76/4c/30e786_9281_cover@2x-dzialka-siedliskowa-bielski-zaluskie-koscielne.webp",
-    "isDirectOwner": true,
-    "county": "bielski"
   },
   {
     "id": "adresowo-3202692",
@@ -90526,40 +87251,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-3168376",
-    "source": "adresowo",
-    "sourceId": "3168376",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-stawiski-wysokie-male-5-ha-p5e4r1",
-    "propertyType": "plot",
-    "title": "Działka — Wysokie Małe",
-    "voivodeship": "podlaskie",
-    "city": "Wysokie Małe",
-    "coordinates": {
-      "lat": 53.138086991071056,
-      "lng": 23.17233445109717
-    },
-    "isNearBorder": false,
-    "areaM2": 55400,
-    "currentPrice": 650000,
-    "currentPricePerM2": 11.73,
-    "initialPrice": 650000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 650000,
-        "pricePerM2": 11.73
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:35.992Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/29/2a/305878_c339_cover@2x-dzialka-siedliskowa-kolnenski-wysokie-male.webp",
-    "isDirectOwner": true,
-    "county": "kolnenski"
-  },
-  {
     "id": "adresowo-3157920",
     "source": "adresowo",
     "sourceId": "3157920",
@@ -90972,40 +87663,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-3134236",
-    "source": "adresowo",
-    "sourceId": "3134236",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-drohiczyn-klepacze-3-200-m2-h2b3o9",
-    "propertyType": "plot",
-    "title": "Działka — Klepacze",
-    "voivodeship": "podlaskie",
-    "city": "Klepacze",
-    "coordinates": {
-      "lat": 53.135216247192915,
-      "lng": 23.162429372146853
-    },
-    "isNearBorder": true,
-    "areaM2": 3200,
-    "currentPrice": 180000,
-    "currentPricePerM2": 56.25,
-    "initialPrice": 180000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 180000,
-        "pricePerM2": 56.25
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:35.992Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/30/13/2fd31c_640d_cover@2x-dzialka-siedliskowa-siemiatycki-klepacze.webp",
-    "isDirectOwner": true,
-    "county": "siemiatycki"
-  },
-  {
     "id": "adresowo-3124436",
     "source": "adresowo",
     "sourceId": "3124436",
@@ -91247,41 +87904,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-3111448",
-    "source": "adresowo",
-    "sourceId": "3111448",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-juchnowiec-koscielny-juchnowiec-dolny-ul-spacerowa-n8l0j5",
-    "propertyType": "plot",
-    "title": "Działka — Juchnowiec Dolny, ul. Spacerowa",
-    "voivodeship": "podlaskie",
-    "city": "Juchnowiec Dolny",
-    "street": "ul. Spacerowa",
-    "coordinates": {
-      "lat": 53.133884011603904,
-      "lng": 23.178391167939434
-    },
-    "isNearBorder": true,
-    "areaM2": 6547,
-    "currentPrice": 389000,
-    "currentPricePerM2": 59.42,
-    "initialPrice": 389000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 389000,
-        "pricePerM2": 59.42
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:35.992Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/25/18/2f7a18_f9df_cover@2x-dzialka-siedliskowa-bialostocki-juchnowiec-dolny.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
     "id": "adresowo-3100986",
     "source": "adresowo",
     "sourceId": "3100986",
@@ -91382,40 +88004,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/5e/6c/2f4930_307b_cover@2x-dzialka-budowlana-augustowski-pijawne-ruskie.webp",
     "isDirectOwner": true,
     "county": "augustowski"
-  },
-  {
-    "id": "adresowo-3094582",
-    "source": "adresowo",
-    "sourceId": "3094582",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-orla-wolka-8-843-m2-m2b1v3",
-    "propertyType": "plot",
-    "title": "Działka — Wólka",
-    "voivodeship": "podlaskie",
-    "city": "Wólka",
-    "coordinates": {
-      "lat": 53.13960440037429,
-      "lng": 23.164908992731164
-    },
-    "isNearBorder": true,
-    "areaM2": 8843,
-    "currentPrice": 120000,
-    "currentPricePerM2": 13.57,
-    "initialPrice": 120000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 120000,
-        "pricePerM2": 13.57
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:35.992Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/35/70/2f3836_ac7e_cover@2x-dzialka-siedliskowa-bielski-wolka.webp",
-    "isDirectOwner": true,
-    "county": "bielski"
   },
   {
     "id": "adresowo-3089424",
@@ -94773,40 +91361,6 @@
     "county": "lomzynski"
   },
   {
-    "id": "adresowo-2838342",
-    "source": "adresowo",
-    "sourceId": "2838342",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-zabludow-sieski-3-092-m2-t2z2d8",
-    "propertyType": "plot",
-    "title": "Działka — Sieśki",
-    "voivodeship": "podlaskie",
-    "city": "Sieśki",
-    "coordinates": {
-      "lat": 53.13934076601128,
-      "lng": 23.16412123449234
-    },
-    "isNearBorder": true,
-    "areaM2": 3092,
-    "currentPrice": 160000,
-    "currentPricePerM2": 51.75,
-    "initialPrice": 160000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 160000,
-        "pricePerM2": 51.75
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:37.588Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/36/58/2b4f46_e562_cover@2x-dzialka-siedliskowa-bialostocki-sieski.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
     "id": "adresowo-2838036",
     "source": "adresowo",
     "sourceId": "2838036",
@@ -95248,40 +91802,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/25/5e/2acd76_934f_cover@2x-dzialka-budowlana-lomzynski-konarzyce.webp",
     "isDirectOwner": true,
     "county": "lomzynski"
-  },
-  {
-    "id": "adresowo-2803436",
-    "source": "adresowo",
-    "sourceId": "2803436",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-sidra-kalwinszczyzna-1-ha-l2i7i5",
-    "propertyType": "plot",
-    "title": "Działka — Kalwińszczyzna",
-    "voivodeship": "podlaskie",
-    "city": "Kalwińszczyzna",
-    "coordinates": {
-      "lat": 53.126896387197874,
-      "lng": 23.174674841551223
-    },
-    "isNearBorder": true,
-    "areaM2": 10700,
-    "currentPrice": 185000,
-    "currentPricePerM2": 17.29,
-    "initialPrice": 185000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 185000,
-        "pricePerM2": 17.29
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:37.588Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/74/66/2ac6ec_a440_cover@2x-dzialka-siedliskowa-sokolski-kalwinszczyzna.webp",
-    "isDirectOwner": true,
-    "county": "sokolski"
   },
   {
     "id": "adresowo-2798968",
@@ -96387,40 +92907,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-2708504",
-    "source": "adresowo",
-    "sourceId": "2708504",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-drohiczyn-klepacze-3-000-m2-m0s2e5",
-    "propertyType": "plot",
-    "title": "Działka — Klepacze",
-    "voivodeship": "podlaskie",
-    "city": "Klepacze",
-    "coordinates": {
-      "lat": 53.134150459895466,
-      "lng": 23.174667008611934
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 180000,
-    "currentPricePerM2": 60,
-    "initialPrice": 180000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 180000,
-        "pricePerM2": 60
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:37.588Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/11/54/295418_8504_cover@2x-dzialka-siedliskowa-siemiatycki-klepacze.webp",
-    "isDirectOwner": true,
-    "county": "siemiatycki"
-  },
-  {
     "id": "adresowo-2701912",
     "source": "adresowo",
     "sourceId": "2701912",
@@ -96970,74 +93456,6 @@
     "county": "lomzynski"
   },
   {
-    "id": "adresowo-2659474",
-    "source": "adresowo",
-    "sourceId": "2659474",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-rajgrod-17-ha-e8t6l2",
-    "propertyType": "plot",
-    "title": "Działka — Rajgród",
-    "voivodeship": "podlaskie",
-    "city": "Rajgród",
-    "coordinates": {
-      "lat": 53.12897755220183,
-      "lng": 23.172906498809716
-    },
-    "isNearBorder": false,
-    "areaM2": 173400,
-    "currentPrice": 1250000,
-    "currentPricePerM2": 7.21,
-    "initialPrice": 1250000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1250000,
-        "pricePerM2": 7.21
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:37.588Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/43/5a/289492_7b8d_cover@2x-dzialka-siedliskowa-grajewski-rajgrod.webp",
-    "isDirectOwner": true,
-    "county": "grajewski"
-  },
-  {
-    "id": "adresowo-2655386",
-    "source": "adresowo",
-    "sourceId": "2655386",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-jedwabne-mocarze-4-000-m2-c4a5s1",
-    "propertyType": "plot",
-    "title": "Działka — Mocarze",
-    "voivodeship": "podlaskie",
-    "city": "Mocarze",
-    "coordinates": {
-      "lat": 53.13772964807831,
-      "lng": 23.17600916198182
-    },
-    "isNearBorder": false,
-    "areaM2": 4000,
-    "currentPrice": 400000,
-    "currentPricePerM2": 100,
-    "initialPrice": 400000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 400000,
-        "pricePerM2": 100
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:37.588Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/69/47/28849a_d186_cover@2x-dzialka-siedliskowa-lomzynski-mocarze.webp",
-    "isDirectOwner": true,
-    "county": "lomzynski"
-  },
-  {
     "id": "adresowo-2652246",
     "source": "adresowo",
     "sourceId": "2652246",
@@ -97207,40 +93625,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/7d/7c/2805d0_e673_cover@2x-dzialka-budowlana-bialostocki-fasty.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-2621100",
-    "source": "adresowo",
-    "sourceId": "2621100",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-sokoly-bruszewo-5-638-m2-m1i2y7",
-    "propertyType": "plot",
-    "title": "Działka — Bruszewo",
-    "voivodeship": "podlaskie",
-    "city": "Bruszewo",
-    "coordinates": {
-      "lat": 53.13165522744463,
-      "lng": 23.16915494854104
-    },
-    "isNearBorder": false,
-    "areaM2": 5638,
-    "currentPrice": 140000,
-    "currentPricePerM2": 24.83,
-    "initialPrice": 140000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 140000,
-        "pricePerM2": 24.83
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:37.588Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/71/25/27feac_2fe1_cover@2x-dzialka-siedliskowa-wysokomazowiecki-bruszewo.webp",
-    "isDirectOwner": true,
-    "county": "wysokomazowiecki"
   },
   {
     "id": "adresowo-2620694",
@@ -97722,40 +94106,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-2589008",
-    "source": "adresowo",
-    "sourceId": "2589008",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-bocki-solniki-1-276-m2-e7u7v8",
-    "propertyType": "plot",
-    "title": "Działka — Solniki",
-    "voivodeship": "podlaskie",
-    "city": "Solniki",
-    "coordinates": {
-      "lat": 53.12764915315701,
-      "lng": 23.160856259443438
-    },
-    "isNearBorder": true,
-    "areaM2": 1276,
-    "currentPrice": 270000,
-    "currentPricePerM2": 211.6,
-    "initialPrice": 270000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 270000,
-        "pricePerM2": 211.6
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:40.154Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7a/53/278150_8223_cover@2x-dzialka-siedliskowa-bielski-solniki.webp",
-    "isDirectOwner": true,
-    "county": "bielski"
-  },
-  {
     "id": "adresowo-2586294",
     "source": "adresowo",
     "sourceId": "2586294",
@@ -97958,40 +94308,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/15/72/27573a_821e_cover@2x-dzialka-lesna-sokolski-starowlany.webp",
     "isDirectOwner": true,
     "county": "sokolski"
-  },
-  {
-    "id": "adresowo-2577094",
-    "source": "adresowo",
-    "sourceId": "2577094",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-narew-przybudki-4-500-m2-q3a2t3",
-    "propertyType": "plot",
-    "title": "Działka — Przybudki",
-    "voivodeship": "podlaskie",
-    "city": "Przybudki",
-    "coordinates": {
-      "lat": 53.138532714164526,
-      "lng": 23.15920279663452
-    },
-    "isNearBorder": true,
-    "areaM2": 4500,
-    "currentPrice": 120000,
-    "currentPricePerM2": 26.67,
-    "initialPrice": 120000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 120000,
-        "pricePerM2": 26.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:40.154Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/36/63/2752c6_3f6f_cover@2x-dzialka-siedliskowa-hajnowski-przybudki.webp",
-    "isDirectOwner": true,
-    "county": "hajnowski"
   },
   {
     "id": "adresowo-2575022",
@@ -98920,40 +95236,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-2482438",
-    "source": "adresowo",
-    "sourceId": "2482438",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-piatnica-wyludzin-8-500-m2-m8u8n6",
-    "propertyType": "plot",
-    "title": "Działka — Wyłudzin",
-    "voivodeship": "podlaskie",
-    "city": "Wyłudzin",
-    "coordinates": {
-      "lat": 53.13634863556757,
-      "lng": 23.15911041332692
-    },
-    "isNearBorder": false,
-    "areaM2": 8500,
-    "currentPrice": 499000,
-    "currentPricePerM2": 58.71,
-    "initialPrice": 499000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 499000,
-        "pricePerM2": 58.71
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:40.154Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/47/14/25e106_c090_cover@2x-dzialka-siedliskowa-lomzynski-wyludzin.webp",
-    "isDirectOwner": true,
-    "county": "lomzynski"
-  },
-  {
     "id": "adresowo-2475082",
     "source": "adresowo",
     "sourceId": "2475082",
@@ -99571,40 +95853,6 @@
     "county": "lomzynski"
   },
   {
-    "id": "adresowo-2381640",
-    "source": "adresowo",
-    "sourceId": "2381640",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-krynki-kundzicze-3-835-m2-f0l6k7",
-    "propertyType": "plot",
-    "title": "Działka — Kundzicze",
-    "voivodeship": "podlaskie",
-    "city": "Kundzicze",
-    "coordinates": {
-      "lat": 53.12940797036295,
-      "lng": 23.17607580197732
-    },
-    "isNearBorder": true,
-    "areaM2": 3835,
-    "currentPrice": 38500,
-    "currentPricePerM2": 10.04,
-    "initialPrice": 38500,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 38500,
-        "pricePerM2": 10.04
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:40.154Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/57/43/245748_c0ed_cover@2x-dzialka-siedliskowa-sokolski-kundzicze.webp",
-    "isDirectOwner": true,
-    "county": "sokolski"
-  },
-  {
     "id": "adresowo-2379886",
     "source": "adresowo",
     "sourceId": "2379886",
@@ -99913,40 +96161,6 @@
     "county": "bialostocki"
   },
   {
-    "id": "adresowo-2326964",
-    "source": "adresowo",
-    "sourceId": "2326964",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-krynki-kundzicze-3-752-m2-i7s8u3",
-    "propertyType": "plot",
-    "title": "Działka — Kundzicze",
-    "voivodeship": "podlaskie",
-    "city": "Kundzicze",
-    "coordinates": {
-      "lat": 53.137392400885396,
-      "lng": 23.16959070270374
-    },
-    "isNearBorder": true,
-    "areaM2": 3752,
-    "currentPrice": 36500,
-    "currentPricePerM2": 9.73,
-    "initialPrice": 36500,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 36500,
-        "pricePerM2": 9.73
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:40.154Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/2e/1e/2381b4_a321_cover@2x-dzialka-siedliskowa-sokolski-kundzicze.webp",
-    "isDirectOwner": true,
-    "county": "sokolski"
-  },
-  {
     "id": "adresowo-2326702",
     "source": "adresowo",
     "sourceId": "2326702",
@@ -100220,109 +96434,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/5e/7c/230c84_5acc_cover@2x-dzialka-budowlana-bialostocki-uhowo.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-2290288",
-    "source": "adresowo",
-    "sourceId": "2290288",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-grodzisk-malyszczyn-2-800-m2-k3i7n1",
-    "propertyType": "plot",
-    "title": "Działka — Małyszczyn",
-    "voivodeship": "podlaskie",
-    "city": "Małyszczyn",
-    "coordinates": {
-      "lat": 53.12979773549284,
-      "lng": 23.178161142040867
-    },
-    "isNearBorder": true,
-    "areaM2": 2800,
-    "currentPrice": 110000,
-    "currentPricePerM2": 39.29,
-    "initialPrice": 110000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 110000,
-        "pricePerM2": 39.29
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:40.154Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5b/77/22f270_297d_cover@2x-dzialka-siedliskowa-siemiatycki-malyszczyn.webp",
-    "isDirectOwner": true,
-    "county": "siemiatycki"
-  },
-  {
-    "id": "adresowo-2289912",
-    "source": "adresowo",
-    "sourceId": "2289912",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lapy-gasowka-oleksin-8-400-m2-s1v7g6",
-    "propertyType": "plot",
-    "title": "Działka — Gąsówka-Oleksin",
-    "voivodeship": "podlaskie",
-    "city": "Gąsówka-Oleksin",
-    "coordinates": {
-      "lat": 53.137604795292766,
-      "lng": 23.16962075277623
-    },
-    "isNearBorder": true,
-    "areaM2": 8400,
-    "currentPrice": 300000,
-    "currentPricePerM2": 35.71,
-    "initialPrice": 300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 300000,
-        "pricePerM2": 35.71
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:40.154Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/40/38/22f0f8_958f_cover@2x-dzialka-siedliskowa-bialostocki-gasowka-oleksin.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-2280476",
-    "source": "adresowo",
-    "sourceId": "2280476",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-hajnowka-orzeszkowo-1-ha-s7e0d8",
-    "propertyType": "plot",
-    "title": "Działka — Orzeszkowo, Olszyna",
-    "voivodeship": "podlaskie",
-    "city": "Orzeszkowo",
-    "street": "Olszyna",
-    "coordinates": {
-      "lat": 53.13587755720291,
-      "lng": 23.17398945918686
-    },
-    "isNearBorder": true,
-    "areaM2": 19400,
-    "currentPrice": 160000,
-    "currentPricePerM2": 8.25,
-    "initialPrice": 160000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 160000,
-        "pricePerM2": 8.25
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:40.154Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/62/54/22cc1c_8278_cover@2x-dzialka-siedliskowa-hajnowski-orzeszkowo.webp",
-    "isDirectOwner": true,
-    "county": "hajnowski"
   },
   {
     "id": "adresowo-2280276",
@@ -100769,75 +96880,6 @@
     "county": "augustowski"
   },
   {
-    "id": "adresowo-2152644",
-    "source": "adresowo",
-    "sourceId": "2152644",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-bialystok-ul-liniowa-o3u9j3",
-    "propertyType": "plot",
-    "title": "Działka — Białystok Dojlidy Górne, ul. Liniowa",
-    "voivodeship": "podlaskie",
-    "city": "Białystok Dojlidy Górne",
-    "street": "ul. Liniowa",
-    "coordinates": {
-      "lat": 53.12867812574405,
-      "lng": 23.176024513087263
-    },
-    "isNearBorder": true,
-    "areaM2": 3049,
-    "currentPrice": 395000,
-    "currentPricePerM2": 129.55,
-    "initialPrice": 395000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 395000,
-        "pricePerM2": 129.55
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:40.154Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/42/39/20d8c4_eece_cover@2x-dzialka-siedliskowa-bialystok.webp",
-    "isDirectOwner": true,
-    "county": "białostocki"
-  },
-  {
-    "id": "adresowo-2148546",
-    "source": "adresowo",
-    "sourceId": "2148546",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-michalowo-topolany-5-842-m2-d4n1g0",
-    "propertyType": "plot",
-    "title": "Działka — Topolany",
-    "voivodeship": "podlaskie",
-    "city": "Topolany",
-    "coordinates": {
-      "lat": 53.13206956553814,
-      "lng": 23.16497317896199
-    },
-    "isNearBorder": true,
-    "areaM2": 5842,
-    "currentPrice": 195000,
-    "currentPricePerM2": 33.38,
-    "initialPrice": 195000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 195000,
-        "pricePerM2": 33.38
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:40.154Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/64/6c/20c8c2_5f83_cover@2x-dzialka-siedliskowa-bialostocki-topolany.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
     "id": "adresowo-2143348",
     "source": "adresowo",
     "sourceId": "2143348",
@@ -101179,41 +97221,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/68/23/1fc6a8_4669_cover@2x-dzialka-rolno-budowlana-bialostocki-oliszki.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-2074210",
-    "source": "adresowo",
-    "sourceId": "2074210",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-mielnik-ul-sadowa-k5p1a9",
-    "propertyType": "plot",
-    "title": "Działka — Mielnik, ul. Sadowa",
-    "voivodeship": "podlaskie",
-    "city": "Mielnik",
-    "street": "ul. Sadowa",
-    "coordinates": {
-      "lat": 53.13750351075347,
-      "lng": 23.174887337808645
-    },
-    "isNearBorder": true,
-    "areaM2": 40900,
-    "currentPrice": 660000,
-    "currentPricePerM2": 16.14,
-    "initialPrice": 660000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 660000,
-        "pricePerM2": 16.14
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:40.154Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/29/52/1fa662_757a_cover@2x-dzialka-siedliskowa-siemiatycki-mielnik.webp",
-    "isDirectOwner": true,
-    "county": "siemiatycki"
   },
   {
     "id": "adresowo-2072936",
@@ -103072,40 +99079,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/12/21/18bbbf_d381_cover@2x-dzialka-rolna-augustowski-barszcze.webp",
     "isDirectOwner": true,
     "county": "augustowski"
-  },
-  {
-    "id": "adresowo-1620631",
-    "source": "adresowo",
-    "sourceId": "1620631",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-maly-plock-kolaki-wietrzychowo-7-900-m2-t3b1f3",
-    "propertyType": "plot",
-    "title": "Działka — Kołaki-Wietrzychowo",
-    "voivodeship": "podlaskie",
-    "city": "Kołaki-Wietrzychowo",
-    "coordinates": {
-      "lat": 53.13424621642273,
-      "lng": 23.16442868589744
-    },
-    "isNearBorder": false,
-    "areaM2": 7900,
-    "currentPrice": 200000,
-    "currentPricePerM2": 25.32,
-    "initialPrice": 200000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 200000,
-        "pricePerM2": 25.32
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:41.977Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7a/59/18ba97_438c_cover@2x-dzialka-siedliskowa-kolnenski-kolaki-wietrzychowo.webp",
-    "isDirectOwner": true,
-    "county": "kolnenski"
   },
   {
     "id": "adresowo-1620337",
@@ -105097,40 +101070,6 @@
     "county": "augustowski"
   },
   {
-    "id": "adresowo-1109057",
-    "source": "adresowo",
-    "sourceId": "1109057",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-sokolka-zaspicze-1-900-m2-f7v3w5",
-    "propertyType": "plot",
-    "title": "Działka — Zaśpicze",
-    "voivodeship": "podlaskie",
-    "city": "Zaśpicze",
-    "coordinates": {
-      "lat": 53.12980321491446,
-      "lng": 23.169755340155884
-    },
-    "isNearBorder": true,
-    "areaM2": 1900,
-    "currentPrice": 75000,
-    "currentPricePerM2": 39.47,
-    "initialPrice": 75000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 75000,
-        "pricePerM2": 39.47
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:41.977Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/65/40/10ec41_c3df_cover@2x-dzialka-siedliskowa-sokolski-zaspicze.webp",
-    "isDirectOwner": true,
-    "county": "sokolski"
-  },
-  {
     "id": "adresowo-1107035",
     "source": "adresowo",
     "sourceId": "1107035",
@@ -105438,41 +101377,6 @@
     "county": "wysokomazowiecki"
   },
   {
-    "id": "adresowo-287379",
-    "source": "adresowo",
-    "sourceId": "287379",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-zabludow-ul-kolonia-rvuyu3",
-    "propertyType": "plot",
-    "title": "Działka — Zabłudów, ul. Kolonia",
-    "voivodeship": "podlaskie",
-    "city": "Zabłudów",
-    "street": "ul. Kolonia",
-    "coordinates": {
-      "lat": 53.128246149993835,
-      "lng": 23.169877656549588
-    },
-    "isNearBorder": true,
-    "areaM2": 7300,
-    "currentPrice": 375000,
-    "currentPricePerM2": 51.37,
-    "initialPrice": 375000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 375000,
-        "pricePerM2": 51.37
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:41.977Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/15/74/46293_2a26_cover@2x-dzialka-siedliskowa-bialostocki-zabludow.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
     "id": "adresowo-287377",
     "source": "adresowo",
     "sourceId": "287377",
@@ -105504,74 +101408,6 @@
     "firstSeenAt": "2026-09-17T22:17:41.977Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://s2.adresowa.pl/oi/58/39/46291_5986_cover@2x-dzialka-rolno-budowlana-bialostocki-zabludow.webp",
-    "isDirectOwner": true,
-    "county": "bialostocki"
-  },
-  {
-    "id": "adresowo-208671",
-    "source": "adresowo",
-    "sourceId": "208671",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-przerosl-nowa-przerosl-1-ha-9nxyyx",
-    "propertyType": "plot",
-    "title": "Działka — Nowa Przerośl",
-    "voivodeship": "podlaskie",
-    "city": "Nowa Przerośl",
-    "coordinates": {
-      "lat": 53.13328717676694,
-      "lng": 23.178356880244134
-    },
-    "isNearBorder": true,
-    "areaM2": 19000,
-    "currentPrice": 599999,
-    "currentPricePerM2": 31.58,
-    "initialPrice": 599999,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 599999,
-        "pricePerM2": 31.58
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:41.977Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/16/54/32f1f_7e59_cover@2x-dzialka-siedliskowa-suwalski-nowa-przerosl.webp",
-    "isDirectOwner": true,
-    "county": "suwalski"
-  },
-  {
-    "id": "adresowo-189291",
-    "source": "adresowo",
-    "sourceId": "189291",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-grodek-kolodno-2-900-m2-ru47ev",
-    "propertyType": "plot",
-    "title": "Działka — Kołodno",
-    "voivodeship": "podlaskie",
-    "city": "Kołodno",
-    "coordinates": {
-      "lat": 53.139065301170504,
-      "lng": 23.16973504549616
-    },
-    "isNearBorder": true,
-    "areaM2": 2900,
-    "currentPrice": 174000,
-    "currentPricePerM2": 60,
-    "initialPrice": 174000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 174000,
-        "pricePerM2": 60
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:41.977Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/4e/70/2e36b_437e_cover@2x-dzialka-siedliskowa-bialostocki-kolodno.webp",
     "isDirectOwner": true,
     "county": "bialostocki"
   },
@@ -106189,40 +102025,6 @@
     "firstSeenAt": "2026-09-19T11:31:08.000Z",
     "lastSeenAt": "2026-09-22T09:04:52.347Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh3YzE3MGp2N3Q4dTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.N9Gkylk1kRC5w7x-4QDKuI0QfFpB0sO_5NgMwivhDGg/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4263500",
-    "source": "adresowo",
-    "sourceId": "4263500",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-jeleniewo-sidory-8-964-m2-w7y2w5",
-    "propertyType": "plot",
-    "title": "Działka — Sidory",
-    "voivodeship": "podlaskie",
-    "county": "suwalski",
-    "city": "Sidory",
-    "coordinates": {
-      "lat": 53.13771358013383,
-      "lng": 23.170657568782527
-    },
-    "isNearBorder": true,
-    "areaM2": 8964,
-    "currentPrice": 199000,
-    "currentPricePerM2": 22.2,
-    "initialPrice": 199000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-20",
-        "price": 199000,
-        "pricePerM2": 22.2
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-20T09:05:33.104Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/32/33/410e4c_91aa_cover@2x-dzialka-siedliskowa-suwalski-sidory.webp",
     "isDirectOwner": true
   },
   {
@@ -107747,39 +103549,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-96815256100067",
-    "source": "otodom",
-    "sourceId": "96815256100067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-siedliskowe-w-gminie-choroszcz-ID4BXAR",
-    "propertyType": "plot",
-    "title": "Działki siedliskowe  w gminie Choroszcz",
-    "voivodeship": "podlaskie",
-    "county": "białostocki",
-    "city": "Zaczerlany",
-    "coordinates": {
-      "lat": 53.138729151300694,
-      "lng": 23.173383397245846
-    },
-    "isNearBorder": true,
-    "areaM2": 3001,
-    "currentPrice": 330000,
-    "currentPricePerM2": 109.96,
-    "initialPrice": 330000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-22",
-        "price": 330000,
-        "pricePerM2": 109.96
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-22T09:04:52.347Z",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-96742070000067",
     "source": "otodom",
     "sourceId": "96742070000067",
@@ -108257,40 +104026,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "otodom-66830493",
-    "source": "otodom",
-    "sourceId": "66830493",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-40-ha-ID4vpFb",
-    "propertyType": "plot",
-    "title": "Gospodarstwo rolne 40 ha",
-    "voivodeship": "podlaskie",
-    "county": "suwalski",
-    "city": "Kolonia Przerośl",
-    "coordinates": {
-      "lat": 53.135961856933044,
-      "lng": 23.167428465772776
-    },
-    "isNearBorder": true,
-    "areaM2": 400000,
-    "currentPrice": 3449999,
-    "currentPricePerM2": 8.62,
-    "initialPrice": 3449999,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 3449999,
-        "pricePerM2": 8.62
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-09T16:07:57.000Z",
-    "lastSeenAt": "2026-09-21T09:36:57.141Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Img1bGE5MW83cnZodS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.tosn1Umhlu71nM8WTo2VW1MF6hBZys0Ip_Jl-TyD7V0/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
     "id": "otodom-68340127",
     "source": "otodom",
     "sourceId": "68340127",
@@ -108461,40 +104196,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/4d/6b/404162_b708_cover@2x-dzialka-rolna-lomzynski-zawady.webp",
     "isDirectOwner": true,
     "county": "lomzynski"
-  },
-  {
-    "id": "adresowo-4144232",
-    "source": "adresowo",
-    "sourceId": "4144232",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-szypliszki-olszanka-3-000-m2-g3v6x0",
-    "propertyType": "plot",
-    "title": "Działka — Olszanka",
-    "voivodeship": "podlaskie",
-    "city": "Olszanka",
-    "coordinates": {
-      "lat": 53.125631811501734,
-      "lng": 23.177221752613853
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 200000,
-    "currentPricePerM2": 66.67,
-    "initialPrice": 200000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 200000,
-        "pricePerM2": 66.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:16.341Z",
-    "lastSeenAt": "2026-09-21T09:36:57.141Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5c/60/3f3c68_3d99_cover@2x-dzialka-siedliskowa-suwalski-olszanka.webp",
-    "isDirectOwner": true,
-    "county": "suwalski"
   },
   {
     "id": "adresowo-3936726",
@@ -109607,40 +105308,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "otodom-68372813",
-    "source": "otodom",
-    "sourceId": "68372813",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/duze-siedlisko-w-miejscowosci-pokaniewo-kolonia-enklawa-spokoju-ID4CSTj",
-    "propertyType": "plot",
-    "title": "Duże SIEDLISKO w miejscowości Pokaniewo-Kolonia | ENKLAWA spokoju",
-    "voivodeship": "podlaskie",
-    "county": "siemiatycki",
-    "city": "Pokaniewo-Kolonia",
-    "coordinates": {
-      "lat": 53.130730088479794,
-      "lng": 23.160234935248397
-    },
-    "isNearBorder": true,
-    "areaM2": 47506,
-    "currentPrice": 309000,
-    "currentPricePerM2": 6.5,
-    "initialPrice": 309000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 309000,
-        "pricePerM2": 6.5
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-02T08:41:07.000Z",
-    "lastSeenAt": "2026-09-20T09:06:12.211Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZ5Njd1eXgwazZqMDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.siobVDK_rVZ5kxsGUDmKqIJdM224JIvE2UH365pBgZg/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68371618",
     "source": "otodom",
     "sourceId": "68371618",
@@ -109809,40 +105476,6 @@
     "lastSeenAt": "2026-09-20T09:06:12.211Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRtZTc0Y2xza25teDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hBoFX1ZkyVa0AYxBLz_4UPN70m-p9EEF-vVxMooNWD4/image;s=655x491;q=80",
     "isDirectOwner": false
-  },
-  {
-    "id": "adresowo-4220844",
-    "source": "adresowo",
-    "sourceId": "4220844",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-jeleniewo-sidory-8-964-m2-b4r5r2",
-    "propertyType": "plot",
-    "title": "Działka — Sidory",
-    "voivodeship": "podlaskie",
-    "city": "Sidory",
-    "coordinates": {
-      "lat": 53.138976817667704,
-      "lng": 23.173216284298594
-    },
-    "isNearBorder": true,
-    "areaM2": 8964,
-    "currentPrice": 219000,
-    "currentPricePerM2": 24.43,
-    "initialPrice": 219000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 219000,
-        "pricePerM2": 24.43
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:17:11.433Z",
-    "lastSeenAt": "2026-09-20T09:06:12.211Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/16/7a/4067ac_d14d_cover@2x-dzialka-siedliskowa-suwalski-sidory.webp",
-    "isDirectOwner": true,
-    "county": "suwalski"
   },
   {
     "id": "adresowo-4218758",
@@ -110146,39 +105779,6 @@
     "firstSeenAt": "1999-03-01T00:00:01.000Z",
     "lastSeenAt": "2026-09-20T09:06:12.211Z",
     "isDirectOwner": false
-  },
-  {
-    "id": "otodom-96822014400067",
-    "source": "otodom",
-    "sourceId": "96822014400067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-siedliskowe-natura-2000-ID4CfaU",
-    "propertyType": "plot",
-    "title": "Działki siedliskowe Natura 2000",
-    "voivodeship": "podlaskie",
-    "county": "hajnowski",
-    "city": "Doratynka",
-    "coordinates": {
-      "lat": 53.1265689573474,
-      "lng": 23.16747244024077
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 105000,
-    "currentPricePerM2": 35,
-    "initialPrice": 105000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-20",
-        "price": 105000,
-        "pricePerM2": 35
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-20T09:06:12.211Z",
-    "isDirectOwner": true
   },
   {
     "id": "otodom-96837674500067",
@@ -112122,40 +107722,6 @@
     "lastSeenAt": "2026-09-18T08:46:47.921Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdoY2w5OGptczZoZjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LrwKHMrAcYti1owPB4CyDZ6JTfCEy7lByvTslSWoLPk/image;s=655x491;q=80",
     "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67731211",
-    "source": "otodom",
-    "sourceId": "67731211",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/wymarzona-lesniczowka-dwie-dzialki-w-cenie-jednej-3393-m2-ID4AbYT",
-    "propertyType": "plot",
-    "title": "Wymarzona Leśniczówka. Dwie działki w cenie jednej. 3393 m2",
-    "voivodeship": "podlaskie",
-    "county": "hajnowski",
-    "city": "Górny Gród",
-    "coordinates": {
-      "lat": 53.132203495122596,
-      "lng": 23.161289055124556
-    },
-    "isNearBorder": true,
-    "areaM2": 3392,
-    "currentPrice": 320000,
-    "currentPricePerM2": 94.34,
-    "initialPrice": 320000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 320000,
-        "pricePerM2": 94.34
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-19T13:09:43.000Z",
-    "lastSeenAt": "2026-09-18T08:46:47.921Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndiOXFuNnYzMTZoeS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.53Y2bHfFUr1ye-6SpKuyWxqSyaZcfPVYmerneasrf3k/image;s=655x491;q=80",
-    "isDirectOwner": true
   },
   {
     "id": "otodom-96765417500067",
@@ -115437,40 +111003,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67942985",
-    "source": "otodom",
-    "sourceId": "67942985",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-pod-zabudowe-zagrodowa-1-92-h-ID4B54B",
-    "propertyType": "plot",
-    "title": "Działka pod zabudowę zagrodową 1,92 h *",
-    "voivodeship": "podlaskie",
-    "county": "hajnowski",
-    "city": "Iwanki",
-    "coordinates": {
-      "lat": 53.13770445507068,
-      "lng": 23.158801007056738
-    },
-    "isNearBorder": true,
-    "areaM2": 19200,
-    "currentPrice": 190000,
-    "currentPricePerM2": 9.9,
-    "initialPrice": 190000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 190000,
-        "pricePerM2": 9.9
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-04-24T20:05:10.000Z",
-    "lastSeenAt": "2026-09-17T22:17:41.996Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRnbG41ejJuMXRmazEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Zd-OZt4vFE4VdcbEsSlYKoN5yTIot8BqrGTSA2Y49pA/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67942113",
     "source": "otodom",
     "sourceId": "67942113",
@@ -117551,40 +113083,6 @@
     "county": "łomżyński"
   },
   {
-    "id": "otodom-67903630",
-    "source": "otodom",
-    "sourceId": "67903630",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-w-okuniowcu-do-zabudowy-zagrodowej-ID4AUPQ",
-    "propertyType": "plot",
-    "title": "Działka w Okuniowcu do zabudowy zagrodowej",
-    "voivodeship": "podlaskie",
-    "county": "suwalski",
-    "city": "Okuniowiec",
-    "coordinates": {
-      "lat": 53.128819235958225,
-      "lng": 23.1761507255007
-    },
-    "isNearBorder": true,
-    "areaM2": 1518,
-    "currentPrice": 99000,
-    "currentPricePerM2": 65.22,
-    "initialPrice": 99000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 99000,
-        "pricePerM2": 65.22
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-04-14T07:08:05.000Z",
-    "lastSeenAt": "2026-09-17T22:17:41.996Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlmZXd1MWtzdjB2eDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.835wTZoAP87sPoL61Ig1haqcCZqlXBm6tK4H5S6NOtU/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67902956",
     "source": "otodom",
     "sourceId": "67902956",
@@ -117925,40 +113423,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA3dDV3OTA1YmppdzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qgME4AS8cLU44oe1YGk2A-kWnZAPGuWo-l9aDC6R2-k/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "łomżyński"
-  },
-  {
-    "id": "otodom-67884059",
-    "source": "otodom",
-    "sourceId": "67884059",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-zagrodowe-samulki-duze-i-male-ID4APKb",
-    "propertyType": "plot",
-    "title": "Działki zagrodowe  Samułki Duże i Małe",
-    "voivodeship": "podlaskie",
-    "county": "bielski",
-    "city": "Samułki Duże",
-    "coordinates": {
-      "lat": 53.132179471684694,
-      "lng": 23.16725187578072
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 135000,
-    "currentPricePerM2": 45,
-    "initialPrice": 135000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 135000,
-        "pricePerM2": 45
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-04-08T07:05:23.000Z",
-    "lastSeenAt": "2026-09-17T22:17:41.996Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjF6a2N1MDdtejE5Zy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ZxBNlkbhTjnWQj_vJXRKqLGWENlcgfsUEaWuk_Bck6U/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-67880291",
@@ -118607,40 +114071,6 @@
     "firstSeenAt": "2026-03-31T17:42:44.000Z",
     "lastSeenAt": "2026-09-17T22:17:41.996Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBkdTE3ZHptc29yMjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gamQAla1Jrr2DokmVQaLKFSV0JlBjrPdBKmwvh8gKZk/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67863571",
-    "source": "otodom",
-    "sourceId": "67863571",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-zagrodowe-w-gminie-wyszki-ID4AKpJ",
-    "propertyType": "plot",
-    "title": "Działki zagrodowe  w gminie Wyszki",
-    "voivodeship": "podlaskie",
-    "county": "bielski",
-    "city": "Samułki Małe",
-    "coordinates": {
-      "lat": 53.13935217802142,
-      "lng": 23.17130466665364
-    },
-    "isNearBorder": true,
-    "areaM2": 3699,
-    "currentPrice": 147960,
-    "currentPricePerM2": 40,
-    "initialPrice": 147960,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 147960,
-        "pricePerM2": 40
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-03-31T14:17:29.000Z",
-    "lastSeenAt": "2026-09-17T22:17:41.996Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtrZnI5cm95c2psbTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.l_hFqNxG10YRVFT1QNxWk8MNrBtSvowd1DAYGlUOTZg/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -123320,40 +118750,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-66997001",
-    "source": "otodom",
-    "sourceId": "66997001",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-2240m2-z-budynkiem-66m2-w-zaszkowie-gm-ciechanowiec-ID4x6YN",
-    "propertyType": "plot",
-    "title": "Siedlisko 2240m2 z budynkiem 66m2 w Zaszkowie; gm. Ciechanowiec",
-    "voivodeship": "podlaskie",
-    "county": "ostrowski",
-    "city": "Zaszków",
-    "coordinates": {
-      "lat": 53.13782738038564,
-      "lng": 23.174692435677866
-    },
-    "isNearBorder": false,
-    "areaM2": 2240,
-    "currentPrice": 219000,
-    "currentPricePerM2": 97.77,
-    "initialPrice": 219000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 219000,
-        "pricePerM2": 97.77
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-01-06T11:11:05.000Z",
-    "lastSeenAt": "2026-09-17T22:17:41.996Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1hb3d1cWE5dThzNjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HGPq9gTaotAXW_-hoQLbsQxebdEcNMrz74BUk2iCOMo/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67017742",
     "source": "otodom",
     "sourceId": "67017742",
@@ -124344,40 +119740,6 @@
     "firstSeenAt": "2025-12-02T12:28:09.000Z",
     "lastSeenAt": "2026-09-17T22:17:41.996Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjYxczJrNzdqYWZibTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.R_ej71-If9eXT4j2ag20rNWd3278J3hS4RGbe-sy5-g/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-65789373",
-    "source": "otodom",
-    "sourceId": "65789373",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-w-michalowie-ID4s2OW",
-    "propertyType": "plot",
-    "title": "-Gospodarstwo w Michałowie-",
-    "voivodeship": "podlaskie",
-    "county": "białostocki",
-    "city": "Michałowo",
-    "coordinates": {
-      "lat": 53.02635862410496,
-      "lng": 23.593520775687175
-    },
-    "isNearBorder": true,
-    "areaM2": 124900,
-    "currentPrice": 849000,
-    "currentPricePerM2": 6.8,
-    "initialPrice": 849000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 849000,
-        "pricePerM2": 6.8
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-12-02T11:25:38.000Z",
-    "lastSeenAt": "2026-09-17T22:17:41.996Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims3OHdkejN4Mzd0MDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8iGeDaagLTs0vUtWbGdlyWVy3RYe5E0S02hQn5yL4UM/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -126567,40 +121929,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67297395",
-    "source": "otodom",
-    "sourceId": "67297395",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-jablonskie-gmina-augustow-ID4yn7R",
-    "propertyType": "plot",
-    "title": "Działka siedliskowa - Jabłońskie, gmina Augustów",
-    "voivodeship": "podlaskie",
-    "county": "augustowski",
-    "city": "Jabłońskie",
-    "coordinates": {
-      "lat": 53.12732986488271,
-      "lng": 23.171364834283644
-    },
-    "isNearBorder": true,
-    "areaM2": 6304,
-    "currentPrice": 149000,
-    "currentPricePerM2": 23.64,
-    "initialPrice": 149000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 149000,
-        "pricePerM2": 23.64
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-09-30T14:23:24.000Z",
-    "lastSeenAt": "2026-09-17T22:17:41.996Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd0MnM0emc2b2JhNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kZsCbZKtZdQBdOU--NtEd5vEH1Gyn5LsDGnq_ov60iI/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67293115",
     "source": "otodom",
     "sourceId": "67293115",
@@ -126666,40 +121994,6 @@
     "firstSeenAt": "2025-09-29T07:28:18.000Z",
     "lastSeenAt": "2026-09-17T22:17:41.996Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpkZmQ0Y3JuM3B6ODMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.QGx_zp7Y_xLu7bXjl1tggvxfNF_YEMMYc8UKuDbO6P4/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67286152",
-    "source": "otodom",
-    "sourceId": "67286152",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/piekna-dzialka-siedliskowa-w-rykaczewie-ID4ykcv",
-    "propertyType": "plot",
-    "title": "*Piękna działka siedliskowa w Rykaczewie*",
-    "voivodeship": "podlaskie",
-    "county": "sokólski",
-    "city": "Rykaczewo",
-    "coordinates": {
-      "lat": 53.13264143159834,
-      "lng": 23.176019145708107
-    },
-    "isNearBorder": true,
-    "areaM2": 5000,
-    "currentPrice": 130000,
-    "currentPricePerM2": 26,
-    "initialPrice": 130000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 130000,
-        "pricePerM2": 26
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-09-26T18:27:58.000Z",
-    "lastSeenAt": "2026-09-17T22:17:41.996Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNpMzNvaHlkM2xwbzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vieKKB4Lemuf65OX9iwYQ7MDeezomKMDxPqUxoeVlX0/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -127587,40 +122881,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67195872",
-    "source": "otodom",
-    "sourceId": "67195872",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-przy-lesie-ID4xVIo",
-    "propertyType": "plot",
-    "title": "Działka siedliskowa przy lesie",
-    "voivodeship": "podlaskie",
-    "county": "białostocki",
-    "city": "Solniki",
-    "coordinates": {
-      "lat": 53.13166743176535,
-      "lng": 23.160888227473357
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 180000,
-    "currentPricePerM2": 60,
-    "initialPrice": 180000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 180000,
-        "pricePerM2": 60
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-09-02T12:14:23.000Z",
-    "lastSeenAt": "2026-09-17T22:17:41.996Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdvMnJycm8yNHBmNzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fRybSnlg1Yw8Ra8jqMWbzlyi6jBaGPCymt1E1rNBsSU/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-65524963",
     "source": "otodom",
     "sourceId": "65524963",
@@ -128097,40 +123357,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67120636",
-    "source": "otodom",
-    "sourceId": "67120636",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-3000-mkw-blisko-siemianowki-ID4xD8U",
-    "propertyType": "plot",
-    "title": "- Działka Siedliskowa- 3000 mkw-blisko Siemianówki",
-    "voivodeship": "podlaskie",
-    "county": "białostocki",
-    "city": "Odnoga-Kuźmy",
-    "coordinates": {
-      "lat": 53.136196800312774,
-      "lng": 23.16418012470529
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 105000,
-    "currentPricePerM2": 35,
-    "initialPrice": 105000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 105000,
-        "pricePerM2": 35
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-08-09T10:16:08.000Z",
-    "lastSeenAt": "2026-09-17T22:17:41.996Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9seXQ3bXg3ejhxYy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.QfE-SsPjH67JLFdPfJKElqK8ENWFkYKyZj9VDg8Kang/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67106888",
     "source": "otodom",
     "sourceId": "67106888",
@@ -128469,40 +123695,6 @@
     "firstSeenAt": "2025-07-28T14:51:22.000Z",
     "lastSeenAt": "2026-09-17T22:17:41.996Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZjZnByYXE4b3ZxcDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.EnhIpREKwPQ3Pw_sBfRFKXrSf_jLIIuEv7etdoo2kRg/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67076272",
-    "source": "otodom",
-    "sourceId": "67076272",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-siedliskowe-szerenosy-gm-juchnowiec-kosc-ID4xrBm",
-    "propertyType": "plot",
-    "title": "Działki siedliskowe Szerenosy gm. Juchnowiec Kość.",
-    "voivodeship": "podlaskie",
-    "county": "białostocki",
-    "city": "Szerenosy",
-    "coordinates": {
-      "lat": 53.12529143828112,
-      "lng": 23.175045213641823
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 85250,
-    "currentPricePerM2": 28.42,
-    "initialPrice": 85250,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 85250,
-        "pricePerM2": 28.42
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-07-28T07:28:23.000Z",
-    "lastSeenAt": "2026-09-17T22:17:41.996Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9zMjFlMHR2bGhsOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cGVefKDS4jIXoDoUgHPvPba1kQC5qaV7LXap4fEykcs/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -131989,40 +127181,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-66064021",
-    "source": "otodom",
-    "sourceId": "66064021",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/kup-dzialke-pod-zabudowe-siedliskowa-ID4tcgJ",
-    "propertyType": "plot",
-    "title": "Kup działkę pod zabudowę siedliskową !",
-    "voivodeship": "podlaskie",
-    "county": "sejneński",
-    "city": "Berżałowce",
-    "coordinates": {
-      "lat": 53.1331943690278,
-      "lng": 23.165813056708107
-    },
-    "isNearBorder": true,
-    "areaM2": 12046,
-    "currentPrice": 329000,
-    "currentPricePerM2": 27.31,
-    "initialPrice": 329000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 329000,
-        "pricePerM2": 27.31
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2024-10-28T15:35:36.000Z",
-    "lastSeenAt": "2026-09-17T22:17:41.996Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims0b2hlaW0xdWMwbTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vZz2E4CXRVpVyBcWJj2xu9ynKpbmTRZFIBqnIX-LV7s/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-66063083",
     "source": "otodom",
     "sourceId": "66063083",
@@ -132124,40 +127282,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imk0cnJ1cjQxMDRzOS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Gefvh2crHodDCf8Q51Q--kWVRFtFRzcDl9uuNV-P7gQ/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "białostocki"
-  },
-  {
-    "id": "otodom-65986927",
-    "source": "otodom",
-    "sourceId": "65986927",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-siedliskowe-wsrod-jezior-3200-m2-ID4sSdh",
-    "propertyType": "plot",
-    "title": "Działki siedliskowe wśród jezior** 3200 m2**",
-    "voivodeship": "podlaskie",
-    "county": "suwalski",
-    "city": "Sidorówka",
-    "coordinates": {
-      "lat": 53.13306011550995,
-      "lng": 23.17106967906137
-    },
-    "isNearBorder": true,
-    "areaM2": 3200,
-    "currentPrice": 55000,
-    "currentPricePerM2": 17.19,
-    "initialPrice": 55000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 55000,
-        "pricePerM2": 17.19
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2024-10-09T10:46:40.000Z",
-    "lastSeenAt": "2026-09-17T22:17:41.996Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Iml1NXozaThmNXRsNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.x6rfUzA7_aBNLVa_c2yIqVGsRt1TQGCSnenYLcO3_OA/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-65964972",
@@ -135018,40 +130142,6 @@
     "firstSeenAt": "2022-03-19T11:35:23.000Z",
     "lastSeenAt": "2026-09-17T22:17:41.996Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRqMnpicW16Y3RscC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ja2W4dm7m1n7MAgm-Q-Kk5yZztXi4KbEZVmJqNAELCI/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-62841055",
-    "source": "otodom",
-    "sourceId": "62841055",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowe-w-pieknej-okolicy-ID4fFPp",
-    "propertyType": "plot",
-    "title": "Działka siedliskowe w pięknej okolicy",
-    "voivodeship": "podlaskie",
-    "county": "białostocki",
-    "city": "Aleksicze",
-    "coordinates": {
-      "lat": 53.13813928166304,
-      "lng": 23.1592236121007
-    },
-    "isNearBorder": true,
-    "areaM2": 3000,
-    "currentPrice": 39000,
-    "currentPricePerM2": 13,
-    "initialPrice": 39000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 39000,
-        "pricePerM2": 13
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2022-03-04T10:51:36.000Z",
-    "lastSeenAt": "2026-09-17T22:17:41.996Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imo4MmdrcmV1ODN5OS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.c0gXGOnexeLjOnAMX7ZeoFXtEQ0IpabNlEJP7jmFqjM/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {

@@ -1,7 +1,7 @@
 import React from 'react';
 import type { SummaryStats } from 'shared';
 import { formatDate, formatPricePerM2 } from 'shared';
-import { Home, Trees, Flame, Clock } from 'lucide-react';
+import { Home, Trees, Wheat, Flame, Clock } from 'lucide-react';
 
 interface StatsBarProps {
   summary: SummaryStats | null;
@@ -27,6 +27,15 @@ export const StatsBar: React.FC<StatsBarProps> = ({ summary }) => {
               Średnia działki: <strong className="text-white">{formatPricePerM2(summary.avgPlotPricePerM2)}</strong>
             </span>
           </div>
+
+          {summary.avgHabitatPricePerM2 > 0 && (
+            <div className="flex items-center gap-1.5 text-neutral-300">
+              <Wheat className="size-3.5 text-yellow-400" />
+              <span>
+                Średnia siedliska: <strong className="text-white">{formatPricePerM2(summary.avgHabitatPricePerM2)}</strong>
+              </span>
+            </div>
+          )}
 
           <div className="flex items-center gap-1.5 text-neutral-300">
             <Flame className="size-3.5 text-rose-400" />

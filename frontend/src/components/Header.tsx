@@ -1,6 +1,6 @@
 import React from 'react';
 import type { FilterState, SummaryStats } from 'shared';
-import { Home, Trees, Flame, Map, LayoutGrid, Heart } from 'lucide-react';
+import { Home, Trees, Flame, Map, LayoutGrid, Heart, Wheat } from 'lucide-react';
 
 interface HeaderProps {
   filters: FilterState;
@@ -32,11 +32,11 @@ export const Header: React.FC<HeaderProps> = ({
               <div className="flex items-center gap-2">
                 <h1 className="text-xl font-bold tracking-tight text-neutral-900">Lokum</h1>
                 <span className="text-xs font-semibold px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-800">
-                  Wschód Polski
+                  Tracker Nieruchomości
                 </span>
               </div>
               <p className="text-xs text-neutral-500">
-                Śledzenie cen domów i działek • Lubelskie, Podlaskie, Podkarpackie
+                Śledzenie cen domów, działek i siedlisk • Lubelskie, Podlaskie, Podkarpackie, Wielkopolskie
               </p>
             </div>
           </div>
@@ -79,6 +79,17 @@ export const Header: React.FC<HeaderProps> = ({
             >
               <Trees className="size-4" />
               Działki
+            </button>
+            <button
+              onClick={() => onTabChange('habitats')}
+              className={`flex items-center gap-2 px-3.5 py-2 text-sm font-semibold rounded-lg transition-colors ${
+                filters.tab === 'habitats'
+                  ? 'bg-neutral-900 text-white shadow-xs'
+                  : 'text-neutral-600 hover:text-neutral-900 hover:bg-neutral-100'
+              }`}
+            >
+              <Wheat className="size-4" />
+              Siedliska
             </button>
             <button
               onClick={() => onTabChange('drops')}

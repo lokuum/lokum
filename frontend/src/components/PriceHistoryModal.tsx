@@ -89,38 +89,60 @@ export const PriceHistoryModal: React.FC<PriceHistoryModalProps> = ({
 
           {/* Timeline / History Table */}
           <div className="space-y-2">
-            <h4 className="text-xs font-semibold text-neutral-700 uppercase tracking-wide">
-              Zarejestrowane notowania ({offer.priceHistory.length})
-            </h4>
+            <div className="flex items-center justify-between">
+              <h4 className="text-xs font-semibold text-neutral-700 uppercase tracking-wide">
+                Historia notowań cen (od najnowszej)
+              </h4>
+              <span className="text-[11px] text-neutral-400 font-medium">
+                {offer.priceHistory.length} {offer.priceHistory.length === 1 ? 'zapis' : 'zapisy/zapisów'}
+              </span>
+            </div>
 
-            <div className="max-h-60 overflow-y-auto rounded-xl border border-neutral-200 divide-y divide-neutral-100">
+            <div className="max-h-64 overflow-y-auto rounded-xl border border-neutral-200 divide-y divide-neutral-100">
               {offer.priceHistory
                 .slice()
                 .reverse()
                 .map((snap, idx, arr) => {
                   const prev = arr[idx + 1];
                   const diff = prev ? snap.price - prev.price : 0;
+                  const diffPercent = prev && prev.price > 0 ? ((snap.price - prev.price) / prev.price) * 100 : 0;
+                  const isLatest = idx === 0;
 
                   return (
-                    <div key={idx} className="flex items-center justify-between p-3 text-xs hover:bg-neutral-50/50">
+                    <div
+                      key={idx}
+                      className={`flex items-center justify-between p-3 text-xs transition-colors ${
+                        isLatest ? 'bg-neutral-50/80 font-medium' : 'hover:bg-neutral-50/40'
+                      }`}
+                    >
                       <div className="flex items-center gap-2">
                         <Calendar className="size-3.5 text-neutral-400" />
-                        <span className="font-medium text-neutral-700">{formatDate(snap.date)}</span>
+                        <div>
+                          <span className="font-semibold text-neutral-800">{formatDate(snap.date)}</span>
+                          {isLatest && (
+                            <span className="ml-1.5 px-1.5 py-0.5 rounded-full text-[9px] font-bold bg-neutral-200 text-neutral-700">
+                              Ostatnia
+                            </span>
+                          )}
+                        </div>
                       </div>
 
                       <div className="flex items-center gap-3">
                         {diff !== 0 && (
                           <span
-                            className={`font-semibold text-[11px] ${
+                            className={`font-semibold text-[11px] flex items-center gap-0.5 ${
                               diff < 0 ? 'text-rose-600' : 'text-amber-600'
                             }`}
+                            title={`Zmiana względem poprzedniego notowania`}
                           >
-                            {diff < 0 ? '📉 ' : '📈 '}
-                            {Math.round(diff).toLocaleString('pl-PL')} zł
+                            {diff < 0 ? <TrendingDown className="size-3" /> : <TrendingUp className="size-3" />}
+                            {diff > 0 ? '+' : ''}{Math.round(diff).toLocaleString('pl-PL')} zł ({diffPercent > 0 ? '+' : ''}{diffPercent.toFixed(1)}%)
                           </span>
                         )}
-                        <span className="font-bold text-neutral-900">{formatPrice(snap.price)}</span>
-                        <span className="text-neutral-400 text-[10px]">{formatPricePerM2(snap.pricePerM2)}</span>
+                        <div className="text-right">
+                          <div className="font-extrabold text-neutral-900">{formatPrice(snap.price)}</div>
+                          <div className="text-neutral-400 text-[10px]">{formatPricePerM2(snap.pricePerM2)}</div>
+                        </div>
                       </div>
                     </div>
                   );

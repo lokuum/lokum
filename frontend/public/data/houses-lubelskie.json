@@ -643,41 +643,6 @@
     "county": "lubelski"
   },
   {
-    "id": "otodom-68016810",
-    "source": "otodom",
-    "sourceId": "68016810",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-potencjalem-wsrod-pol-i-ciszy-zablocie-ID4Bohk",
-    "propertyType": "house",
-    "title": "Siedlisko z potencjałem wśród pól i ciszy Zabłocie",
-    "voivodeship": "lubelskie",
-    "county": "bialski",
-    "city": "Wólka Zabłocka-Kolonia",
-    "coordinates": {
-      "lat": 51.249887446436055,
-      "lng": 22.560778357899554
-    },
-    "isNearBorder": true,
-    "areaM2": 137,
-    "plotAreaM2": 3005,
-    "currentPrice": 135000,
-    "currentPricePerM2": 985.4,
-    "initialPrice": 135000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 135000,
-        "pricePerM2": 985.4
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T15:26:45.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtpNGJodDZ4YmdzYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PiPDB9sCoKE7tNNP-63_Z03eqEtwGzDaLy1xMPzAk_4/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68373615",
     "source": "otodom",
     "sourceId": "68373615",
@@ -711,42 +676,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNqcnQ0YzloaWZodTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hBB2Vv1NXmYOQEz-Fl_MvW8wrCjRrIQw92dUmbRxN0c/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "bialski"
-  },
-  {
-    "id": "otodom-68224325",
-    "source": "otodom",
-    "sourceId": "68224325",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-wlasna-sadzawka-tokary-blisko-roztocza-89-000-zl-ID4Cggl",
-    "propertyType": "house",
-    "title": "Siedlisko z własną sadzawką | Tokary | Blisko Roztocza | 89 000 zł",
-    "voivodeship": "lubelskie",
-    "county": "biłgorajski",
-    "city": "Tokary",
-    "street": "Tokary",
-    "coordinates": {
-      "lat": 51.240923156825836,
-      "lng": 22.566805477419905
-    },
-    "isNearBorder": true,
-    "areaM2": 50,
-    "plotAreaM2": 1000,
-    "currentPrice": 89000,
-    "currentPricePerM2": 1780,
-    "initialPrice": 89000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 89000,
-        "pricePerM2": 1780
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T15:17:27.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhybGM2YWZrc3A4bjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ANTcVEuxv_w-O1y05KLXYakabBj0gRBblL1rVneeRgI/image;s=655x491;q=80",
-    "isDirectOwner": true
   },
   {
     "id": "otodom-68405277",
@@ -960,41 +889,6 @@
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN5ZHljYWJscjFkajEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DysqwzXUvI-2AK7X1HJPOxYV8t33w42dB6Rokvnulhg/image;s=655x491;q=80",
     "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68117596",
-    "source": "otodom",
-    "sourceId": "68117596",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-0-93-ha-30-min-od-lublina-dom-ID4BOuU",
-    "propertyType": "house",
-    "title": "Siedlisko 0,93 ha | 30 min od Lublina | Dom",
-    "voivodeship": "lubelskie",
-    "county": "lubelski",
-    "city": "Walentynów",
-    "coordinates": {
-      "lat": 51.246058794949334,
-      "lng": 22.56318818592541
-    },
-    "isNearBorder": false,
-    "areaM2": 60,
-    "plotAreaM2": 9276,
-    "currentPrice": 515000,
-    "currentPricePerM2": 8583.33,
-    "initialPrice": 515000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 515000,
-        "pricePerM2": 8583.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T13:23:55.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBvYmpxMXlhc2htNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.vRDOCqCa0EqEjhrxnRfd9fLhmDizJgz_sLmq_OTUYTc/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-67920022",
@@ -2586,47 +2480,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "otodom-68273848",
-    "source": "otodom",
-    "sourceId": "68273848",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/lesniczowka-z-dusza-na-sprzedaz-ID4Ct96",
-    "propertyType": "house",
-    "title": "Leśniczówka z duszą na sprzedaż",
-    "voivodeship": "lubelskie",
-    "county": "biłgorajski",
-    "city": "Panasówka",
-    "coordinates": {
-      "lat": 51.24175497049255,
-      "lng": 22.56735902271542
-    },
-    "isNearBorder": true,
-    "areaM2": 315,
-    "plotAreaM2": 2100,
-    "currentPrice": 1150000,
-    "currentPricePerM2": 3650.79,
-    "initialPrice": 1199000,
-    "priceChangeAmount": -49000,
-    "priceChangePercent": -4.1,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1199000,
-        "pricePerM2": 3806.35
-      },
-      {
-        "date": "2026-09-22",
-        "price": 1150000,
-        "pricePerM2": 3650.79
-      }
-    ],
-    "status": "price_drop",
-    "firstSeenAt": "2026-09-17T12:24:55.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im80anM1eHZ2aTh0bS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.suRjZRZuZiNjTiziNdvDqQv5_l6wl_ImyQCAAI87N54/image;s=655x491;q=80",
-    "isDirectOwner": false,
-    "previousPrice": 1199000
-  },
-  {
     "id": "otodom-67380515",
     "source": "otodom",
     "sourceId": "67380515",
@@ -2695,41 +2548,6 @@
     "firstSeenAt": "2026-09-17T11:59:47.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNmc214NjBtOXg1Yy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.JHZxpqtu_E-KLvtGIqFkZIbq085rMNUdDr395kfqAfs/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68364336",
-    "source": "otodom",
-    "sourceId": "68364336",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/piekne-siedlisko-z-domem-na-duzej-dzialce-90-arow-ID4CQGA",
-    "propertyType": "house",
-    "title": "Piękne siedlisko z domem na dużej działce 90 arów",
-    "voivodeship": "lubelskie",
-    "county": "krasnostawski",
-    "city": "Bzite",
-    "coordinates": {
-      "lat": 51.25363337530741,
-      "lng": 22.57752378017575
-    },
-    "isNearBorder": true,
-    "areaM2": 100,
-    "plotAreaM2": 9000,
-    "currentPrice": 1099000,
-    "currentPricePerM2": 10990,
-    "initialPrice": 1099000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1099000,
-        "pricePerM2": 10990
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T11:58:50.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhxZHVkOGp6OXp3cTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.X4FJHZQCs84ev5JfCBjzIBILV0plen57sBTG211-Jz8/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -2872,42 +2690,6 @@
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp4Y3FrYnhhOGoyNzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uCXKbSshRKqprRQDjAWag--xJ1htfOfiV6KAzil0FTc/image;s=655x491;q=80",
     "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67078236",
-    "source": "otodom",
-    "sourceId": "67078236",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-z-siedliskiem-w-dolinie-rzeki-bystrej-zawada-gm-wawolnica-ID4xs72",
-    "propertyType": "house",
-    "title": "Dom z siedliskiem w Dolinie rzeki Bystrej- Zawada, gm. Wąwolnica",
-    "voivodeship": "lubelskie",
-    "county": "puławski",
-    "city": "Zawada",
-    "street": "Zawada",
-    "coordinates": {
-      "lat": 51.252942279147774,
-      "lng": 22.571666033859785
-    },
-    "isNearBorder": false,
-    "areaM2": 350,
-    "plotAreaM2": 13000,
-    "currentPrice": 725000,
-    "currentPricePerM2": 2071.43,
-    "initialPrice": 725000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 725000,
-        "pricePerM2": 2071.43
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T10:53:54.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNrc2o0bG50eWs5YTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.H5ttA4gQEfaPTlGARiTsxkbCP8hObv4GPK_4YxXvFgQ/image;s=655x491;q=80",
-    "isDirectOwner": true
   },
   {
     "id": "otodom-68430222",
@@ -3436,41 +3218,6 @@
     "firstSeenAt": "2026-09-16T21:04:26.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU2MmQ1cW5reGhrbjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.h8NfA3370ZDJe0QaACFHitwuGk-EL8HTG3H9w4qLoYs/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68115123",
-    "source": "otodom",
-    "sourceId": "68115123",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-siedlisko-z-duza-dzialka-i-budynkami-gospodarczymi-bezposrednio-ID4BNR1",
-    "propertyType": "house",
-    "title": "Dom/siedlisko z dużą działką i budynkami gospodarczymi - bezpośrednio",
-    "voivodeship": "lubelskie",
-    "county": "hrubieszowski",
-    "city": "Hostynne-Kolonia",
-    "coordinates": {
-      "lat": 51.25372675268972,
-      "lng": 22.575435794017324
-    },
-    "isNearBorder": true,
-    "areaM2": 185,
-    "plotAreaM2": 4347,
-    "currentPrice": 395000,
-    "currentPricePerM2": 2135.14,
-    "initialPrice": 395000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 395000,
-        "pricePerM2": 2135.14
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-16T20:54:41.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZxZDN6OHNsOHoyeTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6xzHRfAa0SZRrKidVFWiwBubfBuDYu5DPTAO_vtfiM0/image;s=655x491;q=80",
     "isDirectOwner": true
   },
   {
@@ -4329,41 +4076,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68426909",
-    "source": "otodom",
-    "sourceId": "68426909",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-3-ha-na-sprzedaz-chruslanki-jozefowskie-ID4D6XP",
-    "propertyType": "house",
-    "title": "SIEDLISKO 3 HA NA SPRZEDAŻ – CHRUŚLANKI JÓZEFOWSKIE",
-    "voivodeship": "lubelskie",
-    "county": "opolski",
-    "city": "Chruślanki Józefowskie",
-    "coordinates": {
-      "lat": 51.2480908991214,
-      "lng": 22.561921381851842
-    },
-    "isNearBorder": false,
-    "areaM2": 50,
-    "plotAreaM2": 30000,
-    "currentPrice": 320000,
-    "currentPricePerM2": 6400,
-    "initialPrice": 320000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 320000,
-        "pricePerM2": 6400
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-16T13:22:02.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJjOGxtYzQ5aW5mNDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Z_27PXkuBm2UbRdOMMmiAekh3mQB2d6EsiqJ2SJqfP0/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68074520",
     "source": "otodom",
     "sourceId": "68074520",
@@ -5072,41 +4784,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68424767",
-    "source": "otodom",
-    "sourceId": "68424767",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-na-wzniesieniu-3407-m-zrebce-ID4D6ph",
-    "propertyType": "house",
-    "title": "Siedlisko na wzniesieniu 3407 m² – Źrebce",
-    "voivodeship": "lubelskie",
-    "county": "zamojski",
-    "city": "Źrebce",
-    "coordinates": {
-      "lat": 51.24489318672962,
-      "lng": 22.571570675826216
-    },
-    "isNearBorder": true,
-    "areaM2": 100,
-    "plotAreaM2": 3407,
-    "currentPrice": 250000,
-    "currentPricePerM2": 2500,
-    "initialPrice": 250000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 250000,
-        "pricePerM2": 2500
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-16T08:31:05.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjliZ2tkYWY1czF2ei1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.rQ6HgNx1QaQAQ2iHi8AMoaWafqZjHYvZzImic6ljvlU/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68324999",
     "source": "otodom",
     "sourceId": "68324999",
@@ -5527,41 +5204,6 @@
     "firstSeenAt": "2026-09-15T20:47:44.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImM3cWNpcTN2enI1bDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-JoUxt04qPsorhC8QVz4QQis83DFFRNJQNGn-v1SoTM/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68340347",
-    "source": "otodom",
-    "sourceId": "68340347",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-posesja-moze-gospodarstwo-rolne-potencjal-uslugowo-inwestycyjny-ID4CKrF",
-    "propertyType": "house",
-    "title": "Dom, posesja, może gospodarstwo rolne? Potencjał usługowo-inwestycyjny",
-    "voivodeship": "lubelskie",
-    "county": "łukowski",
-    "city": "Charlejów",
-    "coordinates": {
-      "lat": 51.250247281008335,
-      "lng": 22.56018450265242
-    },
-    "isNearBorder": false,
-    "areaM2": 74,
-    "plotAreaM2": 6700,
-    "currentPrice": 460000,
-    "currentPricePerM2": 6216.22,
-    "initialPrice": 460000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 460000,
-        "pricePerM2": 6216.22
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-15T19:49:51.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVvM3U0MWt6Nmx2ci1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ypBb7YlP6GHu6l4t7bAgx5NZ00k_2JLsJfymLwUMeC0/image;s=655x491;q=80",
     "isDirectOwner": true
   },
   {
@@ -6701,41 +6343,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68132754",
-    "source": "otodom",
-    "sourceId": "68132754",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-posesje-gospodarstwo-rolne-luniew-miedzyrzec-podlaski-ID4BSro",
-    "propertyType": "house",
-    "title": "Sprzedam posesję/gospodarstwo rolne Łuniew, Międzyrzec Podlaski",
-    "voivodeship": "lubelskie",
-    "county": "bialski",
-    "city": "Łuniew",
-    "coordinates": {
-      "lat": 51.24666668137688,
-      "lng": 22.57234095809518
-    },
-    "isNearBorder": true,
-    "areaM2": 166.67,
-    "plotAreaM2": 11600,
-    "currentPrice": 670000,
-    "currentPricePerM2": 4019.92,
-    "initialPrice": 670000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 670000,
-        "pricePerM2": 4019.92
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-15T10:50:25.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InY0a2ZzdWk3bXp2Ni1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.GWY3lXZiLxtL2Fufyq9PtggtoLeTbkB-WgBWXQfPcmY/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
     "id": "otodom-66645322",
     "source": "otodom",
     "sourceId": "66645322",
@@ -6803,41 +6410,6 @@
     "firstSeenAt": "2026-09-15T10:48:46.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpoaGZuajltaDdmZDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._wf7BYW-2JzH3tMIqAqzPtc9EZsD6N2iQQhxczgkfc4/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-67076593",
-    "source": "otodom",
-    "sourceId": "67076593",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/klimatyczne-siedlisko-1-15-ha-z-domem-i-zabudowaniami-polesie-ID4xrGx",
-    "propertyType": "house",
-    "title": "Klimatyczne siedlisko 1,15 ha z domem i zabudowaniami Polesie",
-    "voivodeship": "lubelskie",
-    "county": "parczewski",
-    "city": "Podedwórze",
-    "coordinates": {
-      "lat": 51.24772270636296,
-      "lng": 22.563805556349852
-    },
-    "isNearBorder": true,
-    "areaM2": 85,
-    "plotAreaM2": 11500,
-    "currentPrice": 700000,
-    "currentPricePerM2": 8235.29,
-    "initialPrice": 700000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 700000,
-        "pricePerM2": 8235.29
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-15T10:21:19.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdlYWxqM2Rtc3k0Ny1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.KDj4ixPE43mgSWR1LuaK01xadGK3HaSjzsqhFZbNLHc/image;s=655x491;q=80",
     "isDirectOwner": true
   },
   {
@@ -9626,41 +9198,6 @@
     "county": "lubelski"
   },
   {
-    "id": "otodom-68411723",
-    "source": "otodom",
-    "sourceId": "68411723",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/twoje-siedlisko-na-roztoczu-dom-2-murowane-budy-ID4D30T",
-    "propertyType": "house",
-    "title": "Twoje Siedlisko na Roztoczu! Dom + 2 Murowane Budy",
-    "voivodeship": "lubelskie",
-    "county": "zamojski",
-    "city": "Osiczyna",
-    "coordinates": {
-      "lat": 51.239565683397736,
-      "lng": 22.564184134175424
-    },
-    "isNearBorder": true,
-    "areaM2": 72,
-    "plotAreaM2": 2700,
-    "currentPrice": 130000,
-    "currentPricePerM2": 1805.56,
-    "initialPrice": 130000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 130000,
-        "pricePerM2": 1805.56
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-12T13:56:55.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims3dnI5b3JncTEycjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.31gmwG9qVcJJCaGM0fZCyHB2Nk6kIRRFDnhzVIm1Czk/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68126630",
     "source": "otodom",
     "sourceId": "68126630",
@@ -10615,41 +10152,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "otodom-68409020",
-    "source": "otodom",
-    "sourceId": "68409020",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-74m2-siedlisko-2-89-ha-putnowice-wielkie-ID4D2ji",
-    "propertyType": "house",
-    "title": "Dom 74m2/Siedlisko 2,89 ha/ Putnowice Wielkie",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Putnowice Wielkie",
-    "coordinates": {
-      "lat": 51.24130522175762,
-      "lng": 22.574507628208966
-    },
-    "isNearBorder": true,
-    "areaM2": 74,
-    "plotAreaM2": 28900,
-    "currentPrice": 249000,
-    "currentPricePerM2": 3364.86,
-    "initialPrice": 249000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 249000,
-        "pricePerM2": 3364.86
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-11T13:22:12.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN5NDNzeHZja3VnODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.NAddvllmMt8i2cVROOxlrSN2d-Hocf3L_V5m0OhVPfs/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68273110",
     "source": "otodom",
     "sourceId": "68273110",
@@ -10934,41 +10436,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-66599173",
-    "source": "otodom",
-    "sourceId": "66599173",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-siedlisko-duza-dzialka-ID4wrud",
-    "propertyType": "house",
-    "title": "Gospodarstwo Rolne Siedlisko Duża Działka",
-    "voivodeship": "lubelskie",
-    "county": "kraśnicki",
-    "city": "Ludmiłówka",
-    "coordinates": {
-      "lat": 51.24946497590832,
-      "lng": 22.57568762958362
-    },
-    "isNearBorder": false,
-    "areaM2": 180,
-    "plotAreaM2": 4000,
-    "currentPrice": 840000,
-    "currentPricePerM2": 4666.67,
-    "initialPrice": 840000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 840000,
-        "pricePerM2": 4666.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-11T09:29:06.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRiemt2ZHpsa3ZyMTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3Vag0yJ86L_TU43dQiIyfLIZfNv1tFMc18jw8Y8sbkA/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
     "id": "otodom-66901009",
     "source": "otodom",
     "sourceId": "66901009",
@@ -11073,41 +10540,6 @@
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBrN2Q2d2lxdjI2NjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.10fIuIxCp_SvHvYtXHG6Sf8PJQeCMgTwHpbsniyG568/image;s=655x491;q=80",
     "isDirectOwner": true
-  },
-  {
-    "id": "otodom-65863608",
-    "source": "otodom",
-    "sourceId": "65863608",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-dom-92-m2-dzialka-1-7-ha-dorohusk-chelm-ID4sm8g",
-    "propertyType": "house",
-    "title": "Siedlisko Dom 92 m2 działka 1.7 ha Dorohusk Chełm",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Stefanów",
-    "coordinates": {
-      "lat": 51.25318679370803,
-      "lng": 22.569530367808433
-    },
-    "isNearBorder": true,
-    "areaM2": 115,
-    "plotAreaM2": 17000,
-    "currentPrice": 430000,
-    "currentPricePerM2": 3739.13,
-    "initialPrice": 430000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 430000,
-        "pricePerM2": 3739.13
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-11T08:52:55.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRmYTFqYWFrN2ZreTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.D7KLFi3WxBPt85VnWFWvNzen0VZdbqQ9Kuu6VeP2Jsk/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-67988236",
@@ -12170,47 +11602,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68149946",
-    "source": "otodom",
-    "sourceId": "68149946",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-3-5-km-od-krzczonowa-z-domem-do-remontu-ID4BVUG",
-    "propertyType": "house",
-    "title": "Siedlisko 3,5 km. od Krzczonowa z domem do remontu",
-    "voivodeship": "lubelskie",
-    "county": "lubelski",
-    "city": "Boży Dar",
-    "coordinates": {
-      "lat": 51.25387494833896,
-      "lng": 22.563751352514053
-    },
-    "isNearBorder": false,
-    "areaM2": 80,
-    "plotAreaM2": 5394,
-    "currentPrice": 150000,
-    "currentPricePerM2": 1875,
-    "initialPrice": 170000,
-    "priceChangeAmount": -20000,
-    "priceChangePercent": -11.8,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 170000,
-        "pricePerM2": 2125
-      },
-      {
-        "date": "2026-09-22",
-        "price": 150000,
-        "pricePerM2": 1875
-      }
-    ],
-    "status": "price_drop",
-    "firstSeenAt": "2026-09-10T09:54:44.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9ienhtY3hqcm50Ny1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.gXho-Pq_AqY3itG3mTrpNF4nlW55bVRp7LYMTmsnv1U/image;s=655x491;q=80",
-    "isDirectOwner": false,
-    "previousPrice": 170000
-  },
-  {
     "id": "otodom-68361505",
     "source": "otodom",
     "sourceId": "68361505",
@@ -12286,41 +11677,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNibDlpbmNqcGtjbTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mGBh5d3ok3OG2T-GPsoS3vA9Bu5buT8BRv8WxQ_ruag/image;s=655x491;q=80",
     "isDirectOwner": true,
     "previousPrice": 610000
-  },
-  {
-    "id": "otodom-68402929",
-    "source": "otodom",
-    "sourceId": "68402929",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-dom-2-pokoje-ID4D0J3",
-    "propertyType": "house",
-    "title": "Siedlisko - dom 2 pokoje",
-    "voivodeship": "lubelskie",
-    "county": "krasnostawski",
-    "city": "Suchodoły",
-    "coordinates": {
-      "lat": 51.24073169772433,
-      "lng": 22.571843530149113
-    },
-    "isNearBorder": true,
-    "areaM2": 73.8,
-    "plotAreaM2": 9427,
-    "currentPrice": 380000,
-    "currentPricePerM2": 5149.05,
-    "initialPrice": 380000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 380000,
-        "pricePerM2": 5149.05
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-10T08:55:24.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp3OW1qcGhrbjkxYjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.X3xsNfRdB6J38MUwuTA67tUc05HZWRsjplkRkUV5l8E/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-68283011",
@@ -13065,41 +12421,6 @@
     "county": "lubelski"
   },
   {
-    "id": "otodom-66276054",
-    "source": "otodom",
-    "sourceId": "66276054",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowe-siedlisko-dwie-sasiadujace-nieruchomosci-o-powierzchni-1-ha-ID4u5qC",
-    "propertyType": "house",
-    "title": "Wyjątkowe siedlisko– dwie sąsiadujące nieruchomości o powierzchni 1 ha",
-    "voivodeship": "lubelskie",
-    "county": "radzyński",
-    "city": "Ustrzesz",
-    "coordinates": {
-      "lat": 51.250177133567036,
-      "lng": 22.572411889734433
-    },
-    "isNearBorder": false,
-    "areaM2": 120,
-    "plotAreaM2": 10000,
-    "currentPrice": 750000,
-    "currentPricePerM2": 6250,
-    "initialPrice": 750000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 750000,
-        "pricePerM2": 6250
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-09T10:49:16.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjQxaTUxemhnZzhneDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mRVwDvPUiBTYWDaCtp57cqSlpoHpXkiRwRfNDWLGzNM/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
     "id": "otodom-68399245",
     "source": "otodom",
     "sourceId": "68399245",
@@ -13132,41 +12453,6 @@
     "firstSeenAt": "2026-09-09T09:47:35.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijl6empkZ3dhZzBlby1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.QUFeqSumAy8h5RVyTzIOjdVyvKkTJ97_8j449Ysy4rw/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68398502",
-    "source": "otodom",
-    "sourceId": "68398502",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-czy-gospodarstwo-nie-musisz-wybierac-masz-to-i-to-ID4CZzE",
-    "propertyType": "house",
-    "title": "Dom czy gospodarstwo ? Nie musisz wybierać, masz to i to :)",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Leśniczówka",
-    "coordinates": {
-      "lat": 51.24473591234911,
-      "lng": 22.559104170864856
-    },
-    "isNearBorder": true,
-    "areaM2": 99.9,
-    "plotAreaM2": 17000,
-    "currentPrice": 994000,
-    "currentPricePerM2": 9949.95,
-    "initialPrice": 994000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 994000,
-        "pricePerM2": 9949.95
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-09T07:54:08.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImczdDlvMnhkOThwdTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MX4roBtEgnwhPpdLklmVcuqkeOxlC19cYb-6txjkTk0/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -13873,41 +13159,6 @@
     "firstSeenAt": "2026-09-07T19:13:31.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjB5enZzbjhiY2VoNDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0yY8nOelgmHOYMvNIKTgz4hEUSS4w-YfO-MIdR_TH8s/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-67997850",
-    "source": "otodom",
-    "sourceId": "67997850",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urocze-siedlisko-z-wlasnym-stawem-ID4Bjlv",
-    "propertyType": "house",
-    "title": "Urocze siedlisko z własnym stawem",
-    "voivodeship": "lubelskie",
-    "county": "bialski",
-    "city": "Cicibór Mały",
-    "coordinates": {
-      "lat": 51.24259147087761,
-      "lng": 22.559098326046747
-    },
-    "isNearBorder": true,
-    "areaM2": 140,
-    "plotAreaM2": 7100,
-    "currentPrice": 990000,
-    "currentPricePerM2": 7071.43,
-    "initialPrice": 990000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 990000,
-        "pricePerM2": 7071.43
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-07T18:19:48.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA5eXR4dzBkNnpyMjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.h7r4YlQVRWVRCFdayLLi7LreR0-x8ICB6NElqx9FX80/image;s=655x491;q=80",
     "isDirectOwner": true
   },
   {
@@ -15218,41 +14469,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "otodom-68384031",
-    "source": "otodom",
-    "sourceId": "68384031",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-na-dzialce-9000m2-z-polem-4-5ha-ID4CWOf",
-    "propertyType": "house",
-    "title": "Siedlisko na działce 9000m2 z polem 4,5ha",
-    "voivodeship": "lubelskie",
-    "county": "zamojski",
-    "city": "Tworyczów",
-    "coordinates": {
-      "lat": 51.25018522473881,
-      "lng": 22.568368671312776
-    },
-    "isNearBorder": true,
-    "areaM2": 180,
-    "plotAreaM2": 9000,
-    "currentPrice": 490000,
-    "currentPricePerM2": 2722.22,
-    "initialPrice": 490000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 490000,
-        "pricePerM2": 2722.22
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-04T14:46:33.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJ3eTF1Nnd0dHlhMTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uwsreLcRFmLOogMhJLYitWdZ5WTUZgylHF-uXhdbsMI/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
     "id": "otodom-68383928",
     "source": "otodom",
     "sourceId": "68383928",
@@ -15285,41 +14501,6 @@
     "firstSeenAt": "2026-09-04T14:25:34.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpuazM4ZXJqZWVsaTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Vz7CF5ebuhZn8wacPbU7IeSpjrOLbVeukzeHToMJuJs/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68383552",
-    "source": "otodom",
-    "sourceId": "68383552",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/2-domy-siedlisko-69-ar-cisza-i-prywatnosc-ID4CWGv",
-    "propertyType": "house",
-    "title": "2 domy | Siedlisko 69 ar | cisza i prywatność",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Poniatówka",
-    "coordinates": {
-      "lat": 51.24105225131631,
-      "lng": 22.561705213034863
-    },
-    "isNearBorder": true,
-    "areaM2": 85,
-    "plotAreaM2": 6900,
-    "currentPrice": 279000,
-    "currentPricePerM2": 3282.35,
-    "initialPrice": 279000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 279000,
-        "pricePerM2": 3282.35
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-04T13:20:26.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjEza2piemJuYzM1NDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DPr5b1Am5D6TWVZjL4TDspyzCJY8bCJCwwtcpmI9jeA/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -15958,41 +15139,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68378281",
-    "source": "otodom",
-    "sourceId": "68378281",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-zabudowane-siedlisko-w-osinach-gm-wola-myslowska-ID4CUjw",
-    "propertyType": "house",
-    "title": "Sprzedam zabudowane siedlisko w Osinach gm. Wola Mysłowska",
-    "voivodeship": "lubelskie",
-    "county": "łukowski",
-    "city": "Osiny",
-    "coordinates": {
-      "lat": 51.24332722261998,
-      "lng": 22.575054162986127
-    },
-    "isNearBorder": false,
-    "areaM2": 110,
-    "plotAreaM2": 6100,
-    "currentPrice": 385000,
-    "currentPricePerM2": 3500,
-    "initialPrice": 385000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 385000,
-        "pricePerM2": 3500
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-03T10:32:16.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU0ZXFnbHozODNidTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3lNNGiw0OUd70I5NTP0BPKNA8N6Roc2AIQvmVXkWEL8/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68377356",
     "source": "otodom",
     "sourceId": "68377356",
@@ -16171,41 +15317,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68376722",
-    "source": "otodom",
-    "sourceId": "68376722",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/malownicze-siedlisko-dom-90-m2-dzialka-0-50-ha-ID4CTUm",
-    "propertyType": "house",
-    "title": "Malownicze siedlisko dom 90 m2 działka 0,50 ha",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Janostrów",
-    "coordinates": {
-      "lat": 51.25138242630731,
-      "lng": 22.568544826574545
-    },
-    "isNearBorder": true,
-    "areaM2": 90,
-    "plotAreaM2": 500,
-    "currentPrice": 400000,
-    "currentPricePerM2": 4444.44,
-    "initialPrice": 400000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 400000,
-        "pricePerM2": 4444.44
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-03T05:41:46.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRyYnowbml4Y3o2ZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GEJkXEdfxm6KANUQwm-FdJ7xv_bpCwEayxzWcsMAWkk/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68148356",
     "source": "otodom",
     "sourceId": "68148356",
@@ -16347,41 +15458,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE0b3JqN2k5MWhzYTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HU_BuZopnRjX4GOW32NJAnwFFU-z7HFVWjnSl5c-THY/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "lubelski"
-  },
-  {
-    "id": "otodom-68374758",
-    "source": "otodom",
-    "sourceId": "68374758",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-spokojna-wies-w-przepieknej-okolicy-ID4CToG",
-    "propertyType": "house",
-    "title": "Siedlisko - spokojna wieś w przepięknej okolicy!",
-    "voivodeship": "lubelskie",
-    "county": "lubartowski",
-    "city": "Trzciniec",
-    "coordinates": {
-      "lat": 51.239435275760215,
-      "lng": 22.571778594983094
-    },
-    "isNearBorder": false,
-    "areaM2": 100,
-    "plotAreaM2": 16000,
-    "currentPrice": 329000,
-    "currentPricePerM2": 3290,
-    "initialPrice": 329000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 329000,
-        "pricePerM2": 3290
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-02T13:15:46.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im92ZmhxczF6dzluajEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.AGfeZTzJXTzDoVfAAnNiMQaluN62_U-BjRvoSIUU6f8/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-68374426",
@@ -17945,41 +17021,6 @@
     "county": "chełmski"
   },
   {
-    "id": "otodom-68362730",
-    "source": "otodom",
-    "sourceId": "68362730",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-domem-calorocznym-ID4CQgG",
-    "propertyType": "house",
-    "title": "Siedlisko z domem całorocznym",
-    "voivodeship": "lubelskie",
-    "county": "krasnostawski",
-    "city": "Rożki-Kolonia",
-    "coordinates": {
-      "lat": 51.248333468305326,
-      "lng": 22.57517547696909
-    },
-    "isNearBorder": true,
-    "areaM2": 70,
-    "plotAreaM2": 8200,
-    "currentPrice": 255000,
-    "currentPricePerM2": 3642.86,
-    "initialPrice": 255000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 255000,
-        "pricePerM2": 3642.86
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-30T08:06:59.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjQ1NTc4dGRqNXNiaTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0oMdwwun_vDoq7rDJq4fABlbbKPIuVxLAL6nHnyKHbo/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
     "id": "otodom-68127944",
     "source": "otodom",
     "sourceId": "68127944",
@@ -18120,41 +17161,6 @@
     "firstSeenAt": "2026-08-29T08:43:32.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZqM2UzMmozZWc5eDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.TLjyzeHnFCmdgW4rl8AQ4QrFTuPtpoqk5d7dBD8hx8s/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-67032324",
-    "source": "otodom",
-    "sourceId": "67032324",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-jablonnie-15-min-od-lublina-murowany-pietrowy-dom-ID4xgav",
-    "propertyType": "house",
-    "title": "Siedlisko w Jabłonnie, 15 min. od Lublina, murowany piętrowy dom",
-    "voivodeship": "lubelskie",
-    "county": "lubelski",
-    "city": "Jabłonna Druga",
-    "coordinates": {
-      "lat": 51.24590311165217,
-      "lng": 22.569352223336217
-    },
-    "isNearBorder": false,
-    "areaM2": 160,
-    "plotAreaM2": 3067,
-    "currentPrice": 699000,
-    "currentPricePerM2": 4368.75,
-    "initialPrice": 699000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 699000,
-        "pricePerM2": 4368.75
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-29T07:01:09.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijk1eHJ0d3FxNDRncDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lO9xrAooZNPgG0FPCLeg7oF8KUXLCJsI-P5dRnRcdRk/image;s=655x491;q=80",
     "isDirectOwner": true
   },
   {
@@ -19115,42 +18121,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68354621",
-    "source": "otodom",
-    "sourceId": "68354621",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwe-siedlisko-0-85-ha-w-sercu-lubelszczyzny-ID4CO9T",
-    "propertyType": "house",
-    "title": "Urokliwe siedlisko 0,85 ha w sercu Lubelszczyzny",
-    "voivodeship": "lubelskie",
-    "county": "opolski",
-    "city": "Prawno",
-    "street": "ul. Urzędowska",
-    "coordinates": {
-      "lat": 51.25380652290609,
-      "lng": 22.563067353761248
-    },
-    "isNearBorder": false,
-    "areaM2": 90,
-    "plotAreaM2": 8355,
-    "currentPrice": 385000,
-    "currentPricePerM2": 4277.78,
-    "initialPrice": 385000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 385000,
-        "pricePerM2": 4277.78
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-27T08:16:44.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc4M2RyMXFrczR3NzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.T6nIELqyyoVfvHFywnZsRlmPdOHOHoQlrj17fRpEHm0/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68354507",
     "source": "otodom",
     "sourceId": "68354507",
@@ -19325,41 +18295,6 @@
     "firstSeenAt": "2026-08-27T06:17:41.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNybjlrb3g1MHZ3by1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.rHkP0tU_uS2JdqK9EmEPDIlnn6caT0RfjAQ14KAi8gI/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68294937",
-    "source": "otodom",
-    "sourceId": "68294937",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-na-sprzedaz-ID4CyDf",
-    "propertyType": "house",
-    "title": "Gospodarstwo na sprzedaż",
-    "voivodeship": "lubelskie",
-    "county": "lubelski",
-    "city": "Dragany",
-    "coordinates": {
-      "lat": 51.24316983670574,
-      "lng": 22.562291654644696
-    },
-    "isNearBorder": false,
-    "areaM2": 180,
-    "plotAreaM2": 7900,
-    "currentPrice": 870000,
-    "currentPricePerM2": 4833.33,
-    "initialPrice": 870000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 870000,
-        "pricePerM2": 4833.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-27T06:04:02.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inhvb3ZyYmlseWZ4Zy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ttuLnLfvkd9TtnFOfiK40r1xgcBVpVrUu8cgk3qHzN8/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -19750,41 +18685,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVtNzh3M2I0MjVxbjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qJnyJ_36fKIBwirKKRCvvjoYuXlxDcE8Ak9fkvcLzPE/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "lubelski"
-  },
-  {
-    "id": "otodom-68098758",
-    "source": "otodom",
-    "sourceId": "68098758",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/klimatyczne-siedlisko-dwa-domy-0-54ha-ID4BJB4",
-    "propertyType": "house",
-    "title": "Klimatyczne siedlisko, dwa domy, 0,54ha",
-    "voivodeship": "lubelskie",
-    "county": "krasnostawski",
-    "city": "Łukaszówka",
-    "coordinates": {
-      "lat": 51.24799195863672,
-      "lng": 22.565655253805392
-    },
-    "isNearBorder": true,
-    "areaM2": 180,
-    "plotAreaM2": 5400,
-    "currentPrice": 620000,
-    "currentPricePerM2": 3444.44,
-    "initialPrice": 620000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 620000,
-        "pricePerM2": 3444.44
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-26T10:50:37.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Img5eXpwNDhqeDU3ZDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.QYgeU2mCBMp6PimPA91soLSTsrV2nlPh5fSQwDUdvMo/image;s=655x491;q=80",
-    "isDirectOwner": true
   },
   {
     "id": "otodom-68351204",
@@ -20211,41 +19111,6 @@
     "firstSeenAt": "2026-08-25T13:34:04.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc5YThrZDllbjZzZzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.4vNjZHIT4_Q2y2jU2J_OW41-se7guJ7n2AsJ1qwmBUk/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68348742",
-    "source": "otodom",
-    "sourceId": "68348742",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-miescie-laszczow-dom-murowany-budy-ID4CMD4",
-    "propertyType": "house",
-    "title": "Siedlisko w mieście Łaszczów - dom murowany + budy",
-    "voivodeship": "lubelskie",
-    "county": "tomaszowski",
-    "city": "Łaszczów",
-    "coordinates": {
-      "lat": 51.25271041089252,
-      "lng": 22.562938404198025
-    },
-    "isNearBorder": true,
-    "areaM2": 70,
-    "plotAreaM2": 2506,
-    "currentPrice": 219000,
-    "currentPricePerM2": 3128.57,
-    "initialPrice": 219000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 219000,
-        "pricePerM2": 3128.57
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-25T13:32:05.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9vcHl0b3RpOXY3Zi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.6m3D78z9oGW-nBHCZcIolzIawrlnRv6OGib-qUO06ek/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -20987,76 +19852,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68345170",
-    "source": "otodom",
-    "sourceId": "68345170",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-mariance-gm-stary-brus-ID4CLHs",
-    "propertyType": "house",
-    "title": "Siedlisko w Mariance gm. Stary Brus",
-    "voivodeship": "lubelskie",
-    "county": "włodawski",
-    "city": "Marianka",
-    "coordinates": {
-      "lat": 51.24374783330262,
-      "lng": 22.575393465277106
-    },
-    "isNearBorder": true,
-    "areaM2": 70,
-    "plotAreaM2": 7.9,
-    "currentPrice": 799000,
-    "currentPricePerM2": 11414.29,
-    "initialPrice": 799000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 799000,
-        "pricePerM2": 11414.29
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-24T16:02:21.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InowZ21rODkxcWx5MTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1tAEEbbotWvieivAOyVaFwCIKkPuu6ZVSdv7RxtLazQ/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-66907307",
-    "source": "otodom",
-    "sourceId": "66907307",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-2-domy-zabudowania-miedzy-naleczowem-a-kazimierzem-dolnym-ID4vJE7",
-    "propertyType": "house",
-    "title": "Siedlisko- 2 domy + zabudowania między Nałęczowem a Kazimierzem Dolnym",
-    "voivodeship": "lubelskie",
-    "county": "puławski",
-    "city": "Bartłomiejowice",
-    "coordinates": {
-      "lat": 51.24102929382013,
-      "lng": 22.574458121558433
-    },
-    "isNearBorder": false,
-    "areaM2": 250,
-    "plotAreaM2": 7000,
-    "currentPrice": 2300000,
-    "currentPricePerM2": 9200,
-    "initialPrice": 2300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 2300000,
-        "pricePerM2": 9200
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-24T15:56:42.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBuZmJtNWF3a3JkZDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.sbI3GU7wzdHJt4rIOuxT6tdYSgf0lx0mrt_GMhjdD78/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
     "id": "otodom-68345029",
     "source": "otodom",
     "sourceId": "68345029",
@@ -21230,41 +20025,6 @@
     "firstSeenAt": "2026-08-24T12:19:03.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InR3dW5sODRjNzZnbTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gYx49j6dYc9QzbFYZSJmqz4qnAzGePm8hEjY7z_Us2g/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68343749",
-    "source": "otodom",
-    "sourceId": "68343749",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwe-siedlisko-w-bialce-kolonii-gm-milejow-ID4CLkx",
-    "propertyType": "house",
-    "title": "Urokliwe siedlisko w Białce Kolonii gm. Milejów",
-    "voivodeship": "lubelskie",
-    "county": "łęczyński",
-    "city": "Białka-Kolonia",
-    "coordinates": {
-      "lat": 51.24517580732392,
-      "lng": 22.559463987756725
-    },
-    "isNearBorder": false,
-    "areaM2": 130,
-    "plotAreaM2": 13600,
-    "currentPrice": 399000,
-    "currentPricePerM2": 3069.23,
-    "initialPrice": 399000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 399000,
-        "pricePerM2": 3069.23
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-24T11:57:12.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNxd2duOW04MWVuaTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UvzL2LSvLKSsKenUKLs9nLUdN0AQb7V2l08CKyTboO0/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -21442,41 +20202,6 @@
     "firstSeenAt": "2026-08-23T14:24:52.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ing0cGU2cmdpNHE5bDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3r-5vMC552vhOmrurNgP9Zn27rG3OZgjN-0nn0IGY1c/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68341158",
-    "source": "otodom",
-    "sourceId": "68341158",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-na-dzialce-1-78-ha-dom-i-budynek-gospodarczy-ID4CKEK",
-    "propertyType": "house",
-    "title": "Siedlisko na działce 1,78 ha – dom i budynek gospodarczy",
-    "voivodeship": "lubelskie",
-    "county": "krasnostawski",
-    "city": "Mościska",
-    "coordinates": {
-      "lat": 51.24978220109968,
-      "lng": 22.568627323498344
-    },
-    "isNearBorder": true,
-    "areaM2": 50,
-    "plotAreaM2": 17800,
-    "currentPrice": 200000,
-    "currentPricePerM2": 4000,
-    "initialPrice": 200000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 200000,
-        "pricePerM2": 4000
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-23T13:51:58.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhyMGhieGs5cm1wZy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ycAJ0lpQJ1avYH0fpDZjUDOJcSLrdwhYiA0ZvkzdMRk/image;s=655x491;q=80",
     "isDirectOwner": true
   },
   {
@@ -22153,41 +20878,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68332086",
-    "source": "otodom",
-    "sourceId": "68332086",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/prawdziwe-siedlisko-dom-sad-sliwkowy-i-las-zajrzyj-i-przeczytaj-ID4CIiq",
-    "propertyType": "house",
-    "title": "Prawdziwe siedlisko| Dom, sad śliwkowy i las. Zajrzyj i przeczytaj!",
-    "voivodeship": "lubelskie",
-    "county": "sandomierski",
-    "city": "Linów",
-    "coordinates": {
-      "lat": 51.253398781771494,
-      "lng": 22.568861292073294
-    },
-    "isNearBorder": false,
-    "areaM2": 86,
-    "plotAreaM2": 18500,
-    "currentPrice": 549000,
-    "currentPricePerM2": 6383.72,
-    "initialPrice": 549000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 549000,
-        "pricePerM2": 6383.72
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-20T09:11:44.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ6dGU1djMxd2ZsbTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.oxMmF15gv3QhbN2R-n5M3h2gLuDl9IDgNW-H_Uwj_vE/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68332005",
     "source": "otodom",
     "sourceId": "68332005",
@@ -22508,41 +21198,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68328372",
-    "source": "otodom",
-    "sourceId": "68328372",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-na-sprzedaz-stara-prawda-gmina-stoczek-ID4CHkv",
-    "propertyType": "house",
-    "title": "Siedlisko na sprzedaż, Stara Prawda, gmina Stoczek",
-    "voivodeship": "lubelskie",
-    "county": "łukowski",
-    "city": "Stara Prawda",
-    "coordinates": {
-      "lat": 51.250882101568756,
-      "lng": 22.57445255525702
-    },
-    "isNearBorder": false,
-    "areaM2": 100,
-    "plotAreaM2": 2377,
-    "currentPrice": 430000,
-    "currentPricePerM2": 4300,
-    "initialPrice": 430000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 430000,
-        "pricePerM2": 4300
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-19T09:48:57.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5yODMyNjl6eWFkaDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pidgxtvD52X7CVunCBC0t0IOmUL2ucw39w-hBDrUkhY/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68313335",
     "source": "otodom",
     "sourceId": "68313335",
@@ -22685,41 +21340,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "otodom-68327662",
-    "source": "otodom",
-    "sourceId": "68327662",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-9-ar-16-km-od-zamoscia-woda-i-prad-ID4CH94",
-    "propertyType": "house",
-    "title": "Siedlisko 9 ar | 16 km od Zamościa | woda i prąd",
-    "voivodeship": "lubelskie",
-    "county": "zamojski",
-    "city": "Wielącza-Kolonia",
-    "coordinates": {
-      "lat": 51.25363249661669,
-      "lng": 22.559776589486855
-    },
-    "isNearBorder": true,
-    "areaM2": 80,
-    "plotAreaM2": 916,
-    "currentPrice": 150000,
-    "currentPricePerM2": 1875,
-    "initialPrice": 150000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 150000,
-        "pricePerM2": 1875
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-19T07:37:06.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndpMGx1ODRzbTBjYTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2FjmfHH56phlickXD1TTvkXcigAziJjVXsiUTmnAad8/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68039418",
     "source": "otodom",
     "sourceId": "68039418",
@@ -22788,41 +21408,6 @@
     "firstSeenAt": "2026-08-18T21:29:07.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVoOGFnb2QxMm51cDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vdUREj4MI1kY-62nrN_jqqqV92X6mU02W30IbaXsIE8/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68203083",
-    "source": "otodom",
-    "sourceId": "68203083",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-skryhiczynie-ID4CaJJ",
-    "propertyType": "house",
-    "title": "Siedlisko w Skryhiczynie",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Skryhiczyn",
-    "coordinates": {
-      "lat": 51.24641071262201,
-      "lng": 22.56966974368952
-    },
-    "isNearBorder": true,
-    "areaM2": 9500,
-    "plotAreaM2": 100,
-    "currentPrice": 170000,
-    "currentPricePerM2": 17.89,
-    "initialPrice": 170000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 170000,
-        "pricePerM2": 17.89
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-18T20:52:34.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlkdzJ2eGVzcGdmZi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._rGXDfw-C_3IyJ50brb78KTwjBP0Ez2iO0z--bHAQa4/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -23361,47 +21946,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68321305",
-    "source": "otodom",
-    "sourceId": "68321305",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-5-km-od-kazimierza-dolnego-ID4CFux",
-    "propertyType": "house",
-    "title": "*Siedlisko 5 km od Kazimierza Dolnego*",
-    "voivodeship": "lubelskie",
-    "county": "opolski",
-    "city": "Mieczysławka",
-    "coordinates": {
-      "lat": 51.25267929565437,
-      "lng": 22.575955232991667
-    },
-    "isNearBorder": false,
-    "areaM2": 150,
-    "plotAreaM2": 4512,
-    "currentPrice": 459000,
-    "currentPricePerM2": 3060,
-    "initialPrice": 479000,
-    "priceChangeAmount": -20000,
-    "priceChangePercent": -4.2,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 479000,
-        "pricePerM2": 3193.33
-      },
-      {
-        "date": "2026-09-22",
-        "price": 459000,
-        "pricePerM2": 3060
-      }
-    ],
-    "status": "price_drop",
-    "firstSeenAt": "2026-08-17T13:50:27.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF6c3ZtaWx4eTcwYi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.X3eEhIhrtY1on28h997j4Lc6g6dD9VY_1gjgYFBBeog/image;s=655x491;q=80",
-    "isDirectOwner": false,
-    "previousPrice": 479000
-  },
-  {
     "id": "otodom-68220546",
     "source": "otodom",
     "sourceId": "68220546",
@@ -23505,41 +22049,6 @@
     "firstSeenAt": "2026-08-17T12:12:31.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZqdW1xbTRnNDg0Yi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ZkAHEVZ4An7OmlJXwzsb5L4xU7pHJE9Jhhw2sT8iY0M/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-64819455",
-    "source": "otodom",
-    "sourceId": "64819455",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/nowa-cena-komfortowy-dom-z-2013-siedlisko-3hektary-polesie-pulawy-ID4nYw5",
-    "propertyType": "house",
-    "title": "NOWA CENA Komfortowy dom z 2013 Siedlisko 3hektary Polesie Puławy",
-    "voivodeship": "lubelskie",
-    "county": "puławski",
-    "city": "Polesie",
-    "coordinates": {
-      "lat": 51.25316885921852,
-      "lng": 22.566316104422246
-    },
-    "isNearBorder": false,
-    "areaM2": 240,
-    "plotAreaM2": 30000,
-    "currentPrice": 1250000,
-    "currentPricePerM2": 5208.33,
-    "initialPrice": 1250000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1250000,
-        "pricePerM2": 5208.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-17T12:12:31.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZoaGZhNDl4MDdmbDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VRMeztTJwI_-kpvT7IesgeqELcoTxEmMla2s3HM1akw/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -24852,41 +23361,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFjbm45bDc1OXBraDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wquuSJL8j7SzlgGFVKTfBdeqb7SDEl2bGDG3rHy3KF8/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "lubelski"
-  },
-  {
-    "id": "otodom-68301717",
-    "source": "otodom",
-    "sourceId": "68301717",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/kaznow-bardzo-tanie-siedlisko-ID4CAoB",
-    "propertyType": "house",
-    "title": "Kaznów. Bardzo tanie siedlisko!!!",
-    "voivodeship": "lubelskie",
-    "county": "lubartowski",
-    "city": "Kaznów",
-    "coordinates": {
-      "lat": 51.245605200665985,
-      "lng": 22.56969298770482
-    },
-    "isNearBorder": false,
-    "areaM2": 82,
-    "plotAreaM2": 6200,
-    "currentPrice": 269000,
-    "currentPricePerM2": 3280.49,
-    "initialPrice": 269000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 269000,
-        "pricePerM2": 3280.49
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-11T08:56:15.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd1Y3h3em80anNjei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Wzh3wL93t-u9bXQmy3iRbm5qGhnl_a1_OcBQmu-n1d4/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-68301180",
@@ -26805,76 +25279,6 @@
     "county": "bialski"
   },
   {
-    "id": "otodom-68269982",
-    "source": "otodom",
-    "sourceId": "68269982",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-domem-30-min-od-lublina-ID4Cs8K",
-    "propertyType": "house",
-    "title": "Siedlisko z domem 30 min od Lublina",
-    "voivodeship": "lubelskie",
-    "county": "krasnostawski",
-    "city": "Ksawerówka",
-    "coordinates": {
-      "lat": 51.24218484975616,
-      "lng": 22.563607285915758
-    },
-    "isNearBorder": true,
-    "areaM2": 50,
-    "plotAreaM2": 3000,
-    "currentPrice": 280000,
-    "currentPricePerM2": 5600,
-    "initialPrice": 280000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 280000,
-        "pricePerM2": 5600
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-31T13:51:03.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InEwZWozd2htdzkwbTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ApxJ0OIt2IHteENzqNwWYH4jcVPiLc0S4lbryAiTUao/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68269557",
-    "source": "otodom",
-    "sourceId": "68269557",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/klimatyczne-siedlisko-6373-m-15-min-od-bialej-ID4Cs1T",
-    "propertyType": "house",
-    "title": "Klimatyczne siedlisko 6373 m² | 15 min od Białej",
-    "voivodeship": "lubelskie",
-    "county": "bialski",
-    "city": "Ortel Książęcy Drugi",
-    "coordinates": {
-      "lat": 51.24304402946569,
-      "lng": 22.571868805959166
-    },
-    "isNearBorder": true,
-    "areaM2": 100,
-    "plotAreaM2": 6373,
-    "currentPrice": 389000,
-    "currentPricePerM2": 3890,
-    "initialPrice": 389000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 389000,
-        "pricePerM2": 3890
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-31T12:32:08.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjcwMnUzcG92ZnIzeDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.E8a2QBsJeaFaXW9dDSY2a85Ovntu__ElkIDdKbBvL6o/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68269555",
     "source": "otodom",
     "sourceId": "68269555",
@@ -27085,41 +25489,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Iml6dGhudjA2cHBiZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.KISwAt-HcGORL0jfJ_jJDSiOkN8AVTdswz_hjCQKODs/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "lubelski"
-  },
-  {
-    "id": "otodom-68266568",
-    "source": "otodom",
-    "sourceId": "68266568",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-stankowie-wsrod-lasu-5min-od-chelma-ID4CrfG",
-    "propertyType": "house",
-    "title": "Siedlisko w Stańkowie wśród lasu-5min od Chełma",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Stańków",
-    "coordinates": {
-      "lat": 51.24815747558295,
-      "lng": 22.563572183097605
-    },
-    "isNearBorder": true,
-    "areaM2": 50,
-    "plotAreaM2": 1169,
-    "currentPrice": 195000,
-    "currentPricePerM2": 3900,
-    "initialPrice": 195000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 195000,
-        "pricePerM2": 3900
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-30T13:39:27.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpnN3kwdHlmMHg0ajItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hcb6gP51WaZlPZvoDzJBVdpQzBFEDaSapqVO0-y8Sh8/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-68266239",
@@ -27474,41 +25843,6 @@
     "county": "lubelski"
   },
   {
-    "id": "otodom-68263802",
-    "source": "otodom",
-    "sourceId": "68263802",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-o-pow-5-83-ha-z-budynkiem-mieszkalnym-ID4Cqx4",
-    "propertyType": "house",
-    "title": "Gospodarstwo o pow 5,83 ha z budynkiem mieszkalnym",
-    "voivodeship": "lubelskie",
-    "county": "biłgorajski",
-    "city": "Zamch",
-    "coordinates": {
-      "lat": 51.23959653262865,
-      "lng": 22.568128242238778
-    },
-    "isNearBorder": true,
-    "areaM2": 240,
-    "plotAreaM2": 58307,
-    "currentPrice": 1100000,
-    "currentPricePerM2": 4583.33,
-    "initialPrice": 1100000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1100000,
-        "pricePerM2": 4583.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-29T16:25:19.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdwN2xzNTNmOXp5MzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bK5eDsltkbMbU422H5JuW8mzJUSYG9qpI25_wNCuy2Y/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68151482",
     "source": "otodom",
     "sourceId": "68151482",
@@ -27648,41 +25982,6 @@
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV2cWVpMnFoc3NrZzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.IjcKrzjWORIOgyd5GDib33HDwN742gS2RvahQrFftng/image;s=655x491;q=80",
     "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68260018",
-    "source": "otodom",
-    "sourceId": "68260018",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwe-siedlisko-na-zagospodarowanej-dzialce-ID4Cpy2",
-    "propertyType": "house",
-    "title": "Urokliwe siedlisko na zagospodarowanej działce!",
-    "voivodeship": "lubelskie",
-    "county": "lubelski",
-    "city": "Sobianowice",
-    "coordinates": {
-      "lat": 51.25127150079468,
-      "lng": 22.566673642976493
-    },
-    "isNearBorder": false,
-    "areaM2": 70,
-    "plotAreaM2": 1800,
-    "currentPrice": 440000,
-    "currentPricePerM2": 6285.71,
-    "initialPrice": 440000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 440000,
-        "pricePerM2": 6285.71
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-28T15:58:51.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlxM25neHB6dWNydDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.svOzirWllJLfZrLrjzb92AWmyHbfFD3XkLaoXbMv5u4/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-68259355",
@@ -27894,41 +26193,6 @@
     "firstSeenAt": "2026-07-28T11:14:12.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVoNHF4ZDQ1OThwNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5nEg8LhL9flXG1qdbMMSPQCFjRTf49WspGcfvO3Ap20/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68258567",
-    "source": "otodom",
-    "sourceId": "68258567",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-swidnik-ID4CpaD",
-    "propertyType": "house",
-    "title": "Siedlisko, Świdnik",
-    "voivodeship": "lubelskie",
-    "county": "świdnicki",
-    "city": "Franciszków",
-    "coordinates": {
-      "lat": 51.243526040498125,
-      "lng": 22.571338591515584
-    },
-    "isNearBorder": false,
-    "areaM2": 140,
-    "plotAreaM2": 4343,
-    "currentPrice": 950000,
-    "currentPricePerM2": 6785.71,
-    "initialPrice": 950000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 950000,
-        "pricePerM2": 6785.71
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-28T11:14:12.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJwa3dvMGVzNG1zZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.bkL_eGgMHo4Sx7vDWEyht5xvRM7jEZkwPbx8dPm7al0/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -28818,41 +27082,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68243846",
-    "source": "otodom",
-    "sourceId": "68243846",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-po-remoncie-huta-rozaniecka-ID4Cllc",
-    "propertyType": "house",
-    "title": "Siedlisko po remoncie | Huta Różaniecka",
-    "voivodeship": "lubelskie",
-    "county": "lubaczowski",
-    "city": "Huta Różaniecka",
-    "coordinates": {
-      "lat": 51.239168996461906,
-      "lng": 22.55852047674708
-    },
-    "isNearBorder": false,
-    "areaM2": 70,
-    "plotAreaM2": 574,
-    "currentPrice": 285000,
-    "currentPricePerM2": 4071.43,
-    "initialPrice": 285000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 285000,
-        "pricePerM2": 4071.43
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-23T08:53:36.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVmZnAzcWV6bnRody1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.4hwU8hNR7Dvg3WJo7iPUdYESVwm0EaCujUANlikVfg8/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68242873",
     "source": "otodom",
     "sourceId": "68242873",
@@ -29063,41 +27292,6 @@
     "firstSeenAt": "2026-07-22T07:41:10.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx3Z2h3NmdoejhicC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.AEbwMXBB4BN14rpECni4qjUjMFq4Qa6VBG1RjpiQiOE/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68236008",
-    "source": "otodom",
-    "sourceId": "68236008",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-zabudowaniami-gospodarczymi-5424m2-ID4CjiM",
-    "propertyType": "house",
-    "title": "Siedlisko z zabudowaniami gospodarczymi, 5424m2",
-    "voivodeship": "lubelskie",
-    "county": "radzyński",
-    "city": "Brzozowy Kąt",
-    "coordinates": {
-      "lat": 49.6971081829941,
-      "lng": 22.01008018114938
-    },
-    "isNearBorder": false,
-    "areaM2": 79,
-    "plotAreaM2": 5424,
-    "currentPrice": 300000,
-    "currentPricePerM2": 3797.47,
-    "initialPrice": 300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 300000,
-        "pricePerM2": 3797.47
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-21T14:16:27.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims4djljYjllcGx5czMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JFneT7sRqgUnoQyo-vqjaj8SMWpMaQ4vltNEdGcsP78/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -29312,42 +27506,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBmNDBnZnBqOWlvMTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2auuTwtSMdqRz4deyifMYef1E6vrvhiuEE9gEw2c5rg/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "chełmski"
-  },
-  {
-    "id": "otodom-68226567",
-    "source": "otodom",
-    "sourceId": "68226567",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-dom-80-m2-dzialka-15-arow-dubienka-ID4CgQw",
-    "propertyType": "house",
-    "title": "Siedlisko/ Dom 80 m2/ Działka 15 arów/Dubienka",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Dubienka",
-    "street": "Kościuszki 35",
-    "coordinates": {
-      "lat": 51.25393996426385,
-      "lng": 22.5693995219293
-    },
-    "isNearBorder": true,
-    "areaM2": 80,
-    "plotAreaM2": 1534,
-    "currentPrice": 179000,
-    "currentPricePerM2": 2237.5,
-    "initialPrice": 179000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 179000,
-        "pricePerM2": 2237.5
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-20T07:20:18.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5tY2Qzb3VkaXUxcDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.I9Yelcl7RXlMeMxrAVvLktBcNkJ8zJPV4JLeUhzNYxA/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-68225479",
@@ -30104,76 +28262,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "otodom-68208536",
-    "source": "otodom",
-    "sourceId": "68208536",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-grabowica-gm-susiec-ID4Cc9G",
-    "propertyType": "house",
-    "title": "Siedlisko, Grabowica gm. Susiec",
-    "voivodeship": "lubelskie",
-    "county": "tomaszowski",
-    "city": "Grabowica",
-    "coordinates": {
-      "lat": 51.249234937608804,
-      "lng": 22.564223487543277
-    },
-    "isNearBorder": true,
-    "areaM2": 80,
-    "plotAreaM2": 1.78,
-    "currentPrice": 300000,
-    "currentPricePerM2": 3750,
-    "initialPrice": 300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 300000,
-        "pricePerM2": 3750
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-14T06:08:13.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjEzOHVta2M1dzd1dDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fj7ixkK82pHGGJf4jHKlHzsyX306HzlJqunnprXkYbI/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68208534",
-    "source": "otodom",
-    "sourceId": "68208534",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-budynkami-gospodarczymi-honiatyczki-ID4Cc9E",
-    "propertyType": "house",
-    "title": "Siedlisko z budynkami gospodarczymi, Honiatyczki",
-    "voivodeship": "lubelskie",
-    "county": "hrubieszowski",
-    "city": "Honiatyczki",
-    "coordinates": {
-      "lat": 51.241136450561115,
-      "lng": 22.5718898966769
-    },
-    "isNearBorder": true,
-    "areaM2": 95,
-    "plotAreaM2": 1.89,
-    "currentPrice": 350000,
-    "currentPricePerM2": 3684.21,
-    "initialPrice": 350000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 350000,
-        "pricePerM2": 3684.21
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-14T06:08:02.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imdvd3kzeHZ1bnZsZTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0wRogAnUdRuRSWM6VAyYnqh3CJdHs8Qn6ZUkX9rEmio/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68208162",
     "source": "otodom",
     "sourceId": "68208162",
@@ -30810,41 +28898,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68120521",
-    "source": "otodom",
-    "sourceId": "68120521",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-klimatem-dzialka-0-89-ha-wojciechow-ID4BPg5",
-    "propertyType": "house",
-    "title": "Siedlisko z klimatem,działka 0,89 ha Wojciechów",
-    "voivodeship": "lubelskie",
-    "county": "lubelski",
-    "city": "Wojciechów",
-    "coordinates": {
-      "lat": 51.24871300687804,
-      "lng": 22.568658826516586
-    },
-    "isNearBorder": false,
-    "areaM2": 75,
-    "plotAreaM2": 8959,
-    "currentPrice": 647000,
-    "currentPricePerM2": 8626.67,
-    "initialPrice": 647000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 647000,
-        "pricePerM2": 8626.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-10T09:28:43.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVhdG1kdWtuOTU0MDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mWAj3j2U9018jrpli5SpMHsDqTNN9UUKCW_gavjp0_E/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68135435",
     "source": "otodom",
     "sourceId": "68135435",
@@ -30949,41 +29002,6 @@
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndmZmZoeThrMzl3cTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pPR50osklEfcc6TF3AidjBK92Ed1OfxQbFF8eKv9ME8/image;s=655x491;q=80",
     "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68197489",
-    "source": "otodom",
-    "sourceId": "68197489",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-kaliszanach-kolonii-gm-jozefow-ID4C9hw",
-    "propertyType": "house",
-    "title": "Siedlisko w Kaliszanach Kolonii gm. Józefów",
-    "voivodeship": "lubelskie",
-    "county": "opolski",
-    "city": "Kaliszany-Kolonia",
-    "coordinates": {
-      "lat": 51.25097299994627,
-      "lng": 22.56661064518725
-    },
-    "isNearBorder": false,
-    "areaM2": 36,
-    "plotAreaM2": 2000,
-    "currentPrice": 159000,
-    "currentPricePerM2": 4416.67,
-    "initialPrice": 159000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 159000,
-        "pricePerM2": 4416.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-10T07:42:59.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdhbmU3ZjV4YWxtejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0m1xjEoRz5osZdwc8bRThO4u4RNiC2J57tjkZDPpBLo/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-68197003",
@@ -31409,40 +29427,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68181932",
-    "source": "otodom",
-    "sourceId": "68181932",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-spokojnej-miejscowosci-w-gm-bilgoraj-ID4C5eA",
-    "propertyType": "house",
-    "title": "Siedlisko w spokojnej miejscowosci w gm Biłgoraj",
-    "voivodeship": "lubelskie",
-    "county": "biłgorajski",
-    "city": "Dyle",
-    "coordinates": {
-      "lat": 51.24528774537615,
-      "lng": 22.569110911791963
-    },
-    "isNearBorder": true,
-    "areaM2": 70,
-    "currentPrice": 399000,
-    "currentPricePerM2": 5700,
-    "initialPrice": 399000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 399000,
-        "pricePerM2": 5700
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-07T14:20:25.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJwbjJobGZoNzFzMi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.dwA48r-IseFHHH1v0sfleTRYYGFJYHjVf8vzstg9RTc/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68096443",
     "source": "otodom",
     "sourceId": "68096443",
@@ -31547,111 +29531,6 @@
     "firstSeenAt": "2026-07-07T09:08:24.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjEwaHgzd3lneHV6djEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._SoCyThOlscV0xaQNZYoRsO9isdmS8Qqdg8gS9D2Ruk/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68146641",
-    "source": "otodom",
-    "sourceId": "68146641",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/stara-lesniczowka-z-dusza-staw-33-ary-cisza-ID4BV3n",
-    "propertyType": "house",
-    "title": "Stara leśniczówka z duszą. Staw, 33 ary, cisza.",
-    "voivodeship": "lubelskie",
-    "county": "puławski",
-    "city": "Zastawie",
-    "coordinates": {
-      "lat": 51.252421412734236,
-      "lng": 22.562815640926544
-    },
-    "isNearBorder": false,
-    "areaM2": 212,
-    "plotAreaM2": 3200,
-    "currentPrice": 595000,
-    "currentPricePerM2": 2806.6,
-    "initialPrice": 595000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 595000,
-        "pricePerM2": 2806.6
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-07T08:43:34.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InR6Yms0d21mZXFudzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dXM2rvjRkSV8SYnz35vUp0Pd8zxAbMqVxnudgaOzvMU/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68179136",
-    "source": "otodom",
-    "sourceId": "68179136",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwe-siedlisko-przy-bugu-husynne-ID4C4wu",
-    "propertyType": "house",
-    "title": "Urokliwe siedlisko przy Bugu – Husynne",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Husynne",
-    "coordinates": {
-      "lat": 51.249613659159245,
-      "lng": 22.560504789235978
-    },
-    "isNearBorder": true,
-    "areaM2": 90,
-    "plotAreaM2": 4853,
-    "currentPrice": 330000,
-    "currentPricePerM2": 3666.67,
-    "initialPrice": 330000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 330000,
-        "pricePerM2": 3666.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-07T06:35:56.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InB5Njg4dXFtaXQwYTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.F1SwcCk41k23Lsy_6PdBrArC6II0B1SvCYseicilNiY/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68178995",
-    "source": "otodom",
-    "sourceId": "68178995",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-43-ary-10min-od-chelma-ID4C4td",
-    "propertyType": "house",
-    "title": "Siedlisko 43 ary- 10min od Chełma",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Strachosław",
-    "coordinates": {
-      "lat": 51.24869471938899,
-      "lng": 22.56443933798884
-    },
-    "isNearBorder": true,
-    "areaM2": 69.9,
-    "plotAreaM2": 43000,
-    "currentPrice": 335000,
-    "currentPricePerM2": 4792.56,
-    "initialPrice": 335000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 335000,
-        "pricePerM2": 4792.56
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-06T23:22:14.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImU1OWF5d3ptMDV6bi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.hqBQQMMScBfWpX6XBE6WTWc2Nx6X4UqzNzNWs8T_tX4/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -32718,41 +30597,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68149826",
-    "source": "otodom",
-    "sourceId": "68149826",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-na-dzialce-29-arow-lisow-gm-lubartow-ID4BVSK",
-    "propertyType": "house",
-    "title": "Siedlisko na działce 29 arów - Lisów gm. Lubartów",
-    "voivodeship": "lubelskie",
-    "county": "lubartowski",
-    "city": "Lisów",
-    "coordinates": {
-      "lat": 51.2535392704384,
-      "lng": 22.562790654285212
-    },
-    "isNearBorder": false,
-    "areaM2": 86,
-    "plotAreaM2": 2950,
-    "currentPrice": 219000,
-    "currentPricePerM2": 2546.51,
-    "initialPrice": 219000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 219000,
-        "pricePerM2": 2546.51
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-27T09:49:38.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Iml5eXg3N3ZkcDl6ejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.b0UQ7od3zhK2TauolNMI1XyScyVSXwR5oz9vlzXJsk4/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68148709",
     "source": "otodom",
     "sourceId": "68148709",
@@ -33460,41 +31304,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68134330",
-    "source": "otodom",
-    "sourceId": "68134330",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-sadurkach-ID4BSQO",
-    "propertyType": "house",
-    "title": "Siedlisko w Sadurkach",
-    "voivodeship": "lubelskie",
-    "county": "puławski",
-    "city": "Sadurki",
-    "coordinates": {
-      "lat": 51.23986218524119,
-      "lng": 22.561045715289815
-    },
-    "isNearBorder": false,
-    "areaM2": 70,
-    "plotAreaM2": 1600,
-    "currentPrice": 350000,
-    "currentPricePerM2": 5000,
-    "initialPrice": 350000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 350000,
-        "pricePerM2": 5000
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-23T08:28:08.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjkyNGF6cTVibXlobS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.CIgJ2gNEvgaBd6LZBR0OHgQU-uv2sUaBNZTGo4jQ2Yw/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68124746",
     "source": "otodom",
     "sourceId": "68124746",
@@ -33775,42 +31584,6 @@
     "firstSeenAt": "2026-06-19T11:54:35.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc0Y3hkYWFjOGFsNTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.00-KXKiBOalJGFjKjNJeci4bPB8qHLzNGuhBY9yWVmg/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68124379",
-    "source": "otodom",
-    "sourceId": "68124379",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-dom-80m2-dzialka1-93ha-putnowice-wielkie-ID4BQgj",
-    "propertyType": "house",
-    "title": "Siedlisko/Dom 80m2|Działka1,93ha|Putnowice Wielkie",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Putnowice Wielkie",
-    "street": "ul. Ogrodowa",
-    "coordinates": {
-      "lat": 51.24119231083099,
-      "lng": 22.563797488344154
-    },
-    "isNearBorder": true,
-    "areaM2": 80,
-    "plotAreaM2": 1.93,
-    "currentPrice": 179000,
-    "currentPricePerM2": 2237.5,
-    "initialPrice": 179000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 179000,
-        "pricePerM2": 2237.5
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-19T11:20:23.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpsNjh3dXY0MzN2MDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.n7jIg75PJcs7hickuMp8klVeQjKdmLU4FqGwxN2dINI/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -35202,42 +32975,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67893975",
-    "source": "otodom",
-    "sourceId": "67893975",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-dom-82m2-9-ary-dzialki-nowiny-ID4ASk7",
-    "propertyType": "house",
-    "title": "Siedlisko /Dom 82m2|9 ary działki| Nowiny",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Nowiny",
-    "street": "ul. Dębowa",
-    "coordinates": {
-      "lat": 51.24111607679285,
-      "lng": 22.56238157910011
-    },
-    "isNearBorder": true,
-    "areaM2": 82,
-    "plotAreaM2": 996,
-    "currentPrice": 279000,
-    "currentPricePerM2": 3402.44,
-    "initialPrice": 279000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 279000,
-        "pricePerM2": 3402.44
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-09T08:34:10.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5mbm9kc3l4MWJmei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.MZqZQHlqcWD6xdbSORwMAepFNV3Z2BpIQIPmYdAUAQ8/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67890533",
     "source": "otodom",
     "sourceId": "67890533",
@@ -35270,41 +33007,6 @@
     "firstSeenAt": "2026-06-09T08:33:42.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQ0b29rZW5sMDMwczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.e7XTw2PEqn8FAdIh9uZP3dt67N5HH53XOTU_wneszUY/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68087997",
-    "source": "otodom",
-    "sourceId": "68087997",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/duzy-dom-z-gospodarstwem-ID4BGNw",
-    "propertyType": "house",
-    "title": "Duży dom z gospodarstwem",
-    "voivodeship": "lubelskie",
-    "county": "łęczyński",
-    "city": "Ciechanki",
-    "coordinates": {
-      "lat": 51.24913312182233,
-      "lng": 22.577658940002497
-    },
-    "isNearBorder": false,
-    "areaM2": 120,
-    "plotAreaM2": 43100,
-    "currentPrice": 1590000,
-    "currentPricePerM2": 13250,
-    "initialPrice": 1590000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1590000,
-        "pricePerM2": 13250
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-09T07:54:16.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imk5Znl0c3AzcDBrcjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.go1EWbvBQEvWhFwWos9sCymw2mi8j9YhwkxYHRZAMXI/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -35811,41 +33513,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imt0MXN6MzZxejRnZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qJ5sA_3wy4r5gwbT9vRVTDLH6sMrHSjVqotlKUeq7XM/image;s=655x491;q=80",
     "isDirectOwner": false,
     "previousPrice": 480000
-  },
-  {
-    "id": "otodom-68073197",
-    "source": "otodom",
-    "sourceId": "68073197",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/kownatki-siedlisko-1-36-ha-z-zabudowaniami-13-km-od-lukowa-ID4BCVN",
-    "propertyType": "house",
-    "title": "Kownatki - Siedlisko 1,36 ha z zabudowaniami , 13 KM od Łukowa",
-    "voivodeship": "lubelskie",
-    "county": "łukowski",
-    "city": "Kownatki",
-    "coordinates": {
-      "lat": 51.25035295376868,
-      "lng": 22.572861824735796
-    },
-    "isNearBorder": false,
-    "areaM2": 110,
-    "plotAreaM2": 13600,
-    "currentPrice": 475000,
-    "currentPricePerM2": 4318.18,
-    "initialPrice": 475000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 475000,
-        "pricePerM2": 4318.18
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-03T09:47:10.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJtYXJxZmN0aHN2ai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.eJx_v9KKTxfvOUBQ41-WdEp815ObQECBWlgfAIA5-Ac/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-68072093",
@@ -46665,40 +44332,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/13/63/3fbfb6_aef1_cover@2x-dom-hrubieszowski-liski.webp",
     "isDirectOwner": true,
     "county": "hrubieszowski"
-  },
-  {
-    "id": "adresowo-4176462",
-    "source": "adresowo",
-    "sourceId": "4176462",
-    "sourceUrl": "https://adresowo.pl/o/dom-fajslawice-siedliska-pierwsze-110-m2-q9r6j3",
-    "propertyType": "house",
-    "title": "Dom — Siedliska Pierwsze",
-    "voivodeship": "lubelskie",
-    "city": "Siedliska Pierwsze",
-    "coordinates": {
-      "lat": 51.24004991878573,
-      "lng": 22.572835903061492
-    },
-    "isNearBorder": true,
-    "areaM2": 110,
-    "currentPrice": 360000,
-    "currentPricePerM2": 3272.73,
-    "initialPrice": 360000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 360000,
-        "pricePerM2": 3272.73
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:09:08.990Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/69/31/3fba4e_4886_cover@2x-dom-krasnostawski-siedliska-pierwsze.webp",
-    "isDirectOwner": true,
-    "county": "krasnostawski"
   },
   {
     "id": "adresowo-4176242",
@@ -57981,41 +55614,6 @@
     "county": "zamojski"
   },
   {
-    "id": "adresowo-4042510",
-    "source": "adresowo",
-    "sourceId": "4042510",
-    "sourceUrl": "https://adresowo.pl/o/dom-zamosc-ul-zagrodowa-e9x2v3",
-    "propertyType": "house",
-    "title": "Dom — Zamość, ul. Zagrodowa",
-    "voivodeship": "lubelskie",
-    "city": "Zamość",
-    "street": "ul. Zagrodowa",
-    "coordinates": {
-      "lat": 50.7132058952857,
-      "lng": 23.253812835321753
-    },
-    "isNearBorder": true,
-    "areaM2": 175,
-    "currentPrice": 1100000,
-    "currentPricePerM2": 6285.71,
-    "initialPrice": 1100000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1100000,
-        "pricePerM2": 6285.71
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:09:16.193Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3d/12/3daf0e_d3b2_cover@2x-dom-zamosc.webp",
-    "isDirectOwner": true,
-    "county": "zamojski"
-  },
-  {
     "id": "adresowo-4041200",
     "source": "adresowo",
     "sourceId": "4041200",
@@ -63149,40 +60747,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/51/46/3b7bb4_6889_cover@2x-dom-zamojski-sitaniec.webp",
     "isDirectOwner": true,
     "county": "zamojski"
-  },
-  {
-    "id": "adresowo-3897776",
-    "source": "adresowo",
-    "sourceId": "3897776",
-    "sourceUrl": "https://adresowo.pl/o/dom-bychawa-lesniczowka-74-m2-w0g5o3",
-    "propertyType": "house",
-    "title": "Dom — Leśniczówka",
-    "voivodeship": "lubelskie",
-    "city": "Leśniczówka",
-    "coordinates": {
-      "lat": 51.249374764172416,
-      "lng": 22.57757821250862
-    },
-    "isNearBorder": false,
-    "areaM2": 74,
-    "currentPrice": 350000,
-    "currentPricePerM2": 4729.73,
-    "initialPrice": 350000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 350000,
-        "pricePerM2": 4729.73
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:09:18.599Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5c/7b/3b79b0_8a5b_cover@2x-dom-lubelski-lesniczowka.webp",
-    "isDirectOwner": true,
-    "county": "lubelski"
   },
   {
     "id": "adresowo-3897606",
@@ -72158,40 +69722,6 @@
     "county": "bilgorajski"
   },
   {
-    "id": "adresowo-3450638",
-    "source": "adresowo",
-    "sourceId": "3450638",
-    "sourceUrl": "https://adresowo.pl/o/dom-fajslawice-siedliska-pierwsze-50-m2-o2q8c7",
-    "propertyType": "house",
-    "title": "Dom — Siedliska Pierwsze",
-    "voivodeship": "lubelskie",
-    "city": "Siedliska Pierwsze",
-    "coordinates": {
-      "lat": 51.251056169416586,
-      "lng": 22.57801810616449
-    },
-    "isNearBorder": true,
-    "areaM2": 50,
-    "currentPrice": 155000,
-    "currentPricePerM2": 3100,
-    "initialPrice": 155000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 155000,
-        "pricePerM2": 3100
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:09:22.851Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/17/50/34a70e_e509_cover@2x-dom-krasnostawski-siedliska-pierwsze.webp",
-    "isDirectOwner": true,
-    "county": "krasnostawski"
-  },
-  {
     "id": "adresowo-3448486",
     "source": "adresowo",
     "sourceId": "3448486",
@@ -72434,40 +69964,6 @@
     "imageUrl": "https://s2.adresowa.pl/oi/1c/1a/345ee2_fa40_cover@2x-dom-radzynski-bialka.webp",
     "isDirectOwner": true,
     "county": "radzynski"
-  },
-  {
-    "id": "adresowo-3429530",
-    "source": "adresowo",
-    "sourceId": "3429530",
-    "sourceUrl": "https://adresowo.pl/o/dom-jozefow-siedliska-270-m2-b6l1g3",
-    "propertyType": "house",
-    "title": "Dom — Siedliska",
-    "voivodeship": "lubelskie",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 51.24868001362209,
-      "lng": 22.578265089089506
-    },
-    "isNearBorder": true,
-    "areaM2": 270,
-    "currentPrice": 460000,
-    "currentPricePerM2": 1703.7,
-    "initialPrice": 460000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 460000,
-        "pricePerM2": 1703.7
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:09:22.851Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/22/35/34549a_aaf5_cover@2x-dom-bilgorajski-siedliska.webp",
-    "isDirectOwner": true,
-    "county": "bilgorajski"
   },
   {
     "id": "adresowo-3428640",
@@ -80263,40 +77759,6 @@
     "county": "opolski"
   },
   {
-    "id": "adresowo-2270666",
-    "source": "adresowo",
-    "sourceId": "2270666",
-    "sourceUrl": "https://adresowo.pl/o/dom-ruda-huta-lesniczowka-70-m2-m5d0v0",
-    "propertyType": "house",
-    "title": "Dom — Leśniczówka",
-    "voivodeship": "lubelskie",
-    "city": "Leśniczówka",
-    "coordinates": {
-      "lat": 51.2471456756029,
-      "lng": 22.56472210297196
-    },
-    "isNearBorder": true,
-    "areaM2": 70,
-    "currentPrice": 175000,
-    "currentPricePerM2": 2500,
-    "initialPrice": 175000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 175000,
-        "pricePerM2": 2500
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-17T22:09:27.668Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/47/71/22a5ca_fb40_cover@2x-dom-chelmski-lesniczowka.webp",
-    "isDirectOwner": true,
-    "county": "chelmski"
-  },
-  {
     "id": "adresowo-2251984",
     "source": "adresowo",
     "sourceId": "2251984",
@@ -81848,42 +79310,6 @@
     "county": "janowski"
   },
   {
-    "id": "otodom-68433152",
-    "source": "otodom",
-    "sourceId": "68433152",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-z-budynkami-gospodarczymi-zabudowa-zagrodowa-ID4D8Av",
-    "propertyType": "house",
-    "title": "Dom z budynkami gospodarczymi - zabudowa zagrodowa",
-    "voivodeship": "lubelskie",
-    "county": "puławski",
-    "city": "Żyrzyn",
-    "street": "ul. Tysiąclecia",
-    "coordinates": {
-      "lat": 51.24901319952193,
-      "lng": 22.56522621342525
-    },
-    "isNearBorder": false,
-    "areaM2": 90,
-    "plotAreaM2": 4787,
-    "currentPrice": 350000,
-    "currentPricePerM2": 3888.89,
-    "initialPrice": 350000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-18",
-        "price": 350000,
-        "pricePerM2": 3888.89
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-18T09:19:15.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpjZHJtZGwxOHdyeTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Hvsr2PtyO8qFj5y8NVFHq1_xgQHB6-WDuwD8qAyMZ28/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68430906",
     "source": "otodom",
     "sourceId": "68430906",
@@ -82558,41 +79984,6 @@
     "firstSeenAt": "2026-09-18T15:40:45.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5tYzBodXRmZnF2bi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.AcluBOH8iopMB384AGBJDvaZcJSfcNsRc5dDg3al2l8/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68435699",
-    "source": "otodom",
-    "sourceId": "68435699",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-175-m2-dzialka-1-9-ha-siedlisko-putnowice-wi-ID4D9fB",
-    "propertyType": "house",
-    "title": "Dom 175 m2/Działka 1,9 ha/ Siedlisko/ Putnowice Wi",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Putnowice Wielkie",
-    "coordinates": {
-      "lat": 51.23930557034833,
-      "lng": 22.572789335061373
-    },
-    "isNearBorder": true,
-    "areaM2": 175,
-    "plotAreaM2": 19000,
-    "currentPrice": 449000,
-    "currentPricePerM2": 2565.71,
-    "initialPrice": 449000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-19",
-        "price": 449000,
-        "pricePerM2": 2565.71
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-18T15:20:36.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjEwaGp4cjFpMXdjci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.-imZEghrMH_s-AzTn9gdqKmBT6fWzjWwVbNt2TdN4F4/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -83329,42 +80720,6 @@
     "firstSeenAt": "2026-09-19T15:53:19.000Z",
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhsZGx5dWI5NHRiNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.TsVQCZJvKshDc5MeVJrg0dz0_I4ldmk8iZVtL9FjIzU/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68438041",
-    "source": "otodom",
-    "sourceId": "68438041",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-wolnostojacy-siedlisko-w-lublinie-120-m-dzialka-2500-m-ID4D9Rn",
-    "propertyType": "house",
-    "title": "Dom wolnostojący /siedlisko  w Lublinie – 120 m² | Działka 2500 m²",
-    "voivodeship": "lubelskie",
-    "county": "lubelski",
-    "city": "Lublin",
-    "street": "ul. Naftowa",
-    "coordinates": {
-      "lat": 51.25018811825509,
-      "lng": 22.569295993347403
-    },
-    "isNearBorder": false,
-    "areaM2": 120,
-    "plotAreaM2": 2500,
-    "currentPrice": 850000,
-    "currentPricePerM2": 7083.33,
-    "initialPrice": 850000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-20",
-        "price": 850000,
-        "pricePerM2": 7083.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-19T15:07:40.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw0OHM3dHZkY3BmbTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8Dh79jkoxwO29XbOkcEJaDVcXUgduaT_WkHrYiT_5js/image;s=655x491;q=80",
     "isDirectOwner": true
   },
   {
@@ -84712,41 +82067,6 @@
     "lastSeenAt": "2026-09-22T08:58:22.234Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inh6aWZtZGU1NXo0azEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wWY7nUIzyDQsisO2z5i3-6Ge-szcauc9rS1Qi5Y020I/image;s=655x491;q=80",
     "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68444768",
-    "source": "otodom",
-    "sourceId": "68444768",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-przy-bugu-natura-i-ogromny-potencjal-ID4DbBS",
-    "propertyType": "house",
-    "title": "Siedlisko przy Bugu - natura i ogromny potencjał #",
-    "voivodeship": "lubelskie",
-    "county": "bialski",
-    "city": "Gnojno",
-    "coordinates": {
-      "lat": 51.25160348598824,
-      "lng": 22.558429022323395
-    },
-    "isNearBorder": true,
-    "areaM2": 63,
-    "plotAreaM2": 1829,
-    "currentPrice": 327000,
-    "currentPricePerM2": 5190.48,
-    "initialPrice": 327000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-22",
-        "price": 327000,
-        "pricePerM2": 5190.48
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-21T17:44:25.000Z",
-    "lastSeenAt": "2026-09-22T08:58:22.234Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjF6NzhiMjl5OXlkai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Qn6n1Jq52kQesWxEfp_ozVmL-LNRM_Su7LA93b6oR7c/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-68444759",
@@ -86593,41 +83913,6 @@
     "firstSeenAt": "2026-08-25T06:36:18.000Z",
     "lastSeenAt": "2026-09-21T09:30:47.916Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdqbzBpc29hNHJ0dTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.R_Aq-JlDYgM3xOewxnRbKZVvrZMiL0hP99QhBmetvL4/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68339373",
-    "source": "otodom",
-    "sourceId": "68339373",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-1-8-ha-dom-po-gruntownej-przebudowie-ID4CKbX",
-    "propertyType": "house",
-    "title": "Siedlisko 1,8 ha | dom po gruntownej przebudowie",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Wólka Kańska-Kolonia",
-    "coordinates": {
-      "lat": 51.253833612078296,
-      "lng": 22.562182569712476
-    },
-    "isNearBorder": true,
-    "areaM2": 18100,
-    "plotAreaM2": 90,
-    "currentPrice": 370000,
-    "currentPricePerM2": 20.44,
-    "initialPrice": 370000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 370000,
-        "pricePerM2": 20.44
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-23T09:02:54.000Z",
-    "lastSeenAt": "2026-09-21T09:30:47.916Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRnbnloZ2JjZGhlbS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.uFMpETOKpjPqjbgXmOFHeLdJdKkty52c1JZkbxZsQnw/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -88898,41 +86183,6 @@
     "county": "zamojski"
   },
   {
-    "id": "otodom-68169385",
-    "source": "otodom",
-    "sourceId": "68169385",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-klimatem-3092-m-koniec-wsi-duzy-potencjal-ID4C1Yd",
-    "propertyType": "house",
-    "title": "Siedlisko z klimatem | 3092 m² | Koniec wsi | Duży potencjał",
-    "voivodeship": "lubelskie",
-    "county": "tomaszowski",
-    "city": "Dąbrowa",
-    "coordinates": {
-      "lat": 53.64906279587567,
-      "lng": 23.355885301238086
-    },
-    "isNearBorder": true,
-    "areaM2": 132,
-    "plotAreaM2": 3092,
-    "currentPrice": 300000,
-    "currentPricePerM2": 2272.73,
-    "initialPrice": 300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 300000,
-        "pricePerM2": 2272.73
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-03T11:32:07.000Z",
-    "lastSeenAt": "2026-09-20T08:59:29.131Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjY1MHd1ejlrczFiODEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GRMz1Sv85e79dAM49I3BtQoFpByyLSeZfwGd2bi33hg/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67839629",
     "source": "otodom",
     "sourceId": "67839629",
@@ -89657,40 +86907,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "otodom-96690730700067",
-    "source": "otodom",
-    "sourceId": "96690730700067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-2-domy-zabudowania-miedzy-naleczowem-a-kazimierzem-dolnym-ID4vJE7",
-    "propertyType": "house",
-    "title": "Siedlisko- 2 domy + zabudowania między Nałęczowem a Kazimierzem Dolnym",
-    "voivodeship": "lubelskie",
-    "county": "puławski",
-    "city": "Bartłomiejowice",
-    "coordinates": {
-      "lat": 51.245883700481116,
-      "lng": 22.56840050055981
-    },
-    "isNearBorder": false,
-    "areaM2": 250,
-    "plotAreaM2": 7000,
-    "currentPrice": 2300000,
-    "currentPricePerM2": 9200,
-    "initialPrice": 2300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-20",
-        "price": 2300000,
-        "pricePerM2": 9200
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-20T08:59:29.131Z",
-    "isDirectOwner": true
-  },
-  {
     "id": "otodom-96831847100067",
     "source": "otodom",
     "sourceId": "96831847100067",
@@ -89793,40 +87009,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-96826656800067",
-    "source": "otodom",
-    "sourceId": "96826656800067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-stankowie-wsrod-lasu-5min-od-chelma-ID4CrfG",
-    "propertyType": "house",
-    "title": "Siedlisko w Stańkowie wśród lasu-5min od Chełma",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Stańków",
-    "coordinates": {
-      "lat": 51.24727308952939,
-      "lng": 22.57684548854786
-    },
-    "isNearBorder": true,
-    "areaM2": 50,
-    "plotAreaM2": 1169,
-    "currentPrice": 195000,
-    "currentPricePerM2": 3900,
-    "initialPrice": 195000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-20",
-        "price": 195000,
-        "pricePerM2": 3900
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-20T08:59:29.131Z",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-96825336200067",
     "source": "otodom",
     "sourceId": "96825336200067",
@@ -89887,40 +87069,6 @@
         "date": "2026-09-20",
         "price": 950000,
         "pricePerM2": 7037.04
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-20T08:59:29.131Z",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-96816938500067",
-    "source": "otodom",
-    "sourceId": "96816938500067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-klimatem-3092-m-koniec-wsi-duzy-potencjal-ID4C1Yd",
-    "propertyType": "house",
-    "title": "Siedlisko z klimatem | 3092 m² | Koniec wsi | Duży potencjał",
-    "voivodeship": "lubelskie",
-    "county": "tomaszowski",
-    "city": "Dąbrowa",
-    "coordinates": {
-      "lat": 53.652589311257174,
-      "lng": 23.356137625689605
-    },
-    "isNearBorder": true,
-    "areaM2": 132,
-    "plotAreaM2": 3092,
-    "currentPrice": 300000,
-    "currentPricePerM2": 2272.73,
-    "initialPrice": 300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-20",
-        "price": 300000,
-        "pricePerM2": 2272.73
       }
     ],
     "status": "active",
@@ -90349,41 +87497,6 @@
     "lastSeenAt": "2026-09-19T08:27:57.998Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxubWdrbDZxY2d4cy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.JK-JAh7P04_k0GouWzIEc70crmmYOlgfuGP5la1A0Nc/image;s=655x491;q=80",
     "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68191090",
-    "source": "otodom",
-    "sourceId": "68191090",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-dzialka-pow-2-85ha-z-mpzp-debiny-ID4C7Ci",
-    "propertyType": "house",
-    "title": "Siedlisko, działka pow.2,85ha z MPZP Dębiny",
-    "voivodeship": "lubelskie",
-    "county": "opolski",
-    "city": "Dębiny",
-    "coordinates": {
-      "lat": 51.24970819485235,
-      "lng": 22.565504956637355
-    },
-    "isNearBorder": false,
-    "areaM2": 28565,
-    "plotAreaM2": 28900,
-    "currentPrice": 549000,
-    "currentPricePerM2": 19.22,
-    "initialPrice": 549000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 549000,
-        "pricePerM2": 19.22
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-08T12:33:17.000Z",
-    "lastSeenAt": "2026-09-19T08:27:57.998Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpoMGhtYzA3c3hxejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.W6uhO7H_13DpEipoNFrWiPYVD-LrF2OlZrVBggFd1p8/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "adresowo-4198146",
@@ -90893,40 +88006,6 @@
         "date": "2026-09-19",
         "price": 699000,
         "pricePerM2": 7234.53
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-19T08:27:57.998Z",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-96837475800067",
-    "source": "otodom",
-    "sourceId": "96837475800067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-spokojna-wies-w-przepieknej-okolicy-ID4CToG",
-    "propertyType": "house",
-    "title": "Siedlisko - spokojna wieś w przepięknej okolicy!",
-    "voivodeship": "lubelskie",
-    "county": "lubartowski",
-    "city": "Trzciniec",
-    "coordinates": {
-      "lat": 51.23926382261431,
-      "lng": 22.569517460354596
-    },
-    "isNearBorder": false,
-    "areaM2": 100,
-    "plotAreaM2": 16000,
-    "currentPrice": 329000,
-    "currentPricePerM2": 3290,
-    "initialPrice": 329000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-19",
-        "price": 329000,
-        "pricePerM2": 3290
       }
     ],
     "status": "active",
@@ -91555,41 +88634,6 @@
     "county": "chełmski"
   },
   {
-    "id": "otodom-68337691",
-    "source": "otodom",
-    "sourceId": "68337691",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-uhrusk-70m2-siedlisko-0-66-ha-ID4CJKP",
-    "propertyType": "house",
-    "title": "Dom UHRUSK 70m2  Siedlisko 0.66 ha",
-    "voivodeship": "lubelskie",
-    "county": "włodawski",
-    "city": "Uhrusk",
-    "coordinates": {
-      "lat": 51.24701501053184,
-      "lng": 22.561708237326272
-    },
-    "isNearBorder": true,
-    "areaM2": 72,
-    "plotAreaM2": 6500,
-    "currentPrice": 117000,
-    "currentPricePerM2": 1625,
-    "initialPrice": 117000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 117000,
-        "pricePerM2": 1625
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-21T12:57:07.000Z",
-    "lastSeenAt": "2026-09-18T08:40:31.710Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZpZnRyamZvYzd3ZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.a38JsWvYa5Al7zbsgs1oLZsikshUYtCDinzatFA1rE4/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68265434",
     "source": "otodom",
     "sourceId": "68265434",
@@ -92117,40 +89161,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-96811759600067",
-    "source": "otodom",
-    "sourceId": "96811759600067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-0-93-ha-30-min-od-lublina-dom-ID4BOuU",
-    "propertyType": "house",
-    "title": "Siedlisko 0,93 ha | 30 min od Lublina | Dom",
-    "voivodeship": "lubelskie",
-    "county": "lubelski",
-    "city": "Walentynów",
-    "coordinates": {
-      "lat": 51.24775300213692,
-      "lng": 22.56707044075246
-    },
-    "isNearBorder": false,
-    "areaM2": 60,
-    "plotAreaM2": 9276,
-    "currentPrice": 515000,
-    "currentPricePerM2": 8583.33,
-    "initialPrice": 515000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-18",
-        "price": 515000,
-        "pricePerM2": 8583.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-18T08:40:31.710Z",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-96810524300067",
     "source": "otodom",
     "sourceId": "96810524300067",
@@ -92486,40 +89496,6 @@
         "date": "2026-09-18",
         "price": 649000,
         "pricePerM2": 2977.06
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-18T08:40:31.710Z",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-96703232400067",
-    "source": "otodom",
-    "sourceId": "96703232400067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-jablonnie-15-min-od-lublina-murowany-pietrowy-dom-ID4xgav",
-    "propertyType": "house",
-    "title": "Siedlisko w Jabłonnie, 15 min. od Lublina, murowany piętrowy dom",
-    "voivodeship": "lubelskie",
-    "county": "lubelski",
-    "city": "Jabłonna Druga",
-    "coordinates": {
-      "lat": 51.252952325233565,
-      "lng": 22.56801607740294
-    },
-    "isNearBorder": false,
-    "areaM2": 160,
-    "plotAreaM2": 3067,
-    "currentPrice": 699000,
-    "currentPricePerM2": 4368.75,
-    "initialPrice": 699000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-18",
-        "price": 699000,
-        "pricePerM2": 4368.75
       }
     ],
     "status": "active",
@@ -92971,40 +89947,6 @@
     "firstSeenAt": "1999-02-28T23:00:01.000Z",
     "lastSeenAt": "2026-09-17T22:21:24.948Z",
     "isDirectOwner": true
-  },
-  {
-    "id": "otodom-96827384800067",
-    "source": "otodom",
-    "sourceId": "96827384800067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/lesniczowka-z-dusza-na-sprzedaz-ID4Ct96",
-    "propertyType": "house",
-    "title": "Leśniczówka z duszą na sprzedaż",
-    "voivodeship": "lubelskie",
-    "county": "biłgorajski",
-    "city": "Panasówka",
-    "coordinates": {
-      "lat": 51.25280665761631,
-      "lng": 22.559898487862927
-    },
-    "isNearBorder": true,
-    "areaM2": 315,
-    "plotAreaM2": 2100,
-    "currentPrice": 1199000,
-    "currentPricePerM2": 3806.35,
-    "initialPrice": 1199000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1199000,
-        "pricePerM2": 3806.35
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-02-28T23:00:01.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-96803411900067",
@@ -93837,41 +90779,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68025278",
-    "source": "otodom",
-    "sourceId": "68025278",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-inwestycja-1-62ha-ID4BqtU",
-    "propertyType": "house",
-    "title": "Siedlisko, inwestycja, 1.62ha",
-    "voivodeship": "lubelskie",
-    "county": "łęczyński",
-    "city": "Kijany",
-    "coordinates": {
-      "lat": 51.25009224024797,
-      "lng": 22.570866678544157
-    },
-    "isNearBorder": false,
-    "areaM2": 16200,
-    "plotAreaM2": 16200,
-    "currentPrice": 455000,
-    "currentPricePerM2": 28.09,
-    "initialPrice": 455000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 455000,
-        "pricePerM2": 28.09
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-20T07:28:18.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdqYzNoa2h3bWcyNzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.79zbinM6cef6zonjOgrbVNL0xwHbk362fNybydq6-6Y/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-96805985000067",
     "source": "otodom",
     "sourceId": "96805985000067",
@@ -94189,41 +91096,6 @@
     "firstSeenAt": "2026-05-18T14:45:50.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNkbTFvaG9lYmtvMDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KMGROqCt3fiwuzS-WdRNuENmv-Y9CGJI203viSarbgQ/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68016727",
-    "source": "otodom",
-    "sourceId": "68016727",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-dom-54-m2-28-arow-kurmanow-bialopole-ID4BofZ",
-    "propertyType": "house",
-    "title": "Siedlisko/Dom 54 m2/ 28 arów/Kurmanów/Białopole",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Kurmanów",
-    "coordinates": {
-      "lat": 51.24978456591299,
-      "lng": 22.561339247046746
-    },
-    "isNearBorder": true,
-    "areaM2": 54,
-    "plotAreaM2": 2793,
-    "currentPrice": 99000,
-    "currentPricePerM2": 1833.33,
-    "initialPrice": 99000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 99000,
-        "pricePerM2": 1833.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-18T12:20:14.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpoZzU4NXIxaHYyMTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.h3x8F2VJpFGlg1HDeOD1r_tum0Fi4RDpYh93cuXx3dY/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -94720,41 +91592,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-68007721",
-    "source": "otodom",
-    "sourceId": "68007721",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-44-a-w-ozarowie-gm-jastkow-lubelskie-ID4BlUJ",
-    "propertyType": "house",
-    "title": "Siedlisko 44 a w Ożarowie gm. Jastków (lubelskie).",
-    "voivodeship": "lubelskie",
-    "county": "lubelski",
-    "city": "Ożarów",
-    "coordinates": {
-      "lat": 51.25007621854194,
-      "lng": 22.57802180393801
-    },
-    "isNearBorder": false,
-    "areaM2": 114,
-    "plotAreaM2": 4300,
-    "currentPrice": 730000,
-    "currentPricePerM2": 6403.51,
-    "initialPrice": 730000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 730000,
-        "pricePerM2": 6403.51
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-15T08:01:54.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN0eDJ3c2RwZTRyOC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.8XVatWiaaJo4GW0JiKLZcgcsC96AGYwt6BW-kJoQZ6o/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67938650",
     "source": "otodom",
     "sourceId": "67938650",
@@ -94824,42 +91661,6 @@
     "firstSeenAt": "2026-05-14T12:01:59.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink3OTlyZWZjb2hrdS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.FaP95KL1kyycURTvP_QwaFuupURXbPTZQw-8M6hYNAk/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68003970",
-    "source": "otodom",
-    "sourceId": "68003970",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/malownicze-siedlisko-w-zawieprzycach-kolonii-g-s-ID4BkVe",
-    "propertyType": "house",
-    "title": "Malownicze siedlisko w Zawieprzycach-Kolonii, g. S",
-    "voivodeship": "lubelskie",
-    "county": "łęczyński",
-    "city": "Zawieprzyce-Kolonia",
-    "street": "os. Kolonia Trębaczów",
-    "coordinates": {
-      "lat": 51.24965962817112,
-      "lng": 22.558987138426065
-    },
-    "isNearBorder": false,
-    "areaM2": 120,
-    "plotAreaM2": 16200,
-    "currentPrice": 495000,
-    "currentPricePerM2": 4125,
-    "initialPrice": 495000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 495000,
-        "pricePerM2": 4125
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-14T10:16:40.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFxeWlvNTFxazRvODEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7noVUXNNFZ5oe0PSMyxSNn-wCKaOE7ojFAq2Kk9OWO8/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -95004,41 +91805,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67939246",
-    "source": "otodom",
-    "sourceId": "67939246",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-3931-m2-skowieszynek-kazimierz-dolny-ID4B46i",
-    "propertyType": "house",
-    "title": "Siedlisko 3931 m2  Skowieszynek  Kazimierz Dolny.",
-    "voivodeship": "lubelskie",
-    "county": "puławski",
-    "city": "Skowieszynek",
-    "coordinates": {
-      "lat": 51.24394089392916,
-      "lng": 22.571608282001264
-    },
-    "isNearBorder": false,
-    "areaM2": 100,
-    "plotAreaM2": 3931,
-    "currentPrice": 1190000,
-    "currentPricePerM2": 11900,
-    "initialPrice": 1190000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 1190000,
-        "pricePerM2": 11900
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-13T11:43:09.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im12dTVtNnBwZGhoazMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Rkwnq9CFYwhZjqY__hEp5p0xFsiFbYI5TYFUzLo0-m0/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68000360",
     "source": "otodom",
     "sourceId": "68000360",
@@ -95142,42 +91908,6 @@
     "firstSeenAt": "2026-05-12T16:00:38.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ind5bGEzMXY2MDlocS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.nVkYt5nv4kYDc67Q8Xl0Xq2MWcA6TPryUwC4KsZdklE/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67996121",
-    "source": "otodom",
-    "sourceId": "67996121",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/rustykalne-siedlisko-z-budynkiem-gosp-2014m2-ID4BiTD",
-    "propertyType": "house",
-    "title": "Rustykalne siedlisko z budynkiem gosp., 2014m2",
-    "voivodeship": "lubelskie",
-    "county": "radzyński",
-    "city": "Czemierniki - miasto",
-    "street": "ul. Kasztanowa",
-    "coordinates": {
-      "lat": 51.25267089311738,
-      "lng": 22.576703182830716
-    },
-    "isNearBorder": false,
-    "areaM2": 85.8,
-    "plotAreaM2": 2014,
-    "currentPrice": 248000,
-    "currentPricePerM2": 2890.44,
-    "initialPrice": 248000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 248000,
-        "pricePerM2": 2890.44
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-12T09:44:16.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU4eTFhc3M5YzF1NzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.BpG6I-dD2mKQXGqXCf45bZy3-wWOHVcopJCRGfYl8Fs/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -95355,41 +92085,6 @@
     "firstSeenAt": "2026-05-10T15:38:06.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcwbHRjdGoyMTl3cDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.c2299DlV6V3jymCG8EY7G2StlLcUon3NhFJpcidyU6g/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67989337",
-    "source": "otodom",
-    "sourceId": "67989337",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowe-siedlisko-na-roztoczu-ID4Bh8d",
-    "propertyType": "house",
-    "title": "Wyjątkowe siedlisko na roztoczu",
-    "voivodeship": "lubelskie",
-    "county": "zamojski",
-    "city": "Żurawnica",
-    "coordinates": {
-      "lat": 51.253798433148525,
-      "lng": 22.563540588844447
-    },
-    "isNearBorder": true,
-    "areaM2": 50,
-    "plotAreaM2": 334,
-    "currentPrice": 255000,
-    "currentPricePerM2": 5100,
-    "initialPrice": 255000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 255000,
-        "pricePerM2": 5100
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-10T13:13:38.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InB2YmIydmx1ZXBhZjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.TddasAbiUfts89qWMAdLAFUFHYU1HdaJ2Pldcktqft0/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -95854,76 +92549,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67966608",
-    "source": "otodom",
-    "sourceId": "67966608",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-gminie-nielisz-5-km-od-zalewu-ID4BbdC",
-    "propertyType": "house",
-    "title": "Siedlisko w Gminie Nielisz - 5 km od zalewu",
-    "voivodeship": "lubelskie",
-    "county": "zamojski",
-    "city": "Średnie Małe",
-    "coordinates": {
-      "lat": 51.25021616604506,
-      "lng": 22.575873908951014
-    },
-    "isNearBorder": true,
-    "areaM2": 60,
-    "plotAreaM2": 1100,
-    "currentPrice": 99000,
-    "currentPricePerM2": 1650,
-    "initialPrice": 99000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 99000,
-        "pricePerM2": 1650
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-04T07:03:36.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZjMXk0eDBuZDkzOTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PVNI9HXkYv0_UwX7dbn_1fOgCaRdo0v7-CofnT7IUDQ/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67963548",
-    "source": "otodom",
-    "sourceId": "67963548",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-sielcu-stworz-tu-swoje-miejsce-ID4Baqg",
-    "propertyType": "house",
-    "title": "Siedlisko w Sielcu – stwórz tu swoje miejsce",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Sielec",
-    "coordinates": {
-      "lat": 51.249059796204406,
-      "lng": 22.562059897696837
-    },
-    "isNearBorder": true,
-    "areaM2": 50,
-    "plotAreaM2": 5000,
-    "currentPrice": 184000,
-    "currentPricePerM2": 3680,
-    "initialPrice": 184000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 184000,
-        "pricePerM2": 3680
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-05-01T14:27:34.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF2bGUzejk1eXBmMi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.gmr8OnPv3kO78fmaaUH0HahDVK71UWbBwvRfvrNP3gI/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67963545",
     "source": "otodom",
     "sourceId": "67963545",
@@ -96171,42 +92796,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67957208",
-    "source": "otodom",
-    "sourceId": "67957208",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-200-m-stodola-190-m-0-45-ha-12-min-od-kazimierza-ID4B8M0",
-    "propertyType": "house",
-    "title": "Siedlisko 200 m² | stodoła 190 m² | 0,45 ha | 12 min od Kazimierza...",
-    "voivodeship": "lubelskie",
-    "county": "puławski",
-    "city": "Kazimierz Dolny",
-    "street": "Puławska",
-    "coordinates": {
-      "lat": 51.248180688037266,
-      "lng": 22.568414624621656
-    },
-    "isNearBorder": false,
-    "areaM2": 200,
-    "plotAreaM2": 4500,
-    "currentPrice": 549000,
-    "currentPricePerM2": 2745,
-    "initialPrice": 549000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 549000,
-        "pricePerM2": 2745
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-04-29T15:07:09.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM2NnUxMTBtNXMwZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ekrspb47pzNBKUD2Ir99GHPsJ3kLJcmC3LcgGTJa3M0/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67956752",
     "source": "otodom",
     "sourceId": "67956752",
@@ -96345,41 +92934,6 @@
     "firstSeenAt": "2026-04-28T09:55:45.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijlob2kzZXJ5NjlnOS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.CCMjWufTPtTWupVKxeRv5jid0NZ2APX_q_2rHSCvC5I/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67950675",
-    "source": "otodom",
-    "sourceId": "67950675",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwe-siedlisko-nad-bugiem-derlo-gm-rokitno-ID4B74D",
-    "propertyType": "house",
-    "title": "Urokliwe siedlisko nad Bugiem – Derło, gm. Rokitno",
-    "voivodeship": "lubelskie",
-    "county": "bialski",
-    "city": "Derło",
-    "coordinates": {
-      "lat": 51.24002687198396,
-      "lng": 22.56428225927953
-    },
-    "isNearBorder": true,
-    "areaM2": 60,
-    "plotAreaM2": 1426,
-    "currentPrice": 229000,
-    "currentPricePerM2": 3816.67,
-    "initialPrice": 229000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 229000,
-        "pricePerM2": 3816.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-04-28T06:05:42.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxraGJjMnRva2g2YzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Egx6yj8j70Z3Vm0nw_HtICppZHJDkMZOfkM9Hmq6JNQ/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -96842,41 +93396,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRpb2Y5ajhybmp1djItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.erQJcewEPoU92sr6UR5Tigj3vbwoljj67ipcV295jHg/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "chełmski"
-  },
-  {
-    "id": "otodom-67937092",
-    "source": "otodom",
-    "sourceId": "67937092",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-potencjalem-dom-i-grunty-rolne-ok-5-h-ID4B3xy",
-    "propertyType": "house",
-    "title": "Siedlisko z potencjałem-dom i grunty rolne ok. 5 h",
-    "voivodeship": "lubelskie",
-    "county": "bialski",
-    "city": "Ortel Królewski Drugi",
-    "coordinates": {
-      "lat": 51.247390093603414,
-      "lng": 22.564375203520267
-    },
-    "isNearBorder": true,
-    "areaM2": 80,
-    "plotAreaM2": 48617,
-    "currentPrice": 410000,
-    "currentPricePerM2": 5125,
-    "initialPrice": 410000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 410000,
-        "pricePerM2": 5125
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-04-23T12:10:51.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUxenFxdDRhdTlnMjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lIK0obkGCjgCzce0VArsgoO-vAV0pbPn6thzAM9wCKg/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-67937082",
@@ -97623,41 +94142,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67928028",
-    "source": "otodom",
-    "sourceId": "67928028",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-na-sprzedaz-gm-garbow-janow-ID4B1bm",
-    "propertyType": "house",
-    "title": "Siedlisko na sprzedaż gm. Garbów -Janów",
-    "voivodeship": "lubelskie",
-    "county": "lubelski",
-    "city": "Janów",
-    "coordinates": {
-      "lat": 50.7097941840656,
-      "lng": 22.409555862172205
-    },
-    "isNearBorder": false,
-    "areaM2": 80,
-    "plotAreaM2": 2800,
-    "currentPrice": 270000,
-    "currentPricePerM2": 3375,
-    "initialPrice": 270000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 270000,
-        "pricePerM2": 3375
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-04-21T09:38:17.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV2bjViOHY2bmxhYS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.DXVRpgi5LTwd50p1yV5nOOGAMyT11cU7LrkQv2KArbo/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67925540",
     "source": "otodom",
     "sourceId": "67925540",
@@ -98115,41 +94599,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67892616",
-    "source": "otodom",
-    "sourceId": "67892616",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-3000-m2-w-boiskach-gm-solec-nad-wisla-ID4ARYc",
-    "propertyType": "house",
-    "title": "Siedlisko 3000 m2 w Boiskach gm. Solec nad Wisłą.",
-    "voivodeship": "lubelskie",
-    "county": "lipski",
-    "city": "Boiska",
-    "coordinates": {
-      "lat": 51.24740293555777,
-      "lng": 22.56264330842545
-    },
-    "isNearBorder": false,
-    "areaM2": 45,
-    "plotAreaM2": 3100,
-    "currentPrice": 195000,
-    "currentPricePerM2": 4333.33,
-    "initialPrice": 195000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 195000,
-        "pricePerM2": 4333.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-04-10T08:34:18.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVhc3psbnA4MThqNzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.u8d2f3DQRvAgrRzColZ-vYTbjDcICnl54MLfT8Ea5YI/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67891351",
     "source": "otodom",
     "sourceId": "67891351",
@@ -98289,41 +94738,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjA2bW5hNXdmcmJhNTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kqi0Gxfs1GXPT7QWpYnyJKXvvuRGHpVmvH-beC40GIA/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "chełmski"
-  },
-  {
-    "id": "otodom-67810911",
-    "source": "otodom",
-    "sourceId": "67810911",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-siedlisko-w-urokliwym-miejscu-dzialka-29a-wierzchowiska-ID4AvIn",
-    "propertyType": "house",
-    "title": "Dom Siedlisko w urokliwym miejscu działka 29a, Wierzchowiska",
-    "voivodeship": "lubelskie",
-    "county": "janowski",
-    "city": "Wierzchowiska Pierwsze",
-    "coordinates": {
-      "lat": 51.241373400426944,
-      "lng": 22.57453437294797
-    },
-    "isNearBorder": false,
-    "areaM2": 220,
-    "plotAreaM2": 2900,
-    "currentPrice": 279000,
-    "currentPricePerM2": 1268.18,
-    "initialPrice": 279000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 279000,
-        "pricePerM2": 1268.18
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-04-07T10:17:37.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndpaDI4dmY5N2k4MDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.STipzYEaLaDcvEGYsaqDRiCL8dsLCBMtUQcjt6WlCBs/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-67704913",
@@ -98641,41 +95055,6 @@
     "firstSeenAt": "2026-03-30T11:52:12.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ2OHp3dHF4N292NzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zSy2AeMa73CbcJVxvpChYzl95KXke0XLCHPwf_BBh1g/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67854820",
-    "source": "otodom",
-    "sourceId": "67854820",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-lasem-15min-od-chelma-ID4AI8A",
-    "propertyType": "house",
-    "title": "Siedlisko z lasem - 15min od Chełma!",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Ruda-Kolonia",
-    "coordinates": {
-      "lat": 51.24260721572135,
-      "lng": 22.564636625768113
-    },
-    "isNearBorder": true,
-    "areaM2": 40,
-    "plotAreaM2": 9505,
-    "currentPrice": 138000,
-    "currentPricePerM2": 3450,
-    "initialPrice": 138000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 138000,
-        "pricePerM2": 3450
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-03-28T14:44:30.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR3MXl6NmFnM3F4YzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.NIKOZyDZLIstCF8KGGAO5tPCPohNbOZ7qRlPTsK3dcU/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -99064,41 +95443,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67849964",
-    "source": "otodom",
-    "sourceId": "67849964",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/ucieknij-od-miasta-siedlisko-z-lasem-domem-i-domkiem-letniskowym-ID4AGSg",
-    "propertyType": "house",
-    "title": "Ucieknij od miasta- siedlisko z lasem, domem i domkiem letniskowym",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Wólka Rejowiecka",
-    "coordinates": {
-      "lat": 51.25005034776015,
-      "lng": 22.569590580773223
-    },
-    "isNearBorder": true,
-    "areaM2": 44.5,
-    "plotAreaM2": 7000,
-    "currentPrice": 199000,
-    "currentPricePerM2": 4471.91,
-    "initialPrice": 199000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 199000,
-        "pricePerM2": 4471.91
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-03-26T19:33:19.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhwN3JobjB0cG9zdS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.oldsi2KhRhjobWEx0YTxNCdD_Fu-75kAwmdfbAXHm9k/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-96790752000067",
     "source": "otodom",
     "sourceId": "96790752000067",
@@ -99202,76 +95546,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdkbWRrMHA3dGFvejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2J0dQkUNjCNvV1155k6sOAOFoVDss_Ev1c5WUdAn9N0/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "lubelski"
-  },
-  {
-    "id": "otodom-67840888",
-    "source": "otodom",
-    "sourceId": "67840888",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowe-siedlisko-w-pustelniku-39-arow-gmina-ID4AEwS",
-    "propertyType": "house",
-    "title": "Wyjątkowe Siedlisko W Pustelniku, 39 arów, Gmina",
-    "voivodeship": "lubelskie",
-    "county": "lubelski",
-    "city": "Pustelnik",
-    "coordinates": {
-      "lat": 51.242013971620636,
-      "lng": 22.56890907550865
-    },
-    "isNearBorder": false,
-    "areaM2": 200,
-    "plotAreaM2": 3955,
-    "currentPrice": 390000,
-    "currentPricePerM2": 1950,
-    "initialPrice": 390000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 390000,
-        "pricePerM2": 1950
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-03-24T15:26:05.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhvZDE2N3NycndiZy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.SwGwfYPBZe-GQ1fJ97qnnZPCUtQNP2NgyUbDeJN7_LU/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67665462",
-    "source": "otodom",
-    "sourceId": "67665462",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/podlasie-urocze-siedlisko-ze-stajnia-ID4zUSq",
-    "propertyType": "house",
-    "title": "Podlasie, urocze siedlisko ze stajnią",
-    "voivodeship": "lubelskie",
-    "county": "bialski",
-    "city": "Kajetanka",
-    "coordinates": {
-      "lat": 51.24191495415589,
-      "lng": 22.563581763073497
-    },
-    "isNearBorder": true,
-    "areaM2": 180,
-    "plotAreaM2": 28140,
-    "currentPrice": 660000,
-    "currentPricePerM2": 3666.67,
-    "initialPrice": 660000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 660000,
-        "pricePerM2": 3666.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-03-24T09:46:27.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRtcms4dmkwMnRldDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nXBdvg895GijkJ3820a2-DCLiHdUWb04UIg3d1tDKtQ/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-67837477",
@@ -99415,41 +95689,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67817931",
-    "source": "otodom",
-    "sourceId": "67817931",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/duzy-dom-z-siedliskiem-mokre-powiat-bialski-ID4AyxB",
-    "propertyType": "house",
-    "title": "Duży dom z siedliskiem, Mokre, powiat bialski",
-    "voivodeship": "lubelskie",
-    "county": "bialski",
-    "city": "Mokre",
-    "coordinates": {
-      "lat": 51.24145031893777,
-      "lng": 22.56623936198403
-    },
-    "isNearBorder": true,
-    "areaM2": 200,
-    "plotAreaM2": 14500,
-    "currentPrice": 485000,
-    "currentPricePerM2": 2425,
-    "initialPrice": 485000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 485000,
-        "pricePerM2": 2425
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-03-18T07:53:53.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5rZm9zbng3bGN5MjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Epv7hi8Sr_0p4DhWOkTLoyS91pSmXUC_l0WMSGL9Hnk/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67816054",
     "source": "otodom",
     "sourceId": "67816054",
@@ -99482,41 +95721,6 @@
     "firstSeenAt": "2026-03-17T14:28:24.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inl4YmN2eTNycTA1aDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gJu6Gw142gDlpKP6NyxJ8_NMPNlbIuxV_n9T5ZkUfA0/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67815596",
-    "source": "otodom",
-    "sourceId": "67815596",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-siedlisko-70-m2-dz-32-ary-gm-siennica-rozana-ID4AxWV",
-    "propertyType": "house",
-    "title": "Dom/Siedlisko/70 m2/dz. 32 ary/gm. Siennica Różana",
-    "voivodeship": "lubelskie",
-    "county": "krasnostawski",
-    "city": "Stójło",
-    "coordinates": {
-      "lat": 51.25068335843606,
-      "lng": 22.562243542744202
-    },
-    "isNearBorder": true,
-    "areaM2": 80,
-    "plotAreaM2": 3201,
-    "currentPrice": 129999,
-    "currentPricePerM2": 1624.99,
-    "initialPrice": 129999,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 129999,
-        "pricePerM2": 1624.99
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-03-17T13:20:24.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjYyN2ZicHRvMmNrei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.lldduHTklDacTKdqYnRrYz7j9UH8SWFcUNbAQwuN6dA/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -99733,41 +95937,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67791389",
-    "source": "otodom",
-    "sourceId": "67791389",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/malownicze-siedlisko-przy-lesie-jaroslawiec-ID4ArDw",
-    "propertyType": "house",
-    "title": "Malownicze siedlisko przy lesie | Jarosławiec",
-    "voivodeship": "lubelskie",
-    "county": "hrubieszowski",
-    "city": "Jarosławiec",
-    "coordinates": {
-      "lat": 50.01560622954465,
-      "lng": 22.687278785972815
-    },
-    "isNearBorder": true,
-    "areaM2": 100,
-    "plotAreaM2": 4945,
-    "currentPrice": 395000,
-    "currentPricePerM2": 3950,
-    "initialPrice": 395000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 395000,
-        "pricePerM2": 3950
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-03-10T12:35:23.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjI4b2xjaHJ5dW9nZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.7oBJTEuFnmv4WvgcS1dnwY3_XbrIl5Ox9nqoYlz4xlw/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67787333",
     "source": "otodom",
     "sourceId": "67787333",
@@ -99836,41 +96005,6 @@
     "firstSeenAt": "2026-03-09T13:42:58.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1tNndybWhvbHQxdTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.AzAaJXM-sYPu7AoIvldwgvR9eMoCGYjLOh8ho3yMKtc/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67784759",
-    "source": "otodom",
-    "sourceId": "67784759",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-zagrodzie-dom-domek-twoje-miejsce-na-ziemi-ID4ApUz",
-    "propertyType": "house",
-    "title": "Siedlisko w Zagrodzie - dom, domek, Twoje miejsce na ziemi",
-    "voivodeship": "lubelskie",
-    "county": "krasnostawski",
-    "city": "Zagroda",
-    "coordinates": {
-      "lat": 51.23918235997301,
-      "lng": 22.573274963164216
-    },
-    "isNearBorder": true,
-    "areaM2": 90.5,
-    "plotAreaM2": 3678,
-    "currentPrice": 239000,
-    "currentPricePerM2": 2640.88,
-    "initialPrice": 239000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 239000,
-        "pricePerM2": 2640.88
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-03-08T21:08:26.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhvNHYxZTl4Y2h3ejEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cWGch4NXCnRq_h5-CAj48WVCI7Y86DcWMX1l-85GB8I/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -101036,41 +97170,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67730406",
-    "source": "otodom",
-    "sourceId": "67730406",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-1-ha-chodlik-dom-budynki-ID4AbLU",
-    "propertyType": "house",
-    "title": "Gospodarstwo rolne 1 ha | Chodlik | dom | budynki",
-    "voivodeship": "lubelskie",
-    "county": "opolski",
-    "city": "Chodlik",
-    "coordinates": {
-      "lat": 51.24624676863127,
-      "lng": 22.576264812587027
-    },
-    "isNearBorder": false,
-    "areaM2": 11600,
-    "plotAreaM2": 180,
-    "currentPrice": 299000,
-    "currentPricePerM2": 25.78,
-    "initialPrice": 299000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 299000,
-        "pricePerM2": 25.78
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-02-19T16:51:13.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlzeWduZGN4aDllcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Wccuz3Jztdc5JlOY1KaiRuKyZDvs-Tv_GDglIYsxUWQ/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67728799",
     "source": "otodom",
     "sourceId": "67728799",
@@ -101950,41 +98049,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67611409",
-    "source": "otodom",
-    "sourceId": "67611409",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-60-m2-dzialka-3644-m2-kitow-ID4zGOB",
-    "propertyType": "house",
-    "title": "Siedlisko 60 m2, działka 3644 m2; Kitów",
-    "voivodeship": "lubelskie",
-    "county": "zamojski",
-    "city": "Kitów",
-    "coordinates": {
-      "lat": 51.25370434648016,
-      "lng": 22.566913316418784
-    },
-    "isNearBorder": true,
-    "areaM2": 60,
-    "plotAreaM2": 3644,
-    "currentPrice": 140000,
-    "currentPricePerM2": 2333.33,
-    "initialPrice": 140000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 140000,
-        "pricePerM2": 2333.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-01-15T09:44:26.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhhcGs1dml5dng4MTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.IIkgQRGgKsuJ8cB3wj-dzEnzAI7hyiE6ZjNHdwfR44c/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67601760",
     "source": "otodom",
     "sourceId": "67601760",
@@ -102269,41 +98333,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67567093",
-    "source": "otodom",
-    "sourceId": "67567093",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-nad-wisla-w-gminie-maciejowice-murowany-dom-duza-dzialka-ID4zwhP",
-    "propertyType": "house",
-    "title": "Siedlisko nad Wisłą w gminie Maciejowice | Murowany dom, duża działka",
-    "voivodeship": "lubelskie",
-    "county": "garwoliński",
-    "city": "Wróble-Wargocin",
-    "coordinates": {
-      "lat": 51.24685038678147,
-      "lng": 22.570820522432914
-    },
-    "isNearBorder": false,
-    "areaM2": 80,
-    "plotAreaM2": 8668,
-    "currentPrice": 279900,
-    "currentPricePerM2": 3498.75,
-    "initialPrice": 279900,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 279900,
-        "pricePerM2": 3498.75
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-12-29T12:15:36.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFpOGZsbjc2Y3M0Zy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.4n0ZCiYYe-1zSuARX-wpqvoKqkP9lDT_dO1C9k3dELw/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-66964010",
     "source": "otodom",
     "sourceId": "66964010",
@@ -102375,41 +98404,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67556716",
-    "source": "otodom",
-    "sourceId": "67556716",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-duza-dzialka-20-min-od-zamoscia-ID4zsAs",
-    "propertyType": "house",
-    "title": "Siedlisko z dużą działką – 20 min od Zamościa",
-    "voivodeship": "lubelskie",
-    "county": "zamojski",
-    "city": "Drewniki",
-    "coordinates": {
-      "lat": 51.241904043487295,
-      "lng": 22.562895898610122
-    },
-    "isNearBorder": true,
-    "areaM2": 160,
-    "plotAreaM2": 5156,
-    "currentPrice": 365000,
-    "currentPricePerM2": 2281.25,
-    "initialPrice": 365000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 365000,
-        "pricePerM2": 2281.25
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-12-22T08:12:57.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJ0Y3I4ZXpqeDJ3NTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kpfasVlkpIsoYPoNACZIpxVbUTf3q9Nm1dGHHEjoOcg/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67219747",
     "source": "otodom",
     "sourceId": "67219747",
@@ -102442,41 +98436,6 @@
     "firstSeenAt": "2025-12-21T08:56:12.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndmeXNhaXZram9yZy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.vGHtmL1CyruF-L3tNeuihcdCk-Hu6hQZhwEr30PnCGM/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67537850",
-    "source": "otodom",
-    "sourceId": "67537850",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-na-roztoczu-gmina-susiec-ID4znGa",
-    "propertyType": "house",
-    "title": "Siedlisko na Roztoczu, gmina Susiec",
-    "voivodeship": "lubelskie",
-    "county": "tomaszowski",
-    "city": "Maziły",
-    "coordinates": {
-      "lat": 51.23930658425891,
-      "lng": 22.562837788473875
-    },
-    "isNearBorder": true,
-    "areaM2": 112.6,
-    "plotAreaM2": 1971,
-    "currentPrice": 250000,
-    "currentPricePerM2": 2220.25,
-    "initialPrice": 250000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 250000,
-        "pricePerM2": 2220.25
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-12-17T08:55:26.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF0dXFtYXhoNnViejEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.U5ITwUrGNRlAZYEfvFW-f5tqo-tz2GdstV5soPSr8i4/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -102692,41 +98651,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67495993",
-    "source": "otodom",
-    "sourceId": "67495993",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-przy-naleczowie-4-5-ha-ID4zcN3",
-    "propertyType": "house",
-    "title": "Siedlisko przy Nałęczowie 4,5 ha.",
-    "voivodeship": "lubelskie",
-    "county": "puławski",
-    "city": "Chruszczów-Kolonia",
-    "coordinates": {
-      "lat": 51.24357208667487,
-      "lng": 22.55915281715351
-    },
-    "isNearBorder": false,
-    "areaM2": 150,
-    "plotAreaM2": 45200,
-    "currentPrice": 679000,
-    "currentPricePerM2": 4526.67,
-    "initialPrice": 679000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 679000,
-        "pricePerM2": 4526.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-12-01T10:01:34.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImUwaG14ODU1ZnJ2bi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.jYDRFrT9QNHPIzF66mFQh14HY3ltmfZCr8n4oygpvAk/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67488036",
     "source": "otodom",
     "sourceId": "67488036",
@@ -102899,41 +98823,6 @@
     "firstSeenAt": "2025-11-24T18:35:48.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink1YnhmOWFnNXptaDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._J2KNz4aBypEa5tjFf8TH_LwAHek3AtRgSpUxMGjQq4/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67463608",
-    "source": "otodom",
-    "sourceId": "67463608",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-dzialka-22a-pod-lublinem-ID4z4mI",
-    "propertyType": "house",
-    "title": "Siedlisko z działką 22a pod Lublinem",
-    "voivodeship": "lubelskie",
-    "county": "lubelski",
-    "city": "Majdan Mętowski",
-    "coordinates": {
-      "lat": 51.25373207323539,
-      "lng": 22.568156897124286
-    },
-    "isNearBorder": false,
-    "areaM2": 2200,
-    "plotAreaM2": 2200,
-    "currentPrice": 270000,
-    "currentPricePerM2": 122.73,
-    "initialPrice": 270000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 270000,
-        "pricePerM2": 122.73
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-11-20T08:47:09.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImsycG1kejB6MzQzejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.44YOo4TLorWB9YD6tkg38ldB_KSS61SaCHZVCcbx8Kk/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -103251,41 +99140,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67425786",
-    "source": "otodom",
-    "sourceId": "67425786",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwe-siedlisko-na-55-arowej-dzialce-hruszow-ID4yUvG",
-    "propertyType": "house",
-    "title": "Urokliwe siedlisko na 55-arowej działce - Hruszów",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Hruszów",
-    "coordinates": {
-      "lat": 51.23917837888018,
-      "lng": 22.564016891391937
-    },
-    "isNearBorder": true,
-    "areaM2": 77,
-    "plotAreaM2": 5486,
-    "currentPrice": 150000,
-    "currentPricePerM2": 1948.05,
-    "initialPrice": 150000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 150000,
-        "pricePerM2": 1948.05
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-11-07T12:04:07.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjViNHVzbmlkZG5jZTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.e-kxg38aMMnSohR-a5SP0ApoQvXMyWq2y2o36gqn7B0/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67424652",
     "source": "otodom",
     "sourceId": "67424652",
@@ -103534,41 +99388,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-67401422",
-    "source": "otodom",
-    "sourceId": "67401422",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/ladne-siedlisko-2866m2-z-domem-124m2-kijowiec-ID4yObI",
-    "propertyType": "house",
-    "title": "Ładne Siedlisko 2866m2 z domem 124m2 - Kijowiec",
-    "voivodeship": "lubelskie",
-    "county": "bialski",
-    "city": "Kijowiec",
-    "coordinates": {
-      "lat": 51.249112707445505,
-      "lng": 22.572251011609776
-    },
-    "isNearBorder": true,
-    "areaM2": 124,
-    "plotAreaM2": 2866,
-    "currentPrice": 257000,
-    "currentPricePerM2": 2072.58,
-    "initialPrice": 257000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 257000,
-        "pricePerM2": 2072.58
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-10-30T15:05:45.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjQ3NDdpbDdnMGR4ZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dQPOdANgBXDH0aoUcqQAv2wpLBRvAI3r7zmz0JfsoRo/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67401419",
     "source": "otodom",
     "sourceId": "67401419",
@@ -103671,41 +99490,6 @@
     "firstSeenAt": "2025-10-27T15:37:35.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQycWJ2aGdrYWExczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.14coUJOofbpdsER2vYejS9awYaQzTSDnZoZmyK7tibA/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67364992",
-    "source": "otodom",
-    "sourceId": "67364992",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-przy-lesie-oseredek-gm-susiec-ID4yEI8",
-    "propertyType": "house",
-    "title": "Siedlisko przy lesie, Oseredek gm. Susiec",
-    "voivodeship": "lubelskie",
-    "county": "tomaszowski",
-    "city": "Oseredek",
-    "coordinates": {
-      "lat": 51.241139158862644,
-      "lng": 22.566773363827654
-    },
-    "isNearBorder": true,
-    "areaM2": 100,
-    "plotAreaM2": 6000,
-    "currentPrice": 170000,
-    "currentPricePerM2": 1700,
-    "initialPrice": 170000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 170000,
-        "pricePerM2": 1700
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-10-20T11:50:56.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRkZnRvdmJxcjdxdTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.FNlI64vguiaWkQKD2nuJgF_xGsmCWVAaGdydd_17OZw/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -104873,41 +100657,6 @@
     "county": "lubelski"
   },
   {
-    "id": "otodom-67194170",
-    "source": "otodom",
-    "sourceId": "67194170",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/duze-siedlisko-w-molozowie-ID4xVgV",
-    "propertyType": "house",
-    "title": "Duże siedlisko w Mołożowie",
-    "voivodeship": "lubelskie",
-    "county": "hrubieszowski",
-    "city": "Ameryka",
-    "coordinates": {
-      "lat": 51.24522914999371,
-      "lng": 22.571166601707557
-    },
-    "isNearBorder": true,
-    "areaM2": 200,
-    "plotAreaM2": 9844,
-    "currentPrice": 480000,
-    "currentPricePerM2": 2400,
-    "initialPrice": 480000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 480000,
-        "pricePerM2": 2400
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-09-02T07:44:07.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InMwcTJ5dHd4NmFvMzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.R15Uu8KRK5tXQuLbkA2U9n73qmM0IWQ-VZb79Q2ObJA/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-67175982",
     "source": "otodom",
     "sourceId": "67175982",
@@ -105047,41 +100796,6 @@
     "firstSeenAt": "2025-08-19T08:08:35.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJlMXFmbTh5MjFrZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PUwP_Elp5ZWqedZpUHZxNGfXkfMjgwdBxemWA5tp8NE/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67120625",
-    "source": "otodom",
-    "sourceId": "67120625",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwe-siedlisko-z-wawozem-na-sprzedaz-ID4xD8J",
-    "propertyType": "house",
-    "title": "Urokliwe Siedlisko z wąwozem na sprzedaż",
-    "voivodeship": "lubelskie",
-    "county": "łęczyński",
-    "city": "Kijany",
-    "coordinates": {
-      "lat": 51.24497735565064,
-      "lng": 22.57674983512522
-    },
-    "isNearBorder": false,
-    "areaM2": 200,
-    "plotAreaM2": 9800,
-    "currentPrice": 599000,
-    "currentPricePerM2": 2995,
-    "initialPrice": 599000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 599000,
-        "pricePerM2": 2995
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-08-09T10:10:29.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InY4OGtmb2FidXl6di1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Scgd2B9fenq601woIFm0tyKMh-qPopjcBcuB3PcQkNI/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -105225,41 +100939,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpydGh5bXdnYjR6MjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ihe_sWuJzTDMSxjykBLOASpIrRVbMTFDboPz2pV0ctg/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "bialski"
-  },
-  {
-    "id": "otodom-67081530",
-    "source": "otodom",
-    "sourceId": "67081530",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-boruskach-tereny-nadbuzanskie-ID4xsYa",
-    "propertyType": "house",
-    "title": "Siedlisko w Boruskach, tereny nadbużańskie",
-    "voivodeship": "lubelskie",
-    "county": "łosicki",
-    "city": "Borsuki",
-    "coordinates": {
-      "lat": 51.247443260538276,
-      "lng": 22.562394682568705
-    },
-    "isNearBorder": false,
-    "areaM2": 62,
-    "plotAreaM2": 2216,
-    "currentPrice": 350000,
-    "currentPricePerM2": 5645.16,
-    "initialPrice": 350000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 350000,
-        "pricePerM2": 5645.16
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-07-29T10:49:46.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJscWtmcnQ0eXpmdy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.crUx6WDNzgWkuFEonur3AiX04te7zHwabdQWfS2xYms/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-67080551",
@@ -105681,41 +101360,6 @@
     "firstSeenAt": "2025-07-07T21:12:23.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9hcm92NGd2eWZ5bTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8X-Vw-uppefpe5YPbQtyvjSfmXyqn-_pysqpZtWtEgA/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67010981",
-    "source": "otodom",
-    "sourceId": "67010981",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-blisko-lasu-i-zalewu-ID4xaCh",
-    "propertyType": "house",
-    "title": "Siedlisko blisko lasu i zalewu",
-    "voivodeship": "lubelskie",
-    "county": "chełmski",
-    "city": "Krobonosz",
-    "coordinates": {
-      "lat": 51.24253006959528,
-      "lng": 22.559265794267386
-    },
-    "isNearBorder": true,
-    "areaM2": 85,
-    "plotAreaM2": 4096,
-    "currentPrice": 170000,
-    "currentPricePerM2": 2000,
-    "initialPrice": 170000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 170000,
-        "pricePerM2": 2000
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-07-07T17:33:28.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndrbWRxMmU2MDgyNTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xHFIKQnbghwSSN38nhbDcl8mcoXsrh0QYEUUWOPQIsc/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -106388,41 +102032,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-66845417",
-    "source": "otodom",
-    "sourceId": "66845417",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-siedlisko-fotowoltaika-ID4vtxT",
-    "propertyType": "house",
-    "title": "Dom - Siedlisko Fotowoltaika",
-    "voivodeship": "lubelskie",
-    "county": "świdnicki",
-    "city": "Pilaszkowice Drugie",
-    "coordinates": {
-      "lat": 51.24719787005341,
-      "lng": 22.559247741083507
-    },
-    "isNearBorder": false,
-    "areaM2": 140,
-    "plotAreaM2": 5000,
-    "currentPrice": 595000,
-    "currentPricePerM2": 4250,
-    "initialPrice": 595000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 595000,
-        "pricePerM2": 4250
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-05-20T22:02:02.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhxdzNyMHFyeDY3NDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2n9zXdw8ScBSkiS42WpclcYvSpOnRAjfmE0NpsuKCLg/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-66841825",
     "source": "otodom",
     "sourceId": "66841825",
@@ -106456,42 +102065,6 @@
     "firstSeenAt": "2025-05-20T07:39:20.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhzbXljbTYyNzM3ZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.W7Cds9zk7-FFxMEhV-uOrKIckHcKDtnXv84tc37hQ6o/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-66840176",
-    "source": "otodom",
-    "sourceId": "66840176",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-z-potencjalem-piszczac-7684-m-ID4vsbm",
-    "propertyType": "house",
-    "title": "Gospodarstwo z potencjałem – Piszczac, 7684 m²",
-    "voivodeship": "lubelskie",
-    "county": "bialski",
-    "city": "Piszczac",
-    "street": "ul. Terespolska",
-    "coordinates": {
-      "lat": 51.243258573610966,
-      "lng": 22.561063736771196
-    },
-    "isNearBorder": true,
-    "areaM2": 206,
-    "plotAreaM2": 7684,
-    "currentPrice": 330000,
-    "currentPricePerM2": 1601.94,
-    "initialPrice": 330000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 330000,
-        "pricePerM2": 1601.94
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-05-19T15:08:49.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBpaDBhaWUzeXUwZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.C3NsRLI9t6J9IRQeBPiWHtq4TyAXLM-w4O1xB5TjJmk/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -106599,42 +102172,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1paTM1Nnp3Znc3OTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.XXlsEed7XKZCPQfR7-STdhBuA2RFJjyMKNUjZ88mJIo/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "zamojski"
-  },
-  {
-    "id": "otodom-66810941",
-    "source": "otodom",
-    "sourceId": "66810941",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-malowniczym-kodniu-powiat-bialski-ID4vkzP",
-    "propertyType": "house",
-    "title": "Siedlisko w malowniczym Kodniu, powiat bialski",
-    "voivodeship": "lubelskie",
-    "county": "bialski",
-    "city": "Kodeń",
-    "street": "ul. Sławatycka",
-    "coordinates": {
-      "lat": 51.248194382055594,
-      "lng": 22.564647605675844
-    },
-    "isNearBorder": true,
-    "areaM2": 3889,
-    "plotAreaM2": 3889,
-    "currentPrice": 329900,
-    "currentPricePerM2": 84.83,
-    "initialPrice": 329900,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 329900,
-        "pricePerM2": 84.83
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-05-11T14:14:16.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ino1ajV0dnFrYTIxdTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._pJ0spExfkruutrebADJlzc_HBYJqqTHlEUdR2pEet8/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-65741539",
@@ -106815,41 +102352,6 @@
     "county": "lubelski"
   },
   {
-    "id": "otodom-66794400",
-    "source": "otodom",
-    "sourceId": "66794400",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-urokliwe-siedlisko-z-dzialkami-ID4vgh2",
-    "propertyType": "house",
-    "title": "Sprzedam urokliwe siedlisko z działkami!",
-    "voivodeship": "lubelskie",
-    "county": "krasnostawski",
-    "city": "Bobliwo",
-    "coordinates": {
-      "lat": 51.2512854730453,
-      "lng": 22.57478952749463
-    },
-    "isNearBorder": true,
-    "areaM2": 40,
-    "plotAreaM2": 3800,
-    "currentPrice": 235000,
-    "currentPricePerM2": 5875,
-    "initialPrice": 235000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 235000,
-        "pricePerM2": 5875
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-05-06T19:41:09.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InAxOXB2Znllc3FscDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.C3N75oNwwMMlvwwzgX1eddhZpZIVx-psSApcwBc7Tf4/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-96702668000067",
     "source": "otodom",
     "sourceId": "96702668000067",
@@ -106955,41 +102457,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-66723593",
-    "source": "otodom",
-    "sourceId": "66723593",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-12-km-od-lublina-ID4wXQZ",
-    "propertyType": "house",
-    "title": "Siedlisko 12 km od Lublina",
-    "voivodeship": "lubelskie",
-    "county": "świdnicki",
-    "city": "Bystrzejowice Trzecie",
-    "coordinates": {
-      "lat": 51.244815545330454,
-      "lng": 22.569585971252412
-    },
-    "isNearBorder": false,
-    "areaM2": 116,
-    "plotAreaM2": 4002,
-    "currentPrice": 450000,
-    "currentPricePerM2": 3879.31,
-    "initialPrice": 450000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 450000,
-        "pricePerM2": 3879.31
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-04-14T19:01:00.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjAzbGZiZWcxZWJtOS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.d18a8upjPnFjWY7uA39ehsXNokXlzYGiSke_SHrGuzU/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-66720820",
     "source": "otodom",
     "sourceId": "66720820",
@@ -107057,41 +102524,6 @@
     "firstSeenAt": "2025-04-01T12:59:49.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjI3cnUybTFzdm5xcDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mQnTMCwkPo1Pe1Se3i5BoWYVXWT-tV3u2lN1tfR10LQ/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-64819429",
-    "source": "otodom",
-    "sourceId": "64819429",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-siedlisko-30ar-piotrowice-k-naleczowa-i-lublina-ID4nYuF",
-    "propertyType": "house",
-    "title": "Dom siedlisko 30ar Piotrowice k.Nałęczowa i Lublina",
-    "voivodeship": "lubelskie",
-    "county": "puławski",
-    "city": "Nałęczów",
-    "coordinates": {
-      "lat": 51.25383909753717,
-      "lng": 22.565747565769023
-    },
-    "isNearBorder": false,
-    "areaM2": 100,
-    "plotAreaM2": 3000,
-    "currentPrice": 780000,
-    "currentPricePerM2": 7800,
-    "initialPrice": 780000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 780000,
-        "pricePerM2": 7800
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-03-25T22:32:36.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZqbGV0dmN5ZWJveDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Z9Owbs4BQp2RVpIVj6O2s-79FDnsT1Y_vA2XZjL3_gI/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -107764,41 +103196,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-66058748",
-    "source": "otodom",
-    "sourceId": "66058748",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-agroturystyka-stadnina-ty-wybierasz-ID4taTG",
-    "propertyType": "house",
-    "title": "Siedlisko, agroturystyka, stadnina? Ty wybierasz",
-    "voivodeship": "lubelskie",
-    "county": "puławski",
-    "city": "Kazimierz Dolny",
-    "coordinates": {
-      "lat": 51.24480570772013,
-      "lng": 22.558786070535156
-    },
-    "isNearBorder": false,
-    "areaM2": 200,
-    "plotAreaM2": 68270,
-    "currentPrice": 3600000,
-    "currentPricePerM2": 18000,
-    "initialPrice": 3600000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 3600000,
-        "pricePerM2": 18000
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2024-10-26T21:35:29.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImwycDBzaG82MjFyNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vMMekMoV3Jfqhah_MtTwSW0H3Ay2nPKIOjpqQN5HvPc/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-65936127",
     "source": "otodom",
     "sourceId": "65936127",
@@ -108116,41 +103513,6 @@
     "isDirectOwner": false
   },
   {
-    "id": "otodom-65700361",
-    "source": "otodom",
-    "sourceId": "65700361",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-siedlisko-w-m-baraki-gm-zakrzow-ID4rFFf",
-    "propertyType": "house",
-    "title": "Na sprzedaż siedlisko w m. Baraki (gm. Zakrzów)",
-    "voivodeship": "lubelskie",
-    "county": "lubelski",
-    "city": "Baraki",
-    "coordinates": {
-      "lat": 51.25299077445215,
-      "lng": 22.57582785473187
-    },
-    "isNearBorder": false,
-    "areaM2": 240,
-    "plotAreaM2": 9900,
-    "currentPrice": 499000,
-    "currentPricePerM2": 2079.17,
-    "initialPrice": 499000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 499000,
-        "pricePerM2": 2079.17
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2024-07-22T14:53:59.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV1d3pwajhyb3N5ay1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.TuDpIF_zpu5igxbnXXP2rPR836fodFir9BsCS3xwBGk/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-96678634100067",
     "source": "otodom",
     "sourceId": "96678634100067",
@@ -108289,41 +103651,6 @@
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5yZnlnenRyNXI5eC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.KT88PUkcmRB3MgNnJjHKw4VHUoD7giuL7C9dlDab1y0/image;s=655x491;q=80",
     "isDirectOwner": false,
     "county": "lubelski"
-  },
-  {
-    "id": "otodom-65407299",
-    "source": "otodom",
-    "sourceId": "65407299",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/slotwiny-siedlisko-dzialka-950-m2-ID4qrqr",
-    "propertyType": "house",
-    "title": "Słotwiny - siedlisko - działka 950 m2",
-    "voivodeship": "lubelskie",
-    "county": "opolski",
-    "city": "Słotwiny",
-    "coordinates": {
-      "lat": 51.24353774232789,
-      "lng": 22.56002722683723
-    },
-    "isNearBorder": false,
-    "areaM2": 50,
-    "plotAreaM2": 950,
-    "currentPrice": 159000,
-    "currentPricePerM2": 3180,
-    "initialPrice": 159000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 159000,
-        "pricePerM2": 3180
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2024-05-06T15:03:57.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJtbHJ3MjV0MGMyaS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.RfjTlq2nbQ2mhkJttfJPSvP8AC9bRJ04OzdWSihTQiA/image;s=655x491;q=80",
-    "isDirectOwner": false
   },
   {
     "id": "otodom-65343721",
@@ -108603,41 +103930,6 @@
     "firstSeenAt": "2022-10-14T12:35:20.000Z",
     "lastSeenAt": "2026-09-17T22:09:29.142Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndicXY4c2x4OGIwZzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fcWmpMBmwKAv-Oz2wuwsJN1cpZzFWhxGgFTpD8taaKE/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-63176194",
-    "source": "otodom",
-    "sourceId": "63176194",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/atrakcyjne-siedlisko-z-budynkami-2-65ha-roztocze-ID4h50S",
-    "propertyType": "house",
-    "title": "Atrakcyjne siedlisko z budynkami 2,65ha | Roztocze",
-    "voivodeship": "lubelskie",
-    "county": "biłgorajski",
-    "city": "Stanisławów",
-    "coordinates": {
-      "lat": 51.24594307728187,
-      "lng": 22.561321898606145
-    },
-    "isNearBorder": true,
-    "areaM2": 65,
-    "plotAreaM2": 26542,
-    "currentPrice": 485000,
-    "currentPricePerM2": 7461.54,
-    "initialPrice": 485000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-17",
-        "price": 485000,
-        "pricePerM2": 7461.54
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2022-06-08T11:50:16.000Z",
-    "lastSeenAt": "2026-09-17T22:09:29.142Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjB0bm9yeDl6b2F2NjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HS6oZpmYNOGPCbISTdizvDJSq83foFQWTGXn3M4Ih_o/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
