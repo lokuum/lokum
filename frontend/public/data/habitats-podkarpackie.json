@@ -10,8 +10,8 @@
     "county": "jarosławski",
     "city": "Korczowa",
     "coordinates": {
-      "lat": 50.012772300402474,
-      "lng": 22.685952029755715
+      "lat": 50.021342859620106,
+      "lng": 22.677645393057368
     },
     "isNearBorder": true,
     "areaM2": 60,
@@ -44,8 +44,8 @@
     "voivodeship": "podkarpackie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 50.034141741095105,
-      "lng": 22.00378012848881
+      "lat": 50.04619081012227,
+      "lng": 22.00355985138542
     },
     "isNearBorder": false,
     "areaM2": 224,
@@ -79,8 +79,8 @@
     "county": "ropczycko-sędziszowski",
     "city": "Ocieka",
     "coordinates": {
-      "lat": 50.05250547749322,
-      "lng": 21.608890774297574
+      "lat": 50.059576260296154,
+      "lng": 21.60140140796881
     },
     "isNearBorder": false,
     "areaM2": 91,
@@ -114,8 +114,8 @@
     "county": "strzyżowski",
     "city": "Połomia",
     "coordinates": {
-      "lat": 49.87294480942554,
-      "lng": 21.79372395830503
+      "lat": 49.86563605881118,
+      "lng": 21.78969603868535
     },
     "isNearBorder": false,
     "areaM2": 150,
@@ -149,8 +149,8 @@
     "county": "jarosławski",
     "city": "Radymno",
     "coordinates": {
-      "lat": 49.94770101958598,
-      "lng": 22.816029136003518
+      "lat": 49.942204246264474,
+      "lng": 22.815627298387515
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -184,8 +184,8 @@
     "county": "strzyżowski",
     "city": "Wysoka Strzyżowska",
     "coordinates": {
-      "lat": 49.87431714509856,
-      "lng": 21.794645066444367
+      "lat": 49.86578972871262,
+      "lng": 21.78889362890386
     },
     "isNearBorder": false,
     "areaM2": 115,
@@ -219,8 +219,8 @@
     "county": "bieszczadzki",
     "city": "Arłamów",
     "coordinates": {
-      "lat": 49.42705825453614,
-      "lng": 22.600963444549897
+      "lat": 49.43099303890754,
+      "lng": 22.594516697124547
     },
     "isNearBorder": true,
     "areaM2": 100,
@@ -254,8 +254,8 @@
     "county": "strzyżowski",
     "city": "Jawornik",
     "coordinates": {
-      "lat": 49.87506413329446,
-      "lng": 21.79887273020187
+      "lat": 49.87333598637052,
+      "lng": 21.783164701838913
     },
     "isNearBorder": false,
     "areaM2": 60,
@@ -289,8 +289,8 @@
     "county": "rzeszowski",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 50.03949493311022,
-      "lng": 21.998893023599113
+      "lat": 50.03969280018485,
+      "lng": 22.00137884042948
     },
     "isNearBorder": false,
     "areaM2": 224,
@@ -324,8 +324,8 @@
     "county": "przemyski",
     "city": "Bachów",
     "coordinates": {
-      "lat": 49.779734624446036,
-      "lng": 22.770825128571623
+      "lat": 49.78515349360078,
+      "lng": 22.758261433060987
     },
     "isNearBorder": true,
     "areaM2": 80,
@@ -359,8 +359,8 @@
     "county": "strzyżowski",
     "city": "Połomia",
     "coordinates": {
-      "lat": 49.865844214203214,
-      "lng": 21.795741415365423
+      "lat": 49.874153798680624,
+      "lng": 21.787611167409665
     },
     "isNearBorder": false,
     "areaM2": 150,
@@ -394,8 +394,8 @@
     "county": "jasielski",
     "city": "Kotań",
     "coordinates": {
-      "lat": 49.748427844125025,
-      "lng": 21.474684892966607
+      "lat": 49.752363670760474,
+      "lng": 21.481755300309395
     },
     "isNearBorder": false,
     "areaM2": 184.4,
@@ -429,8 +429,8 @@
     "county": "przemyski",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 49.78163799026351,
-      "lng": 22.7685559950207
+      "lat": 49.78310651582461,
+      "lng": 22.77643849739137
     },
     "isNearBorder": true,
     "areaM2": 110,
@@ -464,8 +464,8 @@
     "county": "bieszczadzki",
     "city": "Polana",
     "coordinates": {
-      "lat": 49.43451968491613,
-      "lng": 22.592583350405953
+      "lat": 49.43729379185133,
+      "lng": 22.59272625897644
     },
     "isNearBorder": true,
     "areaM2": 120,
@@ -499,8 +499,8 @@
     "county": "łańcucki",
     "city": "Rogóżno",
     "coordinates": {
-      "lat": 52.74660386540229,
-      "lng": 16.992401030551274
+      "lat": 52.75632588139148,
+      "lng": 17.000538597631582
     },
     "isNearBorder": false,
     "areaM2": 87,
@@ -534,8 +534,8 @@
     "county": "niżański",
     "city": "Bukowina",
     "coordinates": {
-      "lat": 50.525626945984946,
-      "lng": 22.135139560874
+      "lat": 50.51717388102975,
+      "lng": 22.149538103219275
     },
     "isNearBorder": false,
     "areaM2": 60,
@@ -569,8 +569,8 @@
     "county": "przemyski",
     "city": "Bachów",
     "coordinates": {
-      "lat": 49.78459941713721,
-      "lng": 22.776871996887046
+      "lat": 49.77845901838018,
+      "lng": 22.773729732388908
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -604,8 +604,8 @@
     "county": "strzyżowski",
     "city": "Lutcza",
     "coordinates": {
-      "lat": 49.87339730963715,
-      "lng": 21.792208166458273
+      "lat": 49.87505519071766,
+      "lng": 21.794669739238323
     },
     "isNearBorder": false,
     "areaM2": 100,
@@ -639,8 +639,8 @@
     "county": "biłgorajski",
     "city": "Zamch",
     "coordinates": {
-      "lat": 50.53376970816384,
-      "lng": 22.72661542957541
+      "lat": 50.537604537955936,
+      "lng": 22.715304735774577
     },
     "isNearBorder": false,
     "areaM2": 240,
@@ -674,8 +674,8 @@
     "county": "lubaczowski",
     "city": "Huta Różaniecka",
     "coordinates": {
-      "lat": 50.150965178606235,
-      "lng": 23.127219373780438
+      "lat": 50.15694053771817,
+      "lng": 23.129369892961552
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -709,8 +709,8 @@
     "county": "przemyski",
     "city": "Drohobyczka",
     "coordinates": {
-      "lat": 49.778557968831,
-      "lng": 22.761947064050123
+      "lat": 49.77995506494069,
+      "lng": 22.765388476199252
     },
     "isNearBorder": true,
     "areaM2": 106,
@@ -744,8 +744,8 @@
     "county": "przeworski",
     "city": "Manasterz",
     "coordinates": {
-      "lat": 50.056993186665565,
-      "lng": 22.488423015532973
+      "lat": 50.061301904200704,
+      "lng": 22.500333145122244
     },
     "isNearBorder": false,
     "areaM2": 62,
@@ -778,8 +778,8 @@
     "voivodeship": "podkarpackie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 50.035350476546746,
-      "lng": 21.995982795075346
+      "lat": 50.04277813820303,
+      "lng": 21.996343776508205
     },
     "isNearBorder": false,
     "areaM2": 225,
@@ -812,8 +812,8 @@
     "voivodeship": "podkarpackie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 49.78571456778271,
-      "lng": 22.77746152725061
+      "lat": 49.78236531624623,
+      "lng": 22.758451848773753
     },
     "isNearBorder": true,
     "areaM2": 110,
@@ -846,8 +846,8 @@
     "voivodeship": "podkarpackie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 50.042285877957525,
-      "lng": 22.00571523280252
+      "lat": 50.03955992939031,
+      "lng": 22.0081138474033
     },
     "isNearBorder": false,
     "areaM2": 165,
@@ -882,8 +882,8 @@
     "city": "Izbiska",
     "street": "Izbiska 77",
     "coordinates": {
-      "lat": 50.28183893184424,
-      "lng": 21.427487051311317
+      "lat": 50.289850795390635,
+      "lng": 21.419713703725268
     },
     "isNearBorder": false,
     "areaM2": 92,
@@ -917,8 +917,8 @@
     "county": "łańcucki",
     "city": "Rogóżno",
     "coordinates": {
-      "lat": 52.74674898856159,
-      "lng": 17.000832388472325
+      "lat": 52.753747000722335,
+      "lng": 16.995615943353343
     },
     "isNearBorder": false,
     "areaM2": 87,
@@ -951,8 +951,8 @@
     "county": "rzeszowski",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 50.04072359137356,
-      "lng": 22.003668846857703
+      "lat": 50.04351971484584,
+      "lng": 21.999528491619667
     },
     "isNearBorder": false,
     "areaM2": 224,
@@ -985,8 +985,8 @@
     "county": "strzyżowski",
     "city": "Lutcza",
     "coordinates": {
-      "lat": 49.86444047682954,
-      "lng": 21.793471322407836
+      "lat": 49.87724448603798,
+      "lng": 21.7867768415645
     },
     "isNearBorder": false,
     "areaM2": 100,
@@ -1019,8 +1019,8 @@
     "county": "przemyski",
     "city": "Drohobyczka",
     "coordinates": {
-      "lat": 49.777945217968146,
-      "lng": 22.77225549532038
+      "lat": 49.787047982538105,
+      "lng": 22.76810611277488
     },
     "isNearBorder": true,
     "areaM2": 106,
@@ -1054,8 +1054,8 @@
     "city": "Kobylany",
     "street": "ul. Dworska",
     "coordinates": {
-      "lat": 49.695817074058375,
-      "lng": 21.76696296051897
+      "lat": 49.688811713391864,
+      "lng": 21.780342910831795
     },
     "isNearBorder": false,
     "areaM2": 97,
@@ -1089,8 +1089,8 @@
     "county": "kolbuszowski",
     "city": "Wola Raniżowska",
     "coordinates": {
-      "lat": 50.23864126583167,
-      "lng": 21.769870427543975
+      "lat": 50.250753942901774,
+      "lng": 21.766350363782404
     },
     "isNearBorder": false,
     "areaM2": 60,
@@ -1124,8 +1124,8 @@
     "county": "rzeszowski",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 50.048175604028884,
-      "lng": 21.995974570458724
+      "lat": 50.03406817897601,
+      "lng": 21.994705375845253
     },
     "isNearBorder": false,
     "areaM2": 100,
@@ -1159,8 +1159,8 @@
     "county": "rzeszowski",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 50.04064385618743,
-      "lng": 21.99003289891768
+      "lat": 50.035356431018116,
+      "lng": 22.001053782466904
     },
     "isNearBorder": false,
     "areaM2": 100,
@@ -1193,8 +1193,8 @@
     "county": "kolbuszowski",
     "city": "Wola Rusinowska",
     "coordinates": {
-      "lat": 50.24764037604907,
-      "lng": 21.772077038920855
+      "lat": 50.247503211835145,
+      "lng": 21.764619985714983
     },
     "isNearBorder": false,
     "areaM2": 120,
@@ -1228,8 +1228,8 @@
     "county": "stalowowolski",
     "city": "Gielnia",
     "coordinates": {
-      "lat": 50.57871527858593,
-      "lng": 22.06277228547658
+      "lat": 50.57772612337001,
+      "lng": 22.059944732745972
     },
     "isNearBorder": false,
     "areaM2": 97,
@@ -1264,8 +1264,8 @@
     "city": "Dubiecko",
     "street": "Śliwnicka",
     "coordinates": {
-      "lat": 49.78700574140064,
-      "lng": 22.77476911954622
+      "lat": 49.78117576016785,
+      "lng": 22.76369881370974
     },
     "isNearBorder": true,
     "areaM2": 72,
@@ -1300,8 +1300,8 @@
     "city": "Racławice",
     "street": "ul. Grądy",
     "coordinates": {
-      "lat": 50.516765001374154,
-      "lng": 22.14055539113769
+      "lat": 50.52449038654323,
+      "lng": 22.140214687020695
     },
     "isNearBorder": false,
     "areaM2": 69,
@@ -1335,8 +1335,8 @@
     "county": "tomaszowski",
     "city": "Maziły",
     "coordinates": {
-      "lat": 50.45245274729342,
-      "lng": 23.408210380384176
+      "lat": 50.45409715937856,
+      "lng": 23.42379623354531
     },
     "isNearBorder": false,
     "areaM2": 112.6,
@@ -1371,8 +1371,8 @@
     "city": "Żołynia",
     "street": "Mickiewicza",
     "coordinates": {
-      "lat": 50.07430714010393,
-      "lng": 22.231992499049415
+      "lat": 50.06426960906088,
+      "lng": 22.223725154842175
     },
     "isNearBorder": false,
     "areaM2": 300,
@@ -1407,8 +1407,8 @@
     "city": "Kombornia",
     "street": "ul. Graniczna",
     "coordinates": {
-      "lat": 49.68400409972038,
-      "lng": 21.771648622552142
+      "lat": 49.68602859532476,
+      "lng": 21.76989618130323
     },
     "isNearBorder": false,
     "areaM2": 250,
@@ -1443,8 +1443,8 @@
     "city": "Pysznica",
     "street": "ul. Wiśniowa",
     "coordinates": {
-      "lat": 50.58149234055274,
-      "lng": 22.04646654651587
+      "lat": 50.58238040658067,
+      "lng": 22.05921863133452
     },
     "isNearBorder": false,
     "areaM2": 928,
@@ -1477,8 +1477,8 @@
     "city": "Czudec Leśniczówka",
     "street": "ul. Leśna",
     "coordinates": {
-      "lat": 49.87097613316503,
-      "lng": 21.799905842481955
+      "lat": 49.86744707418053,
+      "lng": 21.79869304730007
     },
     "isNearBorder": false,
     "areaM2": 1400,
@@ -1522,8 +1522,8 @@
     "voivodeship": "podkarpackie",
     "city": "Łęki Dukielskie",
     "coordinates": {
-      "lat": 49.688471350750525,
-      "lng": 21.767535870607915
+      "lat": 49.68762159077214,
+      "lng": 21.780202716815513
     },
     "isNearBorder": false,
     "areaM2": 5100,
@@ -1556,8 +1556,8 @@
     "voivodeship": "podkarpackie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 50.047154346213816,
-      "lng": 21.997795444633084
+      "lat": 50.045867453798884,
+      "lng": 22.006083690076974
     },
     "isNearBorder": false,
     "areaM2": 1113,
@@ -1591,8 +1591,8 @@
     "county": "strzyżowski",
     "city": "Jawornik",
     "coordinates": {
-      "lat": 49.871337693528424,
-      "lng": 21.78264013029327
+      "lat": 49.87486075863755,
+      "lng": 21.79449416046671
     },
     "isNearBorder": false,
     "areaM2": 22800,
@@ -1625,8 +1625,8 @@
     "county": "łańcucki",
     "city": "Tarnawka",
     "coordinates": {
-      "lat": 50.07397613972507,
-      "lng": 22.229464163312905
+      "lat": 50.072486603918584,
+      "lng": 22.231985712169916
     },
     "isNearBorder": false,
     "areaM2": 6700,
@@ -1659,8 +1659,8 @@
     "county": "rzeszowski",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 50.04136837670093,
-      "lng": 21.99769770206404
+      "lat": 50.03758354017772,
+      "lng": 21.990484679696163
     },
     "isNearBorder": false,
     "areaM2": 1113,
@@ -1693,8 +1693,8 @@
     "county": "przemyski",
     "city": "Leszczawa Górna",
     "coordinates": {
-      "lat": 49.79080314250775,
-      "lng": 22.76465771178555
+      "lat": 49.78681038611672,
+      "lng": 22.771156359106428
     },
     "isNearBorder": true,
     "areaM2": 39944,
@@ -1727,8 +1727,8 @@
     "county": "ropczycko-sędziszowski",
     "city": "Gnojnica",
     "coordinates": {
-      "lat": 50.058265819999654,
-      "lng": 21.618388485994533
+      "lat": 50.05260041762319,
+      "lng": 21.604818845248523
     },
     "isNearBorder": false,
     "areaM2": 1400,
@@ -1761,8 +1761,8 @@
     "county": "jasielski",
     "city": "Przysieki",
     "coordinates": {
-      "lat": 49.75206592567522,
-      "lng": 21.465855093398286
+      "lat": 49.74885763102205,
+      "lng": 21.475048714517182
     },
     "isNearBorder": false,
     "areaM2": 5055,
@@ -1795,8 +1795,8 @@
     "county": "bieszczadzki",
     "city": "Hoszów",
     "coordinates": {
-      "lat": 49.42695690595744,
-      "lng": 22.596285667740702
+      "lat": 49.43068418499313,
+      "lng": 22.598645461886782
     },
     "isNearBorder": true,
     "areaM2": 12000,
@@ -1829,8 +1829,8 @@
     "county": "jasielski",
     "city": "Ujazd",
     "coordinates": {
-      "lat": 49.74347493912722,
-      "lng": 21.464809963397396
+      "lat": 49.73958673502561,
+      "lng": 21.4625181004295
     },
     "isNearBorder": false,
     "areaM2": 12300,
@@ -1864,8 +1864,8 @@
     "city": "Pysznica",
     "street": "ul. Wiśniowa",
     "coordinates": {
-      "lat": 50.57940668549462,
-      "lng": 22.057662473297505
+      "lat": 50.58422327192089,
+      "lng": 22.0502640362297
     },
     "isNearBorder": false,
     "areaM2": 1987,
@@ -1898,8 +1898,8 @@
     "county": "ropczycko-sędziszowski",
     "city": "Wiśniowa",
     "coordinates": {
-      "lat": 50.051643179984794,
-      "lng": 21.606048925761865
+      "lat": 50.04543440304535,
+      "lng": 21.616939469475312
     },
     "isNearBorder": false,
     "areaM2": 2568,
@@ -1932,8 +1932,8 @@
     "county": "ropczycko-sędziszowski",
     "city": "Wiśniowa",
     "coordinates": {
-      "lat": 50.05072512377384,
-      "lng": 21.612519629800794
+      "lat": 50.0560220700965,
+      "lng": 21.603954899696383
     },
     "isNearBorder": false,
     "areaM2": 8300,
@@ -1966,8 +1966,8 @@
     "county": "kolbuszowski",
     "city": "Wola Raniżowska",
     "coordinates": {
-      "lat": 50.25231065855248,
-      "lng": 21.761293803430288
+      "lat": 50.24139914713755,
+      "lng": 21.779071967902514
     },
     "isNearBorder": false,
     "areaM2": 17600,
@@ -2000,8 +2000,8 @@
     "county": "rzeszowski",
     "city": "Błażowa Dolna",
     "coordinates": {
-      "lat": 50.03768846919598,
-      "lng": 22.00068156120039
+      "lat": 50.035429613130894,
+      "lng": 21.99893853470631
     },
     "isNearBorder": false,
     "areaM2": 2950,
@@ -2034,8 +2034,8 @@
     "county": "rzeszowski",
     "city": "Dylągówka",
     "coordinates": {
-      "lat": 50.03771404484651,
-      "lng": 22.00095353106841
+      "lat": 50.04645140534593,
+      "lng": 22.005837495533175
     },
     "isNearBorder": false,
     "areaM2": 7400,
@@ -2068,8 +2068,8 @@
     "county": "rzeszowski",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 50.044909224028004,
-      "lng": 22.000034902755655
+      "lat": 50.03650034266697,
+      "lng": 21.99213112714768
     },
     "isNearBorder": false,
     "areaM2": 4600,
@@ -2102,8 +2102,8 @@
     "city": "Wola Rzeczycka",
     "street": "Turki",
     "coordinates": {
-      "lat": 50.589839040564065,
-      "lng": 22.05376569124344
+      "lat": 50.58366756324245,
+      "lng": 22.05040482863537
     },
     "isNearBorder": false,
     "areaM2": 2511,
@@ -2136,8 +2136,8 @@
     "voivodeship": "podkarpackie",
     "city": "Drohobyczka",
     "coordinates": {
-      "lat": 49.789971208028334,
-      "lng": 22.760166138657453
+      "lat": 49.782471646350636,
+      "lng": 22.772484544908348
     },
     "isNearBorder": true,
     "areaM2": 27000,
@@ -2170,8 +2170,8 @@
     "voivodeship": "podkarpackie",
     "city": "Siedliska Sławęcińskie",
     "coordinates": {
-      "lat": 49.75001922366904,
-      "lng": 21.469575258682728
+      "lat": 49.74807698120372,
+      "lng": 21.46651515521074
     },
     "isNearBorder": false,
     "areaM2": 5055,
@@ -2204,8 +2204,8 @@
     "voivodeship": "podkarpackie",
     "city": "Chmielnik",
     "coordinates": {
-      "lat": 50.03398274874288,
-      "lng": 21.991871772120387
+      "lat": 50.03454083063308,
+      "lng": 21.998244857602103
     },
     "isNearBorder": false,
     "areaM2": 2400,
@@ -2238,8 +2238,8 @@
     "voivodeship": "podkarpackie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 50.04353949154803,
-      "lng": 21.997254234707192
+      "lat": 50.0424894378789,
+      "lng": 22.006293945041836
     },
     "isNearBorder": false,
     "areaM2": 2800,
@@ -2272,8 +2272,8 @@
     "voivodeship": "podkarpackie",
     "city": "Płazów",
     "coordinates": {
-      "lat": 50.14919583412498,
-      "lng": 23.12737469042462
+      "lat": 50.15557676369814,
+      "lng": 23.129592394757395
     },
     "isNearBorder": true,
     "areaM2": 4498,
@@ -2306,8 +2306,8 @@
     "voivodeship": "podkarpackie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 50.037907541753995,
-      "lng": 22.00851803473265
+      "lat": 50.04184504846883,
+      "lng": 21.9996819553572
     },
     "isNearBorder": false,
     "areaM2": 1800,
@@ -2340,8 +2340,8 @@
     "voivodeship": "podkarpackie",
     "city": "Boguchwała",
     "coordinates": {
-      "lat": 50.03715679257348,
-      "lng": 22.00322400594658
+      "lat": 50.03494928015146,
+      "lng": 22.00131585048815
     },
     "isNearBorder": false,
     "areaM2": 2200,
@@ -2374,8 +2374,8 @@
     "voivodeship": "podkarpackie",
     "city": "Tarnawka",
     "coordinates": {
-      "lat": 50.06986104400225,
-      "lng": 22.23340960453308
+      "lat": 50.07229090403508,
+      "lng": 22.237374293323626
     },
     "isNearBorder": false,
     "areaM2": 6900,
@@ -2408,8 +2408,8 @@
     "voivodeship": "podkarpackie",
     "city": "Manasterz",
     "coordinates": {
-      "lat": 50.06374719919048,
-      "lng": 22.49740693633547
+      "lat": 50.05817739149358,
+      "lng": 22.488062761496586
     },
     "isNearBorder": false,
     "areaM2": 1800,
@@ -2442,8 +2442,8 @@
     "voivodeship": "podkarpackie",
     "city": "Pułanki",
     "coordinates": {
-      "lat": 49.877262072677674,
-      "lng": 21.785102301574284
+      "lat": 49.873243352541245,
+      "lng": 21.80198889826944
     },
     "isNearBorder": false,
     "areaM2": 1150,
@@ -2476,8 +2476,8 @@
     "voivodeship": "podkarpackie",
     "city": "Wyszatyce",
     "coordinates": {
-      "lat": 49.78161254705231,
-      "lng": 22.77085113284583
+      "lat": 49.7908446086576,
+      "lng": 22.76051734041367
     },
     "isNearBorder": true,
     "areaM2": 914,
@@ -2510,8 +2510,8 @@
     "voivodeship": "podkarpackie",
     "city": "Kustrawa",
     "coordinates": {
-      "lat": 50.51401925192822,
-      "lng": 22.150045706488353
+      "lat": 50.52156578168832,
+      "lng": 22.136402259533718
     },
     "isNearBorder": false,
     "areaM2": 6330,
@@ -2544,8 +2544,8 @@
     "voivodeship": "podkarpackie",
     "city": "Batycze",
     "coordinates": {
-      "lat": 49.790130859298365,
-      "lng": 22.76998148358061
+      "lat": 49.78015073598561,
+      "lng": 22.774938979107525
     },
     "isNearBorder": true,
     "areaM2": 3150,
@@ -2578,8 +2578,8 @@
     "voivodeship": "podkarpackie",
     "city": "Tarnawka",
     "coordinates": {
-      "lat": 50.067984479314475,
-      "lng": 22.230022563555803
+      "lat": 50.07135858227879,
+      "lng": 22.233574013772444
     },
     "isNearBorder": false,
     "areaM2": 3933,
@@ -2613,8 +2613,8 @@
     "city": "Siedliska",
     "street": "Broniakówka",
     "coordinates": {
-      "lat": 50.034894489754684,
-      "lng": 22.00190184461867
+      "lat": 50.039045356974945,
+      "lng": 21.989639963205885
     },
     "isNearBorder": false,
     "areaM2": 3000,
@@ -2647,8 +2647,8 @@
     "voivodeship": "podkarpackie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 50.03440493590823,
-      "lng": 22.003127948643357
+      "lat": 50.04448938942827,
+      "lng": 21.98955632059794
     },
     "isNearBorder": false,
     "areaM2": 2200,
@@ -2681,8 +2681,8 @@
     "voivodeship": "podkarpackie",
     "city": "Zagorzyce",
     "coordinates": {
-      "lat": 50.054015773802604,
-      "lng": 21.60832785869621
+      "lat": 50.04822028257189,
+      "lng": 21.617801355377118
     },
     "isNearBorder": false,
     "areaM2": 10800,
@@ -2715,8 +2715,8 @@
     "voivodeship": "podkarpackie",
     "city": "Siedliska-Bogusz",
     "coordinates": {
-      "lat": 50.05185003966577,
-      "lng": 21.40167755251524
+      "lat": 50.05584408253749,
+      "lng": 21.419151697929674
     },
     "isNearBorder": false,
     "areaM2": 1400,
@@ -2749,8 +2749,8 @@
     "voivodeship": "podkarpackie",
     "city": "Wojtkówka",
     "coordinates": {
-      "lat": 49.427682321684344,
-      "lng": 22.58972938888671
+      "lat": 49.43145718920852,
+      "lng": 22.584258172194847
     },
     "isNearBorder": true,
     "areaM2": 95000,
@@ -2783,8 +2783,8 @@
     "voivodeship": "podkarpackie",
     "city": "Leszczawa Górna",
     "coordinates": {
-      "lat": 49.78623643413694,
-      "lng": 22.77560411968416
+      "lat": 49.777533411432195,
+      "lng": 22.772440475813017
     },
     "isNearBorder": true,
     "areaM2": 39900,
@@ -2817,8 +2817,8 @@
     "voivodeship": "podkarpackie",
     "city": "Zgórsko",
     "coordinates": {
-      "lat": 50.29262191850403,
-      "lng": 21.426069863327076
+      "lat": 50.29307204092196,
+      "lng": 21.43350604345104
     },
     "isNearBorder": false,
     "areaM2": 7500,
@@ -2852,8 +2852,8 @@
     "city": "Siedliska",
     "street": "Różanka",
     "coordinates": {
-      "lat": 50.03412373761857,
-      "lng": 22.00356938788316
+      "lat": 50.04099659625984,
+      "lng": 21.994709092132428
     },
     "isNearBorder": false,
     "areaM2": 3528,
@@ -2886,8 +2886,8 @@
     "voivodeship": "podkarpackie",
     "city": "Krzywe",
     "coordinates": {
-      "lat": 49.700996092868856,
-      "lng": 22.016779980201072
+      "lat": 49.687345125788724,
+      "lng": 22.01288792889231
     },
     "isNearBorder": false,
     "areaM2": 8500,
@@ -2920,8 +2920,8 @@
     "voivodeship": "podkarpackie",
     "city": "Golcowa",
     "coordinates": {
-      "lat": 49.702041707257834,
-      "lng": 22.015074009133148
+      "lat": 49.68738241735476,
+      "lng": 22.027096392063314
     },
     "isNearBorder": false,
     "areaM2": 4444,
@@ -2954,8 +2954,8 @@
     "voivodeship": "podkarpackie",
     "city": "Sielnica",
     "coordinates": {
-      "lat": 49.778968558824694,
-      "lng": 22.765542779240143
+      "lat": 49.782989979212026,
+      "lng": 22.765724975228892
     },
     "isNearBorder": true,
     "areaM2": 6200,
@@ -2988,8 +2988,8 @@
     "voivodeship": "podkarpackie",
     "city": "Michniowiec",
     "coordinates": {
-      "lat": 49.426511996497986,
-      "lng": 22.588048569811356
+      "lat": 49.437421623317796,
+      "lng": 22.585318606012176
     },
     "isNearBorder": true,
     "areaM2": 8400,
@@ -3023,8 +3023,8 @@
     "city": "Wola Zgłobieńska",
     "street": "Lisiaki",
     "coordinates": {
-      "lat": 50.042687396770134,
-      "lng": 21.994262336560904
+      "lat": 50.04054520758789,
+      "lng": 22.003055554548194
     },
     "isNearBorder": false,
     "areaM2": 9700,
@@ -3058,8 +3058,8 @@
     "city": "Lubaczów",
     "street": "ul. kard. Stefana Wyszyńskiego",
     "coordinates": {
-      "lat": 50.15134668350533,
-      "lng": 23.117165829907087
+      "lat": 50.16208241332218,
+      "lng": 23.120619355728422
     },
     "isNearBorder": true,
     "areaM2": 700,
@@ -3092,8 +3092,8 @@
     "voivodeship": "podkarpackie",
     "city": "Braciejowa",
     "coordinates": {
-      "lat": 50.05193896947067,
-      "lng": 21.402406020718466
+      "lat": 50.05819887643917,
+      "lng": 21.415108164817653
     },
     "isNearBorder": false,
     "areaM2": 8200,
@@ -3126,8 +3126,8 @@
     "voivodeship": "podkarpackie",
     "city": "Malawa",
     "coordinates": {
-      "lat": 50.04645175874436,
-      "lng": 21.9983361298527
+      "lat": 50.0338850068779,
+      "lng": 22.003535601426243
     },
     "isNearBorder": false,
     "areaM2": 23900,
@@ -3160,8 +3160,8 @@
     "voivodeship": "podkarpackie",
     "city": "Liskowate",
     "coordinates": {
-      "lat": 49.430161278256506,
-      "lng": 22.599542954624315
+      "lat": 49.435135205537385,
+      "lng": 22.59429784630985
     },
     "isNearBorder": true,
     "areaM2": 40100,
@@ -3194,8 +3194,8 @@
     "voivodeship": "podkarpackie",
     "city": "Ustrzyki Górne",
     "coordinates": {
-      "lat": 49.42436891008034,
-      "lng": 22.59500636521445
+      "lat": 49.42384736633547,
+      "lng": 22.584703178288642
     },
     "isNearBorder": true,
     "areaM2": 3500,
@@ -3228,8 +3228,8 @@
     "voivodeship": "podkarpackie",
     "city": "Rudna Mała",
     "coordinates": {
-      "lat": 50.042481198338336,
-      "lng": 22.003131593094384
+      "lat": 50.04024803645263,
+      "lng": 21.99725222033791
     },
     "isNearBorder": false,
     "areaM2": 2472,
@@ -3262,8 +3262,8 @@
     "voivodeship": "podkarpackie",
     "city": "Olszany",
     "coordinates": {
-      "lat": 49.79036170219408,
-      "lng": 22.772204716247096
+      "lat": 49.789015708975406,
+      "lng": 22.75944844909734
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -3296,8 +3296,8 @@
     "voivodeship": "podkarpackie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 50.04641915953051,
-      "lng": 21.996861189957542
+      "lat": 50.04204553116158,
+      "lng": 22.005943779803545
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -3330,8 +3330,8 @@
     "voivodeship": "podkarpackie",
     "city": "Górzanka",
     "coordinates": {
-      "lat": 49.46702539219867,
-      "lng": 22.33715740397345
+      "lat": 49.46424070058052,
+      "lng": 22.337739326851047
     },
     "isNearBorder": true,
     "areaM2": 55800,
@@ -3364,8 +3364,8 @@
     "voivodeship": "podkarpackie",
     "city": "Siedliska-Bogusz",
     "coordinates": {
-      "lat": 50.0488359044694,
-      "lng": 21.42020437966419
+      "lat": 50.0556856354434,
+      "lng": 21.41508973375276
     },
     "isNearBorder": false,
     "areaM2": 2000,
@@ -3399,8 +3399,8 @@
     "county": "kolbuszowski",
     "city": "Kupno",
     "coordinates": {
-      "lat": 50.25157649701926,
-      "lng": 21.771771013385575
+      "lat": 50.249619829797275,
+      "lng": 21.7642370641042
     },
     "isNearBorder": false,
     "areaM2": 2326,
@@ -3433,8 +3433,8 @@
     "county": "przemyski",
     "city": "Drohojów",
     "coordinates": {
-      "lat": 49.788316458582614,
-      "lng": 22.75939083919593
+      "lat": 49.77786871143026,
+      "lng": 22.77142579965921
     },
     "isNearBorder": true,
     "areaM2": 8113,
@@ -3467,8 +3467,8 @@
     "county": "ropczycko-sędziszowski",
     "city": "Wiśniowa",
     "coordinates": {
-      "lat": 50.051281677551195,
-      "lng": 21.608524822725055
+      "lat": 50.04957402463126,
+      "lng": 21.61422189981038
     },
     "isNearBorder": false,
     "areaM2": 2568,
@@ -3500,8 +3500,8 @@
     "county": "ropczycko-sędziszowski",
     "city": "Gnojnica",
     "coordinates": {
-      "lat": 50.05583701429219,
-      "lng": 21.61051026348582
+      "lat": 50.059251928333495,
+      "lng": 21.602954163910365
     },
     "isNearBorder": false,
     "areaM2": 1400,
@@ -3534,8 +3534,8 @@
     "city": "Wiśniowa",
     "street": "Wiśniowa",
     "coordinates": {
-      "lat": 50.05707211668202,
-      "lng": 21.607251279120035
+      "lat": 50.053681220336074,
+      "lng": 21.600197757388823
     },
     "isNearBorder": false,
     "areaM2": 18506,
@@ -3568,8 +3568,8 @@
     "county": "przeworski",
     "city": "Siennów",
     "coordinates": {
-      "lat": 50.06007762133558,
-      "lng": 22.497089026569988
+      "lat": 50.05359398139081,
+      "lng": 22.49056785078952
     },
     "isNearBorder": false,
     "areaM2": 1900,
@@ -3603,8 +3603,8 @@
     "city": "Stalowa Wola",
     "street": "ul. Siedliska",
     "coordinates": {
-      "lat": 50.57718024274737,
-      "lng": 22.044409050822733
+      "lat": 50.57653586947396,
+      "lng": 22.05122469561618
     },
     "isNearBorder": false,
     "areaM2": 2439,
@@ -3638,8 +3638,8 @@
     "city": "Głobikowa",
     "street": "Głobikowa",
     "coordinates": {
-      "lat": 50.04416805314378,
-      "lng": 21.418584421617926
+      "lat": 50.05829143986258,
+      "lng": 21.41299058332771
     },
     "isNearBorder": false,
     "areaM2": 5961,

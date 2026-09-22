@@ -11,8 +11,8 @@
     "city": "Folusz",
     "street": "ul. Folusz, gmina Pleszew",
     "coordinates": {
-      "lat": 51.870674720135106,
-      "lng": 17.754335901754988
+      "lat": 51.868166391541024,
+      "lng": 17.76228043516912
     },
     "isNearBorder": false,
     "areaM2": 256,
@@ -46,8 +46,8 @@
     "county": "radziejowski",
     "city": "Nowa Wieś",
     "coordinates": {
-      "lat": 52.611839131969525,
-      "lng": 18.508400332311112
+      "lat": 52.61964451173234,
+      "lng": 18.51136750641172
     },
     "isNearBorder": false,
     "areaM2": 75,
@@ -81,8 +81,8 @@
     "county": "pilski",
     "city": "Jeziorki Kosztowskie",
     "coordinates": {
-      "lat": 53.17514135554804,
-      "lng": 17.140129952966166
+      "lat": 53.186081190879115,
+      "lng": 17.146252478477514
     },
     "isNearBorder": false,
     "areaM2": 250,
@@ -115,8 +115,8 @@
     "county": "leszczynski",
     "city": "Frankowo",
     "coordinates": {
-      "lat": 51.916124891164095,
-      "lng": 16.718649468000596
+      "lat": 51.92563400747184,
+      "lng": 16.709407734351856
     },
     "isNearBorder": false,
     "areaM2": 270,
@@ -149,8 +149,8 @@
     "county": "gnieznienski",
     "city": "Kąpiel",
     "coordinates": {
-      "lat": 52.44599189980621,
-      "lng": 17.44817517695522
+      "lat": 52.45044056556968,
+      "lng": 17.454524596389593
     },
     "isNearBorder": false,
     "areaM2": 160,
@@ -184,8 +184,8 @@
     "city": "Sobiesęki Pierwsze",
     "street": "Wesółka",
     "coordinates": {
-      "lat": 51.690869035482706,
-      "lng": 18.29156239261441
+      "lat": 51.68941692939297,
+      "lng": 18.30975756931131
     },
     "isNearBorder": false,
     "areaM2": 210,
@@ -218,8 +218,8 @@
     "county": "międzychodzki",
     "city": "Głażewo",
     "coordinates": {
-      "lat": 52.61401792827336,
-      "lng": 15.988636241498405
+      "lat": 52.60343154463719,
+      "lng": 15.97693175237371
     },
     "isNearBorder": false,
     "areaM2": 263000,
@@ -252,8 +252,8 @@
     "county": "grodziski",
     "city": "Grodzisk Wielkopolski",
     "coordinates": {
-      "lat": 52.227261151984194,
-      "lng": 16.363567140447348
+      "lat": 52.23455578775524,
+      "lng": 16.35696854069027
     },
     "isNearBorder": false,
     "areaM2": 8000,
@@ -287,8 +287,8 @@
     "city": "Cegielnia-Rudki",
     "street": "Pagórki",
     "coordinates": {
-      "lat": 52.573585277203826,
-      "lng": 17.812275969476907
+      "lat": 52.573971759977994,
+      "lng": 17.8259448387711
     },
     "isNearBorder": false,
     "areaM2": 6200,
@@ -321,8 +321,8 @@
     "county": "turecki",
     "city": "Tarnowa",
     "coordinates": {
-      "lat": 52.056189367689804,
-      "lng": 18.276549843916104
+      "lat": 52.04439084324696,
+      "lng": 18.27130282876025
     },
     "isNearBorder": false,
     "areaM2": 52600,
@@ -356,8 +356,8 @@
     "city": "Czempisz",
     "street": "Dziadowice",
     "coordinates": {
-      "lat": 51.59490269525533,
-      "lng": 18.293706755243672
+      "lat": 51.60109597677152,
+      "lng": 18.28266863018455
     },
     "isNearBorder": false,
     "areaM2": 1700,
@@ -391,8 +391,8 @@
     "city": "Poznań",
     "street": "Pokrzywno",
     "coordinates": {
-      "lat": 52.41010199780003,
-      "lng": 16.91984905302848
+      "lat": 52.412421336324314,
+      "lng": 16.934649742400303
     },
     "isNearBorder": false,
     "areaM2": 801,
@@ -425,8 +425,8 @@
     "county": "miedzychodzki",
     "city": "Kurnatowice",
     "coordinates": {
-      "lat": 52.55920900755217,
-      "lng": 16.030069250556437
+      "lat": 52.56715935210765,
+      "lng": 16.02216990732694
     },
     "isNearBorder": false,
     "areaM2": 1025,
@@ -459,8 +459,8 @@
     "county": "ostrowski",
     "city": "Pawłów",
     "coordinates": {
-      "lat": 51.48296917543377,
-      "lng": 17.65518172964559
+      "lat": 51.483153082124595,
+      "lng": 17.64290854583657
     },
     "isNearBorder": false,
     "areaM2": 51700,
