@@ -142,6 +142,17 @@ export function parseAdresowoHtml(
       county = inferCounty(city);
     }
 
+    if (!county && path) {
+      const slugParts = path.replace(/^\/o\//, '').replace(/-[a-z0-9]+$/, '').split('-');
+      for (const part of slugParts) {
+        const inf = inferCounty(part);
+        if (inf) {
+          county = inf;
+          break;
+        }
+      }
+    }
+
     // Opis oferty i ewentualne wyszukanie powierzchni działki dla domu
     const descText = card.find('p.line-clamp-4').text().trim();
     let plotAreaM2: number | undefined = undefined;

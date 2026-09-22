@@ -8,7 +8,171 @@ export const VOIVODESHIPS: { id: Voivodeship; name: string; borderWith: string }
 ];
 
 /**
- * Centra miast i powiatów we wschodniej Polsce (współrzędne geograficzne)
+ * Normalizuje tekst: małe litery, usunięcie polskich znaków diakrytycznych i zbędnych spacji.
+ */
+export function normalizeText(str: string): string {
+  if (!str) return '';
+  return str
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/ł/g, 'l')
+    .replace(/Ł/g, 'l')
+    .trim();
+}
+
+/**
+ * Centra poszczególnych powiatów (współrzędne geograficzne)
+ */
+export const COUNTY_COORDINATES: Record<string, { lat: number; lng: number }> = {
+  // --- Wielkopolskie ---
+  chodzieski: { lat: 52.9936, lng: 16.9142 },
+  'czarnkowsko-trzcianecki': { lat: 52.9031, lng: 16.5647 },
+  czarnkowski: { lat: 52.9031, lng: 16.5647 },
+  trzcianecki: { lat: 53.0406, lng: 16.4589 },
+  gnieźnieński: { lat: 52.5348, lng: 17.5826 },
+  gnieznienski: { lat: 52.5348, lng: 17.5826 },
+  gostyński: { lat: 51.8789, lng: 17.0125 },
+  gostynski: { lat: 51.8789, lng: 17.0125 },
+  grodziski: { lat: 52.2272, lng: 16.3653 },
+  jarociński: { lat: 51.9728, lng: 17.5025 },
+  jarocinski: { lat: 51.9728, lng: 17.5025 },
+  kaliski: { lat: 51.7673, lng: 18.0853 },
+  kępiński: { lat: 51.2783, lng: 17.9883 },
+  kepinski: { lat: 51.2783, lng: 17.9883 },
+  kolski: { lat: 52.2003, lng: 18.6386 },
+  koniński: { lat: 52.2230, lng: 18.2512 },
+  koninski: { lat: 52.2230, lng: 18.2512 },
+  kościański: { lat: 52.0886, lng: 16.6492 },
+  koscianski: { lat: 52.0886, lng: 16.6492 },
+  krotoszyński: { lat: 51.6975, lng: 17.4372 },
+  krotoszynski: { lat: 51.6975, lng: 17.4372 },
+  leszczyński: { lat: 51.8427, lng: 16.5749 },
+  leszczynski: { lat: 51.8427, lng: 16.5749 },
+  międzychodzki: { lat: 52.6033, lng: 15.8906 },
+  miedzychodzki: { lat: 52.6033, lng: 15.8906 },
+  nowotomyski: { lat: 52.3167, lng: 16.1333 },
+  obornicki: { lat: 52.6467, lng: 16.8153 },
+  ostrowski: { lat: 51.6550, lng: 17.8068 },
+  ostrzeszowski: { lat: 51.4283, lng: 17.9256 },
+  pilski: { lat: 53.1514, lng: 16.7378 },
+  pleszewski: { lat: 51.8958, lng: 17.7850 },
+  poznański: { lat: 52.4064, lng: 16.9252 },
+  poznanski: { lat: 52.4064, lng: 16.9252 },
+  rawicki: { lat: 51.6094, lng: 16.8581 },
+  słupecki: { lat: 52.2903, lng: 17.8722 },
+  slupecki: { lat: 52.2903, lng: 17.8722 },
+  szamotulski: { lat: 52.6117, lng: 16.5778 },
+  średzki: { lat: 52.2289, lng: 17.2742 },
+  sredzki: { lat: 52.2289, lng: 17.2742 },
+  śremski: { lat: 52.0886, lng: 17.0153 },
+  sremski: { lat: 52.0886, lng: 17.0153 },
+  turecki: { lat: 52.0161, lng: 18.5008 },
+  wągrowiecki: { lat: 52.8081, lng: 17.1997 },
+  wagrowiecki: { lat: 52.8081, lng: 17.1997 },
+  wolsztyński: { lat: 52.1158, lng: 16.1150 },
+  wolsztynski: { lat: 52.1158, lng: 16.1150 },
+  wrzesiński: { lat: 52.3253, lng: 17.5650 },
+  wrzesinski: { lat: 52.3253, lng: 17.5650 },
+  złotowski: { lat: 53.3611, lng: 17.0417 },
+  zlotowski: { lat: 53.3611, lng: 17.0417 },
+
+  // --- Lubelskie ---
+  bialski: { lat: 52.0326, lng: 23.1165 },
+  biłgorajski: { lat: 50.5408, lng: 22.7214 },
+  bilgorajski: { lat: 50.5408, lng: 22.7214 },
+  chełmski: { lat: 51.1333, lng: 23.4833 },
+  chelmski: { lat: 51.1333, lng: 23.4833 },
+  hrubieszowski: { lat: 50.8052, lng: 23.8912 },
+  janowski: { lat: 50.7072, lng: 22.4103 },
+  krasnostawski: { lat: 50.9856, lng: 23.1764 },
+  kraśnicki: { lat: 50.9239, lng: 22.2247 },
+  krasnicki: { lat: 50.9239, lng: 22.2247 },
+  lubartowski: { lat: 51.4619, lng: 22.6078 },
+  lubelski: { lat: 51.2465, lng: 22.5684 },
+  łęczyński: { lat: 51.3008, lng: 22.8803 },
+  leczynski: { lat: 51.3008, lng: 22.8803 },
+  łukowski: { lat: 51.9286, lng: 22.3839 },
+  lukowski: { lat: 51.9286, lng: 22.3839 },
+  opolski: { lat: 51.1472, lng: 21.9706 },
+  parczewski: { lat: 51.6403, lng: 22.9014 },
+  puławski: { lat: 51.4166, lng: 21.9694 },
+  pulawski: { lat: 51.4166, lng: 21.9694 },
+  radzyński: { lat: 51.7831, lng: 22.6181 },
+  radzynski: { lat: 51.7831, lng: 22.6181 },
+  rycki: { lat: 51.6253, lng: 21.9333 },
+  świdnicki: { lat: 51.2189, lng: 22.6953 },
+  swidnicki: { lat: 51.2189, lng: 22.6953 },
+  tomaszowski: { lat: 50.4485, lng: 23.4162 },
+  włodawski: { lat: 51.5438, lng: 23.5511 },
+  wlodawski: { lat: 51.5438, lng: 23.5511 },
+  zamojski: { lat: 50.7206, lng: 23.2589 },
+
+  // --- Podlaskie ---
+  augustowski: { lat: 53.8433, lng: 22.9797 },
+  białostocki: { lat: 53.1325, lng: 23.1688 },
+  bialostocki: { lat: 53.1325, lng: 23.1688 },
+  bielski: { lat: 52.7667, lng: 23.1931 },
+  grajewski: { lat: 53.6472, lng: 22.4542 },
+  hajnowski: { lat: 52.7433, lng: 23.5811 },
+  kolneński: { lat: 53.4111, lng: 21.9333 },
+  kolnenski: { lat: 53.4111, lng: 21.9333 },
+  łomżyński: { lat: 53.1781, lng: 22.0594 },
+  lomzynski: { lat: 53.1781, lng: 22.0594 },
+  moniecki: { lat: 53.4056, lng: 22.7961 },
+  sejneński: { lat: 54.1072, lng: 23.3486 },
+  sejnenski: { lat: 54.1072, lng: 23.3486 },
+  siemiatycki: { lat: 52.4272, lng: 22.8628 },
+  sokólski: { lat: 53.4069, lng: 23.5039 },
+  sokolski: { lat: 53.4069, lng: 23.5039 },
+  suwalski: { lat: 54.1006, lng: 22.9308 },
+  wysokomazowiecki: { lat: 52.9167, lng: 22.5167 },
+  zambrowski: { lat: 52.9856, lng: 22.2433 },
+
+  // --- Podkarpackie ---
+  bieszczadzki: { lat: 49.4311, lng: 22.5936 },
+  brzozowski: { lat: 49.6947, lng: 22.0194 },
+  dębicki: { lat: 50.0514, lng: 21.4114 },
+  debicki: { lat: 50.0514, lng: 21.4114 },
+  jarosławski: { lat: 50.0189, lng: 22.6842 },
+  jaroslawski: { lat: 50.0189, lng: 22.6842 },
+  jasielski: { lat: 49.7453, lng: 21.4725 },
+  kolbuszowski: { lat: 50.2458, lng: 21.7706 },
+  krośnieński: { lat: 49.6886, lng: 21.7706 },
+  krosnienski: { lat: 49.6886, lng: 21.7706 },
+  leski: { lat: 49.4697, lng: 22.3297 },
+  leżajski: { lat: 50.2639, lng: 22.4236 },
+  lezajski: { lat: 50.2639, lng: 22.4236 },
+  lubaczowski: { lat: 50.1558, lng: 23.1239 },
+  łańcucki: { lat: 50.0683, lng: 22.2306 },
+  lancucki: { lat: 50.0683, lng: 22.2306 },
+  mielecki: { lat: 50.2872, lng: 21.4239 },
+  niżański: { lat: 50.5206, lng: 22.1408 },
+  nizanski: { lat: 50.5206, lng: 22.1408 },
+  przemyski: { lat: 49.7839, lng: 22.7678 },
+  przeworski: { lat: 50.0603, lng: 22.4939 },
+  'ropczycko-sędziszowski': { lat: 50.0525, lng: 21.6094 },
+  'ropczycko-sedziszowski': { lat: 50.0525, lng: 21.6094 },
+  rzeszowski: { lat: 50.0412, lng: 21.9991 },
+  sanocki: { lat: 49.5583, lng: 22.2056 },
+  stalowowolski: { lat: 50.5828, lng: 22.0536 },
+  strzyżowski: { lat: 49.8708, lng: 21.7925 },
+  strzyzowski: { lat: 49.8708, lng: 21.7925 },
+  tarnobrzeski: { lat: 50.5739, lng: 21.6797 },
+
+  // --- Graniczne / sąsiadujące ---
+  radziejowski: { lat: 52.6167, lng: 18.5167 },
+  żniński: { lat: 52.8500, lng: 17.7167 },
+  zninski: { lat: 52.8500, lng: 17.7167 },
+  milicki: { lat: 51.5289, lng: 17.2736 },
+  oleśnicki: { lat: 51.2106, lng: 17.3800 },
+  olesnicki: { lat: 51.2106, lng: 17.3800 },
+  międzyrzecki: { lat: 52.4439, lng: 15.5786 },
+  miedzyrzecki: { lat: 52.4439, lng: 15.5786 },
+};
+
+/**
+ * Centra miast i miejscowości (współrzędne geograficzne)
  */
 export const CITY_COORDINATES: Record<string, { lat: number; lng: number }> = {
   // --- Lubelskie ---
@@ -54,6 +218,7 @@ export const CITY_COORDINATES: Record<string, { lat: number; lng: number }> = {
   'janów lubelski': { lat: 50.7072, lng: 22.4103 },
   'janow lubelski': { lat: 50.7072, lng: 22.4103 },
   'janów podlaski': { lat: 52.1969, lng: 23.2117 },
+  'janow podlaski': { lat: 52.1969, lng: 23.2117 },
   sławatycze: { lat: 51.7619, lng: 23.5556 },
   slawatycze: { lat: 51.7619, lng: 23.5556 },
 
@@ -141,7 +306,7 @@ export const CITY_COORDINATES: Record<string, { lat: number; lng: number }> = {
   cieszanów: { lat: 50.2456, lng: 23.1319 },
   cieszanow: { lat: 50.2456, lng: 23.1319 },
 
-  // --- Wielkopolskie ---
+  // --- Wielkopolskie - Miasta i Gminy ---
   poznań: { lat: 52.4064, lng: 16.9252 },
   poznan: { lat: 52.4064, lng: 16.9252 },
   kalisz: { lat: 51.7673, lng: 18.0853 },
@@ -204,24 +369,92 @@ export const CITY_COORDINATES: Record<string, { lat: number; lng: number }> = {
   kostrzyn: { lat: 52.3986, lng: 17.2278 },
   puszczykowo: { lat: 52.2817, lng: 16.8589 },
   pobiedziska: { lat: 52.4819, lng: 17.2794 },
+  kępno: { lat: 51.2783, lng: 17.9883 },
+  kepno: { lat: 51.2783, lng: 17.9883 },
+
+  // Gminy i mniejsze miejscowości w Wielkopolsce
+  sośnie: { lat: 51.4883, lng: 17.7183 },
+  sosnie: { lat: 51.4883, lng: 17.7183 },
+  pawłów: { lat: 51.4800, lng: 17.6500 },
+  pawlow: { lat: 51.4800, lng: 17.6500 },
+  wysoka: { lat: 53.1814, lng: 17.0808 },
+  'jeziorki kosztowskie': { lat: 53.1800, lng: 17.1500 },
+  osieczna: { lat: 51.9083, lng: 16.6806 },
+  frankowo: { lat: 51.9200, lng: 16.7100 },
+  czerniejewo: { lat: 52.4278, lng: 17.4878 },
+  kąpiel: { lat: 52.4500, lng: 17.4500 },
+  kapiel: { lat: 52.4500, lng: 17.4500 },
+  kwilcz: { lat: 52.5564, lng: 16.0828 },
+  kurnatowice: { lat: 52.5600, lng: 16.0300 },
+  głażewo: { lat: 52.6100, lng: 15.9800 },
+  glazewo: { lat: 52.6100, lng: 15.9800 },
+  szczytniki: { lat: 51.6833, lng: 18.3167 },
+  sobiesęki: { lat: 51.6900, lng: 18.3000 },
+  sobieseki: { lat: 51.6900, lng: 18.3000 },
+  'sobiesęki pierwsze': { lat: 51.6900, lng: 18.3000 },
+  'sobieseki pierwsze': { lat: 51.6900, lng: 18.3000 },
+  brzeziny: { lat: 51.6000, lng: 18.2667 },
+  czempisz: { lat: 51.6000, lng: 18.2900 },
+  tuliszków: { lat: 52.0736, lng: 18.2897 },
+  tuliszkow: { lat: 52.0736, lng: 18.2897 },
+  tarnowa: { lat: 52.0500, lng: 18.2800 },
+  trzemeszno: { lat: 52.5611, lng: 17.8239 },
+  'cegielnia-rudki': { lat: 52.5700, lng: 17.8200 },
+  wierzbinek: { lat: 52.4300, lng: 18.5200 },
+  folusz: { lat: 51.8700, lng: 17.7600 },
+  'tarnowo podgórne': { lat: 52.4667, lng: 16.6667 },
+  'tarnowo podgorne': { lat: 52.4667, lng: 16.6667 },
+  'suchy las': { lat: 52.4750, lng: 16.8778 },
+  komorniki: { lat: 52.3361, lng: 16.8083 },
+  'murowana goślina': { lat: 52.5750, lng: 17.0111 },
+  'murowana goslina': { lat: 52.5750, lng: 17.0111 },
+  czerwonak: { lat: 52.4500, lng: 16.9833 },
+  rokietnica: { lat: 52.5167, lng: 16.7500 },
+  dopiewo: { lat: 52.3556, lng: 16.6778 },
+  stęszew: { lat: 52.2833, lng: 16.7000 },
+  steszew: { lat: 52.2833, lng: 16.7000 },
+  kleszczewo: { lat: 52.3333, lng: 17.1833 },
+  buk: { lat: 52.3556, lng: 16.5194 },
+  pniewy: { lat: 52.5083, lng: 16.2583 },
+  sieraków: { lat: 52.6500, lng: 16.0833 },
+  sierakow: { lat: 52.6500, lng: 16.0833 },
+  rydzyna: { lat: 51.7867, lng: 16.6681 },
+  krobia: { lat: 51.7833, lng: 16.9833 },
+  piaski: { lat: 51.8833, lng: 17.0500 },
+  'borek wielkopolski': { lat: 51.9167, lng: 17.2333 },
+  pogorzela: { lat: 51.8167, lng: 17.2333 },
+  pępowo: { lat: 51.7500, lng: 17.1167 },
+  pepowo: { lat: 51.7500, lng: 17.1167 },
+  witkowo: { lat: 52.4333, lng: 17.7667 },
+  skoki: { lat: 52.6667, lng: 17.1667 },
+  kleczew: { lat: 52.3667, lng: 18.1833 },
+  sompolno: { lat: 52.3833, lng: 18.5000 },
+  golina: { lat: 52.2500, lng: 18.1000 },
+  rychwał: { lat: 52.0667, lng: 18.1667 },
+  rychwal: { lat: 52.0667, lng: 18.1667 },
+  zagórów: { lat: 52.1667, lng: 17.9000 },
+  zagorow: { lat: 52.1667, lng: 17.9000 },
+  powidz: { lat: 52.4167, lng: 17.9167 },
+  pyzdry: { lat: 52.1667, lng: 17.6833 },
+  koźmin: { lat: 51.8333, lng: 17.4500 },
+  kozmin: { lat: 51.8333, lng: 17.4500 },
+  zduny: { lat: 51.6333, lng: 17.3833 },
+  kobylin: { lat: 51.7167, lng: 17.2333 },
+  bojanowo: { lat: 51.7000, lng: 16.7500 },
+  jutrosin: { lat: 51.6500, lng: 17.1667 },
+  odolanów: { lat: 51.5833, lng: 17.6667 },
+  odolanow: { lat: 51.5833, lng: 17.6667 },
+  raszków: { lat: 51.7167, lng: 17.7333 },
+  raszkow: { lat: 51.7167, lng: 17.7333 },
+  przygodzice: { lat: 51.6000, lng: 17.8167 },
+  nowe: { lat: 52.4000, lng: 17.0000 },
+
+  // Zawrzyj również wszystkie wpisy powiatowe bezpośrednio w CITY_COORDINATES
+  ...COUNTY_COORDINATES,
 };
 
 /**
- * Normalizuje tekst: małe litery, usunięcie polskich znaków diakrytycznych i zbędnych spacji.
- */
-export function normalizeText(str: string): string {
-  if (!str) return '';
-  return str
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
-    .replace(/ł/g, 'l')
-    .replace(/Ł/g, 'l')
-    .trim();
-}
-
-/**
- * Miasta na prawach powiatu oraz mapowanie miast do powiatów
+ * Miasta na prawach powiatu oraz mapowanie miast i gmin do powiatów
  */
 export const CITY_TO_COUNTY: Record<string, string> = {
   // Lubelskie
@@ -404,6 +637,37 @@ export const CITY_TO_COUNTY: Record<string, string> = {
   kostrzyn: 'poznański',
   puszczykowo: 'poznański',
   pobiedziska: 'poznański',
+  sośnie: 'ostrowski',
+  sosnie: 'ostrowski',
+  pawłów: 'ostrowski',
+  pawlow: 'ostrowski',
+  wysoka: 'pilski',
+  'jeziorki kosztowskie': 'pilski',
+  osieczna: 'leszczyński',
+  frankowo: 'leszczyński',
+  czerniejewo: 'gnieźnieński',
+  kąpiel: 'gnieźnieński',
+  kapiel: 'gnieźnieński',
+  kwilcz: 'międzychodzki',
+  kurnatowice: 'międzychodzki',
+  głażewo: 'międzychodzki',
+  glazewo: 'międzychodzki',
+  szczytniki: 'kaliski',
+  sobiesęki: 'kaliski',
+  sobieseki: 'kaliski',
+  'sobiesęki pierwsze': 'kaliski',
+  'sobieseki pierwsze': 'kaliski',
+  brzeziny: 'kaliski',
+  czempisz: 'kaliski',
+  tuliszków: 'turecki',
+  tuliszkow: 'turecki',
+  tarnowa: 'turecki',
+  trzemeszno: 'gnieźnieński',
+  'cegielnia-rudki': 'gnieźnieński',
+  wierzbinek: 'koniński',
+  folusz: 'pleszewski',
+  kępno: 'kępiński',
+  kepno: 'kępiński',
 };
 
 /**
@@ -449,23 +713,32 @@ export const BORDER_COUNTIES: Record<Voivodeship, string[]> = {
 };
 
 /**
- * Pomocnicza funkcja do inferencji powiatu na podstawie nazwy miejscowości
+ * Pomocnicza funkcja do inferencji powiatu na podstawie nazwy miejscowości lub powiatu
  */
 export function inferCounty(city?: string, existingCounty?: string): string | undefined {
   if (existingCounty && existingCounty.trim() !== '') {
-    return existingCounty;
+    const cleanExisting = existingCounty.replace(/^powiat\s+/i, '').trim();
+    if (cleanExisting) return cleanExisting;
   }
   if (!city) return undefined;
-  const rawNorm = city.toLowerCase().trim();
+
+  const rawNorm = city.toLowerCase().replace(/^powiat\s+/i, '').trim();
   if (CITY_TO_COUNTY[rawNorm]) {
     return CITY_TO_COUNTY[rawNorm];
   }
-  const cleanNorm = normalizeText(city);
+  const cleanNorm = normalizeText(rawNorm);
+
+  // Sprawdź czy sama nazwa nie jest już powiatem (np. "ostrowski", "pilski")
+  if (COUNTY_COORDINATES[cleanNorm] || COUNTY_COORDINATES[rawNorm]) {
+    return cleanNorm;
+  }
+
   for (const [k, v] of Object.entries(CITY_TO_COUNTY)) {
     if (normalizeText(k) === cleanNorm) {
       return v;
     }
   }
+
   return undefined;
 }
 
@@ -474,7 +747,7 @@ export function inferCounty(city?: string, existingCounty?: string): string | un
  */
 export function isBorderLocation(voivodeship: Voivodeship, countyName?: string, cityName?: string): boolean {
   const list = BORDER_COUNTIES[voivodeship];
-  if (!list) return false;
+  if (!list || list.length === 0) return false;
 
   const normCounty = countyName ? normalizeText(countyName.replace(/^powiat\s+/, '')) : '';
   const normCity = cityName ? normalizeText(cityName) : '';
@@ -528,39 +801,86 @@ export function isBorderCounty(voivodeship: Voivodeship, countyName?: string, ci
 
 /**
  * Pobiera dokładne współrzędne dla miejscowości lub powiatu, z lekkim jitterem,
- * aby oferty w tej samej miejscowości nie nakładały się w 100% na siebie na mapie.
+ * aby oferty w tej samej miejscowości/powiecie nie nakładały się w 100% na siebie na mapie.
  */
 export function getLocationCoordinates(
   voivodeship: Voivodeship,
   city?: string,
   county?: string
 ): { lat: number; lng: number } {
-  const normCity = city?.toLowerCase().trim();
-  const normCounty = county?.toLowerCase().replace(/^powiat\s+/, '').trim();
+  const rawCity = city?.trim();
+  const normCity = rawCity?.toLowerCase();
+  const cleanCity = rawCity ? normalizeText(rawCity) : undefined;
+
+  const rawCounty = county?.replace(/^powiat\s+/i, '').trim();
+  const normCounty = rawCounty?.toLowerCase();
+  const cleanCounty = rawCounty ? normalizeText(rawCounty) : undefined;
 
   let baseCoords: { lat: number; lng: number } | undefined = undefined;
 
+  // 1. Bezpośrednie dopasowanie miejscowości w CITY_COORDINATES
   if (normCity && CITY_COORDINATES[normCity]) {
     baseCoords = CITY_COORDINATES[normCity];
-  } else if (normCounty && CITY_COORDINATES[normCounty]) {
-    baseCoords = CITY_COORDINATES[normCounty];
-  } else {
-    // Przeszukaj czy jakaś znana miejscowość zawiera się w nazwie
-    if (normCity) {
-      for (const [knownCity, coords] of Object.entries(CITY_COORDINATES)) {
-        if (normCity.includes(knownCity) || knownCity.includes(normCity)) {
-          baseCoords = coords;
-          break;
-        }
+  } else if (cleanCity && CITY_COORDINATES[cleanCity]) {
+    baseCoords = CITY_COORDINATES[cleanCity];
+  }
+
+  // 2. Jeśli miejscowość nie jest znana, sprawdź czy mapuje się do znanego powiatu (inferCounty)
+  if (!baseCoords && rawCity) {
+    const inferred = inferCounty(rawCity);
+    if (inferred) {
+      const cleanInf = normalizeText(inferred.replace(/^powiat\s+/i, ''));
+      if (COUNTY_COORDINATES[cleanInf]) {
+        baseCoords = COUNTY_COORDINATES[cleanInf];
+      } else if (COUNTY_COORDINATES[inferred.toLowerCase()]) {
+        baseCoords = COUNTY_COORDINATES[inferred.toLowerCase()];
+      } else if (CITY_COORDINATES[cleanInf]) {
+        baseCoords = CITY_COORDINATES[cleanInf];
       }
     }
   }
 
+  // 3. Dopasowanie powiatu przekazanego jako parametr
+  if (!baseCoords && normCounty) {
+    if (COUNTY_COORDINATES[normCounty]) {
+      baseCoords = COUNTY_COORDINATES[normCounty];
+    } else if (cleanCounty && COUNTY_COORDINATES[cleanCounty]) {
+      baseCoords = COUNTY_COORDINATES[cleanCounty];
+    } else if (CITY_COORDINATES[normCounty]) {
+      baseCoords = CITY_COORDINATES[normCounty];
+    } else if (cleanCounty && CITY_COORDINATES[cleanCounty]) {
+      baseCoords = CITY_COORDINATES[cleanCounty];
+    }
+  }
+
+  // 4. Dopasowanie częściowe (zawieranie) dla miejscowości
+  if (!baseCoords && cleanCity && cleanCity.length >= 3) {
+    for (const [knownCity, coords] of Object.entries(CITY_COORDINATES)) {
+      const cleanKnown = normalizeText(knownCity);
+      if (cleanCity === cleanKnown || cleanCity.includes(cleanKnown) || cleanKnown.includes(cleanCity)) {
+        baseCoords = coords;
+        break;
+      }
+    }
+  }
+
+  // 5. Dopasowanie częściowe (zawieranie) dla powiatu
+  if (!baseCoords && cleanCounty && cleanCounty.length >= 4) {
+    for (const [knownCounty, coords] of Object.entries(COUNTY_COORDINATES)) {
+      const cleanKnown = normalizeText(knownCounty);
+      if (cleanCounty === cleanKnown || cleanCounty.includes(cleanKnown) || cleanKnown.includes(cleanCounty)) {
+        baseCoords = coords;
+        break;
+      }
+    }
+  }
+
+  // 6. Ostateczny fallback na centrum województwa
   if (!baseCoords) {
     baseCoords = VOIVODESHIP_CENTERS[voivodeship] || EAST_POLAND_CENTER;
   }
 
-  // Dodaj delikatny jitter (ok. +/- 300-800 m) aby punkty w tym samym mieście nie były idealnie w jednym punkcie
+  // Dodaj delikatny jitter (ok. +/- 300-800 m) aby punkty w tej samej lokalizacji nie były idealnie w jednym punkcie
   const jitterLat = (Math.random() - 0.5) * 0.015;
   const jitterLng = (Math.random() - 0.5) * 0.02;
 

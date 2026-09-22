@@ -10,8 +10,8 @@
     "county": "bialski",
     "city": "Wólka Zabłocka-Kolonia",
     "coordinates": {
-      "lat": 51.249887446436055,
-      "lng": 22.560778357899554
+      "lat": 52.038918162314204,
+      "lng": 23.116344660962643
     },
     "isNearBorder": true,
     "areaM2": 137,
@@ -46,8 +46,8 @@
     "city": "Tokary",
     "street": "Tokary",
     "coordinates": {
-      "lat": 51.240923156825836,
-      "lng": 22.566805477419905
+      "lat": 50.54027621623181,
+      "lng": 22.722212171729343
     },
     "isNearBorder": true,
     "areaM2": 50,
@@ -81,8 +81,8 @@
     "county": "lubelski",
     "city": "Walentynów",
     "coordinates": {
-      "lat": 51.246058794949334,
-      "lng": 22.56318818592541
+      "lat": 51.2493627919617,
+      "lng": 22.566338238076273
     },
     "isNearBorder": false,
     "areaM2": 60,
@@ -116,8 +116,8 @@
     "county": "biłgorajski",
     "city": "Panasówka",
     "coordinates": {
-      "lat": 51.24175497049255,
-      "lng": 22.56735902271542
+      "lat": 50.535142568326755,
+      "lng": 22.723072344807303
     },
     "isNearBorder": true,
     "areaM2": 315,
@@ -157,8 +157,8 @@
     "county": "krasnostawski",
     "city": "Bzite",
     "coordinates": {
-      "lat": 51.25363337530741,
-      "lng": 22.57752378017575
+      "lat": 50.992008974654894,
+      "lng": 23.183986833472396
     },
     "isNearBorder": true,
     "areaM2": 100,
@@ -193,8 +193,8 @@
     "city": "Zawada",
     "street": "Zawada",
     "coordinates": {
-      "lat": 51.252942279147774,
-      "lng": 22.571666033859785
+      "lat": 51.421997578741355,
+      "lng": 21.962832111953613
     },
     "isNearBorder": false,
     "areaM2": 350,
@@ -228,8 +228,8 @@
     "county": "hrubieszowski",
     "city": "Hostynne-Kolonia",
     "coordinates": {
-      "lat": 51.25372675268972,
-      "lng": 22.575435794017324
+      "lat": 50.80682155167453,
+      "lng": 23.889356745062834
     },
     "isNearBorder": true,
     "areaM2": 185,
@@ -263,8 +263,8 @@
     "county": "opolski",
     "city": "Chruślanki Józefowskie",
     "coordinates": {
-      "lat": 51.2480908991214,
-      "lng": 22.561921381851842
+      "lat": 51.13980544826765,
+      "lng": 21.973198418676315
     },
     "isNearBorder": false,
     "areaM2": 50,
@@ -298,8 +298,8 @@
     "county": "zamojski",
     "city": "Źrebce",
     "coordinates": {
-      "lat": 51.24489318672962,
-      "lng": 22.571570675826216
+      "lat": 50.716702667362064,
+      "lng": 23.25145141195456
     },
     "isNearBorder": true,
     "areaM2": 100,
@@ -333,8 +333,8 @@
     "county": "łukowski",
     "city": "Charlejów",
     "coordinates": {
-      "lat": 51.250247281008335,
-      "lng": 22.56018450265242
+      "lat": 51.92603756107217,
+      "lng": 22.39256645956421
     },
     "isNearBorder": false,
     "areaM2": 74,
@@ -368,8 +368,8 @@
     "county": "bialski",
     "city": "Łuniew",
     "coordinates": {
-      "lat": 51.24666668137688,
-      "lng": 22.57234095809518
+      "lat": 52.035464012790115,
+      "lng": 23.107161657661816
     },
     "isNearBorder": true,
     "areaM2": 166.67,
@@ -403,8 +403,8 @@
     "county": "parczewski",
     "city": "Podedwórze",
     "coordinates": {
-      "lat": 51.24772270636296,
-      "lng": 22.563805556349852
+      "lat": 51.64485447040363,
+      "lng": 22.907586812025926
     },
     "isNearBorder": true,
     "areaM2": 85,
@@ -438,8 +438,8 @@
     "county": "zamojski",
     "city": "Osiczyna",
     "coordinates": {
-      "lat": 51.239565683397736,
-      "lng": 22.564184134175424
+      "lat": 50.72106082053339,
+      "lng": 23.25533549228736
     },
     "isNearBorder": true,
     "areaM2": 72,
@@ -473,8 +473,8 @@
     "county": "chełmski",
     "city": "Putnowice Wielkie",
     "coordinates": {
-      "lat": 51.24130522175762,
-      "lng": 22.574507628208966
+      "lat": 51.13665005478478,
+      "lng": 23.488455361095028
     },
     "isNearBorder": true,
     "areaM2": 74,
@@ -508,8 +508,8 @@
     "county": "kraśnicki",
     "city": "Ludmiłówka",
     "coordinates": {
-      "lat": 51.24946497590832,
-      "lng": 22.57568762958362
+      "lat": 50.929855150631155,
+      "lng": 22.233294836689186
     },
     "isNearBorder": false,
     "areaM2": 180,
@@ -543,8 +543,8 @@
     "county": "chełmski",
     "city": "Stefanów",
     "coordinates": {
-      "lat": 51.25318679370803,
-      "lng": 22.569530367808433
+      "lat": 51.132711577868726,
+      "lng": 23.492906481501848
     },
     "isNearBorder": true,
     "areaM2": 115,
@@ -578,8 +578,8 @@
     "county": "lubelski",
     "city": "Boży Dar",
     "coordinates": {
-      "lat": 51.25387494833896,
-      "lng": 22.563751352514053
+      "lat": 51.25059999661366,
+      "lng": 22.573449901005556
     },
     "isNearBorder": false,
     "areaM2": 80,
@@ -619,8 +619,8 @@
     "county": "krasnostawski",
     "city": "Suchodoły",
     "coordinates": {
-      "lat": 51.24073169772433,
-      "lng": 22.571843530149113
+      "lat": 50.98926013121218,
+      "lng": 23.18621979015653
     },
     "isNearBorder": true,
     "areaM2": 73.8,
@@ -654,8 +654,8 @@
     "county": "radzyński",
     "city": "Ustrzesz",
     "coordinates": {
-      "lat": 51.250177133567036,
-      "lng": 22.572411889734433
+      "lat": 51.79059460292175,
+      "lng": 22.6219004963378
     },
     "isNearBorder": false,
     "areaM2": 120,
@@ -689,8 +689,8 @@
     "county": "chełmski",
     "city": "Leśniczówka",
     "coordinates": {
-      "lat": 51.24473591234911,
-      "lng": 22.559104170864856
+      "lat": 51.133231732762574,
+      "lng": 23.488583036361792
     },
     "isNearBorder": true,
     "areaM2": 99.9,
@@ -724,8 +724,8 @@
     "county": "bialski",
     "city": "Cicibór Mały",
     "coordinates": {
-      "lat": 51.24259147087761,
-      "lng": 22.559098326046747
+      "lat": 52.03667194817581,
+      "lng": 23.112495102621278
     },
     "isNearBorder": true,
     "areaM2": 140,
@@ -759,8 +759,8 @@
     "county": "zamojski",
     "city": "Tworyczów",
     "coordinates": {
-      "lat": 51.25018522473881,
-      "lng": 22.568368671312776
+      "lat": 50.72083821244359,
+      "lng": 23.25214651927812
     },
     "isNearBorder": true,
     "areaM2": 180,
@@ -794,8 +794,8 @@
     "county": "chełmski",
     "city": "Poniatówka",
     "coordinates": {
-      "lat": 51.24105225131631,
-      "lng": 22.561705213034863
+      "lat": 51.133193269229444,
+      "lng": 23.49008770900945
     },
     "isNearBorder": true,
     "areaM2": 85,
@@ -829,8 +829,8 @@
     "county": "łukowski",
     "city": "Osiny",
     "coordinates": {
-      "lat": 51.24332722261998,
-      "lng": 22.575054162986127
+      "lat": 51.9268110609792,
+      "lng": 22.379445410973815
     },
     "isNearBorder": false,
     "areaM2": 110,
@@ -864,8 +864,8 @@
     "county": "chełmski",
     "city": "Janostrów",
     "coordinates": {
-      "lat": 51.25138242630731,
-      "lng": 22.568544826574545
+      "lat": 51.127221696392944,
+      "lng": 23.486621835885167
     },
     "isNearBorder": true,
     "areaM2": 90,
@@ -899,8 +899,8 @@
     "county": "lubartowski",
     "city": "Trzciniec",
     "coordinates": {
-      "lat": 51.239435275760215,
-      "lng": 22.571778594983094
+      "lat": 51.464540366776255,
+      "lng": 22.614853770700105
     },
     "isNearBorder": false,
     "areaM2": 100,
@@ -934,8 +934,8 @@
     "county": "krasnostawski",
     "city": "Rożki-Kolonia",
     "coordinates": {
-      "lat": 51.248333468305326,
-      "lng": 22.57517547696909
+      "lat": 50.98214658829529,
+      "lng": 23.186054427513813
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -969,8 +969,8 @@
     "county": "lubelski",
     "city": "Jabłonna Druga",
     "coordinates": {
-      "lat": 51.24590311165217,
-      "lng": 22.569352223336217
+      "lat": 51.24728615940151,
+      "lng": 22.572270207736643
     },
     "isNearBorder": false,
     "areaM2": 160,
@@ -1005,8 +1005,8 @@
     "city": "Prawno",
     "street": "ul. Urzędowska",
     "coordinates": {
-      "lat": 51.25380652290609,
-      "lng": 22.563067353761248
+      "lat": 51.1510781630909,
+      "lng": 21.970876951642506
     },
     "isNearBorder": false,
     "areaM2": 90,
@@ -1040,8 +1040,8 @@
     "county": "lubelski",
     "city": "Dragany",
     "coordinates": {
-      "lat": 51.24316983670574,
-      "lng": 22.562291654644696
+      "lat": 51.25340049357045,
+      "lng": 22.568380609506
     },
     "isNearBorder": false,
     "areaM2": 180,
@@ -1075,8 +1075,8 @@
     "county": "krasnostawski",
     "city": "Łukaszówka",
     "coordinates": {
-      "lat": 51.24799195863672,
-      "lng": 22.565655253805392
+      "lat": 50.97944675254792,
+      "lng": 23.16917612994151
     },
     "isNearBorder": true,
     "areaM2": 180,
@@ -1110,8 +1110,8 @@
     "county": "tomaszowski",
     "city": "Łaszczów",
     "coordinates": {
-      "lat": 51.25271041089252,
-      "lng": 22.562938404198025
+      "lat": 50.44744469442222,
+      "lng": 23.425671899785865
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -1145,8 +1145,8 @@
     "county": "włodawski",
     "city": "Marianka",
     "coordinates": {
-      "lat": 51.24374783330262,
-      "lng": 22.575393465277106
+      "lat": 51.54857336515009,
+      "lng": 23.552776472995888
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -1180,8 +1180,8 @@
     "county": "puławski",
     "city": "Bartłomiejowice",
     "coordinates": {
-      "lat": 51.24102929382013,
-      "lng": 22.574458121558433
+      "lat": 51.419742560024005,
+      "lng": 21.96323579509152
     },
     "isNearBorder": false,
     "areaM2": 250,
@@ -1215,8 +1215,8 @@
     "county": "łęczyński",
     "city": "Białka-Kolonia",
     "coordinates": {
-      "lat": 51.24517580732392,
-      "lng": 22.559463987756725
+      "lat": 51.296034704609674,
+      "lng": 22.874464393348358
     },
     "isNearBorder": false,
     "areaM2": 130,
@@ -1250,8 +1250,8 @@
     "county": "krasnostawski",
     "city": "Mościska",
     "coordinates": {
-      "lat": 51.24978220109968,
-      "lng": 22.568627323498344
+      "lat": 50.99147571646225,
+      "lng": 23.167958674802975
     },
     "isNearBorder": true,
     "areaM2": 50,
@@ -1285,8 +1285,8 @@
     "county": "sandomierski",
     "city": "Linów",
     "coordinates": {
-      "lat": 51.253398781771494,
-      "lng": 22.568861292073294
+      "lat": 51.24740590263313,
+      "lng": 22.57623829086294
     },
     "isNearBorder": false,
     "areaM2": 86,
@@ -1320,8 +1320,8 @@
     "county": "łukowski",
     "city": "Stara Prawda",
     "coordinates": {
-      "lat": 51.250882101568756,
-      "lng": 22.57445255525702
+      "lat": 51.93304172137139,
+      "lng": 22.393441110598765
     },
     "isNearBorder": false,
     "areaM2": 100,
@@ -1355,8 +1355,8 @@
     "county": "zamojski",
     "city": "Wielącza-Kolonia",
     "coordinates": {
-      "lat": 51.25363249661669,
-      "lng": 22.559776589486855
+      "lat": 50.71681495614666,
+      "lng": 23.26386596689186
     },
     "isNearBorder": true,
     "areaM2": 80,
@@ -1390,8 +1390,8 @@
     "county": "chełmski",
     "city": "Skryhiczyn",
     "coordinates": {
-      "lat": 51.24641071262201,
-      "lng": 22.56966974368952
+      "lat": 51.12766975292249,
+      "lng": 23.478599942229753
     },
     "isNearBorder": true,
     "areaM2": 9500,
@@ -1425,8 +1425,8 @@
     "county": "opolski",
     "city": "Mieczysławka",
     "coordinates": {
-      "lat": 51.25267929565437,
-      "lng": 22.575955232991667
+      "lat": 51.14985747536949,
+      "lng": 21.965378267924173
     },
     "isNearBorder": false,
     "areaM2": 150,
@@ -1466,8 +1466,8 @@
     "county": "puławski",
     "city": "Polesie",
     "coordinates": {
-      "lat": 51.25316885921852,
-      "lng": 22.566316104422246
+      "lat": 51.4231605232086,
+      "lng": 21.973849628388205
     },
     "isNearBorder": false,
     "areaM2": 240,
@@ -1501,8 +1501,8 @@
     "county": "lubartowski",
     "city": "Kaznów",
     "coordinates": {
-      "lat": 51.245605200665985,
-      "lng": 22.56969298770482
+      "lat": 51.4619925913541,
+      "lng": 22.59887004453262
     },
     "isNearBorder": false,
     "areaM2": 82,
@@ -1536,8 +1536,8 @@
     "county": "krasnostawski",
     "city": "Ksawerówka",
     "coordinates": {
-      "lat": 51.24218484975616,
-      "lng": 22.563607285915758
+      "lat": 50.97818316555971,
+      "lng": 23.174645593060934
     },
     "isNearBorder": true,
     "areaM2": 50,
@@ -1571,8 +1571,8 @@
     "county": "bialski",
     "city": "Ortel Książęcy Drugi",
     "coordinates": {
-      "lat": 51.24304402946569,
-      "lng": 22.571868805959166
+      "lat": 52.0398118781411,
+      "lng": 23.11145506687041
     },
     "isNearBorder": true,
     "areaM2": 100,
@@ -1606,8 +1606,8 @@
     "county": "chełmski",
     "city": "Stańków",
     "coordinates": {
-      "lat": 51.24815747558295,
-      "lng": 22.563572183097605
+      "lat": 51.13479308448432,
+      "lng": 23.492856976223965
     },
     "isNearBorder": true,
     "areaM2": 50,
@@ -1641,8 +1641,8 @@
     "county": "biłgorajski",
     "city": "Zamch",
     "coordinates": {
-      "lat": 51.23959653262865,
-      "lng": 22.568128242238778
+      "lat": 50.53790239561487,
+      "lng": 22.72036212285789
     },
     "isNearBorder": true,
     "areaM2": 240,
@@ -1676,8 +1676,8 @@
     "county": "lubelski",
     "city": "Sobianowice",
     "coordinates": {
-      "lat": 51.25127150079468,
-      "lng": 22.566673642976493
+      "lat": 51.24153982679491,
+      "lng": 22.570927069986944
     },
     "isNearBorder": false,
     "areaM2": 70,
@@ -1711,8 +1711,8 @@
     "county": "świdnicki",
     "city": "Franciszków",
     "coordinates": {
-      "lat": 51.243526040498125,
-      "lng": 22.571338591515584
+      "lat": 51.22023014342072,
+      "lng": 22.700448732578838
     },
     "isNearBorder": false,
     "areaM2": 140,
@@ -1746,8 +1746,8 @@
     "county": "lubaczowski",
     "city": "Huta Różaniecka",
     "coordinates": {
-      "lat": 51.239168996461906,
-      "lng": 22.55852047674708
+      "lat": 50.160608432794646,
+      "lng": 23.11869449077195
     },
     "isNearBorder": false,
     "areaM2": 70,
@@ -1817,8 +1817,8 @@
     "city": "Dubienka",
     "street": "Kościuszki 35",
     "coordinates": {
-      "lat": 51.25393996426385,
-      "lng": 22.5693995219293
+      "lat": 51.127125535135015,
+      "lng": 23.4904288608107
     },
     "isNearBorder": true,
     "areaM2": 80,
@@ -1852,8 +1852,8 @@
     "county": "tomaszowski",
     "city": "Grabowica",
     "coordinates": {
-      "lat": 51.249234937608804,
-      "lng": 22.564223487543277
+      "lat": 50.454519884053035,
+      "lng": 23.418557284162965
     },
     "isNearBorder": true,
     "areaM2": 80,
@@ -1887,8 +1887,8 @@
     "county": "hrubieszowski",
     "city": "Honiatyczki",
     "coordinates": {
-      "lat": 51.241136450561115,
-      "lng": 22.5718898966769
+      "lat": 50.80947901690072,
+      "lng": 23.883666812811054
     },
     "isNearBorder": true,
     "areaM2": 95,
@@ -1922,8 +1922,8 @@
     "county": "lubelski",
     "city": "Wojciechów",
     "coordinates": {
-      "lat": 51.24871300687804,
-      "lng": 22.568658826516586
+      "lat": 51.253462744818904,
+      "lng": 22.576880653816765
     },
     "isNearBorder": false,
     "areaM2": 75,
@@ -1957,8 +1957,8 @@
     "county": "opolski",
     "city": "Kaliszany-Kolonia",
     "coordinates": {
-      "lat": 51.25097299994627,
-      "lng": 22.56661064518725
+      "lat": 51.1539132381964,
+      "lng": 21.970039915183875
     },
     "isNearBorder": false,
     "areaM2": 36,
@@ -1992,8 +1992,8 @@
     "county": "biłgorajski",
     "city": "Dyle",
     "coordinates": {
-      "lat": 51.24528774537615,
-      "lng": 22.569110911791963
+      "lat": 50.54092342280031,
+      "lng": 22.72314359422754
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -2026,8 +2026,8 @@
     "county": "puławski",
     "city": "Zastawie",
     "coordinates": {
-      "lat": 51.252421412734236,
-      "lng": 22.562815640926544
+      "lat": 51.41493580637229,
+      "lng": 21.95955861742023
     },
     "isNearBorder": false,
     "areaM2": 212,
@@ -2061,8 +2061,8 @@
     "county": "chełmski",
     "city": "Husynne",
     "coordinates": {
-      "lat": 51.249613659159245,
-      "lng": 22.560504789235978
+      "lat": 51.13900515424539,
+      "lng": 23.489145501809784
     },
     "isNearBorder": true,
     "areaM2": 90,
@@ -2096,8 +2096,8 @@
     "county": "chełmski",
     "city": "Strachosław",
     "coordinates": {
-      "lat": 51.24869471938899,
-      "lng": 22.56443933798884
+      "lat": 51.138969940937905,
+      "lng": 23.475651928241987
     },
     "isNearBorder": true,
     "areaM2": 69.9,
@@ -2131,8 +2131,8 @@
     "county": "lubartowski",
     "city": "Lisów",
     "coordinates": {
-      "lat": 51.2535392704384,
-      "lng": 22.562790654285212
+      "lat": 51.46068192767903,
+      "lng": 22.60755856790102
     },
     "isNearBorder": false,
     "areaM2": 86,
@@ -2166,8 +2166,8 @@
     "county": "puławski",
     "city": "Sadurki",
     "coordinates": {
-      "lat": 51.23986218524119,
-      "lng": 22.561045715289815
+      "lat": 51.41297258112747,
+      "lng": 21.977325192970365
     },
     "isNearBorder": false,
     "areaM2": 70,
@@ -2202,8 +2202,8 @@
     "city": "Putnowice Wielkie",
     "street": "ul. Ogrodowa",
     "coordinates": {
-      "lat": 51.24119231083099,
-      "lng": 22.563797488344154
+      "lat": 51.131699818715425,
+      "lng": 23.479350583838485
     },
     "isNearBorder": true,
     "areaM2": 80,
@@ -2238,8 +2238,8 @@
     "city": "Nowiny",
     "street": "ul. Dębowa",
     "coordinates": {
-      "lat": 51.24111607679285,
-      "lng": 22.56238157910011
+      "lat": 51.1290159741907,
+      "lng": 23.478012639523282
     },
     "isNearBorder": true,
     "areaM2": 82,
@@ -2273,8 +2273,8 @@
     "county": "łęczyński",
     "city": "Ciechanki",
     "coordinates": {
-      "lat": 51.24913312182233,
-      "lng": 22.577658940002497
+      "lat": 51.29695716375077,
+      "lng": 22.884852351762433
     },
     "isNearBorder": false,
     "areaM2": 120,
@@ -2308,8 +2308,8 @@
     "county": "łukowski",
     "city": "Kownatki",
     "coordinates": {
-      "lat": 51.25035295376868,
-      "lng": 22.572861824735796
+      "lat": 51.93316264547499,
+      "lng": 22.381341304108513
     },
     "isNearBorder": false,
     "areaM2": 110,
@@ -2342,8 +2342,8 @@
     "voivodeship": "lubelskie",
     "city": "Siedliska Pierwsze",
     "coordinates": {
-      "lat": 51.24004991878573,
-      "lng": 22.572835903061492
+      "lat": 50.98748216006611,
+      "lng": 23.184428803112844
     },
     "isNearBorder": true,
     "areaM2": 110,
@@ -2377,8 +2377,8 @@
     "city": "Zamość",
     "street": "ul. Zagrodowa",
     "coordinates": {
-      "lat": 50.7132058952857,
-      "lng": 23.253812835321753
+      "lat": 50.71601744672973,
+      "lng": 23.264717203796323
     },
     "isNearBorder": true,
     "areaM2": 175,
@@ -2411,8 +2411,8 @@
     "voivodeship": "lubelskie",
     "city": "Leśniczówka",
     "coordinates": {
-      "lat": 51.249374764172416,
-      "lng": 22.57757821250862
+      "lat": 51.24858439279362,
+      "lng": 22.56098533280267
     },
     "isNearBorder": false,
     "areaM2": 74,
@@ -2445,8 +2445,8 @@
     "voivodeship": "lubelskie",
     "city": "Siedliska Pierwsze",
     "coordinates": {
-      "lat": 51.251056169416586,
-      "lng": 22.57801810616449
+      "lat": 50.98936993285599,
+      "lng": 23.178155081333394
     },
     "isNearBorder": true,
     "areaM2": 50,
@@ -2479,8 +2479,8 @@
     "voivodeship": "lubelskie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 51.24868001362209,
-      "lng": 22.578265089089506
+      "lat": 50.54199021730337,
+      "lng": 22.725042381846166
     },
     "isNearBorder": true,
     "areaM2": 270,
@@ -2513,8 +2513,8 @@
     "voivodeship": "lubelskie",
     "city": "Leśniczówka",
     "coordinates": {
-      "lat": 51.2471456756029,
-      "lng": 22.56472210297196
+      "lat": 51.134752438770974,
+      "lng": 23.483554112976478
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -2549,8 +2549,8 @@
     "city": "Żyrzyn",
     "street": "ul. Tysiąclecia",
     "coordinates": {
-      "lat": 51.24901319952193,
-      "lng": 22.56522621342525
+      "lat": 51.412331184198564,
+      "lng": 21.968123013063504
     },
     "isNearBorder": false,
     "areaM2": 90,
@@ -2584,8 +2584,8 @@
     "county": "chełmski",
     "city": "Putnowice Wielkie",
     "coordinates": {
-      "lat": 51.23930557034833,
-      "lng": 22.572789335061373
+      "lat": 51.133586713589914,
+      "lng": 23.47754546447658
     },
     "isNearBorder": true,
     "areaM2": 175,
@@ -2655,8 +2655,8 @@
     "county": "bialski",
     "city": "Gnojno",
     "coordinates": {
-      "lat": 51.25160348598824,
-      "lng": 22.558429022323395
+      "lat": 52.02928357186369,
+      "lng": 23.117991379459877
     },
     "isNearBorder": true,
     "areaM2": 63,
@@ -2690,8 +2690,8 @@
     "county": "chełmski",
     "city": "Wólka Kańska-Kolonia",
     "coordinates": {
-      "lat": 51.253833612078296,
-      "lng": 22.562182569712476
+      "lat": 51.13002922064805,
+      "lng": 23.492629050000026
     },
     "isNearBorder": true,
     "areaM2": 18100,
@@ -2760,8 +2760,8 @@
     "county": "puławski",
     "city": "Bartłomiejowice",
     "coordinates": {
-      "lat": 51.245883700481116,
-      "lng": 22.56840050055981
+      "lat": 51.42067220210576,
+      "lng": 21.964039096348245
     },
     "isNearBorder": false,
     "areaM2": 250,
@@ -2794,8 +2794,8 @@
     "county": "chełmski",
     "city": "Stańków",
     "coordinates": {
-      "lat": 51.24727308952939,
-      "lng": 22.57684548854786
+      "lat": 51.131971207888746,
+      "lng": 23.487043906001297
     },
     "isNearBorder": true,
     "areaM2": 50,
@@ -2862,8 +2862,8 @@
     "county": "opolski",
     "city": "Dębiny",
     "coordinates": {
-      "lat": 51.24970819485235,
-      "lng": 22.565504956637355
+      "lat": 51.15213905378708,
+      "lng": 21.97545206072903
     },
     "isNearBorder": false,
     "areaM2": 28565,
@@ -2897,8 +2897,8 @@
     "county": "lubartowski",
     "city": "Trzciniec",
     "coordinates": {
-      "lat": 51.23926382261431,
-      "lng": 22.569517460354596
+      "lat": 51.46560416969111,
+      "lng": 22.60150862288708
     },
     "isNearBorder": false,
     "areaM2": 100,
@@ -2931,8 +2931,8 @@
     "county": "włodawski",
     "city": "Uhrusk",
     "coordinates": {
-      "lat": 51.24701501053184,
-      "lng": 22.561708237326272
+      "lat": 51.542983760674446,
+      "lng": 23.543519360313738
     },
     "isNearBorder": true,
     "areaM2": 72,
@@ -2966,8 +2966,8 @@
     "county": "lubelski",
     "city": "Walentynów",
     "coordinates": {
-      "lat": 51.24775300213692,
-      "lng": 22.56707044075246
+      "lat": 51.2530403387193,
+      "lng": 22.57161958385748
     },
     "isNearBorder": false,
     "areaM2": 60,
@@ -3000,8 +3000,8 @@
     "county": "lubelski",
     "city": "Jabłonna Druga",
     "coordinates": {
-      "lat": 51.252952325233565,
-      "lng": 22.56801607740294
+      "lat": 51.2408838734637,
+      "lng": 22.576298126654763
     },
     "isNearBorder": false,
     "areaM2": 160,
@@ -3034,8 +3034,8 @@
     "county": "biłgorajski",
     "city": "Panasówka",
     "coordinates": {
-      "lat": 51.25280665761631,
-      "lng": 22.559898487862927
+      "lat": 50.54333328102181,
+      "lng": 22.71714484593861
     },
     "isNearBorder": true,
     "areaM2": 315,
@@ -3068,8 +3068,8 @@
     "county": "łęczyński",
     "city": "Kijany",
     "coordinates": {
-      "lat": 51.25009224024797,
-      "lng": 22.570866678544157
+      "lat": 51.301457937667955,
+      "lng": 22.889402533368326
     },
     "isNearBorder": false,
     "areaM2": 16200,
@@ -3103,8 +3103,8 @@
     "county": "chełmski",
     "city": "Kurmanów",
     "coordinates": {
-      "lat": 51.24978456591299,
-      "lng": 22.561339247046746
+      "lat": 51.13541455140973,
+      "lng": 23.490179142602848
     },
     "isNearBorder": true,
     "areaM2": 54,
@@ -3138,8 +3138,8 @@
     "county": "lubelski",
     "city": "Ożarów",
     "coordinates": {
-      "lat": 51.25007621854194,
-      "lng": 22.57802180393801
+      "lat": 51.24821769001494,
+      "lng": 22.57600644111789
     },
     "isNearBorder": false,
     "areaM2": 114,
@@ -3174,8 +3174,8 @@
     "city": "Zawieprzyce-Kolonia",
     "street": "os. Kolonia Trębaczów",
     "coordinates": {
-      "lat": 51.24965962817112,
-      "lng": 22.558987138426065
+      "lat": 51.29378579535639,
+      "lng": 22.878704377722386
     },
     "isNearBorder": false,
     "areaM2": 120,
@@ -3209,8 +3209,8 @@
     "county": "puławski",
     "city": "Skowieszynek",
     "coordinates": {
-      "lat": 51.24394089392916,
-      "lng": 22.571608282001264
+      "lat": 51.41435211613498,
+      "lng": 21.96461565304091
     },
     "isNearBorder": false,
     "areaM2": 100,
@@ -3245,8 +3245,8 @@
     "city": "Czemierniki - miasto",
     "street": "ul. Kasztanowa",
     "coordinates": {
-      "lat": 51.25267089311738,
-      "lng": 22.576703182830716
+      "lat": 51.77773698073591,
+      "lng": 22.624943289594473
     },
     "isNearBorder": false,
     "areaM2": 85.8,
@@ -3280,8 +3280,8 @@
     "county": "zamojski",
     "city": "Żurawnica",
     "coordinates": {
-      "lat": 51.253798433148525,
-      "lng": 22.563540588844447
+      "lat": 50.71529376773501,
+      "lng": 23.26805808684956
     },
     "isNearBorder": true,
     "areaM2": 50,
@@ -3315,8 +3315,8 @@
     "county": "zamojski",
     "city": "Średnie Małe",
     "coordinates": {
-      "lat": 51.25021616604506,
-      "lng": 22.575873908951014
+      "lat": 50.721444354690945,
+      "lng": 23.251250898732234
     },
     "isNearBorder": true,
     "areaM2": 60,
@@ -3350,8 +3350,8 @@
     "county": "chełmski",
     "city": "Sielec",
     "coordinates": {
-      "lat": 51.249059796204406,
-      "lng": 22.562059897696837
+      "lat": 51.137665948478144,
+      "lng": 23.478573639178656
     },
     "isNearBorder": true,
     "areaM2": 50,
@@ -3386,8 +3386,8 @@
     "city": "Kazimierz Dolny",
     "street": "Puławska",
     "coordinates": {
-      "lat": 51.248180688037266,
-      "lng": 22.568414624621656
+      "lat": 51.41185273798015,
+      "lng": 21.96060070072022
     },
     "isNearBorder": false,
     "areaM2": 200,
@@ -3421,8 +3421,8 @@
     "county": "bialski",
     "city": "Derło",
     "coordinates": {
-      "lat": 51.24002687198396,
-      "lng": 22.56428225927953
+      "lat": 52.035310534147214,
+      "lng": 23.12497530913915
     },
     "isNearBorder": true,
     "areaM2": 60,
@@ -3456,8 +3456,8 @@
     "county": "bialski",
     "city": "Ortel Królewski Drugi",
     "coordinates": {
-      "lat": 51.247390093603414,
-      "lng": 22.564375203520267
+      "lat": 52.038092035072594,
+      "lng": 23.126307748312993
     },
     "isNearBorder": true,
     "areaM2": 80,
@@ -3526,8 +3526,8 @@
     "county": "lipski",
     "city": "Boiska",
     "coordinates": {
-      "lat": 51.24740293555777,
-      "lng": 22.56264330842545
+      "lat": 51.2491022372512,
+      "lng": 22.55878444359819
     },
     "isNearBorder": false,
     "areaM2": 45,
@@ -3561,8 +3561,8 @@
     "county": "janowski",
     "city": "Wierzchowiska Pierwsze",
     "coordinates": {
-      "lat": 51.241373400426944,
-      "lng": 22.57453437294797
+      "lat": 50.70480851382985,
+      "lng": 22.41752592487673
     },
     "isNearBorder": false,
     "areaM2": 220,
@@ -3596,8 +3596,8 @@
     "county": "chełmski",
     "city": "Ruda-Kolonia",
     "coordinates": {
-      "lat": 51.24260721572135,
-      "lng": 22.564636625768113
+      "lat": 51.13654798745268,
+      "lng": 23.49313113667716
     },
     "isNearBorder": true,
     "areaM2": 40,
@@ -3631,8 +3631,8 @@
     "county": "chełmski",
     "city": "Wólka Rejowiecka",
     "coordinates": {
-      "lat": 51.25005034776015,
-      "lng": 22.569590580773223
+      "lat": 51.129884809527674,
+      "lng": 23.48198547878507
     },
     "isNearBorder": true,
     "areaM2": 44.5,
@@ -3666,8 +3666,8 @@
     "county": "lubelski",
     "city": "Pustelnik",
     "coordinates": {
-      "lat": 51.242013971620636,
-      "lng": 22.56890907550865
+      "lat": 51.24864409916203,
+      "lng": 22.55885197714362
     },
     "isNearBorder": false,
     "areaM2": 200,
@@ -3701,8 +3701,8 @@
     "county": "bialski",
     "city": "Kajetanka",
     "coordinates": {
-      "lat": 51.24191495415589,
-      "lng": 22.563581763073497
+      "lat": 52.02633019643332,
+      "lng": 23.113369526569276
     },
     "isNearBorder": true,
     "areaM2": 180,
@@ -3736,8 +3736,8 @@
     "county": "bialski",
     "city": "Mokre",
     "coordinates": {
-      "lat": 51.24145031893777,
-      "lng": 22.56623936198403
+      "lat": 52.031575206931855,
+      "lng": 23.125788141276335
     },
     "isNearBorder": true,
     "areaM2": 200,
@@ -3771,8 +3771,8 @@
     "county": "krasnostawski",
     "city": "Stójło",
     "coordinates": {
-      "lat": 51.25068335843606,
-      "lng": 22.562243542744202
+      "lat": 50.98819448683926,
+      "lng": 23.17036797277435
     },
     "isNearBorder": true,
     "areaM2": 80,
@@ -3841,8 +3841,8 @@
     "county": "krasnostawski",
     "city": "Zagroda",
     "coordinates": {
-      "lat": 51.23918235997301,
-      "lng": 22.573274963164216
+      "lat": 50.989717865586584,
+      "lng": 23.16775089373011
     },
     "isNearBorder": true,
     "areaM2": 90.5,
@@ -3876,8 +3876,8 @@
     "county": "opolski",
     "city": "Chodlik",
     "coordinates": {
-      "lat": 51.24624676863127,
-      "lng": 22.576264812587027
+      "lat": 51.14421193797904,
+      "lng": 21.96793490945456
     },
     "isNearBorder": false,
     "areaM2": 11600,
@@ -3911,8 +3911,8 @@
     "county": "zamojski",
     "city": "Kitów",
     "coordinates": {
-      "lat": 51.25370434648016,
-      "lng": 22.566913316418784
+      "lat": 50.72074189882109,
+      "lng": 23.264031249708594
     },
     "isNearBorder": true,
     "areaM2": 60,
@@ -3946,8 +3946,8 @@
     "county": "garwoliński",
     "city": "Wróble-Wargocin",
     "coordinates": {
-      "lat": 51.24685038678147,
-      "lng": 22.570820522432914
+      "lat": 51.244278176249594,
+      "lng": 22.57296046135999
     },
     "isNearBorder": false,
     "areaM2": 80,
@@ -3981,8 +3981,8 @@
     "county": "zamojski",
     "city": "Drewniki",
     "coordinates": {
-      "lat": 51.241904043487295,
-      "lng": 22.562895898610122
+      "lat": 50.72143232062749,
+      "lng": 23.26196813138706
     },
     "isNearBorder": true,
     "areaM2": 160,
@@ -4016,8 +4016,8 @@
     "county": "tomaszowski",
     "city": "Maziły",
     "coordinates": {
-      "lat": 51.23930658425891,
-      "lng": 22.562837788473875
+      "lat": 50.442443116416804,
+      "lng": 23.41921620507145
     },
     "isNearBorder": true,
     "areaM2": 112.6,
@@ -4051,8 +4051,8 @@
     "county": "puławski",
     "city": "Chruszczów-Kolonia",
     "coordinates": {
-      "lat": 51.24357208667487,
-      "lng": 22.55915281715351
+      "lat": 51.41622110897315,
+      "lng": 21.96303275752798
     },
     "isNearBorder": false,
     "areaM2": 150,
@@ -4086,8 +4086,8 @@
     "county": "lubelski",
     "city": "Majdan Mętowski",
     "coordinates": {
-      "lat": 51.25373207323539,
-      "lng": 22.568156897124286
+      "lat": 51.24862958625297,
+      "lng": 22.5782012816098
     },
     "isNearBorder": false,
     "areaM2": 2200,
@@ -4121,8 +4121,8 @@
     "county": "chełmski",
     "city": "Hruszów",
     "coordinates": {
-      "lat": 51.23917837888018,
-      "lng": 22.564016891391937
+      "lat": 51.12848945179502,
+      "lng": 23.479872297855263
     },
     "isNearBorder": true,
     "areaM2": 77,
@@ -4156,8 +4156,8 @@
     "county": "bialski",
     "city": "Kijowiec",
     "coordinates": {
-      "lat": 51.249112707445505,
-      "lng": 22.572251011609776
+      "lat": 52.03421798694886,
+      "lng": 23.1132280783657
     },
     "isNearBorder": true,
     "areaM2": 124,
@@ -4191,8 +4191,8 @@
     "county": "tomaszowski",
     "city": "Oseredek",
     "coordinates": {
-      "lat": 51.241139158862644,
-      "lng": 22.566773363827654
+      "lat": 50.45353845112744,
+      "lng": 23.41192389791398
     },
     "isNearBorder": true,
     "areaM2": 100,
@@ -4226,8 +4226,8 @@
     "county": "hrubieszowski",
     "city": "Ameryka",
     "coordinates": {
-      "lat": 51.24522914999371,
-      "lng": 22.571166601707557
+      "lat": 50.808719589533034,
+      "lng": 23.885365129065715
     },
     "isNearBorder": true,
     "areaM2": 200,
@@ -4261,8 +4261,8 @@
     "county": "łęczyński",
     "city": "Kijany",
     "coordinates": {
-      "lat": 51.24497735565064,
-      "lng": 22.57674983512522
+      "lat": 51.30354341014849,
+      "lng": 22.880729959576676
     },
     "isNearBorder": false,
     "areaM2": 200,
@@ -4296,8 +4296,8 @@
     "county": "łosicki",
     "city": "Borsuki",
     "coordinates": {
-      "lat": 51.247443260538276,
-      "lng": 22.562394682568705
+      "lat": 51.245398628249774,
+      "lng": 22.570158269054915
     },
     "isNearBorder": false,
     "areaM2": 62,
@@ -4331,8 +4331,8 @@
     "county": "chełmski",
     "city": "Krobonosz",
     "coordinates": {
-      "lat": 51.24253006959528,
-      "lng": 22.559265794267386
+      "lat": 51.13511205462677,
+      "lng": 23.483875562857104
     },
     "isNearBorder": true,
     "areaM2": 85,
@@ -4366,8 +4366,8 @@
     "county": "świdnicki",
     "city": "Pilaszkowice Drugie",
     "coordinates": {
-      "lat": 51.24719787005341,
-      "lng": 22.559247741083507
+      "lat": 51.21417863481224,
+      "lng": 22.698402867747845
     },
     "isNearBorder": false,
     "areaM2": 140,
@@ -4402,8 +4402,8 @@
     "city": "Piszczac",
     "street": "ul. Terespolska",
     "coordinates": {
-      "lat": 51.243258573610966,
-      "lng": 22.561063736771196
+      "lat": 52.039497018831916,
+      "lng": 23.122959890610314
     },
     "isNearBorder": true,
     "areaM2": 206,
@@ -4438,8 +4438,8 @@
     "city": "Kodeń",
     "street": "ul. Sławatycka",
     "coordinates": {
-      "lat": 51.248194382055594,
-      "lng": 22.564647605675844
+      "lat": 52.02675271681162,
+      "lng": 23.11333104420039
     },
     "isNearBorder": true,
     "areaM2": 3889,
@@ -4473,8 +4473,8 @@
     "county": "krasnostawski",
     "city": "Bobliwo",
     "coordinates": {
-      "lat": 51.2512854730453,
-      "lng": 22.57478952749463
+      "lat": 50.984077031309255,
+      "lng": 23.166878010694052
     },
     "isNearBorder": true,
     "areaM2": 40,
@@ -4508,8 +4508,8 @@
     "county": "świdnicki",
     "city": "Bystrzejowice Trzecie",
     "coordinates": {
-      "lat": 51.244815545330454,
-      "lng": 22.569585971252412
+      "lat": 51.211449110135014,
+      "lng": 22.687977960736326
     },
     "isNearBorder": false,
     "areaM2": 116,
@@ -4543,8 +4543,8 @@
     "county": "puławski",
     "city": "Nałęczów",
     "coordinates": {
-      "lat": 51.25383909753717,
-      "lng": 22.565747565769023
+      "lat": 51.411407965797,
+      "lng": 21.97730304154202
     },
     "isNearBorder": false,
     "areaM2": 100,
@@ -4578,8 +4578,8 @@
     "county": "puławski",
     "city": "Kazimierz Dolny",
     "coordinates": {
-      "lat": 51.24480570772013,
-      "lng": 22.558786070535156
+      "lat": 51.42177179447715,
+      "lng": 21.963015443885077
     },
     "isNearBorder": false,
     "areaM2": 200,
@@ -4613,8 +4613,8 @@
     "county": "lubelski",
     "city": "Baraki",
     "coordinates": {
-      "lat": 51.25299077445215,
-      "lng": 22.57582785473187
+      "lat": 51.24952716482671,
+      "lng": 22.56279123546572
     },
     "isNearBorder": false,
     "areaM2": 240,
@@ -4648,8 +4648,8 @@
     "county": "opolski",
     "city": "Słotwiny",
     "coordinates": {
-      "lat": 51.24353774232789,
-      "lng": 22.56002722683723
+      "lat": 51.15450994129109,
+      "lng": 21.965046191751544
     },
     "isNearBorder": false,
     "areaM2": 50,
@@ -4683,8 +4683,8 @@
     "county": "biłgorajski",
     "city": "Stanisławów",
     "coordinates": {
-      "lat": 51.24594307728187,
-      "lng": 22.561321898606145
+      "lat": 50.5460868433907,
+      "lng": 22.720195453480244
     },
     "isNearBorder": true,
     "areaM2": 65,
@@ -4718,8 +4718,8 @@
     "county": "lubelski",
     "city": "Miłocin",
     "coordinates": {
-      "lat": 51.25186166096144,
-      "lng": 22.56032252511115
+      "lat": 51.248621906382475,
+      "lng": 22.573312167585076
     },
     "isNearBorder": false,
     "areaM2": 5271,
@@ -4751,8 +4751,8 @@
     "voivodeship": "lubelskie",
     "city": "Dobryniów-Kolonia",
     "coordinates": {
-      "lat": 51.253642122146125,
-      "lng": 22.569361677496655
+      "lat": 50.98668536219445,
+      "lng": 23.174089061891785
     },
     "isNearBorder": true,
     "areaM2": 21700,
@@ -4785,8 +4785,8 @@
     "voivodeship": "lubelskie",
     "city": "Skrzyszew",
     "coordinates": {
-      "lat": 51.23932288162624,
-      "lng": 22.56922303630998
+      "lat": 51.79030564193612,
+      "lng": 22.62133679493727
     },
     "isNearBorder": false,
     "areaM2": 2582,
@@ -4819,8 +4819,8 @@
     "voivodeship": "lubelskie",
     "city": "Krężnica Jara",
     "coordinates": {
-      "lat": 51.24166157740995,
-      "lng": 22.566688517136097
+      "lat": 51.245612489109924,
+      "lng": 22.55890939161471
     },
     "isNearBorder": false,
     "areaM2": 2000,
@@ -4854,8 +4854,8 @@
     "city": "Kazimierz Dolny",
     "street": "Góry",
     "coordinates": {
-      "lat": 51.247870091515814,
-      "lng": 22.563937055503345
+      "lat": 51.41265394534978,
+      "lng": 21.96975177885216
     },
     "isNearBorder": false,
     "areaM2": 8601,
@@ -4889,8 +4889,8 @@
     "city": "Sobianowice",
     "street": "Sobianowice 153",
     "coordinates": {
-      "lat": 51.245743524005185,
-      "lng": 22.55912581462313
+      "lat": 51.23906925235294,
+      "lng": 22.568410907701722
     },
     "isNearBorder": false,
     "areaM2": 2348,
@@ -4924,8 +4924,8 @@
     "county": "lubelski",
     "city": "Prawiedniki-Kolonia",
     "coordinates": {
-      "lat": 51.24441693366012,
-      "lng": 22.564152238602933
+      "lat": 51.24304580431993,
+      "lng": 22.56945816670362
     },
     "isNearBorder": false,
     "areaM2": 1359,
@@ -4958,8 +4958,8 @@
     "county": "rycki",
     "city": "Sobieszyn",
     "coordinates": {
-      "lat": 51.25101974736559,
-      "lng": 22.55855588094825
+      "lat": 51.62997897956748,
+      "lng": 21.92406126884607
     },
     "isNearBorder": false,
     "areaM2": 39700,
@@ -4992,8 +4992,8 @@
     "county": "lubelski",
     "city": "Chmielnik",
     "coordinates": {
-      "lat": 51.2512115026358,
-      "lng": 22.569601402732612
+      "lat": 51.24526563431142,
+      "lng": 22.57242582601497
     },
     "isNearBorder": false,
     "areaM2": 3835,
@@ -5026,8 +5026,8 @@
     "county": "puławski",
     "city": "Kłoda",
     "coordinates": {
-      "lat": 51.24610929385308,
-      "lng": 22.568293750861997
+      "lat": 51.414431490362865,
+      "lng": 21.962364567658796
     },
     "isNearBorder": false,
     "areaM2": 2800,
@@ -5060,8 +5060,8 @@
     "county": "lubelski",
     "city": "Jabłonna-Majątek",
     "coordinates": {
-      "lat": 51.24786790334567,
-      "lng": 22.560120537374665
+      "lat": 51.24105019539651,
+      "lng": 22.578336931061035
     },
     "isNearBorder": false,
     "areaM2": 6000,
@@ -5094,8 +5094,8 @@
     "county": "łukowski",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 51.24517337809101,
-      "lng": 22.561589182356244
+      "lat": 51.92851258079633,
+      "lng": 22.385199569765742
     },
     "isNearBorder": false,
     "areaM2": 1473,
@@ -5128,8 +5128,8 @@
     "county": "puławski",
     "city": "Rzeczyca-Kolonia",
     "coordinates": {
-      "lat": 51.25317585568536,
-      "lng": 22.565528706189824
+      "lat": 51.41595352254781,
+      "lng": 21.96166046793841
     },
     "isNearBorder": false,
     "areaM2": 13800,
@@ -5162,8 +5162,8 @@
     "county": "tomaszowski",
     "city": "Zadnoga",
     "coordinates": {
-      "lat": 51.23976276723397,
-      "lng": 22.57080404595581
+      "lat": 50.45153779278708,
+      "lng": 23.419458152068714
     },
     "isNearBorder": true,
     "areaM2": 1500,
@@ -5196,8 +5196,8 @@
     "county": "puławski",
     "city": "Drzewce-Kolonia",
     "coordinates": {
-      "lat": 51.239607446663925,
-      "lng": 22.57773283020752
+      "lat": 51.421642928097455,
+      "lng": 21.96641734101832
     },
     "isNearBorder": false,
     "areaM2": 9915,
@@ -5231,8 +5231,8 @@
     "city": "Izdebno-Kolonia",
     "street": "ul. Partyzantów",
     "coordinates": {
-      "lat": 51.246816926600566,
-      "lng": 22.57740084512461
+      "lat": 51.22232739321572,
+      "lng": 22.70477649265523
     },
     "isNearBorder": false,
     "areaM2": 8000,
@@ -5265,8 +5265,8 @@
     "county": "świdnicki",
     "city": "Gardzienice Drugie",
     "coordinates": {
-      "lat": 51.24416650448924,
-      "lng": 22.561000948497384
+      "lat": 51.21816800225421,
+      "lng": 22.692377211889976
     },
     "isNearBorder": false,
     "areaM2": 19200,
@@ -5299,8 +5299,8 @@
     "county": "rycki",
     "city": "Zaryte",
     "coordinates": {
-      "lat": 51.24516864727552,
-      "lng": 22.570371353550687
+      "lat": 51.620494608007476,
+      "lng": 21.937594809713737
     },
     "isNearBorder": false,
     "areaM2": 32005,
@@ -5333,8 +5333,8 @@
     "county": "opolski",
     "city": "Stoczki",
     "coordinates": {
-      "lat": 51.2511176761332,
-      "lng": 22.559976826512045
+      "lat": 51.15289211508702,
+      "lng": 21.964163827222748
     },
     "isNearBorder": false,
     "areaM2": 39255,
@@ -5367,8 +5367,8 @@
     "county": "opolski",
     "city": "Stoczki",
     "coordinates": {
-      "lat": 51.24923743114675,
-      "lng": 22.5708900797502
+      "lat": 51.146519074252936,
+      "lng": 21.967090838629254
     },
     "isNearBorder": false,
     "areaM2": 12650,
@@ -5402,8 +5402,8 @@
     "city": "Biskupice",
     "street": "ul. Józefa Piłsudskiego",
     "coordinates": {
-      "lat": 51.24054029799689,
-      "lng": 22.55983246739586
+      "lat": 51.222718673312315,
+      "lng": 22.70506984842872
     },
     "isNearBorder": false,
     "areaM2": 3600,
@@ -5436,8 +5436,8 @@
     "county": "chełmski",
     "city": "Toruń",
     "coordinates": {
-      "lat": 51.2452876520893,
-      "lng": 22.573134454197287
+      "lat": 51.14026407817524,
+      "lng": 23.49187158398605
     },
     "isNearBorder": true,
     "areaM2": 1798,
@@ -5470,8 +5470,8 @@
     "county": "lubartowski",
     "city": "Czerwonka-Gozdów",
     "coordinates": {
-      "lat": 51.248265416670485,
-      "lng": 22.5666067521858
+      "lat": 51.45857011683067,
+      "lng": 22.609226978640937
     },
     "isNearBorder": false,
     "areaM2": 2000,
@@ -5504,8 +5504,8 @@
     "county": "tomaszowski",
     "city": "Lubycza Królewska",
     "coordinates": {
-      "lat": 51.24830074352786,
-      "lng": 22.56471644824523
+      "lat": 50.449552248957204,
+      "lng": 23.42072732736498
     },
     "isNearBorder": true,
     "areaM2": 5916,
@@ -5538,8 +5538,8 @@
     "county": "łęczyński",
     "city": "Turowola",
     "coordinates": {
-      "lat": 51.24111215733849,
-      "lng": 22.564203176319783
+      "lat": 51.30606530136717,
+      "lng": 22.88984629803186
     },
     "isNearBorder": false,
     "areaM2": 1501,
@@ -5572,8 +5572,8 @@
     "county": "lubelski",
     "city": "Sobianowice",
     "coordinates": {
-      "lat": 51.24265101088255,
-      "lng": 22.571516501079373
+      "lat": 51.24591170275744,
+      "lng": 22.56430977136401
     },
     "isNearBorder": false,
     "areaM2": 2348,
@@ -5606,8 +5606,8 @@
     "county": "lubelski",
     "city": "Majdan Skrzyniecki",
     "coordinates": {
-      "lat": 51.252225732092356,
-      "lng": 22.567129513081518
+      "lat": 51.252856772460355,
+      "lng": 22.570882295558935
     },
     "isNearBorder": false,
     "areaM2": 3999,
@@ -5640,8 +5640,8 @@
     "county": "łęczyński",
     "city": "Turowola",
     "coordinates": {
-      "lat": 51.24686909656436,
-      "lng": 22.559294162516686
+      "lat": 51.297485469519614,
+      "lng": 22.873990526407084
     },
     "isNearBorder": false,
     "areaM2": 1340,
@@ -5674,8 +5674,8 @@
     "county": "łęczyński",
     "city": "Antoniów-Kolonia",
     "coordinates": {
-      "lat": 51.24186696844003,
-      "lng": 22.57771841006766
+      "lat": 51.29402323332553,
+      "lng": 22.880549928537235
     },
     "isNearBorder": false,
     "areaM2": 9548,
@@ -5708,8 +5708,8 @@
     "county": "świdnicki",
     "city": "Borkowszczyzna",
     "coordinates": {
-      "lat": 51.250433907139374,
-      "lng": 22.571220175797635
+      "lat": 51.22549562438699,
+      "lng": 22.68588678496748
     },
     "isNearBorder": false,
     "areaM2": 4800,
@@ -5742,8 +5742,8 @@
     "county": "lubelski",
     "city": "Kiełczewice Górne",
     "coordinates": {
-      "lat": 51.250917455973024,
-      "lng": 22.560961754943488
+      "lat": 51.24747837758921,
+      "lng": 22.563992972791315
     },
     "isNearBorder": false,
     "areaM2": 2120,
@@ -5776,8 +5776,8 @@
     "county": "chełmski",
     "city": "Żmudź",
     "coordinates": {
-      "lat": 51.25246426388474,
-      "lng": 22.563353591123708
+      "lat": 51.13214205948863,
+      "lng": 23.479657313347555
     },
     "isNearBorder": true,
     "areaM2": 277220,
@@ -5810,8 +5810,8 @@
     "county": "zamojski",
     "city": "Hutków",
     "coordinates": {
-      "lat": 51.24292372410428,
-      "lng": 22.57778893285466
+      "lat": 50.714891261685615,
+      "lng": 23.259794495889032
     },
     "isNearBorder": true,
     "areaM2": 80000,
@@ -5844,8 +5844,8 @@
     "county": "opolski",
     "city": "Łaziska",
     "coordinates": {
-      "lat": 51.2464445008932,
-      "lng": 22.577882272081386
+      "lat": 51.13977022663597,
+      "lng": 21.961045751100386
     },
     "isNearBorder": false,
     "areaM2": 1376,
@@ -5878,8 +5878,8 @@
     "county": "lubartowski",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 51.245194484809254,
-      "lng": 22.574973568692844
+      "lat": 51.46712364473174,
+      "lng": 22.60444936909038
     },
     "isNearBorder": false,
     "areaM2": 3047,
@@ -5912,8 +5912,8 @@
     "county": "świdnicki",
     "city": "Mełgiew",
     "coordinates": {
-      "lat": 51.24650428116983,
-      "lng": 22.571770924007648
+      "lat": 51.22498601408768,
+      "lng": 22.700042998862582
     },
     "isNearBorder": false,
     "areaM2": 4600,
@@ -5946,8 +5946,8 @@
     "county": "bialski",
     "city": "Pojelce",
     "coordinates": {
-      "lat": 51.24411446009509,
-      "lng": 22.57504856715488
+      "lat": 52.039100222162695,
+      "lng": 23.1129188504261
     },
     "isNearBorder": true,
     "areaM2": 5000,
@@ -5980,8 +5980,8 @@
     "county": "lubelski",
     "city": "Wolnica",
     "coordinates": {
-      "lat": 51.24980716627531,
-      "lng": 22.561676787759733
+      "lat": 51.247703375144226,
+      "lng": 22.56862772852603
     },
     "isNearBorder": false,
     "areaM2": 45000,
@@ -6014,8 +6014,8 @@
     "county": "krasnostawski",
     "city": "Krupe",
     "coordinates": {
-      "lat": 51.24760439948639,
-      "lng": 22.56840478834798
+      "lat": 50.98031357739281,
+      "lng": 23.17388450987856
     },
     "isNearBorder": true,
     "areaM2": 56900,
@@ -6048,8 +6048,8 @@
     "county": "biłgorajski",
     "city": "Stara Wieś",
     "coordinates": {
-      "lat": 51.242871270765626,
-      "lng": 22.559583785843856
+      "lat": 50.54805441606089,
+      "lng": 22.721422175650037
     },
     "isNearBorder": true,
     "areaM2": 2337,
@@ -6082,8 +6082,8 @@
     "county": "lubartowski",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 51.251677489354904,
-      "lng": 22.566936637364325
+      "lat": 51.45549283818721,
+      "lng": 22.615279589705594
     },
     "isNearBorder": false,
     "areaM2": 3000,
@@ -6116,8 +6116,8 @@
     "county": "tomaszowski",
     "city": "Kornie",
     "coordinates": {
-      "lat": 51.24088581103243,
-      "lng": 22.56452977593705
+      "lat": 50.44881537464222,
+      "lng": 23.417895971036444
     },
     "isNearBorder": true,
     "areaM2": 50200,
@@ -6151,8 +6151,8 @@
     "city": "Annobór-Kolonia",
     "street": "ul. Składowa",
     "coordinates": {
-      "lat": 51.23977887550713,
-      "lng": 22.57529760019507
+      "lat": 51.461391756089476,
+      "lng": 22.61028800394354
     },
     "isNearBorder": false,
     "areaM2": 1865,
@@ -6185,8 +6185,8 @@
     "county": "łęczyński",
     "city": "Bekiesza",
     "coordinates": {
-      "lat": 51.247719738264024,
-      "lng": 22.560809342309103
+      "lat": 51.30096378715344,
+      "lng": 22.87119460632183
     },
     "isNearBorder": false,
     "areaM2": 4230,
@@ -6219,8 +6219,8 @@
     "county": "lubartowski",
     "city": "Przytoczno",
     "coordinates": {
-      "lat": 51.2506125236158,
-      "lng": 22.575668339637556
+      "lat": 51.461260893941606,
+      "lng": 22.614237911205112
     },
     "isNearBorder": false,
     "areaM2": 8284,
@@ -6252,8 +6252,8 @@
     "voivodeship": "lubelskie",
     "city": "Oblasy",
     "coordinates": {
-      "lat": 51.25293147103247,
-      "lng": 22.562982108760313
+      "lat": 51.41327589165415,
+      "lng": 21.974543655137726
     },
     "isNearBorder": false,
     "areaM2": 3189,
@@ -6286,8 +6286,8 @@
     "voivodeship": "lubelskie",
     "city": "Orzechów-Kolonia",
     "coordinates": {
-      "lat": 51.244511874738926,
-      "lng": 22.573822234796584
+      "lat": 51.45538453984391,
+      "lng": 22.604902993837918
     },
     "isNearBorder": false,
     "areaM2": 1200,
@@ -6320,8 +6320,8 @@
     "voivodeship": "lubelskie",
     "city": "Tarło",
     "coordinates": {
-      "lat": 51.24432468447498,
-      "lng": 22.568848570353737
+      "lat": 51.467550542971814,
+      "lng": 22.611225674600206
     },
     "isNearBorder": false,
     "areaM2": 18600,
@@ -6354,8 +6354,8 @@
     "voivodeship": "lubelskie",
     "city": "Chruślanki Józefowskie",
     "coordinates": {
-      "lat": 51.242337972849036,
-      "lng": 22.564315668458352
+      "lat": 51.14384070853812,
+      "lng": 21.978213253705245
     },
     "isNearBorder": false,
     "areaM2": 23800,
@@ -6388,8 +6388,8 @@
     "voivodeship": "lubelskie",
     "city": "Wiski",
     "coordinates": {
-      "lat": 51.247280193970575,
-      "lng": 22.570329140106853
+      "lat": 52.02975769513031,
+      "lng": 23.111530557945525
     },
     "isNearBorder": true,
     "areaM2": 10900,
@@ -6422,8 +6422,8 @@
     "voivodeship": "lubelskie",
     "city": "Wiski",
     "coordinates": {
-      "lat": 51.24630548961812,
-      "lng": 22.567491416929176
+      "lat": 51.78260754369031,
+      "lng": 22.616556583877664
     },
     "isNearBorder": false,
     "areaM2": 2350,
@@ -6456,8 +6456,8 @@
     "voivodeship": "lubelskie",
     "city": "Hostynne-Kolonia",
     "coordinates": {
-      "lat": 51.25071238832706,
-      "lng": 22.569459838516064
+      "lat": 50.79798862736628,
+      "lng": 23.88630271349468
     },
     "isNearBorder": true,
     "areaM2": 37000,
@@ -6491,8 +6491,8 @@
     "city": "Świdnik Leśniczówka",
     "street": "ul. Lotnicza",
     "coordinates": {
-      "lat": 51.22509713941507,
-      "lng": 22.688676787190293
+      "lat": 51.223789321188434,
+      "lng": 22.68858893117811
     },
     "isNearBorder": false,
     "areaM2": 752,
@@ -6525,8 +6525,8 @@
     "voivodeship": "lubelskie",
     "city": "Rogóźno",
     "coordinates": {
-      "lat": 51.24869761581619,
-      "lng": 22.56376362513477
+      "lat": 52.74693267229697,
+      "lng": 16.999532287717876
     },
     "isNearBorder": false,
     "areaM2": 4400,
@@ -6559,8 +6559,8 @@
     "voivodeship": "lubelskie",
     "city": "Ustrzesz",
     "coordinates": {
-      "lat": 51.243907214618694,
-      "lng": 22.564324385179624
+      "lat": 51.77820417702191,
+      "lng": 22.614071095839254
     },
     "isNearBorder": false,
     "areaM2": 2086,
@@ -6593,8 +6593,8 @@
     "voivodeship": "lubelskie",
     "city": "Staw Ujazdowski",
     "coordinates": {
-      "lat": 51.25176261647147,
-      "lng": 22.563058334376613
+      "lat": 50.71620021936636,
+      "lng": 23.267609973320216
     },
     "isNearBorder": true,
     "areaM2": 1700,
@@ -6627,8 +6627,8 @@
     "voivodeship": "lubelskie",
     "city": "Krasne",
     "coordinates": {
-      "lat": 51.24403921326426,
-      "lng": 22.573529654711933
+      "lat": 51.46321953650898,
+      "lng": 22.609916493908056
     },
     "isNearBorder": false,
     "areaM2": 500,
@@ -6661,8 +6661,8 @@
     "voivodeship": "lubelskie",
     "city": "Zieleniec",
     "coordinates": {
-      "lat": 51.24755878630121,
-      "lng": 22.564510453190085
+      "lat": 51.644743087770664,
+      "lng": 22.89254153473055
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -6695,8 +6695,8 @@
     "voivodeship": "lubelskie",
     "city": "Niemirów",
     "coordinates": {
-      "lat": 51.252637041135536,
-      "lng": 22.571977596502794
+      "lat": 51.14032289080184,
+      "lng": 23.475963058893008
     },
     "isNearBorder": true,
     "areaM2": 2098,
@@ -6729,8 +6729,8 @@
     "voivodeship": "lubelskie",
     "city": "Leśniczówka",
     "coordinates": {
-      "lat": 51.248571670837265,
-      "lng": 22.558615702084477
+      "lat": 51.239249865326734,
+      "lng": 22.560768665263215
     },
     "isNearBorder": false,
     "areaM2": 1073,
@@ -6763,8 +6763,8 @@
     "voivodeship": "lubelskie",
     "city": "Minkowice",
     "coordinates": {
-      "lat": 51.25140768153368,
-      "lng": 22.57603565793296
+      "lat": 51.21771642421151,
+      "lng": 22.68774293550817
     },
     "isNearBorder": false,
     "areaM2": 11400,
@@ -6797,8 +6797,8 @@
     "voivodeship": "lubelskie",
     "city": "Hutków",
     "coordinates": {
-      "lat": 51.247370791503094,
-      "lng": 22.570501413903262
+      "lat": 50.72174080233461,
+      "lng": 23.255356050561915
     },
     "isNearBorder": true,
     "areaM2": 79000,
@@ -6831,8 +6831,8 @@
     "voivodeship": "lubelskie",
     "city": "Zawieprzyce",
     "coordinates": {
-      "lat": 51.253970840670114,
-      "lng": 22.566272133270363
+      "lat": 51.302081172028004,
+      "lng": 22.876658941999285
     },
     "isNearBorder": false,
     "areaM2": 16200,
@@ -6865,8 +6865,8 @@
     "voivodeship": "lubelskie",
     "city": "Bachus",
     "coordinates": {
-      "lat": 51.25085743931842,
-      "lng": 22.577888848171565
+      "lat": 51.13784415387385,
+      "lng": 23.478936276796503
     },
     "isNearBorder": true,
     "areaM2": 90600,
@@ -6899,8 +6899,8 @@
     "voivodeship": "lubelskie",
     "city": "Siennica Różana",
     "coordinates": {
-      "lat": 51.25305147110959,
-      "lng": 22.56744463927346
+      "lat": 50.98055261133961,
+      "lng": 23.175792097236393
     },
     "isNearBorder": true,
     "areaM2": 5000,
@@ -6933,8 +6933,8 @@
     "voivodeship": "lubelskie",
     "city": "Załawcze",
     "coordinates": {
-      "lat": 51.243070088042934,
-      "lng": 22.565928967458884
+      "lat": 50.5397727376372,
+      "lng": 22.72054489838534
     },
     "isNearBorder": true,
     "areaM2": 50400,
@@ -6967,8 +6967,8 @@
     "voivodeship": "lubelskie",
     "city": "Łysa Góra",
     "coordinates": {
-      "lat": 51.2515498150793,
-      "lng": 22.565095869689284
+      "lat": 51.42018106133336,
+      "lng": 21.96209346693918
     },
     "isNearBorder": false,
     "areaM2": 2500,
@@ -7001,8 +7001,8 @@
     "voivodeship": "lubelskie",
     "city": "Wólka Putnowicka",
     "coordinates": {
-      "lat": 51.247796408731794,
-      "lng": 22.56973808431027
+      "lat": 51.14040071776423,
+      "lng": 23.492983240987147
     },
     "isNearBorder": true,
     "areaM2": 92000,
@@ -7035,8 +7035,8 @@
     "voivodeship": "lubelskie",
     "city": "Kopina",
     "coordinates": {
-      "lat": 51.23946742485013,
-      "lng": 22.56752369748513
+      "lat": 51.923337338085766,
+      "lng": 22.393379604107754
     },
     "isNearBorder": false,
     "areaM2": 7800,
@@ -7069,8 +7069,8 @@
     "voivodeship": "lubelskie",
     "city": "Zemborzyce Dolne",
     "coordinates": {
-      "lat": 51.25249172456569,
-      "lng": 22.57322105641927
+      "lat": 51.2517942496897,
+      "lng": 22.565046040585965
     },
     "isNearBorder": false,
     "areaM2": 4600,
@@ -7103,8 +7103,8 @@
     "voivodeship": "lubelskie",
     "city": "Wymysłówka",
     "coordinates": {
-      "lat": 51.247992196874236,
-      "lng": 22.56096775298095
+      "lat": 51.244124122222566,
+      "lng": 22.574224822866594
     },
     "isNearBorder": false,
     "areaM2": 35000,
@@ -7137,8 +7137,8 @@
     "voivodeship": "lubelskie",
     "city": "Wólka Wieprzecka",
     "coordinates": {
-      "lat": 51.25195681000427,
-      "lng": 22.56155895736898
+      "lat": 50.72282968500996,
+      "lng": 23.260719562872733
     },
     "isNearBorder": true,
     "areaM2": 6000,
@@ -7171,8 +7171,8 @@
     "voivodeship": "lubelskie",
     "city": "Słodków Trzeci",
     "coordinates": {
-      "lat": 51.252441080989115,
-      "lng": 22.56528544486392
+      "lat": 50.9233385944808,
+      "lng": 22.226096130183706
     },
     "isNearBorder": false,
     "areaM2": 2500,
@@ -7205,8 +7205,8 @@
     "voivodeship": "lubelskie",
     "city": "Osmolice Pierwsze",
     "coordinates": {
-      "lat": 51.23977262092847,
-      "lng": 22.574349273986545
+      "lat": 51.241650150879465,
+      "lng": 22.57811703827865
     },
     "isNearBorder": false,
     "areaM2": 7300,
@@ -7240,8 +7240,8 @@
     "city": "Lublin Zemborzyce",
     "street": "ul. Letniskowa",
     "coordinates": {
-      "lat": 51.244348542764556,
-      "lng": 22.560601346673202
+      "lat": 51.250205594118725,
+      "lng": 22.570566828744862
     },
     "isNearBorder": false,
     "areaM2": 3000,
@@ -7274,8 +7274,8 @@
     "voivodeship": "lubelskie",
     "city": "Ostrów",
     "coordinates": {
-      "lat": 51.25364498151917,
-      "lng": 22.56900679478241
+      "lat": 52.031156959507086,
+      "lng": 23.11224912478644
     },
     "isNearBorder": true,
     "areaM2": 17800,
@@ -7308,8 +7308,8 @@
     "voivodeship": "lubelskie",
     "city": "Elżbietów",
     "coordinates": {
-      "lat": 51.25032183981643,
-      "lng": 22.569693290959112
+      "lat": 51.46103058228705,
+      "lng": 22.605406972100962
     },
     "isNearBorder": false,
     "areaM2": 2200,
@@ -7342,8 +7342,8 @@
     "voivodeship": "lubelskie",
     "city": "Wola Żulińska",
     "coordinates": {
-      "lat": 51.251035624240274,
-      "lng": 22.572903644497192
+      "lat": 50.97957157973668,
+      "lng": 23.17651576884632
     },
     "isNearBorder": true,
     "areaM2": 4360,
@@ -7376,8 +7376,8 @@
     "voivodeship": "lubelskie",
     "city": "Gęś",
     "coordinates": {
-      "lat": 51.24219288764896,
-      "lng": 22.574065070325386
+      "lat": 51.634827597541374,
+      "lng": 22.89735168098632
     },
     "isNearBorder": true,
     "areaM2": 19400,
@@ -7410,8 +7410,8 @@
     "voivodeship": "lubelskie",
     "city": "Wiski",
     "coordinates": {
-      "lat": 51.25013396522456,
-      "lng": 22.56061511291075
+      "lat": 52.033713917811625,
+      "lng": 23.126201874582232
     },
     "isNearBorder": true,
     "areaM2": 4859,
@@ -7444,8 +7444,8 @@
     "voivodeship": "lubelskie",
     "city": "Marianka",
     "coordinates": {
-      "lat": 51.24729536283405,
-      "lng": 22.57273073475908
+      "lat": 51.5470637366882,
+      "lng": 23.548483949953365
     },
     "isNearBorder": true,
     "areaM2": 100000,
@@ -7478,8 +7478,8 @@
     "voivodeship": "lubelskie",
     "city": "Łopiennik Podleśny",
     "coordinates": {
-      "lat": 51.25077251351692,
-      "lng": 22.56455472779606
+      "lat": 50.98673014068319,
+      "lng": 23.1719283797815
     },
     "isNearBorder": true,
     "areaM2": 8017,
@@ -7512,8 +7512,8 @@
     "voivodeship": "lubelskie",
     "city": "Orzechów-Kolonia",
     "coordinates": {
-      "lat": 51.25367008561513,
-      "lng": 22.563318862706645
+      "lat": 51.46442680807316,
+      "lng": 22.603325845693476
     },
     "isNearBorder": false,
     "areaM2": 63100,
@@ -7547,8 +7547,8 @@
     "city": "Jacków",
     "street": "ul. Szafranowa",
     "coordinates": {
-      "lat": 51.24482997959502,
-      "lng": 22.56114500096379
+      "lat": 51.22582766685708,
+      "lng": 22.688020493248878
     },
     "isNearBorder": false,
     "areaM2": 1500,
@@ -7581,8 +7581,8 @@
     "voivodeship": "lubelskie",
     "city": "Żurawie",
     "coordinates": {
-      "lat": 51.251106993826326,
-      "lng": 22.57757140038765
+      "lat": 50.53511536696437,
+      "lng": 22.714860309658086
     },
     "isNearBorder": true,
     "areaM2": 3300,
@@ -7615,8 +7615,8 @@
     "voivodeship": "lubelskie",
     "city": "Dobrosławów",
     "coordinates": {
-      "lat": 51.24199344174117,
-      "lng": 22.57824477007729
+      "lat": 51.41638050823515,
+      "lng": 21.97761841650852
     },
     "isNearBorder": false,
     "areaM2": 3600,
@@ -7649,8 +7649,8 @@
     "voivodeship": "lubelskie",
     "city": "Rzeczyca-Kolonia",
     "coordinates": {
-      "lat": 51.24895647635567,
-      "lng": 22.559317055911645
+      "lat": 51.42113502239721,
+      "lng": 21.97156632068089
     },
     "isNearBorder": false,
     "areaM2": 13800,
@@ -7684,8 +7684,8 @@
     "city": "Płoskie",
     "street": "Kolonia Pierwsza",
     "coordinates": {
-      "lat": 51.24925483018035,
-      "lng": 22.573291310933598
+      "lat": 50.72691698800062,
+      "lng": 23.25075238934821
     },
     "isNearBorder": true,
     "areaM2": 2230,
@@ -7718,8 +7718,8 @@
     "voivodeship": "lubelskie",
     "city": "Janów Lubelski",
     "coordinates": {
-      "lat": 50.700403233285535,
-      "lng": 22.41341804202637
+      "lat": 50.70771737747632,
+      "lng": 22.407548415384902
     },
     "isNearBorder": false,
     "areaM2": 20000,
@@ -7752,8 +7752,8 @@
     "voivodeship": "lubelskie",
     "city": "Bereza",
     "coordinates": {
-      "lat": 51.245356563096095,
-      "lng": 22.562823189842135
+      "lat": 52.03095121342781,
+      "lng": 23.11342844010616
     },
     "isNearBorder": true,
     "areaM2": 40300,
@@ -7786,8 +7786,8 @@
     "voivodeship": "lubelskie",
     "city": "Wojciechów",
     "coordinates": {
-      "lat": 51.23986159396587,
-      "lng": 22.568628209522846
+      "lat": 51.25072182193603,
+      "lng": 22.577715627586304
     },
     "isNearBorder": false,
     "areaM2": 5000,
@@ -7820,8 +7820,8 @@
     "voivodeship": "lubelskie",
     "city": "Leśniczówka",
     "coordinates": {
-      "lat": 51.25041369410092,
-      "lng": 22.565905157593125
+      "lat": 51.139043442530806,
+      "lng": 23.47619303824538
     },
     "isNearBorder": true,
     "areaM2": 1408,
@@ -7854,8 +7854,8 @@
     "voivodeship": "lubelskie",
     "city": "Kiełczewice Górne",
     "coordinates": {
-      "lat": 51.25278710749615,
-      "lng": 22.569725801178652
+      "lat": 51.24546981655676,
+      "lng": 22.56368947838438
     },
     "isNearBorder": false,
     "areaM2": 3000,
@@ -7888,8 +7888,8 @@
     "voivodeship": "lubelskie",
     "city": "Skowieszynek",
     "coordinates": {
-      "lat": 51.241423147542385,
-      "lng": 22.565907068754274
+      "lat": 51.420158162274305,
+      "lng": 21.968253198423717
     },
     "isNearBorder": false,
     "areaM2": 38000,
@@ -7922,8 +7922,8 @@
     "voivodeship": "lubelskie",
     "city": "Mojsławice",
     "coordinates": {
-      "lat": 51.24301544407611,
-      "lng": 22.57812746721654
+      "lat": 50.80180194256283,
+      "lng": 23.885605634544966
     },
     "isNearBorder": true,
     "areaM2": 18000,
@@ -7956,8 +7956,8 @@
     "voivodeship": "lubelskie",
     "city": "Konstantów",
     "coordinates": {
-      "lat": 51.252372909338035,
-      "lng": 22.567407543069837
+      "lat": 50.71238696603521,
+      "lng": 22.413402451035093
     },
     "isNearBorder": false,
     "areaM2": 3800,
@@ -7990,8 +7990,8 @@
     "voivodeship": "lubelskie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 51.24255142490127,
-      "lng": 22.567242731240157
+      "lat": 50.72332505787453,
+      "lng": 23.249799481798572
     },
     "isNearBorder": true,
     "areaM2": 2200,
@@ -8024,8 +8024,8 @@
     "voivodeship": "lubelskie",
     "city": "Romanów",
     "coordinates": {
-      "lat": 51.243632230795185,
-      "lng": 22.566516979636127
+      "lat": 52.03089650005281,
+      "lng": 23.116098295872188
     },
     "isNearBorder": true,
     "areaM2": 2760,
@@ -8058,8 +8058,8 @@
     "voivodeship": "lubelskie",
     "city": "Husynne",
     "coordinates": {
-      "lat": 51.24535505775643,
-      "lng": 22.56522616843597
+      "lat": 51.13470185218201,
+      "lng": 23.487330047344372
     },
     "isNearBorder": true,
     "areaM2": 4300,
@@ -8092,8 +8092,8 @@
     "voivodeship": "lubelskie",
     "city": "Grabów Rycki",
     "coordinates": {
-      "lat": 51.24659975145202,
-      "lng": 22.5625111521986
+      "lat": 51.62688658602637,
+      "lng": 21.926381960431673
     },
     "isNearBorder": false,
     "areaM2": 24700,
@@ -8126,8 +8126,8 @@
     "voivodeship": "lubelskie",
     "city": "Kębłów",
     "coordinates": {
-      "lat": 51.24311353201077,
-      "lng": 22.575450208404845
+      "lat": 51.21629586997731,
+      "lng": 22.695388002587325
     },
     "isNearBorder": false,
     "areaM2": 11000,
@@ -8160,8 +8160,8 @@
     "voivodeship": "lubelskie",
     "city": "Sulów",
     "coordinates": {
-      "lat": 51.24759971101686,
-      "lng": 22.567486899959228
+      "lat": 50.91863447493662,
+      "lng": 22.228424625191472
     },
     "isNearBorder": false,
     "areaM2": 4000,
@@ -8194,8 +8194,8 @@
     "voivodeship": "lubelskie",
     "city": "Pachole",
     "coordinates": {
-      "lat": 51.24806717533329,
-      "lng": 22.55878136751285
+      "lat": 51.64307846840371,
+      "lng": 22.911267858873092
     },
     "isNearBorder": true,
     "areaM2": 2700,
@@ -8228,8 +8228,8 @@
     "voivodeship": "lubelskie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 51.24470575765448,
-      "lng": 22.56344075797485
+      "lat": 50.452792039743606,
+      "lng": 23.40918616186919
     },
     "isNearBorder": true,
     "areaM2": 3327,
@@ -8262,8 +8262,8 @@
     "voivodeship": "lubelskie",
     "city": "Piotrawin",
     "coordinates": {
-      "lat": 51.24281349506689,
-      "lng": 22.577972997762743
+      "lat": 51.24022461256307,
+      "lng": 22.559473959463986
     },
     "isNearBorder": false,
     "areaM2": 1552,
@@ -8296,8 +8296,8 @@
     "voivodeship": "lubelskie",
     "city": "Strzelce",
     "coordinates": {
-      "lat": 51.239988996302344,
-      "lng": 22.5725758608369
+      "lat": 51.422425403888234,
+      "lng": 21.973769982119943
     },
     "isNearBorder": false,
     "areaM2": 1800,
@@ -8330,8 +8330,8 @@
     "voivodeship": "lubelskie",
     "city": "Marianówka",
     "coordinates": {
-      "lat": 51.2441279958877,
-      "lng": 22.56813825141097
+      "lat": 50.92068777238585,
+      "lng": 22.234071802892707
     },
     "isNearBorder": false,
     "areaM2": 3100,
@@ -8364,8 +8364,8 @@
     "voivodeship": "lubelskie",
     "city": "Dragany",
     "coordinates": {
-      "lat": 51.24608653784168,
-      "lng": 22.5609232392638
+      "lat": 51.23914268589706,
+      "lng": 22.568344409232825
     },
     "isNearBorder": false,
     "areaM2": 5500,
@@ -8398,8 +8398,8 @@
     "voivodeship": "lubelskie",
     "city": "Srebrzyszcze",
     "coordinates": {
-      "lat": 51.24836413795307,
-      "lng": 22.578365057469867
+      "lat": 51.12852991536902,
+      "lng": 23.486707075351664
     },
     "isNearBorder": true,
     "areaM2": 11800,
@@ -8432,8 +8432,8 @@
     "voivodeship": "lubelskie",
     "city": "Panieńszczyzna",
     "coordinates": {
-      "lat": 51.24247723872735,
-      "lng": 22.559258880439533
+      "lat": 51.24303579787761,
+      "lng": 22.57479904557338
     },
     "isNearBorder": false,
     "areaM2": 13000,
@@ -8466,8 +8466,8 @@
     "voivodeship": "lubelskie",
     "city": "Stasin",
     "coordinates": {
-      "lat": 51.240311055678355,
-      "lng": 22.566234718133835
+      "lat": 51.242770118058,
+      "lng": 22.576785361385696
     },
     "isNearBorder": false,
     "areaM2": 2000,
@@ -8500,8 +8500,8 @@
     "voivodeship": "lubelskie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 51.24195348674988,
-      "lng": 22.56960646092366
+      "lat": 51.46450107403203,
+      "lng": 22.601897031236177
     },
     "isNearBorder": false,
     "areaM2": 320000,
@@ -8540,8 +8540,8 @@
     "voivodeship": "lubelskie",
     "city": "Stawki",
     "coordinates": {
-      "lat": 51.24725421286047,
-      "lng": 22.56184329318738
+      "lat": 51.5491522341184,
+      "lng": 23.559615739461055
     },
     "isNearBorder": true,
     "areaM2": 5900,
@@ -8575,8 +8575,8 @@
     "city": "Hanna",
     "street": "ul. Długa",
     "coordinates": {
-      "lat": 51.241089805595834,
-      "lng": 22.56939528288394
+      "lat": 51.545297582233324,
+      "lng": 23.555837319426367
     },
     "isNearBorder": true,
     "areaM2": 14500,
@@ -8609,8 +8609,8 @@
     "voivodeship": "lubelskie",
     "city": "Ochoża-Pniaki",
     "coordinates": {
-      "lat": 51.24048259777922,
-      "lng": 22.572197783169273
+      "lat": 51.12667438971562,
+      "lng": 23.488070620012405
     },
     "isNearBorder": true,
     "areaM2": 2000,
@@ -8643,8 +8643,8 @@
     "voivodeship": "lubelskie",
     "city": "Werbkowice",
     "coordinates": {
-      "lat": 51.25217226014019,
-      "lng": 22.571225824427454
+      "lat": 50.81242309819,
+      "lng": 23.88369195420838
     },
     "isNearBorder": true,
     "areaM2": 4951,
@@ -8677,8 +8677,8 @@
     "voivodeship": "lubelskie",
     "city": "Rzeczyca",
     "coordinates": {
-      "lat": 51.24214251625308,
-      "lng": 22.565641625800353
+      "lat": 51.41512396162059,
+      "lng": 21.975738574067076
     },
     "isNearBorder": false,
     "areaM2": 39000,
@@ -8711,8 +8711,8 @@
     "voivodeship": "lubelskie",
     "city": "Wysokie Pierwsze",
     "coordinates": {
-      "lat": 51.248366598189364,
-      "lng": 22.569039926060917
+      "lat": 50.726409381004316,
+      "lng": 23.259054461152765
     },
     "isNearBorder": true,
     "areaM2": 2700,
@@ -8745,8 +8745,8 @@
     "voivodeship": "lubelskie",
     "city": "Konopnica",
     "coordinates": {
-      "lat": 51.239088930919884,
-      "lng": 22.568010163758956
+      "lat": 51.244840794454156,
+      "lng": 22.569400376777757
     },
     "isNearBorder": false,
     "areaM2": 2000,
@@ -8779,8 +8779,8 @@
     "voivodeship": "lubelskie",
     "city": "Wólka Poznańska",
     "coordinates": {
-      "lat": 51.2525201935653,
-      "lng": 22.565624651842974
+      "lat": 51.92616112585545,
+      "lng": 22.375530773082787
     },
     "isNearBorder": false,
     "areaM2": 4700,
@@ -8813,8 +8813,8 @@
     "voivodeship": "lubelskie",
     "city": "Zalesie",
     "coordinates": {
-      "lat": 51.24177881658744,
-      "lng": 22.57003203850121
+      "lat": 51.30472597348718,
+      "lng": 22.89026958054847
     },
     "isNearBorder": false,
     "areaM2": 4500,
@@ -8847,8 +8847,8 @@
     "voivodeship": "lubelskie",
     "city": "Dębówka",
     "coordinates": {
-      "lat": 51.243437682536765,
-      "lng": 22.563534590796085
+      "lat": 51.240022733770616,
+      "lng": 22.56398226266511
     },
     "isNearBorder": false,
     "areaM2": 2570,
@@ -8881,8 +8881,8 @@
     "voivodeship": "lubelskie",
     "city": "Emilianów",
     "coordinates": {
-      "lat": 51.24900167712832,
-      "lng": 22.564576128227902
+      "lat": 51.22607144848118,
+      "lng": 22.687631499166358
     },
     "isNearBorder": false,
     "areaM2": 2400,
@@ -8916,8 +8916,8 @@
     "city": "Wola Przybysławska",
     "street": "Wola Przybysławska Druga",
     "coordinates": {
-      "lat": 51.246835202310216,
-      "lng": 22.56415283873203
+      "lat": 51.24055425248581,
+      "lng": 22.574468899137898
     },
     "isNearBorder": false,
     "areaM2": 18000,
@@ -8950,8 +8950,8 @@
     "voivodeship": "lubelskie",
     "city": "Miętkie-Kolonia",
     "coordinates": {
-      "lat": 51.24005750557854,
-      "lng": 22.57600516631889
+      "lat": 50.80418469756486,
+      "lng": 23.895066861038707
     },
     "isNearBorder": true,
     "areaM2": 12700,
@@ -8984,8 +8984,8 @@
     "voivodeship": "lubelskie",
     "city": "Tomaszowice",
     "coordinates": {
-      "lat": 51.244002048688806,
-      "lng": 22.55965775892022
+      "lat": 51.25175303666331,
+      "lng": 22.560677587559045
     },
     "isNearBorder": false,
     "areaM2": 14700,
@@ -9018,8 +9018,8 @@
     "voivodeship": "lubelskie",
     "city": "Sporniak",
     "coordinates": {
-      "lat": 51.25395469733691,
-      "lng": 22.563333327526234
+      "lat": 51.249003676588394,
+      "lng": 22.577843648601778
     },
     "isNearBorder": false,
     "areaM2": 5100,
@@ -9052,8 +9052,8 @@
     "voivodeship": "lubelskie",
     "city": "Siostrzytów",
     "coordinates": {
-      "lat": 51.24389752182969,
-      "lng": 22.562249342715088
+      "lat": 51.21861023409633,
+      "lng": 22.691999988452594
     },
     "isNearBorder": false,
     "areaM2": 1200,
@@ -9086,8 +9086,8 @@
     "voivodeship": "lubelskie",
     "city": "Minkowice-Kolonia",
     "coordinates": {
-      "lat": 51.245653686766765,
-      "lng": 22.57218532010166
+      "lat": 51.21804919681644,
+      "lng": 22.689347086457325
     },
     "isNearBorder": false,
     "areaM2": 1300,
@@ -9120,8 +9120,8 @@
     "voivodeship": "lubelskie",
     "city": "Żabcze",
     "coordinates": {
-      "lat": 51.24134541106164,
-      "lng": 22.569282503700656
+      "lat": 50.800705287251375,
+      "lng": 23.89937615725219
     },
     "isNearBorder": true,
     "areaM2": 71600,
@@ -9154,8 +9154,8 @@
     "voivodeship": "lubelskie",
     "city": "Nowodwór",
     "coordinates": {
-      "lat": 51.24409039145459,
-      "lng": 22.576733397116968
+      "lat": 51.6239258537186,
+      "lng": 21.935890203592997
     },
     "isNearBorder": false,
     "areaM2": 15100,
@@ -9188,8 +9188,8 @@
     "voivodeship": "lubelskie",
     "city": "Kodeniec",
     "coordinates": {
-      "lat": 51.244229047986046,
-      "lng": 22.577362867001508
+      "lat": 51.64510476758153,
+      "lng": 22.895933478414047
     },
     "isNearBorder": true,
     "areaM2": 2600,
@@ -9222,8 +9222,8 @@
     "voivodeship": "lubelskie",
     "city": "Jasienica",
     "coordinates": {
-      "lat": 51.24462183052826,
-      "lng": 22.56272615913949
+      "lat": 51.133765262122225,
+      "lng": 23.475797505266218
     },
     "isNearBorder": true,
     "areaM2": 5289,
@@ -9256,8 +9256,8 @@
     "voivodeship": "lubelskie",
     "city": "Dołhobrody",
     "coordinates": {
-      "lat": 51.2476169418301,
-      "lng": 22.571080766494042
+      "lat": 51.545055731676314,
+      "lng": 23.55537552279216
     },
     "isNearBorder": true,
     "areaM2": 2900,
@@ -9290,8 +9290,8 @@
     "voivodeship": "lubelskie",
     "city": "Smugi",
     "coordinates": {
-      "lat": 51.242572949648924,
-      "lng": 22.57477173174716
+      "lat": 51.241989327428975,
+      "lng": 22.56450404681063
     },
     "isNearBorder": false,
     "areaM2": 2200,
@@ -9324,8 +9324,8 @@
     "voivodeship": "lubelskie",
     "city": "Talczyn",
     "coordinates": {
-      "lat": 51.239684091059466,
-      "lng": 22.568676463983554
+      "lat": 51.46193247795855,
+      "lng": 22.612690085311925
     },
     "isNearBorder": false,
     "areaM2": 11000,
@@ -9358,8 +9358,8 @@
     "voivodeship": "lubelskie",
     "city": "Ignasin",
     "coordinates": {
-      "lat": 51.2433463333093,
-      "lng": 22.574823578519467
+      "lat": 50.98965596312463,
+      "lng": 23.173513581007686
     },
     "isNearBorder": true,
     "areaM2": 11200,
@@ -9392,8 +9392,8 @@
     "voivodeship": "lubelskie",
     "city": "Uniszowice",
     "coordinates": {
-      "lat": 51.24546252131841,
-      "lng": 22.567849395157452
+      "lat": 51.2477252850099,
+      "lng": 22.575233117237048
     },
     "isNearBorder": false,
     "areaM2": 2055,
@@ -9426,8 +9426,8 @@
     "voivodeship": "lubelskie",
     "city": "Jaślików",
     "coordinates": {
-      "lat": 51.24158281304765,
-      "lng": 22.575105567991955
+      "lat": 50.9904200164493,
+      "lng": 23.174879155094693
     },
     "isNearBorder": true,
     "areaM2": 16500,
@@ -9460,8 +9460,8 @@
     "voivodeship": "lubelskie",
     "city": "Zahajki-Kolonia",
     "coordinates": {
-      "lat": 51.25394540815348,
-      "lng": 22.562354482305405
+      "lat": 51.53700849245553,
+      "lng": 23.55382255124781
     },
     "isNearBorder": true,
     "areaM2": 2500,
@@ -9494,8 +9494,8 @@
     "voivodeship": "lubelskie",
     "city": "Dragany",
     "coordinates": {
-      "lat": 51.24469863147447,
-      "lng": 22.559990791048723
+      "lat": 51.24634154372143,
+      "lng": 22.572760881822763
     },
     "isNearBorder": false,
     "areaM2": 4600,
@@ -9528,8 +9528,8 @@
     "voivodeship": "lubelskie",
     "city": "Guzówka",
     "coordinates": {
-      "lat": 51.245805756530274,
-      "lng": 22.56715311890343
+      "lat": 51.9278877031395,
+      "lng": 22.3804329828076
     },
     "isNearBorder": false,
     "areaM2": 26800,
@@ -9562,8 +9562,8 @@
     "voivodeship": "lubelskie",
     "city": "Sporniak",
     "coordinates": {
-      "lat": 51.2477465105961,
-      "lng": 22.57460793314297
+      "lat": 51.24262370750097,
+      "lng": 22.569323681013156
     },
     "isNearBorder": false,
     "areaM2": 9700,
@@ -9596,8 +9596,8 @@
     "voivodeship": "lubelskie",
     "city": "Stary Bazanów",
     "coordinates": {
-      "lat": 51.247088775796314,
-      "lng": 22.574262649588576
+      "lat": 51.625364496782666,
+      "lng": 21.931388027064717
     },
     "isNearBorder": false,
     "areaM2": 17800,
@@ -9630,8 +9630,8 @@
     "voivodeship": "lubelskie",
     "city": "Cegielnia",
     "coordinates": {
-      "lat": 51.24195803186777,
-      "lng": 22.5626607961949
+      "lat": 50.80556094375456,
+      "lng": 23.890995853167794
     },
     "isNearBorder": true,
     "areaM2": 5000,
@@ -9664,8 +9664,8 @@
     "voivodeship": "lubelskie",
     "city": "Horostyta",
     "coordinates": {
-      "lat": 51.240206578745614,
-      "lng": 22.563686341796476
+      "lat": 51.540001528490556,
+      "lng": 23.54578745344962
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -9698,8 +9698,8 @@
     "voivodeship": "lubelskie",
     "city": "Kępa",
     "coordinates": {
-      "lat": 51.2481094512058,
-      "lng": 22.561810387755607
+      "lat": 51.13715537821653,
+      "lng": 23.4793226672063
     },
     "isNearBorder": true,
     "areaM2": 2700,
@@ -9732,8 +9732,8 @@
     "voivodeship": "lubelskie",
     "city": "Snopków",
     "coordinates": {
-      "lat": 51.25148800829468,
-      "lng": 22.577047484126165
+      "lat": 51.245922219956554,
+      "lng": 22.56202643977044
     },
     "isNearBorder": false,
     "areaM2": 1800,
@@ -9766,8 +9766,8 @@
     "voivodeship": "lubelskie",
     "city": "Stabrów",
     "coordinates": {
-      "lat": 51.24905234759681,
-      "lng": 22.57013310094487
+      "lat": 50.72047627174941,
+      "lng": 23.256036714540606
     },
     "isNearBorder": true,
     "areaM2": 10400,
@@ -9800,8 +9800,8 @@
     "voivodeship": "lubelskie",
     "city": "Stara Wieś Druga",
     "coordinates": {
-      "lat": 51.2501859104573,
-      "lng": 22.575679859052077
+      "lat": 51.25292721615992,
+      "lng": 22.57252911178731
     },
     "isNearBorder": false,
     "areaM2": 14000,
@@ -9834,8 +9834,8 @@
     "voivodeship": "lubelskie",
     "city": "Franciszków",
     "coordinates": {
-      "lat": 51.24344995988251,
-      "lng": 22.56611997601438
+      "lat": 51.22413016184679,
+      "lng": 22.703170849456217
     },
     "isNearBorder": false,
     "areaM2": 2100,
@@ -9868,8 +9868,8 @@
     "voivodeship": "lubelskie",
     "city": "Łęczyca",
     "coordinates": {
-      "lat": 51.2492838167847,
-      "lng": 22.56760666007533
+      "lat": 51.24926416761905,
+      "lng": 22.57385580758038
     },
     "isNearBorder": false,
     "areaM2": 4861,
@@ -9902,8 +9902,8 @@
     "voivodeship": "lubelskie",
     "city": "Honiatycze",
     "coordinates": {
-      "lat": 51.23990247296925,
-      "lng": 22.55939793219387
+      "lat": 50.807182711780726,
+      "lng": 23.898548858658934
     },
     "isNearBorder": true,
     "areaM2": 5000,
@@ -9936,8 +9936,8 @@
     "voivodeship": "lubelskie",
     "city": "Starościce",
     "coordinates": {
-      "lat": 51.24501197373048,
-      "lng": 22.566579614571218
+      "lat": 51.30027304076129,
+      "lng": 22.886639105295
     },
     "isNearBorder": false,
     "areaM2": 4000,
@@ -9970,8 +9970,8 @@
     "voivodeship": "lubelskie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 51.24845506268636,
-      "lng": 22.56135503661131
+      "lat": 51.927471385082285,
+      "lng": 22.39265826192575
     },
     "isNearBorder": false,
     "areaM2": 3400,
@@ -10004,8 +10004,8 @@
     "voivodeship": "lubelskie",
     "city": "Płonka-Kolonia",
     "coordinates": {
-      "lat": 51.2410404383558,
-      "lng": 22.565397423096297
+      "lat": 50.98723417880846,
+      "lng": 23.175015994506403
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -10038,8 +10038,8 @@
     "voivodeship": "lubelskie",
     "city": "Róża",
     "coordinates": {
-      "lat": 51.241763092716035,
-      "lng": 22.57600681268991
+      "lat": 50.45217057137467,
+      "lng": 23.409532672065737
     },
     "isNearBorder": true,
     "areaM2": 1100,
@@ -10072,8 +10072,8 @@
     "voivodeship": "lubelskie",
     "city": "Lubień",
     "coordinates": {
-      "lat": 51.24581995751102,
-      "lng": 22.55961102356821
+      "lat": 51.54577785593897,
+      "lng": 23.55727403094127
     },
     "isNearBorder": true,
     "areaM2": 9300,
@@ -10106,8 +10106,8 @@
     "voivodeship": "lubelskie",
     "city": "Buchałowice",
     "coordinates": {
-      "lat": 51.24186606509536,
-      "lng": 22.576560254701675
+      "lat": 51.4098274265029,
+      "lng": 21.960323318348244
     },
     "isNearBorder": false,
     "areaM2": 2400,
@@ -10140,8 +10140,8 @@
     "voivodeship": "lubelskie",
     "city": "Natalin",
     "coordinates": {
-      "lat": 51.252683861154445,
-      "lng": 22.573182542531953
+      "lat": 50.92887269539673,
+      "lng": 22.22557363559874
     },
     "isNearBorder": false,
     "areaM2": 9419,
@@ -10174,8 +10174,8 @@
     "voivodeship": "lubelskie",
     "city": "Antoniówka",
     "coordinates": {
-      "lat": 51.243695625590895,
-      "lng": 22.57639234026577
+      "lat": 50.979889402227,
+      "lng": 23.185322129641907
     },
     "isNearBorder": true,
     "areaM2": 1500,
@@ -10208,8 +10208,8 @@
     "voivodeship": "lubelskie",
     "city": "Trawniki-Kolonia",
     "coordinates": {
-      "lat": 51.25297579675138,
-      "lng": 22.563723751644016
+      "lat": 51.219412313349174,
+      "lng": 22.70364476605386
     },
     "isNearBorder": false,
     "areaM2": 2000,
@@ -10242,8 +10242,8 @@
     "voivodeship": "lubelskie",
     "city": "Witoszyn",
     "coordinates": {
-      "lat": 51.24275515615526,
-      "lng": 22.569806952686218
+      "lat": 51.42350487073543,
+      "lng": 21.966424913494706
     },
     "isNearBorder": false,
     "areaM2": 5500,
@@ -10277,8 +10277,8 @@
     "city": "Branew",
     "street": "Branew Ordynacka",
     "coordinates": {
-      "lat": 51.24994677350911,
-      "lng": 22.565419895437465
+      "lat": 50.70455093800733,
+      "lng": 22.403005734965756
     },
     "isNearBorder": false,
     "areaM2": 11800,
@@ -10311,8 +10311,8 @@
     "voivodeship": "lubelskie",
     "city": "Siostrzytów",
     "coordinates": {
-      "lat": 51.24519561540601,
-      "lng": 22.569904468853327
+      "lat": 51.22535799509044,
+      "lng": 22.686591112565218
     },
     "isNearBorder": false,
     "areaM2": 38300,
@@ -10345,8 +10345,8 @@
     "voivodeship": "lubelskie",
     "city": "Sajówka",
     "coordinates": {
-      "lat": 51.24111600289493,
-      "lng": 22.569116576161893
+      "lat": 52.03578305483708,
+      "lng": 23.11322832474852
     },
     "isNearBorder": true,
     "areaM2": 7000,
@@ -10379,8 +10379,8 @@
     "voivodeship": "lubelskie",
     "city": "Suchodoły",
     "coordinates": {
-      "lat": 51.25002223825733,
-      "lng": 22.56933719277519
+      "lat": 50.92737241346067,
+      "lng": 22.226759839880156
     },
     "isNearBorder": false,
     "areaM2": 3000,
@@ -10413,8 +10413,8 @@
     "voivodeship": "lubelskie",
     "city": "Szyszków",
     "coordinates": {
-      "lat": 51.24117462139736,
-      "lng": 22.559106470900556
+      "lat": 50.54693525054653,
+      "lng": 22.71615762439939
     },
     "isNearBorder": true,
     "areaM2": 4400,
@@ -10447,8 +10447,8 @@
     "voivodeship": "lubelskie",
     "city": "Rosy",
     "coordinates": {
-      "lat": 51.25316422535085,
-      "lng": 22.5604589221653
+      "lat": 51.923851064859136,
+      "lng": 22.383412506535567
     },
     "isNearBorder": false,
     "areaM2": 33200,
@@ -10481,8 +10481,8 @@
     "voivodeship": "lubelskie",
     "city": "Kosarzew Górny",
     "coordinates": {
-      "lat": 51.251140173758415,
-      "lng": 22.565708775646904
+      "lat": 51.25356368628705,
+      "lng": 22.577685293739137
     },
     "isNearBorder": false,
     "areaM2": 28300,
@@ -10515,8 +10515,8 @@
     "voivodeship": "lubelskie",
     "city": "Jawidz",
     "coordinates": {
-      "lat": 51.25395980319288,
-      "lng": 22.575727744536277
+      "lat": 51.29835820872274,
+      "lng": 22.889197009654037
     },
     "isNearBorder": false,
     "areaM2": 22600,
@@ -10549,8 +10549,8 @@
     "voivodeship": "lubelskie",
     "city": "Piotrków Drugi",
     "coordinates": {
-      "lat": 51.24199576049077,
-      "lng": 22.567851593249767
+      "lat": 51.24625386594768,
+      "lng": 22.563753056924998
     },
     "isNearBorder": false,
     "areaM2": 2026,
@@ -10583,8 +10583,8 @@
     "voivodeship": "lubelskie",
     "city": "Wirkowice Drugie",
     "coordinates": {
-      "lat": 51.23946781073587,
-      "lng": 22.562683885506345
+      "lat": 50.983332074973255,
+      "lng": 23.170339676728414
     },
     "isNearBorder": true,
     "areaM2": 13100,
@@ -10617,8 +10617,8 @@
     "voivodeship": "lubelskie",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 51.243899356353616,
-      "lng": 22.56300605072719
+      "lat": 51.46456115327108,
+      "lng": 22.60570493006039
     },
     "isNearBorder": false,
     "areaM2": 3000,
@@ -10651,8 +10651,8 @@
     "voivodeship": "lubelskie",
     "city": "Wólka Rejowiecka",
     "coordinates": {
-      "lat": 51.24512088909879,
-      "lng": 22.572361521445078
+      "lat": 51.1393206476123,
+      "lng": 23.4783266164888
     },
     "isNearBorder": true,
     "areaM2": 6000,
@@ -10685,8 +10685,8 @@
     "voivodeship": "lubelskie",
     "city": "Tuczępy",
     "coordinates": {
-      "lat": 51.24709423261215,
-      "lng": 22.559933855374794
+      "lat": 50.7179913031113,
+      "lng": 23.261737607185324
     },
     "isNearBorder": true,
     "areaM2": 4500,
@@ -10719,8 +10719,8 @@
     "voivodeship": "lubelskie",
     "city": "Żerocin",
     "coordinates": {
-      "lat": 51.24830039759958,
-      "lng": 22.577345667244995
+      "lat": 52.037052744551254,
+      "lng": 23.124535355894476
     },
     "isNearBorder": true,
     "areaM2": 26600,
@@ -10753,8 +10753,8 @@
     "voivodeship": "lubelskie",
     "city": "Sobieszyn",
     "coordinates": {
-      "lat": 51.2501892084519,
-      "lng": 22.569004036270602
+      "lat": 51.626403233247565,
+      "lng": 21.93787445098567
     },
     "isNearBorder": false,
     "areaM2": 300,
@@ -10787,8 +10787,8 @@
     "voivodeship": "lubelskie",
     "city": "Zemborzyce Dolne",
     "coordinates": {
-      "lat": 51.25344856465001,
-      "lng": 22.559218377153854
+      "lat": 51.239423201057456,
+      "lng": 22.56725785055188
     },
     "isNearBorder": false,
     "areaM2": 53900,
@@ -10821,8 +10821,8 @@
     "voivodeship": "lubelskie",
     "city": "Stężyca-Kolonia",
     "coordinates": {
-      "lat": 51.24986680041232,
-      "lng": 22.563642082884183
+      "lat": 50.98699944770653,
+      "lng": 23.16756515376062
     },
     "isNearBorder": true,
     "areaM2": 6700,
@@ -10856,8 +10856,8 @@
     "city": "Klonownica Mała",
     "street": "Utkowiec",
     "coordinates": {
-      "lat": 51.24771541302713,
-      "lng": 22.565205983829024
+      "lat": 52.026954149447874,
+      "lng": 23.116007192158932
     },
     "isNearBorder": true,
     "areaM2": 14300,
@@ -10890,8 +10890,8 @@
     "voivodeship": "lubelskie",
     "city": "Żurawie",
     "coordinates": {
-      "lat": 51.24120473633756,
-      "lng": 22.570325015886123
+      "lat": 50.53631208555809,
+      "lng": 22.726553592929065
     },
     "isNearBorder": true,
     "areaM2": 5500,
@@ -10924,8 +10924,8 @@
     "voivodeship": "lubelskie",
     "city": "Dąbrowa",
     "coordinates": {
-      "lat": 53.65460104826567,
-      "lng": 23.352296588098074
+      "lat": 50.9237694954395,
+      "lng": 22.227012424496472
     },
     "isNearBorder": false,
     "areaM2": 33100,
@@ -10958,8 +10958,8 @@
     "voivodeship": "lubelskie",
     "city": "Feliksówka",
     "coordinates": {
-      "lat": 51.25397724198463,
-      "lng": 22.565347592720286
+      "lat": 50.72394544482595,
+      "lng": 23.265602353817364
     },
     "isNearBorder": true,
     "areaM2": 7100,
@@ -10993,8 +10993,8 @@
     "city": "Kraśnik",
     "street": "Zarzecze Drugie",
     "coordinates": {
-      "lat": 50.92508822151229,
-      "lng": 22.22945456470268
+      "lat": 50.92320493431824,
+      "lng": 22.21737326716213
     },
     "isNearBorder": false,
     "areaM2": 8700,
@@ -11027,8 +11027,8 @@
     "voivodeship": "lubelskie",
     "city": "Lubień",
     "coordinates": {
-      "lat": 51.245816746630744,
-      "lng": 22.568430106297452
+      "lat": 51.54262605655503,
+      "lng": 23.542814599991228
     },
     "isNearBorder": true,
     "areaM2": 2492,
@@ -11061,8 +11061,8 @@
     "voivodeship": "lubelskie",
     "city": "Motycz",
     "coordinates": {
-      "lat": 51.24330354077645,
-      "lng": 22.563798218547994
+      "lat": 51.252035061288055,
+      "lng": 22.56770953201534
     },
     "isNearBorder": false,
     "areaM2": 6200,
@@ -11095,8 +11095,8 @@
     "voivodeship": "lubelskie",
     "city": "Macoszyn Mały",
     "coordinates": {
-      "lat": 51.246434433400125,
-      "lng": 22.563943498353783
+      "lat": 51.550339147394574,
+      "lng": 23.5517379605886
     },
     "isNearBorder": true,
     "areaM2": 17400,
@@ -11129,8 +11129,8 @@
     "voivodeship": "lubelskie",
     "city": "Macoszyn Mały",
     "coordinates": {
-      "lat": 51.24153460897596,
-      "lng": 22.572202780780017
+      "lat": 51.54353209758895,
+      "lng": 23.555814773438133
     },
     "isNearBorder": true,
     "areaM2": 16300,
@@ -11163,8 +11163,8 @@
     "voivodeship": "lubelskie",
     "city": "Izdebno",
     "coordinates": {
-      "lat": 51.24215610943988,
-      "lng": 22.56218369782333
+      "lat": 51.22384716121364,
+      "lng": 22.69075070929409
     },
     "isNearBorder": false,
     "areaM2": 3200,
@@ -11197,8 +11197,8 @@
     "voivodeship": "lubelskie",
     "city": "Dańce",
     "coordinates": {
-      "lat": 51.24270987047184,
-      "lng": 22.563929054141333
+      "lat": 51.539878012600035,
+      "lng": 23.55284948676202
     },
     "isNearBorder": true,
     "areaM2": 16000,
@@ -11231,8 +11231,8 @@
     "voivodeship": "lubelskie",
     "city": "Nowodwór",
     "coordinates": {
-      "lat": 51.25045837303617,
-      "lng": 22.560239145451316
+      "lat": 51.62534156381654,
+      "lng": 21.9284904924645
     },
     "isNearBorder": false,
     "areaM2": 8561,
@@ -11265,8 +11265,8 @@
     "voivodeship": "lubelskie",
     "city": "Bukowa Mała",
     "coordinates": {
-      "lat": 51.2434351977629,
-      "lng": 22.561728555378743
+      "lat": 51.13019437484528,
+      "lng": 23.47482221228886
     },
     "isNearBorder": true,
     "areaM2": 7000,
@@ -11299,8 +11299,8 @@
     "voivodeship": "lubelskie",
     "city": "Żabia Wola",
     "coordinates": {
-      "lat": 51.241288871154296,
-      "lng": 22.56767143402674
+      "lat": 51.25269377795742,
+      "lng": 22.567173497440944
     },
     "isNearBorder": false,
     "areaM2": 21100,
@@ -11333,8 +11333,8 @@
     "voivodeship": "lubelskie",
     "city": "Blinów Pierwszy",
     "coordinates": {
-      "lat": 51.24267676734504,
-      "lng": 22.562534306878078
+      "lat": 50.92160367280496,
+      "lng": 22.21986775230551
     },
     "isNearBorder": false,
     "areaM2": 54000,
@@ -11367,8 +11367,8 @@
     "voivodeship": "lubelskie",
     "city": "Leśniczówka",
     "coordinates": {
-      "lat": 51.24064588228502,
-      "lng": 22.57296791537368
+      "lat": 51.13829610769492,
+      "lng": 23.47526833708759
     },
     "isNearBorder": true,
     "areaM2": 3046,
@@ -11401,8 +11401,8 @@
     "voivodeship": "lubelskie",
     "city": "Stare Buczyce",
     "coordinates": {
-      "lat": 51.244623578724834,
-      "lng": 22.5696034139866
+      "lat": 52.02814669081845,
+      "lng": 23.120339823267503
     },
     "isNearBorder": true,
     "areaM2": 10400,
@@ -11435,8 +11435,8 @@
     "voivodeship": "lubelskie",
     "city": "Łopiennik Dolny-Kolonia",
     "coordinates": {
-      "lat": 51.245247662468294,
-      "lng": 22.5728201441474
+      "lat": 50.98986120094752,
+      "lng": 23.181385768257694
     },
     "isNearBorder": true,
     "areaM2": 65700,
@@ -11469,8 +11469,8 @@
     "voivodeship": "lubelskie",
     "city": "Mircze",
     "coordinates": {
-      "lat": 51.24518837964932,
-      "lng": 22.56493221944187
+      "lat": 50.805078810717674,
+      "lng": 23.897097398081257
     },
     "isNearBorder": true,
     "areaM2": 2500,
@@ -11504,8 +11504,8 @@
     "county": "lubelski",
     "city": "Miłocin",
     "coordinates": {
-      "lat": 51.25224913436377,
-      "lng": 22.566521950438815
+      "lat": 51.239582605745085,
+      "lng": 22.57047572303815
     },
     "isNearBorder": false,
     "areaM2": 5271,
@@ -11538,8 +11538,8 @@
     "county": "lubelski",
     "city": "Spławy",
     "coordinates": {
-      "lat": 51.25097259845578,
-      "lng": 22.572480318822663
+      "lat": 51.24428789243689,
+      "lng": 22.574632555056056
     },
     "isNearBorder": false,
     "areaM2": 4400,
@@ -11572,8 +11572,8 @@
     "county": "lubelski",
     "city": "Słupeczno",
     "coordinates": {
-      "lat": 51.24243552590183,
-      "lng": 22.558407790244242
+      "lat": 51.24499607459042,
+      "lng": 22.560238988644095
     },
     "isNearBorder": false,
     "areaM2": 2800,
@@ -11606,8 +11606,8 @@
     "county": "puławski",
     "city": "Leokadiów",
     "coordinates": {
-      "lat": 51.25110350985419,
-      "lng": 22.574515916721218
+      "lat": 51.42180960568365,
+      "lng": 21.968235882530326
     },
     "isNearBorder": false,
     "areaM2": 4100,
@@ -11641,8 +11641,8 @@
     "city": "Kamień",
     "street": "Hrubieszowska",
     "coordinates": {
-      "lat": 51.241047864115515,
-      "lng": 22.56722090833889
+      "lat": 51.1385504839405,
+      "lng": 23.47679342230903
     },
     "isNearBorder": true,
     "areaM2": 8503,
@@ -11675,8 +11675,8 @@
     "county": "zamojski",
     "city": "Niedzieliska",
     "coordinates": {
-      "lat": 51.24738203729754,
-      "lng": 22.568296229229276
+      "lat": 50.719128442819176,
+      "lng": 23.263593620114186
     },
     "isNearBorder": true,
     "areaM2": 953,
@@ -11708,8 +11708,8 @@
     "voivodeship": "lubelskie",
     "city": "Łukaszówka",
     "coordinates": {
-      "lat": 51.24482160762327,
-      "lng": 22.55952202840234
+      "lat": 50.98497418821956,
+      "lng": 23.182310077121937
     },
     "isNearBorder": true,
     "areaM2": 1230,
@@ -11744,8 +11744,8 @@
     "city": "Izdebno-Kolonia",
     "street": "ul. Partyzantów",
     "coordinates": {
-      "lat": 51.246051005015175,
-      "lng": 22.566087830846488
+      "lat": 51.224794441044175,
+      "lng": 22.69148168681973
     },
     "isNearBorder": false,
     "areaM2": 8000,
@@ -11777,8 +11777,8 @@
     "county": "łęczyński",
     "city": "Turowola",
     "coordinates": {
-      "lat": 51.24722237971568,
-      "lng": 22.56638274927111
+      "lat": 51.30567038637034,
+      "lng": 22.874052948457503
     },
     "isNearBorder": false,
     "areaM2": 1340,
@@ -11809,8 +11809,8 @@
     "voivodeship": "lubelskie",
     "city": "Słupeczno",
     "coordinates": {
-      "lat": 51.24333327199389,
-      "lng": 22.571967284705188
+      "lat": 51.249117931326836,
+      "lng": 22.5750537244018
     },
     "isNearBorder": false,
     "areaM2": 2800,
@@ -11844,8 +11844,8 @@
     "county": "chełmski",
     "city": "Toruń",
     "coordinates": {
-      "lat": 51.24703171694178,
-      "lng": 22.558567434215604
+      "lat": 51.13074693788176,
+      "lng": 23.487461634929623
     },
     "isNearBorder": true,
     "areaM2": 1798,
@@ -11876,8 +11876,8 @@
     "voivodeship": "lubelskie",
     "city": "Leśniczówka",
     "coordinates": {
-      "lat": 51.24044569349667,
-      "lng": 22.569892972360897
+      "lat": 51.12930346539326,
+      "lng": 23.47652669662315
     },
     "isNearBorder": true,
     "areaM2": 20000,
@@ -11911,8 +11911,8 @@
     "county": "tomaszowski",
     "city": "Lubycza Królewska",
     "coordinates": {
-      "lat": 51.24918060976311,
-      "lng": 22.559905312757596
+      "lat": 50.44201764622041,
+      "lng": 23.420072569887996
     },
     "isNearBorder": true,
     "areaM2": 5916,
@@ -11944,8 +11944,8 @@
     "county": "lubartowski",
     "city": "Przytoczno",
     "coordinates": {
-      "lat": 51.24963970328705,
-      "lng": 22.571736137897634
+      "lat": 51.456800758621846,
+      "lng": 22.60523936961814
     },
     "isNearBorder": false,
     "areaM2": 8284,
@@ -11977,8 +11977,8 @@
     "county": "zamojski",
     "city": "Brody Małe",
     "coordinates": {
-      "lat": 51.242564055382395,
-      "lng": 22.57030119080631
+      "lat": 50.715113629676885,
+      "lng": 23.259870740178897
     },
     "isNearBorder": true,
     "areaM2": 1215,
@@ -12011,8 +12011,8 @@
     "county": "puławski",
     "city": "Wola Osińska",
     "coordinates": {
-      "lat": 51.24385539727975,
-      "lng": 22.574763091045092
+      "lat": 51.41858112796989,
+      "lng": 21.974532584386196
     },
     "isNearBorder": false,
     "areaM2": 3618,
@@ -12045,8 +12045,8 @@
     "county": "zamojski",
     "city": "Brody Małe",
     "coordinates": {
-      "lat": 51.24772565113625,
-      "lng": 22.577609556176284
+      "lat": 50.72489875611183,
+      "lng": 23.25645599119091
     },
     "isNearBorder": true,
     "areaM2": 1215,
@@ -12078,8 +12078,8 @@
     "county": "krasnostawski",
     "city": "Baranica",
     "coordinates": {
-      "lat": 51.253592621452015,
-      "lng": 22.570786134914638
+      "lat": 50.98000714991699,
+      "lng": 23.167875907143884
     },
     "isNearBorder": true,
     "areaM2": 35000,
@@ -12112,8 +12112,8 @@
     "county": "puławski",
     "city": "Ludwinów",
     "coordinates": {
-      "lat": 51.253948640938695,
-      "lng": 22.567799595080267
+      "lat": 51.40956205379214,
+      "lng": 21.971886132484208
     },
     "isNearBorder": false,
     "areaM2": 1689,
@@ -12146,8 +12146,8 @@
     "county": "lubartowski",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 51.24505350210191,
-      "lng": 22.573003918719103
+      "lat": 51.45800702690026,
+      "lng": 22.60144736211436
     },
     "isNearBorder": false,
     "areaM2": 1504,
@@ -12180,8 +12180,8 @@
     "county": "krasnostawski",
     "city": "Siedliska Drugie",
     "coordinates": {
-      "lat": 51.23936264810807,
-      "lng": 22.565077509374518
+      "lat": 50.98145975140189,
+      "lng": 23.185043114504836
     },
     "isNearBorder": true,
     "areaM2": 4282,
@@ -12214,8 +12214,8 @@
     "county": "puławski",
     "city": "Dobrosławów",
     "coordinates": {
-      "lat": 51.239067490224116,
-      "lng": 22.561919802666175
+      "lat": 51.41426652565351,
+      "lng": 21.971093692534485
     },
     "isNearBorder": false,
     "areaM2": 1600,
@@ -12248,8 +12248,8 @@
     "county": "chełmski",
     "city": "Czułczyce",
     "coordinates": {
-      "lat": 51.24118572201453,
-      "lng": 22.559088879155816
+      "lat": 51.13442097269829,
+      "lng": 23.475966566713513
     },
     "isNearBorder": true,
     "areaM2": 1949,
@@ -12317,8 +12317,8 @@
     "county": "lubartowski",
     "city": "Aleksandrówka",
     "coordinates": {
-      "lat": 51.245317796188594,
-      "lng": 22.567273978044067
+      "lat": 51.46293383444699,
+      "lng": 22.60139613326854
     },
     "isNearBorder": false,
     "areaM2": 38000,
@@ -12351,8 +12351,8 @@
     "county": "lubelski",
     "city": "Płouszowice-Kolonia",
     "coordinates": {
-      "lat": 51.25143783427735,
-      "lng": 22.57445664564987
+      "lat": 51.245021639435116,
+      "lng": 22.57765216852391
     },
     "isNearBorder": false,
     "areaM2": 1378,
@@ -12386,8 +12386,8 @@
     "city": "Świerże",
     "street": "Nadrzeczna",
     "coordinates": {
-      "lat": 51.24574135994507,
-      "lng": 22.56673926739852
+      "lat": 51.13011356402963,
+      "lng": 23.47440708640744
     },
     "isNearBorder": true,
     "areaM2": 4200,
@@ -12420,8 +12420,8 @@
     "county": "lubelski",
     "city": "Chmiel Drugi",
     "coordinates": {
-      "lat": 51.24484715595074,
-      "lng": 22.5689681779176
+      "lat": 51.24346795769938,
+      "lng": 22.56799675126469
     },
     "isNearBorder": false,
     "areaM2": 3200,
@@ -12454,8 +12454,8 @@
     "county": "kraśnicki",
     "city": "Słodków Pierwszy",
     "coordinates": {
-      "lat": 51.244522283127765,
-      "lng": 22.562104049030136
+      "lat": 50.9232895583065,
+      "lng": 22.215936915593886
     },
     "isNearBorder": false,
     "areaM2": 1828,
@@ -12488,8 +12488,8 @@
     "county": "lubelski",
     "city": "Czerniejów-Kolonia",
     "coordinates": {
-      "lat": 51.24895291743218,
-      "lng": 22.575069608217444
+      "lat": 51.24446533381058,
+      "lng": 22.574131032805273
     },
     "isNearBorder": false,
     "areaM2": 2097,
@@ -12522,8 +12522,8 @@
     "county": "puławski",
     "city": "Janowiec",
     "coordinates": {
-      "lat": 51.24615574471182,
-      "lng": 22.578299198860485
+      "lat": 51.41465817864898,
+      "lng": 21.975227444466427
     },
     "isNearBorder": false,
     "areaM2": 1768,
@@ -12556,8 +12556,8 @@
     "county": "lubelski",
     "city": "Wronów",
     "coordinates": {
-      "lat": 51.24043783570814,
-      "lng": 22.57776959228962
+      "lat": 51.245225825534476,
+      "lng": 22.55951795588023
     },
     "isNearBorder": false,
     "areaM2": 3132,
@@ -12591,8 +12591,8 @@
     "city": "Leopoldów",
     "street": "ul. Zielona",
     "coordinates": {
-      "lat": 51.25070098313723,
-      "lng": 22.5631933551425
+      "lat": 51.62929751894326,
+      "lng": 21.938123037309488
     },
     "isNearBorder": false,
     "areaM2": 14600,
@@ -12625,8 +12625,8 @@
     "county": "chełmski",
     "city": "Stanisławów",
     "coordinates": {
-      "lat": 51.2470547943337,
-      "lng": 22.567967935524575
+      "lat": 51.135014405227295,
+      "lng": 23.48245418227967
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -12693,8 +12693,8 @@
     "county": "lubelski",
     "city": "Strzyżewice",
     "coordinates": {
-      "lat": 51.23983102000898,
-      "lng": 22.570433433935936
+      "lat": 51.24098960147057,
+      "lng": 22.57513653009241
     },
     "isNearBorder": false,
     "areaM2": 2240,
@@ -12727,8 +12727,8 @@
     "county": "lubelski",
     "city": "Rudka Kozłowiecka",
     "coordinates": {
-      "lat": 51.24393452657308,
-      "lng": 22.570037380314226
+      "lat": 51.248604760400106,
+      "lng": 22.57396881594087
     },
     "isNearBorder": false,
     "areaM2": 3196,
@@ -12761,8 +12761,8 @@
     "county": "lubelski",
     "city": "Strzyżewice",
     "coordinates": {
-      "lat": 51.24753701433381,
-      "lng": 22.565038928910813
+      "lat": 51.24293917111392,
+      "lng": 22.56837962709284
     },
     "isNearBorder": false,
     "areaM2": 2240,
@@ -12794,8 +12794,8 @@
     "county": "puławski",
     "city": "Klementowice",
     "coordinates": {
-      "lat": 51.24799641810014,
-      "lng": 22.569500604751678
+      "lat": 51.40962102661964,
+      "lng": 21.970582250906446
     },
     "isNearBorder": false,
     "areaM2": 15439,
@@ -12828,8 +12828,8 @@
     "county": "lubartowski",
     "city": "Zofian",
     "coordinates": {
-      "lat": 51.25223997316862,
-      "lng": 22.574584859165093
+      "lat": 51.45911912296008,
+      "lng": 22.60559311117177
     },
     "isNearBorder": false,
     "areaM2": 3000,
@@ -12862,8 +12862,8 @@
     "county": "lubartowski",
     "city": "Siedliska",
     "coordinates": {
-      "lat": 51.24809585401857,
-      "lng": 22.570340384366624
+      "lat": 51.45499078554651,
+      "lng": 22.613716852079435
     },
     "isNearBorder": false,
     "areaM2": 6317,
@@ -12896,8 +12896,8 @@
     "city": "Czołna",
     "street": "Kolonia Czołna",
     "coordinates": {
-      "lat": 51.24256939938181,
-      "lng": 22.57622048156941
+      "lat": 51.41682663997346,
+      "lng": 21.962907426721312
     },
     "isNearBorder": false,
     "areaM2": 3814,
@@ -12930,8 +12930,8 @@
     "voivodeship": "lubelskie",
     "city": "Zemborzyce Dolne",
     "coordinates": {
-      "lat": 51.25005548786006,
-      "lng": 22.575012579229828
+      "lat": 51.241296681758264,
+      "lng": 22.561166425989047
     },
     "isNearBorder": false,
     "areaM2": 1650,
@@ -12964,8 +12964,8 @@
     "voivodeship": "lubelskie",
     "city": "Janów",
     "coordinates": {
-      "lat": 50.7025807052252,
-      "lng": 22.401482249341555
+      "lat": 51.40913559652311,
+      "lng": 21.96205927555023
     },
     "isNearBorder": false,
     "areaM2": 6641,
@@ -12998,8 +12998,8 @@
     "voivodeship": "lubelskie",
     "city": "Kępa Borzechowska",
     "coordinates": {
-      "lat": 51.23988399339703,
-      "lng": 22.577565568013284
+      "lat": 51.242384747696136,
+      "lng": 22.561043986289405
     },
     "isNearBorder": false,
     "areaM2": 24000,
@@ -13033,8 +13033,8 @@
     "city": "Żółkiewka-Osada",
     "street": "ul. Mickiewicza",
     "coordinates": {
-      "lat": 51.24216471122781,
-      "lng": 22.575373374148317
+      "lat": 50.981380517197685,
+      "lng": 23.184163030430906
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -13067,8 +13067,8 @@
     "voivodeship": "lubelskie",
     "city": "Wąwolnica",
     "coordinates": {
-      "lat": 51.252787741002926,
-      "lng": 22.568868041794055
+      "lat": 51.41934300124339,
+      "lng": 21.970490399627305
     },
     "isNearBorder": false,
     "areaM2": 10400,
@@ -13101,8 +13101,8 @@
     "voivodeship": "lubelskie",
     "city": "Pułankowice",
     "coordinates": {
-      "lat": 51.2529328295886,
-      "lng": 22.573163832105568
+      "lat": 50.91721924888446,
+      "lng": 22.22682617184243
     },
     "isNearBorder": false,
     "areaM2": 9800,

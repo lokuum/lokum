@@ -10,8 +10,8 @@
     "county": "sokólski",
     "city": "Sadowo",
     "coordinates": {
-      "lat": 53.136189242569834,
-      "lng": 23.16481769596222
+      "lat": 53.400952543375006,
+      "lng": 23.504528625108964
     },
     "isNearBorder": true,
     "areaM2": 80,
@@ -45,8 +45,8 @@
     "county": "hajnowski",
     "city": "Orzeszkowo",
     "coordinates": {
-      "lat": 53.131238400282164,
-      "lng": 23.165483384097115
+      "lat": 52.745731946815646,
+      "lng": 23.5761167521996
     },
     "isNearBorder": true,
     "areaM2": 110,
@@ -80,8 +80,8 @@
     "county": "hajnowski",
     "city": "Zubacze",
     "coordinates": {
-      "lat": 53.12931362444933,
-      "lng": 23.17755403978194
+      "lat": 52.747104890802206,
+      "lng": 23.574418835893965
     },
     "isNearBorder": true,
     "areaM2": 60,
@@ -115,8 +115,8 @@
     "county": "łomżyński",
     "city": "Pianki",
     "coordinates": {
-      "lat": 53.136481134358704,
-      "lng": 23.171423989409565
+      "lat": 53.17640654717204,
+      "lng": 22.06388799356878
     },
     "isNearBorder": false,
     "areaM2": 220,
@@ -150,8 +150,8 @@
     "county": "hajnowski",
     "city": "Skupowo",
     "coordinates": {
-      "lat": 53.13664644092117,
-      "lng": 23.161672058625093
+      "lat": 52.735853427553565,
+      "lng": 23.58262243415737
     },
     "isNearBorder": true,
     "areaM2": 235,
@@ -185,8 +185,8 @@
     "county": "sejneński",
     "city": "Stanowisko",
     "coordinates": {
-      "lat": 53.127173033316616,
-      "lng": 23.17567469131986
+      "lat": 54.105459913226454,
+      "lng": 23.34127607885825
     },
     "isNearBorder": true,
     "areaM2": 76,
@@ -220,8 +220,8 @@
     "county": "sokólski",
     "city": "Bachmackie Kolonie",
     "coordinates": {
-      "lat": 53.13550728605408,
-      "lng": 23.17027503366973
+      "lat": 53.4015011931716,
+      "lng": 23.497450556124495
     },
     "isNearBorder": true,
     "areaM2": 75,
@@ -255,8 +255,8 @@
     "county": "bielski",
     "city": "Chojewo",
     "coordinates": {
-      "lat": 53.13561192124992,
-      "lng": 23.16483990925211
+      "lat": 52.766006352994374,
+      "lng": 23.1872128717176
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -290,8 +290,8 @@
     "county": "bielski",
     "city": "Gregorowce",
     "coordinates": {
-      "lat": 53.13714241345994,
-      "lng": 23.161358111988967
+      "lat": 52.77189215153576,
+      "lng": 23.189657056306324
     },
     "isNearBorder": true,
     "areaM2": 83,
@@ -325,8 +325,8 @@
     "county": "białostocki",
     "city": "Dawidowicze",
     "coordinates": {
-      "lat": 53.13000780020174,
-      "lng": 23.17755818029258
+      "lat": 53.13050675184377,
+      "lng": 23.17167934700778
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -360,8 +360,8 @@
     "county": "kolneński",
     "city": "Chludnie",
     "coordinates": {
-      "lat": 53.13211292243307,
-      "lng": 23.16007511258701
+      "lat": 53.40663818606057,
+      "lng": 21.933949032884374
     },
     "isNearBorder": false,
     "areaM2": 202.6,
@@ -395,8 +395,8 @@
     "county": "augustowski",
     "city": "Skieblewo",
     "coordinates": {
-      "lat": 53.13814761888467,
-      "lng": 23.177538694324813
+      "lat": 53.84592257651895,
+      "lng": 22.976682372978935
     },
     "isNearBorder": true,
     "areaM2": 160,
@@ -430,8 +430,8 @@
     "county": "zambrowski",
     "city": "Kołomyjka",
     "coordinates": {
-      "lat": 53.139884426991415,
-      "lng": 23.176175277209257
+      "lat": 52.98345811248414,
+      "lng": 22.242789489750454
     },
     "isNearBorder": false,
     "areaM2": 160,
@@ -465,8 +465,8 @@
     "county": "augustowski",
     "city": "Skieblewo",
     "coordinates": {
-      "lat": 53.12696454039299,
-      "lng": 23.17025821783957
+      "lat": 53.84685462721554,
+      "lng": 22.981324758998557
     },
     "isNearBorder": true,
     "areaM2": 200058,
@@ -570,8 +570,8 @@
     "county": "suwalski",
     "city": "Rutka-Tartak",
     "coordinates": {
-      "lat": 53.12955164457927,
-      "lng": 23.177067870608354
+      "lat": 54.107710687763706,
+      "lng": 22.940747954590982
     },
     "isNearBorder": true,
     "areaM2": 90,
@@ -605,8 +605,8 @@
     "county": "białostocki",
     "city": "Rzędziany",
     "coordinates": {
-      "lat": 53.12571308384999,
-      "lng": 23.17502183291788
+      "lat": 53.12624857021907,
+      "lng": 23.164018533657828
     },
     "isNearBorder": true,
     "areaM2": 150,
@@ -640,8 +640,8 @@
     "county": "łosicki",
     "city": "Stare Mierzwice",
     "coordinates": {
-      "lat": 53.12938277751685,
-      "lng": 23.15903892279485
+      "lat": 53.13726055716212,
+      "lng": 23.16059381256016
     },
     "isNearBorder": false,
     "areaM2": 105,
@@ -675,8 +675,8 @@
     "county": "suwalski",
     "city": "Poddubówek",
     "coordinates": {
-      "lat": 53.1331005385383,
-      "lng": 23.178240957816914
+      "lat": 54.100542095668374,
+      "lng": 22.93005313634213
     },
     "isNearBorder": true,
     "areaM2": 586,
@@ -710,8 +710,8 @@
     "county": "hajnowski",
     "city": "Narew",
     "coordinates": {
-      "lat": 53.138027545788006,
-      "lng": 23.177510732373875
+      "lat": 52.737271388454786,
+      "lng": 23.572617840586663
     },
     "isNearBorder": true,
     "areaM2": 87,
@@ -745,8 +745,8 @@
     "county": "białostocki",
     "city": "Saniki",
     "coordinates": {
-      "lat": 53.12655951351654,
-      "lng": 23.165013392563324
+      "lat": 53.134306994522845,
+      "lng": 23.160885465407386
     },
     "isNearBorder": true,
     "areaM2": 180,
@@ -780,8 +780,8 @@
     "county": "bielski",
     "city": "Zubowo",
     "coordinates": {
-      "lat": 53.13824413071952,
-      "lng": 23.161261305470983
+      "lat": 52.770768890072546,
+      "lng": 23.184964494756926
     },
     "isNearBorder": true,
     "areaM2": 175,
@@ -815,8 +815,8 @@
     "county": "białostocki",
     "city": "Wojszki",
     "coordinates": {
-      "lat": 53.13009313938967,
-      "lng": 23.16260156548199
+      "lat": 53.129822947091114,
+      "lng": 23.175018179557686
     },
     "isNearBorder": true,
     "areaM2": 71,
@@ -885,8 +885,8 @@
     "county": "hajnowski",
     "city": "Zbucz",
     "coordinates": {
-      "lat": 53.126728795032335,
-      "lng": 23.167779107322858
+      "lat": 52.736016013703974,
+      "lng": 23.580075858081685
     },
     "isNearBorder": true,
     "areaM2": 110,
@@ -920,8 +920,8 @@
     "county": "sokólski",
     "city": "Dzięciołówka",
     "coordinates": {
-      "lat": 53.1354482068057,
-      "lng": 23.16315231371407
+      "lat": 53.40165549878,
+      "lng": 23.49816855178759
     },
     "isNearBorder": true,
     "areaM2": 143,
@@ -955,8 +955,8 @@
     "county": "białostocki",
     "city": "Szymki",
     "coordinates": {
-      "lat": 53.139707446812125,
-      "lng": 23.158995867404464
+      "lat": 53.13588472365238,
+      "lng": 23.17220446745004
     },
     "isNearBorder": true,
     "areaM2": 90,
@@ -990,8 +990,8 @@
     "county": "hajnowski",
     "city": "Doratynka",
     "coordinates": {
-      "lat": 53.130043503188446,
-      "lng": 23.17616044036963
+      "lat": 52.74968826548576,
+      "lng": 23.575663740463902
     },
     "isNearBorder": true,
     "areaM2": 4500,
@@ -1025,8 +1025,8 @@
     "county": "sokólski",
     "city": "Krugło",
     "coordinates": {
-      "lat": 53.13253102633675,
-      "lng": 23.162497188975756
+      "lat": 53.41437944741132,
+      "lng": 23.511627589971834
     },
     "isNearBorder": true,
     "areaM2": 59,
@@ -1060,8 +1060,8 @@
     "county": "bielski",
     "city": "Brańsk",
     "coordinates": {
-      "lat": 53.139219016013115,
-      "lng": 23.163507095415525
+      "lat": 52.764968204028094,
+      "lng": 23.201396378652223
     },
     "isNearBorder": true,
     "areaM2": 100,
@@ -1095,8 +1095,8 @@
     "county": "bielski",
     "city": "Szczyty-Nowodwory",
     "coordinates": {
-      "lat": 53.129833503279315,
-      "lng": 23.16520530569068
+      "lat": 52.76915599710614,
+      "lng": 23.190334394841454
     },
     "isNearBorder": true,
     "areaM2": 65,
@@ -1130,8 +1130,8 @@
     "county": "suwalski",
     "city": "Lipniak",
     "coordinates": {
-      "lat": 53.12739878920733,
-      "lng": 23.170996327360918
+      "lat": 54.10555692097989,
+      "lng": 22.935035332591585
     },
     "isNearBorder": true,
     "areaM2": 200,
@@ -1165,8 +1165,8 @@
     "county": "hajnowski",
     "city": "Suchowolce",
     "coordinates": {
-      "lat": 53.125361636337495,
-      "lng": 23.17426624749693
+      "lat": 52.73982955082069,
+      "lng": 23.586199881176867
     },
     "isNearBorder": true,
     "areaM2": 72,
@@ -1200,8 +1200,8 @@
     "county": "łomżyński",
     "city": "Puchały",
     "coordinates": {
-      "lat": 53.13530227666117,
-      "lng": 23.165694414229154
+      "lat": 53.17145823096676,
+      "lng": 22.054340364219875
     },
     "isNearBorder": false,
     "areaM2": 80,
@@ -1235,8 +1235,8 @@
     "county": "hajnowski",
     "city": "Gradoczno",
     "coordinates": {
-      "lat": 53.125572161774336,
-      "lng": 23.16277344464203
+      "lat": 52.74654214791039,
+      "lng": 23.589709920501367
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -1270,8 +1270,8 @@
     "county": "moniecki",
     "city": "Góra",
     "coordinates": {
-      "lat": 53.130544940949534,
-      "lng": 23.170587104400013
+      "lat": 53.41278929226389,
+      "lng": 22.803525453174405
     },
     "isNearBorder": false,
     "areaM2": 156,
@@ -1305,8 +1305,8 @@
     "county": "hajnowski",
     "city": "Mikłaszewo",
     "coordinates": {
-      "lat": 53.13600279412042,
-      "lng": 23.17749821252586
+      "lat": 52.74926113756313,
+      "lng": 23.579338466566142
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -1340,8 +1340,8 @@
     "county": "hajnowski",
     "city": "Suchowolce",
     "coordinates": {
-      "lat": 53.129369814402935,
-      "lng": 23.17874671192401
+      "lat": 52.746442893119415,
+      "lng": 23.587015324905924
     },
     "isNearBorder": true,
     "areaM2": 80,
@@ -1375,8 +1375,8 @@
     "county": "hajnowski",
     "city": "Czyże",
     "coordinates": {
-      "lat": 53.12766138183431,
-      "lng": 23.173055686740064
+      "lat": 52.75012576872234,
+      "lng": 23.582336240119744
     },
     "isNearBorder": true,
     "areaM2": 72,
@@ -1410,8 +1410,8 @@
     "county": "hajnowski",
     "city": "Dubiny",
     "coordinates": {
-      "lat": 53.12959721654702,
-      "lng": 23.17601790109235
+      "lat": 52.75037030209032,
+      "lng": 23.57996743075187
     },
     "isNearBorder": true,
     "areaM2": 86,
@@ -1480,8 +1480,8 @@
     "county": "bielski",
     "city": "Paszkowszczyzna",
     "coordinates": {
-      "lat": 53.13618275369374,
-      "lng": 23.161472282540128
+      "lat": 52.76559629761699,
+      "lng": 23.199564783680525
     },
     "isNearBorder": true,
     "areaM2": 1600,
@@ -1516,8 +1516,8 @@
     "city": "Sidra",
     "street": "ul. Różanostocka",
     "coordinates": {
-      "lat": 53.138349577908116,
-      "lng": 23.159061933019814
+      "lat": 53.413096461326944,
+      "lng": 23.499884946413825
     },
     "isNearBorder": true,
     "areaM2": 130,
@@ -1551,8 +1551,8 @@
     "county": "wysokomazowiecki",
     "city": "Stare Niziołki",
     "coordinates": {
-      "lat": 53.12702847038508,
-      "lng": 23.15984942580376
+      "lat": 52.913736918831596,
+      "lng": 22.507123064274918
     },
     "isNearBorder": false,
     "areaM2": 88,
@@ -1586,8 +1586,8 @@
     "county": "białostocki",
     "city": "Juchnowiec Kościelny",
     "coordinates": {
-      "lat": 53.12529506788237,
-      "lng": 23.17476614307285
+      "lat": 53.130281176693835,
+      "lng": 23.164272529169924
     },
     "isNearBorder": true,
     "areaM2": 56,
@@ -1621,8 +1621,8 @@
     "county": "moniecki",
     "city": "Szorce",
     "coordinates": {
-      "lat": 53.12911562168524,
-      "lng": 23.17588705883781
+      "lat": 53.40077248546026,
+      "lng": 22.793257772034934
     },
     "isNearBorder": false,
     "areaM2": 161000,
@@ -1656,8 +1656,8 @@
     "county": "łosicki",
     "city": "Stare Mierzwice",
     "coordinates": {
-      "lat": 53.137778952566904,
-      "lng": 23.173725263878058
+      "lat": 53.13671818082685,
+      "lng": 23.17125285513836
     },
     "isNearBorder": false,
     "areaM2": 105,
@@ -1691,8 +1691,8 @@
     "county": "sejneński",
     "city": "Berżałowce",
     "coordinates": {
-      "lat": 53.12882758090841,
-      "lng": 23.1626725183136
+      "lat": 54.112898568927,
+      "lng": 23.35440504108603
     },
     "isNearBorder": true,
     "areaM2": 100,
@@ -1726,8 +1726,8 @@
     "county": "moniecki",
     "city": "Poniklica",
     "coordinates": {
-      "lat": 53.13338431511309,
-      "lng": 23.1783707852877
+      "lat": 53.41272526110876,
+      "lng": 22.80590303241572
     },
     "isNearBorder": false,
     "areaM2": 50,
@@ -1761,8 +1761,8 @@
     "county": "sokólski",
     "city": "Bogusze",
     "coordinates": {
-      "lat": 53.13797731692306,
-      "lng": 23.176845252677467
+      "lat": 53.409169607724344,
+      "lng": 23.50375125338536
     },
     "isNearBorder": true,
     "areaM2": 75,
@@ -1796,8 +1796,8 @@
     "county": "augustowski",
     "city": "Gruszki",
     "coordinates": {
-      "lat": 53.129757354062924,
-      "lng": 23.17739858224217
+      "lat": 53.84271530468849,
+      "lng": 22.975692484732193
     },
     "isNearBorder": true,
     "areaM2": 87,
@@ -1831,8 +1831,8 @@
     "county": "sejneński",
     "city": "Pogorzelec",
     "coordinates": {
-      "lat": 53.13395548072205,
-      "lng": 23.17773278227527
+      "lat": 54.10755961223234,
+      "lng": 23.34459884635181
     },
     "isNearBorder": true,
     "areaM2": 105,
@@ -1866,8 +1866,8 @@
     "county": "bielski",
     "city": "Nowe Bagińskie",
     "coordinates": {
-      "lat": 53.12826702111048,
-      "lng": 23.16395829896835
+      "lat": 52.76655843565332,
+      "lng": 23.188120617517157
     },
     "isNearBorder": true,
     "areaM2": 88,
@@ -1901,8 +1901,8 @@
     "county": "sokólski",
     "city": "Chorużowce",
     "coordinates": {
-      "lat": 53.130861667518985,
-      "lng": 23.167149400282167
+      "lat": 53.411668060905875,
+      "lng": 23.50987150412808
     },
     "isNearBorder": true,
     "areaM2": 73.9,
@@ -1936,8 +1936,8 @@
     "county": "sokólski",
     "city": "Horodnianka",
     "coordinates": {
-      "lat": 53.13273166297716,
-      "lng": 23.172678070342233
+      "lat": 53.40138045773189,
+      "lng": 23.496245750216822
     },
     "isNearBorder": true,
     "areaM2": 50,
@@ -1971,8 +1971,8 @@
     "county": "grajewski",
     "city": "Kapice",
     "coordinates": {
-      "lat": 53.13031125392708,
-      "lng": 23.170198025940223
+      "lat": 53.64688764830412,
+      "lng": 22.459346361938184
     },
     "isNearBorder": false,
     "areaM2": 3500,
@@ -2006,8 +2006,8 @@
     "county": "siemiatycki",
     "city": "Mierzynówka",
     "coordinates": {
-      "lat": 53.137425364746356,
-      "lng": 23.16310273011138
+      "lat": 52.4200091634684,
+      "lng": 22.856220142972543
     },
     "isNearBorder": true,
     "areaM2": 110,
@@ -2041,8 +2041,8 @@
     "county": "sokólski",
     "city": "Zielony Gaj",
     "coordinates": {
-      "lat": 53.13401703467873,
-      "lng": 23.163859351729165
+      "lat": 53.40639854913592,
+      "lng": 23.509840689004363
     },
     "isNearBorder": true,
     "areaM2": 140,
@@ -2076,8 +2076,8 @@
     "county": "białostocki",
     "city": "Radule",
     "coordinates": {
-      "lat": 53.13314482507869,
-      "lng": 23.166341832134968
+      "lat": 53.135084659024635,
+      "lng": 23.175357070500894
     },
     "isNearBorder": true,
     "areaM2": 47,
@@ -2111,8 +2111,8 @@
     "county": "bielski",
     "city": "Solniki",
     "coordinates": {
-      "lat": 53.12682252767572,
-      "lng": 23.1663332031994
+      "lat": 52.77082807832592,
+      "lng": 23.19022265326374
     },
     "isNearBorder": true,
     "areaM2": 150,
@@ -2146,8 +2146,8 @@
     "county": "bielski",
     "city": "Ściony",
     "coordinates": {
-      "lat": 53.13807078971444,
-      "lng": 23.1651216609003
+      "lat": 52.76363207831344,
+      "lng": 23.201299810911706
     },
     "isNearBorder": true,
     "areaM2": 80,
@@ -2181,8 +2181,8 @@
     "county": "białostocki",
     "city": "Krynice",
     "coordinates": {
-      "lat": 53.12966564225289,
-      "lng": 23.169534345728948
+      "lat": 53.136018731217106,
+      "lng": 23.17223125342461
     },
     "isNearBorder": true,
     "areaM2": 80,
@@ -2251,8 +2251,8 @@
     "county": "białostocki",
     "city": "Zimnochy-Świechy",
     "coordinates": {
-      "lat": 53.129528539093776,
-      "lng": 23.175789906873078
+      "lat": 53.13255713389574,
+      "lng": 23.177190423659866
     },
     "isNearBorder": true,
     "areaM2": 45,
@@ -2286,8 +2286,8 @@
     "county": "hajnowski",
     "city": "Łosinka",
     "coordinates": {
-      "lat": 53.136973518905286,
-      "lng": 23.16324224901421
+      "lat": 52.746671493495676,
+      "lng": 23.57585735290017
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -2322,8 +2322,8 @@
     "city": "Łączki",
     "street": "Łączki",
     "coordinates": {
-      "lat": 53.13127860338342,
-      "lng": 23.176670231275747
+      "lat": 53.13304489084613,
+      "lng": 23.167619715430014
     },
     "isNearBorder": false,
     "areaM2": 74,
@@ -2357,8 +2357,8 @@
     "county": "hajnowski",
     "city": "Usnarszczyzna",
     "coordinates": {
-      "lat": 53.139970824857635,
-      "lng": 23.175017725616524
+      "lat": 52.73830981955432,
+      "lng": 23.585710180567958
     },
     "isNearBorder": true,
     "areaM2": 160,
@@ -2392,8 +2392,8 @@
     "county": "hajnowski",
     "city": "Kamień",
     "coordinates": {
-      "lat": 53.12527616527896,
-      "lng": 23.163331604375877
+      "lat": 52.747117089765425,
+      "lng": 23.58730948006736
     },
     "isNearBorder": true,
     "areaM2": 100,
@@ -2427,8 +2427,8 @@
     "county": "siemiatycki",
     "city": "Zajęczniki",
     "coordinates": {
-      "lat": 53.13646802363983,
-      "lng": 23.16539483313862
+      "lat": 52.428372832732684,
+      "lng": 22.867528615060213
     },
     "isNearBorder": true,
     "areaM2": 100,
@@ -2478,8 +2478,8 @@
     "county": "sokólski",
     "city": "Ozierany Wielkie",
     "coordinates": {
-      "lat": 53.128041595283655,
-      "lng": 23.1695558106848
+      "lat": 53.40960709727911,
+      "lng": 23.50744078709991
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -2513,8 +2513,8 @@
     "county": "suwalski",
     "city": "Wiżajny",
     "coordinates": {
-      "lat": 53.132510199392435,
-      "lng": 23.169408009452848
+      "lat": 54.09719600724368,
+      "lng": 22.928637199092805
     },
     "isNearBorder": true,
     "areaM2": 300,
@@ -2548,8 +2548,8 @@
     "county": "bielski",
     "city": "Brzeźnica",
     "coordinates": {
-      "lat": 53.1331577517462,
-      "lng": 23.17207958184736
+      "lat": 52.76431737846919,
+      "lng": 23.192432652729497
     },
     "isNearBorder": true,
     "areaM2": 144,
@@ -2583,8 +2583,8 @@
     "county": "siemiatycki",
     "city": "Chutkowice",
     "coordinates": {
-      "lat": 53.13358791639931,
-      "lng": 23.17745604408309
+      "lat": 52.42506492314894,
+      "lng": 22.869203045626936
     },
     "isNearBorder": true,
     "areaM2": 100,
@@ -2618,8 +2618,8 @@
     "county": "moniecki",
     "city": "Mikicin",
     "coordinates": {
-      "lat": 53.13503482365104,
-      "lng": 23.170416738769845
+      "lat": 53.40187510867611,
+      "lng": 22.79639785411696
     },
     "isNearBorder": false,
     "areaM2": 90,
@@ -2653,8 +2653,8 @@
     "county": "augustowski",
     "city": "Strzelcowizna",
     "coordinates": {
-      "lat": 53.128603985922716,
-      "lng": 23.161653106388027
+      "lat": 53.844331563855846,
+      "lng": 22.97711215062018
     },
     "isNearBorder": true,
     "areaM2": 160,
@@ -2688,8 +2688,8 @@
     "county": "moniecki",
     "city": "Kramkówka Duża",
     "coordinates": {
-      "lat": 53.12524505703958,
-      "lng": 23.15979268016652
+      "lat": 53.400651379610856,
+      "lng": 22.796412552316283
     },
     "isNearBorder": false,
     "areaM2": 80,
@@ -2723,8 +2723,8 @@
     "county": "sejneński",
     "city": "Dubowo",
     "coordinates": {
-      "lat": 53.135709740759815,
-      "lng": 23.177050017083065
+      "lat": 54.10232702079982,
+      "lng": 23.34221462241569
     },
     "isNearBorder": true,
     "areaM2": 85,
@@ -2758,8 +2758,8 @@
     "county": "bielski",
     "city": "Paszkowszczyzna",
     "coordinates": {
-      "lat": 53.13516935557912,
-      "lng": 23.172882449313022
+      "lat": 52.763611318817965,
+      "lng": 23.18499491388666
     },
     "isNearBorder": true,
     "areaM2": 45,
@@ -2793,8 +2793,8 @@
     "county": "sokólski",
     "city": "Zubrzyca Mała",
     "coordinates": {
-      "lat": 53.13573612813347,
-      "lng": 23.175346006080023
+      "lat": 53.4120893673157,
+      "lng": 23.511911136412223
     },
     "isNearBorder": true,
     "areaM2": 84,
@@ -2863,8 +2863,8 @@
     "county": "białostocki",
     "city": "Rzepniki",
     "coordinates": {
-      "lat": 53.131258042027795,
-      "lng": 23.167405501606286
+      "lat": 53.127617600094844,
+      "lng": 23.160976644373488
     },
     "isNearBorder": true,
     "areaM2": 50,
@@ -2933,8 +2933,8 @@
     "county": "wysokomazowiecki",
     "city": "Sokoły",
     "coordinates": {
-      "lat": 53.126178117420196,
-      "lng": 23.17459027921867
+      "lat": 52.91953279453748,
+      "lng": 22.511055896974664
     },
     "isNearBorder": false,
     "areaM2": 72,
@@ -2968,8 +2968,8 @@
     "county": "siemiatycki",
     "city": "Dziadkowice",
     "coordinates": {
-      "lat": 53.13503946913566,
-      "lng": 23.17466443476783
+      "lat": 52.424673959611795,
+      "lng": 22.85812107628179
     },
     "isNearBorder": true,
     "areaM2": 100,
@@ -3003,8 +3003,8 @@
     "county": "białostocki",
     "city": "Popowlany",
     "coordinates": {
-      "lat": 53.12903890874947,
-      "lng": 23.164708486805512
+      "lat": 53.12860894830949,
+      "lng": 23.165670031788864
     },
     "isNearBorder": true,
     "areaM2": 90,
@@ -3038,8 +3038,8 @@
     "county": "moniecki",
     "city": "Jasionówka",
     "coordinates": {
-      "lat": 53.12596599562634,
-      "lng": 23.167330916628575
+      "lat": 53.4004456512562,
+      "lng": 22.79941133564488
     },
     "isNearBorder": false,
     "areaM2": 50,
@@ -3073,8 +3073,8 @@
     "county": "bielski",
     "city": "Domanowo",
     "coordinates": {
-      "lat": 53.13111453243929,
-      "lng": 23.166941900308245
+      "lat": 52.764346443548725,
+      "lng": 23.195926226592125
     },
     "isNearBorder": true,
     "areaM2": 90,
@@ -3109,8 +3109,8 @@
     "city": "Goniądz",
     "street": "Konstytucji 3 Maja 67",
     "coordinates": {
-      "lat": 53.13135722593455,
-      "lng": 23.173375726379188
+      "lat": 53.39974521231962,
+      "lng": 22.801238930745107
     },
     "isNearBorder": false,
     "areaM2": 105,
@@ -3144,8 +3144,8 @@
     "county": "hajnowski",
     "city": "Osówka",
     "coordinates": {
-      "lat": 53.126557783708336,
-      "lng": 23.164191560911227
+      "lat": 52.73960970528006,
+      "lng": 23.590006890030548
     },
     "isNearBorder": true,
     "areaM2": 44,
@@ -3179,8 +3179,8 @@
     "county": "bielski",
     "city": "Ogrodniki",
     "coordinates": {
-      "lat": 53.12918631864017,
-      "lng": 23.163296160629802
+      "lat": 52.76272746705902,
+      "lng": 23.188602954798352
     },
     "isNearBorder": true,
     "areaM2": 90,
@@ -3249,8 +3249,8 @@
     "county": "białostocki",
     "city": "Sokołda",
     "coordinates": {
-      "lat": 53.13348587209961,
-      "lng": 23.165460865810672
+      "lat": 53.12707942786565,
+      "lng": 23.175409586939132
     },
     "isNearBorder": true,
     "areaM2": 60,
@@ -3284,8 +3284,8 @@
     "county": "sokólski",
     "city": "Jurasze",
     "coordinates": {
-      "lat": 53.13602140393142,
-      "lng": 23.17709852486082
+      "lat": 53.404358822675576,
+      "lng": 23.502226551715694
     },
     "isNearBorder": true,
     "areaM2": 92685,
@@ -3319,8 +3319,8 @@
     "county": "hajnowski",
     "city": "Siemianówka",
     "coordinates": {
-      "lat": 53.131594989164796,
-      "lng": 23.177416308913447
+      "lat": 52.74709773258392,
+      "lng": 23.573374913111277
     },
     "isNearBorder": true,
     "areaM2": 111,
@@ -3354,8 +3354,8 @@
     "county": "siemiatycki",
     "city": "Rogawka",
     "coordinates": {
-      "lat": 53.13729498545887,
-      "lng": 23.16086982672086
+      "lat": 52.425332913843185,
+      "lng": 22.868892278219583
     },
     "isNearBorder": true,
     "areaM2": 17300,
@@ -3389,8 +3389,8 @@
     "county": "moniecki",
     "city": "Poniklica",
     "coordinates": {
-      "lat": 53.12973827559468,
-      "lng": 23.169780445687714
+      "lat": 53.41119954663473,
+      "lng": 22.80544405779413
     },
     "isNearBorder": false,
     "areaM2": 50,
@@ -3423,8 +3423,8 @@
     "county": "siemiatycki",
     "city": "Dziadkowice",
     "coordinates": {
-      "lat": 53.138268427960384,
-      "lng": 23.17611720364433
+      "lat": 52.425277339766176,
+      "lng": 22.854391221661476
     },
     "isNearBorder": true,
     "areaM2": 100,
@@ -3457,8 +3457,8 @@
     "county": "bialski",
     "city": "Gnojno",
     "coordinates": {
-      "lat": 53.139642087138384,
-      "lng": 23.17410204400011
+      "lat": 52.02809706721918,
+      "lng": 23.11162402391927
     },
     "isNearBorder": false,
     "areaM2": 63,
@@ -3492,8 +3492,8 @@
     "county": "łomżyński",
     "city": "Pianki",
     "coordinates": {
-      "lat": 53.13535152343072,
-      "lng": 23.16451258618597
+      "lat": 53.17169319038755,
+      "lng": 22.0590123055389
     },
     "isNearBorder": false,
     "areaM2": 220,
@@ -3526,8 +3526,8 @@
     "county": "hajnowski",
     "city": "Narew",
     "coordinates": {
-      "lat": 53.13593470996897,
-      "lng": 23.16441441551474
+      "lat": 52.73678375822478,
+      "lng": 23.57548095886086
     },
     "isNearBorder": true,
     "areaM2": 87,
@@ -3560,8 +3560,8 @@
     "county": "białostocki",
     "city": "Krynice",
     "coordinates": {
-      "lat": 53.12997966962351,
-      "lng": 23.166054917774733
+      "lat": 53.12556769334767,
+      "lng": 23.170871267768078
     },
     "isNearBorder": true,
     "areaM2": 80,
@@ -3628,8 +3628,8 @@
     "county": "sokólski",
     "city": "Kopciówka",
     "coordinates": {
-      "lat": 53.13715522525463,
-      "lng": 23.1608416217281
+      "lat": 53.40204051987421,
+      "lng": 23.508426219502894
     },
     "isNearBorder": true,
     "areaM2": 220,
@@ -3697,8 +3697,8 @@
     "county": "sokólski",
     "city": "Zielony Gaj",
     "coordinates": {
-      "lat": 53.13587821798136,
-      "lng": 23.17401285862893
+      "lat": 53.406052384215045,
+      "lng": 23.510479885747042
     },
     "isNearBorder": true,
     "areaM2": 100,
@@ -3732,8 +3732,8 @@
     "county": "bielski",
     "city": "Świrydy",
     "coordinates": {
-      "lat": 53.13327194634982,
-      "lng": 23.173820435942126
+      "lat": 52.772253312567976,
+      "lng": 23.19666039918423
     },
     "isNearBorder": true,
     "areaM2": 139.8,
@@ -3767,8 +3767,8 @@
     "county": "bielski",
     "city": "Gregorowce",
     "coordinates": {
-      "lat": 53.13584036136782,
-      "lng": 23.171307122854323
+      "lat": 52.768900249742124,
+      "lng": 23.20098380605133
     },
     "isNearBorder": true,
     "areaM2": 83,
@@ -3801,8 +3801,8 @@
     "county": "łosicki",
     "city": "Stare Mierzwice",
     "coordinates": {
-      "lat": 53.12590659632776,
-      "lng": 23.158948242916672
+      "lat": 53.13832317346256,
+      "lng": 23.170053229598622
     },
     "isNearBorder": false,
     "areaM2": 105,
@@ -3835,8 +3835,8 @@
     "county": "hajnowski",
     "city": "Gradoczno",
     "coordinates": {
-      "lat": 53.12629722047099,
-      "lng": 23.16184969269994
+      "lat": 52.742388630101864,
+      "lng": 23.575197289629614
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -3869,8 +3869,8 @@
     "county": "siemiatycki",
     "city": "Brzeziny-Janowięta",
     "coordinates": {
-      "lat": 53.1268693571718,
-      "lng": 23.166401318028782
+      "lat": 52.4287166888238,
+      "lng": 22.85684007105294
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -3904,8 +3904,8 @@
     "county": "bielski",
     "city": "Zubowo",
     "coordinates": {
-      "lat": 53.13877808621049,
-      "lng": 23.17110713328924
+      "lat": 52.7693054048967,
+      "lng": 23.19635459769379
     },
     "isNearBorder": true,
     "areaM2": 175,
@@ -3938,8 +3938,8 @@
     "county": "sejneński",
     "city": "Krasnopol",
     "coordinates": {
-      "lat": 53.13191864319314,
-      "lng": 23.163214415658853
+      "lat": 54.11158402380133,
+      "lng": 23.34527397787881
     },
     "isNearBorder": true,
     "areaM2": 418,
@@ -3973,8 +3973,8 @@
     "county": "hajnowski",
     "city": "Zubacze",
     "coordinates": {
-      "lat": 53.13979076270242,
-      "lng": 23.173616794968872
+      "lat": 52.745924813677675,
+      "lng": 23.575101352289394
     },
     "isNearBorder": true,
     "areaM2": 60,
@@ -4007,8 +4007,8 @@
     "county": "sejneński",
     "city": "Stanowisko",
     "coordinates": {
-      "lat": 53.12815708976151,
-      "lng": 23.160378413522903
+      "lat": 54.103159694941766,
+      "lng": 23.3545797233782
     },
     "isNearBorder": true,
     "areaM2": 76,
@@ -4041,8 +4041,8 @@
     "county": "siemiatycki",
     "city": "Miłkowice-Paszki",
     "coordinates": {
-      "lat": 53.12864650790767,
-      "lng": 23.160984873744553
+      "lat": 52.43074444318441,
+      "lng": 22.86073131133028
     },
     "isNearBorder": true,
     "areaM2": 90,
@@ -4076,8 +4076,8 @@
     "county": "augustowski",
     "city": "Skieblewo",
     "coordinates": {
-      "lat": 53.12739169535243,
-      "lng": 23.164151068201853
+      "lat": 53.84656090174523,
+      "lng": 22.97196338102346
     },
     "isNearBorder": true,
     "areaM2": 160,
@@ -4110,8 +4110,8 @@
     "county": "zambrowski",
     "city": "Kołomyjka",
     "coordinates": {
-      "lat": 53.13453297754036,
-      "lng": 23.16849274121114
+      "lat": 52.99073486293836,
+      "lng": 22.2515082370137
     },
     "isNearBorder": false,
     "areaM2": 160,
@@ -4144,8 +4144,8 @@
     "county": "białostocki",
     "city": "Zimnochy-Świechy",
     "coordinates": {
-      "lat": 53.13863704256941,
-      "lng": 23.178290690513162
+      "lat": 53.128840829426736,
+      "lng": 23.17726242015068
     },
     "isNearBorder": true,
     "areaM2": 45,
@@ -4178,8 +4178,8 @@
     "county": "bielski",
     "city": "Świrydy",
     "coordinates": {
-      "lat": 53.12613540371159,
-      "lng": 23.16987403653869
+      "lat": 52.76846058090164,
+      "lng": 23.197800366989405
     },
     "isNearBorder": true,
     "areaM2": 100,
@@ -4213,8 +4213,8 @@
     "county": "bielski",
     "city": "Hryniewicze Duże",
     "coordinates": {
-      "lat": 53.12894938380945,
-      "lng": 23.16035600433124
+      "lat": 52.76561985352883,
+      "lng": 23.200580669156437
     },
     "isNearBorder": true,
     "areaM2": 300,
@@ -4249,8 +4249,8 @@
     "city": "Przejma Wysoka",
     "street": "Przejma Wysoka",
     "coordinates": {
-      "lat": 53.13766787788888,
-      "lng": 23.161491304388974
+      "lat": 54.10361690400469,
+      "lng": 22.921919152036796
     },
     "isNearBorder": true,
     "areaM2": 364.19,
@@ -4284,8 +4284,8 @@
     "county": "bielski",
     "city": "Malinniki",
     "coordinates": {
-      "lat": 53.128422585406305,
-      "lng": 23.178445227192377
+      "lat": 52.769043471237566,
+      "lng": 23.195666740601
     },
     "isNearBorder": true,
     "areaM2": 50,
@@ -4319,8 +4319,8 @@
     "county": "siemiatycki",
     "city": "Wojeniec",
     "coordinates": {
-      "lat": 53.133957598506385,
-      "lng": 23.160435460837377
+      "lat": 52.422967451006535,
+      "lng": 22.858600808379215
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -4354,8 +4354,8 @@
     "county": "sokólski",
     "city": "Kopciówka",
     "coordinates": {
-      "lat": 53.1360348474394,
-      "lng": 23.171241203486684
+      "lat": 53.40040408927978,
+      "lng": 23.503768004668306
     },
     "isNearBorder": true,
     "areaM2": 220,
@@ -4388,8 +4388,8 @@
     "county": "bielski",
     "city": "Strabla",
     "coordinates": {
-      "lat": 53.131855247146774,
-      "lng": 23.178704796847466
+      "lat": 52.76673945160488,
+      "lng": 23.189019708508553
     },
     "isNearBorder": true,
     "areaM2": 85,
@@ -4423,8 +4423,8 @@
     "county": "sokólski",
     "city": "Saczkowce",
     "coordinates": {
-      "lat": 53.13629908621801,
-      "lng": 23.165816222674984
+      "lat": 53.40962756766921,
+      "lng": 23.50045623367647
     },
     "isNearBorder": true,
     "areaM2": 60,
@@ -4458,8 +4458,8 @@
     "county": "sejneński",
     "city": "Ogrodniki",
     "coordinates": {
-      "lat": 53.132624643460545,
-      "lng": 23.161307781343503
+      "lat": 54.11413408079811,
+      "lng": 23.352481323524476
     },
     "isNearBorder": true,
     "areaM2": 90,
@@ -4599,8 +4599,8 @@
     "county": "wysokomazowiecki",
     "city": "Jabłoń-Rykacze",
     "coordinates": {
-      "lat": 53.13624658502726,
-      "lng": 23.172237553523203
+      "lat": 52.91038112026587,
+      "lng": 22.516711320464672
     },
     "isNearBorder": false,
     "areaM2": 190,
@@ -4634,8 +4634,8 @@
     "county": "augustowski",
     "city": "Bargłów Kościelny",
     "coordinates": {
-      "lat": 53.13206987235722,
-      "lng": 23.169021773322374
+      "lat": 53.84510043466423,
+      "lng": 22.98282960556302
     },
     "isNearBorder": true,
     "areaM2": 11510,
@@ -4669,8 +4669,8 @@
     "county": "sokólski",
     "city": "Kopciówka",
     "coordinates": {
-      "lat": 53.13202814141438,
-      "lng": 23.170207736308193
+      "lat": 53.40109501513019,
+      "lng": 23.51002271184786
     },
     "isNearBorder": true,
     "areaM2": 220,
@@ -4704,8 +4704,8 @@
     "county": "hajnowski",
     "city": "Mikłaszewo",
     "coordinates": {
-      "lat": 53.12767207749743,
-      "lng": 23.16588972843835
+      "lat": 52.748129717880595,
+      "lng": 23.585493102266216
     },
     "isNearBorder": true,
     "areaM2": 85,
@@ -4739,8 +4739,8 @@
     "county": "zambrowski",
     "city": "Krusze-Łubnice",
     "coordinates": {
-      "lat": 53.132972338589134,
-      "lng": 23.17766194163542
+      "lat": 52.99137236151906,
+      "lng": 22.24037346439547
     },
     "isNearBorder": false,
     "areaM2": 154,
@@ -4774,8 +4774,8 @@
     "county": "siemiatycki",
     "city": "Żerczyce",
     "coordinates": {
-      "lat": 53.128769899688095,
-      "lng": 23.16000926009194
+      "lat": 52.42307458283839,
+      "lng": 22.86668606744471
     },
     "isNearBorder": true,
     "areaM2": 70,
@@ -4809,8 +4809,8 @@
     "county": "białostocki",
     "city": "Waliły",
     "coordinates": {
-      "lat": 53.133608495950085,
-      "lng": 23.17547108842121
+      "lat": 53.13117973067821,
+      "lng": 23.16884856430304
     },
     "isNearBorder": true,
     "areaM2": 225,
@@ -4844,8 +4844,8 @@
     "county": "sokólski",
     "city": "Leszczany",
     "coordinates": {
-      "lat": 53.12742566186184,
-      "lng": 23.177134632130887
+      "lat": 53.401441040886475,
+      "lng": 23.50625354718207
     },
     "isNearBorder": true,
     "areaM2": 164,
@@ -4879,8 +4879,8 @@
     "county": "hajnowski",
     "city": "Kuraszewo",
     "coordinates": {
-      "lat": 53.127279797015426,
-      "lng": 23.173333635818388
+      "lat": 52.74452154442714,
+      "lng": 23.58061913702423
     },
     "isNearBorder": true,
     "areaM2": 59,
@@ -4914,8 +4914,8 @@
     "county": "hajnowski",
     "city": "Stary Kornin",
     "coordinates": {
-      "lat": 53.12801298319043,
-      "lng": 23.17355790827046
+      "lat": 52.738813427619064,
+      "lng": 23.57156683623732
     },
     "isNearBorder": true,
     "areaM2": 160,
@@ -4949,8 +4949,8 @@
     "county": "białostocki",
     "city": "Nowosady",
     "coordinates": {
-      "lat": 53.13549453837276,
-      "lng": 23.16357900313993
+      "lat": 53.12551846964961,
+      "lng": 23.176291063650314
     },
     "isNearBorder": true,
     "areaM2": 90,
@@ -4984,8 +4984,8 @@
     "county": "siemiatycki",
     "city": "Wyczółki",
     "coordinates": {
-      "lat": 53.13583517556443,
-      "lng": 23.16221605525172
+      "lat": 52.421015179625215,
+      "lng": 22.858667229723714
     },
     "isNearBorder": true,
     "areaM2": 72,
@@ -5018,8 +5018,8 @@
     "voivodeship": "podlaskie",
     "city": "Łosośna Wielka",
     "coordinates": {
-      "lat": 53.1305480181881,
-      "lng": 23.164176037668526
+      "lat": 53.40702714363113,
+      "lng": 23.499084034215407
     },
     "isNearBorder": true,
     "areaM2": 10300,
@@ -5052,8 +5052,8 @@
     "voivodeship": "podlaskie",
     "city": "Kozioł",
     "coordinates": {
-      "lat": 53.126029732110446,
-      "lng": 23.16389896927923
+      "lat": 53.41004195022181,
+      "lng": 21.92431476225389
     },
     "isNearBorder": false,
     "areaM2": 970,
@@ -5087,8 +5087,8 @@
     "county": "sokólski",
     "city": "Łosośna Wielka",
     "coordinates": {
-      "lat": 53.12615338070401,
-      "lng": 23.173314641681177
+      "lat": 53.40602503134539,
+      "lng": 23.51134025620458
     },
     "isNearBorder": true,
     "areaM2": 10294,
@@ -5120,8 +5120,8 @@
     "county": "augustowski",
     "city": "Siółko",
     "coordinates": {
-      "lat": 53.13391374311711,
-      "lng": 23.16804310522318
+      "lat": 53.84516062728467,
+      "lng": 22.983258397120252
     },
     "isNearBorder": true,
     "areaM2": 100000,
@@ -5154,8 +5154,8 @@
     "county": "białostocki",
     "city": "Dobrzyniówka",
     "coordinates": {
-      "lat": 53.13339387881877,
-      "lng": 23.16419055627432
+      "lat": 53.13715454814889,
+      "lng": 23.1781577756475
     },
     "isNearBorder": true,
     "areaM2": 2000,
@@ -5188,8 +5188,8 @@
     "county": "suwalski",
     "city": "Kazimierówka",
     "coordinates": {
-      "lat": 53.13098477122212,
-      "lng": 23.177704537731536
+      "lat": 54.105468513203434,
+      "lng": 22.929570643068235
     },
     "isNearBorder": true,
     "areaM2": 5573,
@@ -5222,8 +5222,8 @@
     "county": "hajnowski",
     "city": "Doratynka",
     "coordinates": {
-      "lat": 53.13753286803045,
-      "lng": 23.177223579022694
+      "lat": 52.737978158507275,
+      "lng": 23.572123355354204
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -5256,8 +5256,8 @@
     "county": "sokólski",
     "city": "Krukowszczyzna",
     "coordinates": {
-      "lat": 53.13377296636828,
-      "lng": 23.17271361232864
+      "lat": 53.402298776111905,
+      "lng": 23.503963134997015
     },
     "isNearBorder": true,
     "areaM2": 10000,
@@ -5290,8 +5290,8 @@
     "county": "sokólski",
     "city": "Ostrów Północny",
     "coordinates": {
-      "lat": 53.13741601217537,
-      "lng": 23.16968258167778
+      "lat": 53.40387345791803,
+      "lng": 23.50262985038134
     },
     "isNearBorder": true,
     "areaM2": 4831,
@@ -5324,8 +5324,8 @@
     "county": "hajnowski",
     "city": "Eliaszuki",
     "coordinates": {
-      "lat": 53.13721171673067,
-      "lng": 23.17587932282657
+      "lat": 52.741979897710316,
+      "lng": 23.57446182875375
     },
     "isNearBorder": true,
     "areaM2": 73337,
@@ -5358,8 +5358,8 @@
     "county": "siemiatycki",
     "city": "Siemichocze",
     "coordinates": {
-      "lat": 53.1393134880252,
-      "lng": 23.178562325948196
+      "lat": 52.42027597630407,
+      "lng": 22.86315397446116
     },
     "isNearBorder": true,
     "areaM2": 151701,
@@ -5392,8 +5392,8 @@
     "county": "grajewski",
     "city": "Danowo",
     "coordinates": {
-      "lat": 53.13513181851829,
-      "lng": 23.176256598572845
+      "lat": 53.65411063547951,
+      "lng": 22.451149897199073
     },
     "isNearBorder": false,
     "areaM2": 9500,
@@ -5426,8 +5426,8 @@
     "county": "białostocki",
     "city": "Rafałówka",
     "coordinates": {
-      "lat": 53.13436891992855,
-      "lng": 23.164212014414666
+      "lat": 53.13780261003981,
+      "lng": 23.16342081128437
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -5460,8 +5460,8 @@
     "county": "sokólski",
     "city": "Stary Szor",
     "coordinates": {
-      "lat": 53.13423295274629,
-      "lng": 23.1616181673125
+      "lat": 53.40036129466715,
+      "lng": 23.500289011093603
     },
     "isNearBorder": true,
     "areaM2": 9300,
@@ -5494,8 +5494,8 @@
     "county": "białostocki",
     "city": "Kobuzie",
     "coordinates": {
-      "lat": 53.13054717209138,
-      "lng": 23.169684521143612
+      "lat": 53.131368294076964,
+      "lng": 23.160907429872914
     },
     "isNearBorder": true,
     "areaM2": 3048,
@@ -5528,8 +5528,8 @@
     "county": "białostocki",
     "city": "Zacisze",
     "coordinates": {
-      "lat": 53.13207322639877,
-      "lng": 23.175370213264955
+      "lat": 53.129102283150985,
+      "lng": 23.176333541108242
     },
     "isNearBorder": true,
     "areaM2": 31600,
@@ -5562,8 +5562,8 @@
     "county": "sokólski",
     "city": "Nowy Dwór",
     "coordinates": {
-      "lat": 53.13188324971124,
-      "lng": 23.172220641562177
+      "lat": 53.400695999924935,
+      "lng": 23.505071334912575
     },
     "isNearBorder": true,
     "areaM2": 30000,
@@ -5597,8 +5597,8 @@
     "city": "Białogóry",
     "street": "Białogóry 28",
     "coordinates": {
-      "lat": 53.135774690490756,
-      "lng": 23.160973926587303
+      "lat": 54.11426151493166,
+      "lng": 23.35613695150849
     },
     "isNearBorder": true,
     "areaM2": 14476,
@@ -5631,8 +5631,8 @@
     "county": "białostocki",
     "city": "Zaczerlany",
     "coordinates": {
-      "lat": 53.13461051820222,
-      "lng": 23.165840807345205
+      "lat": 53.13022051440015,
+      "lng": 23.176910006737383
     },
     "isNearBorder": true,
     "areaM2": 3001,
@@ -5665,8 +5665,8 @@
     "county": "sejneński",
     "city": "Berżałowce",
     "coordinates": {
-      "lat": 53.13435200518297,
-      "lng": 23.15974039826259
+      "lat": 54.101882720198205,
+      "lng": 23.357112294725365
     },
     "isNearBorder": true,
     "areaM2": 157921,
@@ -5699,8 +5699,8 @@
     "county": "suwalski",
     "city": "Podwysokie Jeleniewskie",
     "coordinates": {
-      "lat": 53.12720504536336,
-      "lng": 23.167923098120752
+      "lat": 54.09710999466322,
+      "lng": 22.934703162716282
     },
     "isNearBorder": true,
     "areaM2": 6890,
@@ -5733,8 +5733,8 @@
     "county": "suwalski",
     "city": "Podwysokie Jeleniewskie",
     "coordinates": {
-      "lat": 53.12846361234656,
-      "lng": 23.161907405678463
+      "lat": 54.10687584717125,
+      "lng": 22.927077260880125
     },
     "isNearBorder": true,
     "areaM2": 6347,
@@ -5767,8 +5767,8 @@
     "county": "białostocki",
     "city": "Pogorzałki",
     "coordinates": {
-      "lat": 53.126077076266746,
-      "lng": 23.168226742497282
+      "lat": 53.13647652233454,
+      "lng": 23.1753974385288
     },
     "isNearBorder": true,
     "areaM2": 8820,
@@ -5801,8 +5801,8 @@
     "county": "białostocki",
     "city": "Zagruszany",
     "coordinates": {
-      "lat": 53.134993274791555,
-      "lng": 23.161223544219325
+      "lat": 53.138965883212826,
+      "lng": 23.166165370732056
     },
     "isNearBorder": true,
     "areaM2": 5136,
@@ -5835,8 +5835,8 @@
     "county": "białostocki",
     "city": "Łazy Małe",
     "coordinates": {
-      "lat": 53.12551945794119,
-      "lng": 23.17825810194697
+      "lat": 53.135701758312536,
+      "lng": 23.1687733414435
     },
     "isNearBorder": true,
     "areaM2": 18500,
@@ -5869,8 +5869,8 @@
     "county": "augustowski",
     "city": "Wrotki",
     "coordinates": {
-      "lat": 53.129605956818,
-      "lng": 23.161853625976818
+      "lat": 53.84026185026201,
+      "lng": 22.983108445345064
     },
     "isNearBorder": true,
     "areaM2": 11264,
@@ -5903,8 +5903,8 @@
     "county": "hajnowski",
     "city": "Kruhłe",
     "coordinates": {
-      "lat": 53.139051860727974,
-      "lng": 23.16122132988843
+      "lat": 52.750064043119934,
+      "lng": 23.574434706895957
     },
     "isNearBorder": true,
     "areaM2": 3500,
@@ -5937,8 +5937,8 @@
     "county": "siemiatycki",
     "city": "Augustynka",
     "coordinates": {
-      "lat": 53.139521241156565,
-      "lng": 23.172606120777836
+      "lat": 52.42356061893941,
+      "lng": 22.863672924033327
     },
     "isNearBorder": true,
     "areaM2": 25611,
@@ -5971,8 +5971,8 @@
     "county": "sokólski",
     "city": "Zielony Gaj",
     "coordinates": {
-      "lat": 53.13374863460218,
-      "lng": 23.165322406833983
+      "lat": 53.40945726703503,
+      "lng": 23.504291787640234
     },
     "isNearBorder": true,
     "areaM2": 218700,
@@ -6004,8 +6004,8 @@
     "voivodeship": "podlaskie",
     "city": "Granne",
     "coordinates": {
-      "lat": 53.139616301527084,
-      "lng": 23.17394660600911
+      "lat": 52.426234167387086,
+      "lng": 22.86870613634437
     },
     "isNearBorder": true,
     "areaM2": 10500,
@@ -6038,8 +6038,8 @@
     "voivodeship": "podlaskie",
     "city": "Hamulka",
     "coordinates": {
-      "lat": 53.12530192940308,
-      "lng": 23.17554661651582
+      "lat": 53.40956035086576,
+      "lng": 23.50247819567621
     },
     "isNearBorder": true,
     "areaM2": 2647,
@@ -6072,8 +6072,8 @@
     "voivodeship": "podlaskie",
     "city": "Kołaki-Wietrzychowo",
     "coordinates": {
-      "lat": 53.127952192756254,
-      "lng": 23.159159359988355
+      "lat": 53.41508615244319,
+      "lng": 21.92910108616073
     },
     "isNearBorder": false,
     "areaM2": 7900,
@@ -6106,8 +6106,8 @@
     "voivodeship": "podlaskie",
     "city": "Zgierszczańskie",
     "coordinates": {
-      "lat": 53.13353068461872,
-      "lng": 23.175847840446792
+      "lat": 53.40351834916139,
+      "lng": 23.49734714194617
     },
     "isNearBorder": true,
     "areaM2": 5000,
@@ -6140,8 +6140,8 @@
     "voivodeship": "podlaskie",
     "city": "Chomontowce",
     "coordinates": {
-      "lat": 53.128913368141745,
-      "lng": 23.163336548993083
+      "lat": 53.12744163322255,
+      "lng": 23.16445090967229
     },
     "isNearBorder": true,
     "areaM2": 4000,
@@ -6174,8 +6174,8 @@
     "voivodeship": "podlaskie",
     "city": "Krosno",
     "coordinates": {
-      "lat": 49.69564231393961,
-      "lng": 21.773323367541845
+      "lat": 49.68480790786145,
+      "lng": 21.774115126368827
     },
     "isNearBorder": true,
     "areaM2": 17200,
@@ -6208,8 +6208,8 @@
     "voivodeship": "podlaskie",
     "city": "Mystki-Rzym",
     "coordinates": {
-      "lat": 53.13807132235355,
-      "lng": 23.170334825015725
+      "lat": 52.91352564470727,
+      "lng": 22.517882778869353
     },
     "isNearBorder": false,
     "areaM2": 3900,
@@ -6242,8 +6242,8 @@
     "voivodeship": "podlaskie",
     "city": "Nowy Dwór",
     "coordinates": {
-      "lat": 53.13215104372815,
-      "lng": 23.17505608150385
+      "lat": 53.4082339793324,
+      "lng": 23.504418595271456
     },
     "isNearBorder": true,
     "areaM2": 30000,
@@ -6276,8 +6276,8 @@
     "voivodeship": "podlaskie",
     "city": "Osinki",
     "coordinates": {
-      "lat": 53.134485528370426,
-      "lng": 23.170437874973246
+      "lat": 54.10207007144134,
+      "lng": 22.922877496099595
     },
     "isNearBorder": true,
     "areaM2": 7561,
@@ -6310,8 +6310,8 @@
     "voivodeship": "podlaskie",
     "city": "Orzechówka",
     "coordinates": {
-      "lat": 53.139516122584894,
-      "lng": 23.162820921457897
+      "lat": 53.6434293232708,
+      "lng": 22.461808432213946
     },
     "isNearBorder": false,
     "areaM2": 4464,
@@ -6345,8 +6345,8 @@
     "city": "Suwałki",
     "street": "ul. Północna",
     "coordinates": {
-      "lat": 54.09495413953602,
-      "lng": 22.935111648045588
+      "lat": 54.09919569677248,
+      "lng": 22.934621256696357
     },
     "isNearBorder": true,
     "areaM2": 15900,
@@ -6379,8 +6379,8 @@
     "voivodeship": "podlaskie",
     "city": "Popiołki",
     "coordinates": {
-      "lat": 53.13517386559313,
-      "lng": 23.159780763641418
+      "lat": 53.41370371766441,
+      "lng": 21.941436923207263
     },
     "isNearBorder": false,
     "areaM2": 75300,
@@ -6414,8 +6414,8 @@
     "city": "Nowa Dębszczyzna",
     "street": "Jemielistka Linia",
     "coordinates": {
-      "lat": 53.129515910346846,
-      "lng": 23.173121797307434
+      "lat": 54.0973795074912,
+      "lng": 22.931348591969257
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -6448,8 +6448,8 @@
     "voivodeship": "podlaskie",
     "city": "Borowskie Gziki",
     "coordinates": {
-      "lat": 53.13666853061482,
-      "lng": 23.16946066466779
+      "lat": 53.12902845718058,
+      "lng": 23.17652258550962
     },
     "isNearBorder": true,
     "areaM2": 3001,
@@ -6482,8 +6482,8 @@
     "voivodeship": "podlaskie",
     "city": "Orzechówka",
     "coordinates": {
-      "lat": 53.13991430172251,
-      "lng": 23.160685447858516
+      "lat": 53.644273069643816,
+      "lng": 22.447611217997668
     },
     "isNearBorder": false,
     "areaM2": 4800,
@@ -6516,8 +6516,8 @@
     "voivodeship": "podlaskie",
     "city": "Dreństwo",
     "coordinates": {
-      "lat": 53.135389414694814,
-      "lng": 23.172404148481608
+      "lat": 53.83625400926449,
+      "lng": 22.976063466953832
     },
     "isNearBorder": true,
     "areaM2": 18800,
@@ -6550,8 +6550,8 @@
     "voivodeship": "podlaskie",
     "city": "Pobondzie",
     "coordinates": {
-      "lat": 53.129191196792874,
-      "lng": 23.17635208959687
+      "lat": 54.09969270372925,
+      "lng": 22.92560221774923
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -6584,8 +6584,8 @@
     "voivodeship": "podlaskie",
     "city": "Bielszczyzna",
     "coordinates": {
-      "lat": 53.1352229418465,
-      "lng": 23.177237707531173
+      "lat": 52.73777002784641,
+      "lng": 23.57340273725062
     },
     "isNearBorder": true,
     "areaM2": 45000,
@@ -6618,8 +6618,8 @@
     "voivodeship": "podlaskie",
     "city": "Zubacze",
     "coordinates": {
-      "lat": 53.1295231043077,
-      "lng": 23.15924288755371
+      "lat": 52.74540910387514,
+      "lng": 23.588550921123392
     },
     "isNearBorder": true,
     "areaM2": 2400,
@@ -6652,8 +6652,8 @@
     "voivodeship": "podlaskie",
     "city": "Lewkowo Nowe",
     "coordinates": {
-      "lat": 53.12512740748088,
-      "lng": 23.169604400314675
+      "lat": 52.74770479287564,
+      "lng": 23.589025059655796
     },
     "isNearBorder": true,
     "areaM2": 14200,
@@ -6686,8 +6686,8 @@
     "voivodeship": "podlaskie",
     "city": "Brzozówka Ziemiańska",
     "coordinates": {
-      "lat": 49.69881242361642,
-      "lng": 22.01872462919072
+      "lat": 53.12988779572687,
+      "lng": 23.16058432137521
     },
     "isNearBorder": true,
     "areaM2": 3145,
@@ -6720,8 +6720,8 @@
     "voivodeship": "podlaskie",
     "city": "Pasynki",
     "coordinates": {
-      "lat": 53.12679148753067,
-      "lng": 23.175474198121638
+      "lat": 53.127340004534844,
+      "lng": 23.17708036510169
     },
     "isNearBorder": true,
     "areaM2": 4500,
@@ -6754,8 +6754,8 @@
     "voivodeship": "podlaskie",
     "city": "Małyszczyn",
     "coordinates": {
-      "lat": 53.13190857144567,
-      "lng": 23.174700246473307
+      "lat": 52.42270358055145,
+      "lng": 22.865498606180108
     },
     "isNearBorder": true,
     "areaM2": 8200,
@@ -6788,8 +6788,8 @@
     "voivodeship": "podlaskie",
     "city": "Iwanówka",
     "coordinates": {
-      "lat": 53.12689433348211,
-      "lng": 23.172597736183757
+      "lat": 54.10343949947373,
+      "lng": 23.351928314346825
     },
     "isNearBorder": true,
     "areaM2": 85000,
@@ -6822,8 +6822,8 @@
     "voivodeship": "podlaskie",
     "city": "Stara Łuplanka",
     "coordinates": {
-      "lat": 53.12710421244046,
-      "lng": 23.170500957996705
+      "lat": 53.133677979716964,
+      "lng": 23.160759684263784
     },
     "isNearBorder": true,
     "areaM2": 6000,
@@ -6856,8 +6856,8 @@
     "voivodeship": "podlaskie",
     "city": "Przeździecko-Mroczki",
     "coordinates": {
-      "lat": 53.13739358273989,
-      "lng": 23.165862864292382
+      "lat": 52.992378962305345,
+      "lng": 22.251746857991883
     },
     "isNearBorder": false,
     "areaM2": 1326,
@@ -6890,8 +6890,8 @@
     "voivodeship": "podlaskie",
     "city": "Krynickie",
     "coordinates": {
-      "lat": 53.139635661825444,
-      "lng": 23.170367829482316
+      "lat": 53.129754503917965,
+      "lng": 23.165169135200372
     },
     "isNearBorder": true,
     "areaM2": 1717,
@@ -6924,8 +6924,8 @@
     "voivodeship": "podlaskie",
     "city": "Hołody",
     "coordinates": {
-      "lat": 53.1291767486065,
-      "lng": 23.168402684225214
+      "lat": 52.76771540488631,
+      "lng": 23.191031465258284
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -6958,8 +6958,8 @@
     "voivodeship": "podlaskie",
     "city": "Andrzejewo",
     "coordinates": {
-      "lat": 53.12538122656423,
-      "lng": 23.175223799232036
+      "lat": 53.40273922111551,
+      "lng": 23.49833991517343
     },
     "isNearBorder": true,
     "areaM2": 207100,
@@ -6992,8 +6992,8 @@
     "voivodeship": "podlaskie",
     "city": "Hajnówka",
     "coordinates": {
-      "lat": 52.73663851396987,
-      "lng": 23.59068429479505
+      "lat": 52.74167466071652,
+      "lng": 23.57824512832359
     },
     "isNearBorder": true,
     "areaM2": 7000,
@@ -7026,8 +7026,8 @@
     "voivodeship": "podlaskie",
     "city": "Krusznik",
     "coordinates": {
-      "lat": 53.13107202576328,
-      "lng": 23.176500739383993
+      "lat": 53.846297959638825,
+      "lng": 22.97736062626911
     },
     "isNearBorder": true,
     "areaM2": 34300,
@@ -7061,8 +7061,8 @@
     "city": "Rudka",
     "street": "ul. Olendzka",
     "coordinates": {
-      "lat": 53.1351289631977,
-      "lng": 23.160065092672163
+      "lat": 52.7600391181342,
+      "lng": 23.19997345679525
     },
     "isNearBorder": true,
     "areaM2": 6100,
@@ -7095,8 +7095,8 @@
     "voivodeship": "podlaskie",
     "city": "Kurowo",
     "coordinates": {
-      "lat": 53.12548576635481,
-      "lng": 23.16134709916424
+      "lat": 52.920350499711965,
+      "lng": 22.52061226257795
     },
     "isNearBorder": false,
     "areaM2": 1000,
@@ -7129,8 +7129,8 @@
     "voivodeship": "podlaskie",
     "city": "Tworki",
     "coordinates": {
-      "lat": 53.13401449311784,
-      "lng": 23.162085124500646
+      "lat": 52.77299307193137,
+      "lng": 23.19733026307781
     },
     "isNearBorder": true,
     "areaM2": 3084,
@@ -7163,8 +7163,8 @@
     "voivodeship": "podlaskie",
     "city": "Stare Leśne Bohatery",
     "coordinates": {
-      "lat": 53.133114192791474,
-      "lng": 23.17871762819784
+      "lat": 53.8484747992989,
+      "lng": 22.978476979727443
     },
     "isNearBorder": true,
     "areaM2": 1900,
@@ -7197,8 +7197,8 @@
     "voivodeship": "podlaskie",
     "city": "Mieleszki-Kolonia",
     "coordinates": {
-      "lat": 53.139316151734924,
-      "lng": 23.163479811032555
+      "lat": 53.13036312511814,
+      "lng": 23.168554052972627
     },
     "isNearBorder": true,
     "areaM2": 3001,
@@ -7237,8 +7237,8 @@
     "voivodeship": "podlaskie",
     "city": "Kosiorki",
     "coordinates": {
-      "lat": 53.13066871509158,
-      "lng": 23.178382035682926
+      "lat": 52.91171832613945,
+      "lng": 22.516772075936938
     },
     "isNearBorder": false,
     "areaM2": 2049,
@@ -7271,8 +7271,8 @@
     "voivodeship": "podlaskie",
     "city": "Zygmunty",
     "coordinates": {
-      "lat": 53.12527992527453,
-      "lng": 23.170595343781173
+      "lat": 53.41304201659979,
+      "lng": 22.792169906227034
     },
     "isNearBorder": false,
     "areaM2": 3028,
@@ -7305,8 +7305,8 @@
     "voivodeship": "podlaskie",
     "city": "Haćki",
     "coordinates": {
-      "lat": 53.135721634807936,
-      "lng": 23.16100945368506
+      "lat": 52.76419534590136,
+      "lng": 23.195969405115903
     },
     "isNearBorder": true,
     "areaM2": 5251,
@@ -7339,8 +7339,8 @@
     "voivodeship": "podlaskie",
     "city": "Saczkowce",
     "coordinates": {
-      "lat": 53.135823240955105,
-      "lng": 23.16753444035646
+      "lat": 53.40935153786735,
+      "lng": 23.511730529001934
     },
     "isNearBorder": true,
     "areaM2": 2690,
@@ -7373,8 +7373,8 @@
     "voivodeship": "podlaskie",
     "city": "Topczykały",
     "coordinates": {
-      "lat": 53.12742757312683,
-      "lng": 23.177435850691033
+      "lat": 52.76191585534119,
+      "lng": 23.198630951141023
     },
     "isNearBorder": true,
     "areaM2": 2200,
@@ -7407,8 +7407,8 @@
     "voivodeship": "podlaskie",
     "city": "Mazury",
     "coordinates": {
-      "lat": 53.13016023005718,
-      "lng": 23.159187881984327
+      "lat": 52.92250891557756,
+      "lng": 22.526515144169043
     },
     "isNearBorder": false,
     "areaM2": 2793,
@@ -7441,8 +7441,8 @@
     "voivodeship": "podlaskie",
     "city": "Brześcianka",
     "coordinates": {
-      "lat": 53.12834724052466,
-      "lng": 23.171144541333074
+      "lat": 52.76904200249525,
+      "lng": 23.199529628209106
     },
     "isNearBorder": true,
     "areaM2": 4759,
@@ -7475,8 +7475,8 @@
     "voivodeship": "podlaskie",
     "city": "Wysokie",
     "coordinates": {
-      "lat": 53.128849856583095,
-      "lng": 23.161458750022312
+      "lat": 54.10404930614869,
+      "lng": 22.923865269735483
     },
     "isNearBorder": true,
     "areaM2": 90000,
@@ -7509,8 +7509,8 @@
     "voivodeship": "podlaskie",
     "city": "Chraboły",
     "coordinates": {
-      "lat": 53.12605786960021,
-      "lng": 23.169203292049932
+      "lat": 53.13352523693313,
+      "lng": 23.169937531332653
     },
     "isNearBorder": true,
     "areaM2": 8400,
@@ -7543,8 +7543,8 @@
     "voivodeship": "podlaskie",
     "city": "Podleńce",
     "coordinates": {
-      "lat": 53.136610118892406,
-      "lng": 23.162107588537
+      "lat": 53.13687369197606,
+      "lng": 23.178495328997407
     },
     "isNearBorder": true,
     "areaM2": 1895,
@@ -7577,8 +7577,8 @@
     "voivodeship": "podlaskie",
     "city": "Klewinowo",
     "coordinates": {
-      "lat": 53.12901567355488,
-      "lng": 23.168510402167588
+      "lat": 53.135972719588146,
+      "lng": 23.167350148403017
     },
     "isNearBorder": true,
     "areaM2": 2740,
@@ -7611,8 +7611,8 @@
     "voivodeship": "podlaskie",
     "city": "Kołomyjka",
     "coordinates": {
-      "lat": 53.128339553843404,
-      "lng": 23.17314298003787
+      "lat": 52.988943474449776,
+      "lng": 22.246380283283052
     },
     "isNearBorder": false,
     "areaM2": 10000,
@@ -7645,8 +7645,8 @@
     "voivodeship": "podlaskie",
     "city": "Wólka Duża",
     "coordinates": {
-      "lat": 53.13883110219682,
-      "lng": 23.169030509809364
+      "lat": 52.915614984672565,
+      "lng": 22.51661033960877
     },
     "isNearBorder": false,
     "areaM2": 4400,
@@ -7679,8 +7679,8 @@
     "voivodeship": "podlaskie",
     "city": "Studzianki",
     "coordinates": {
-      "lat": 53.13996164562364,
-      "lng": 23.168108471285624
+      "lat": 53.13701660371411,
+      "lng": 23.170009817498
     },
     "isNearBorder": true,
     "areaM2": 47500,
@@ -7713,8 +7713,8 @@
     "voivodeship": "podlaskie",
     "city": "Lewkowo Nowe",
     "coordinates": {
-      "lat": 53.13367033644943,
-      "lng": 23.162057010036815
+      "lat": 52.74273984976647,
+      "lng": 23.578284426860463
     },
     "isNearBorder": true,
     "areaM2": 5000,
@@ -7747,8 +7747,8 @@
     "voivodeship": "podlaskie",
     "city": "Mulawicze",
     "coordinates": {
-      "lat": 53.12633808291912,
-      "lng": 23.166528986349714
+      "lat": 52.75983021568069,
+      "lng": 23.189380009759027
     },
     "isNearBorder": true,
     "areaM2": 5200,
@@ -7781,8 +7781,8 @@
     "voivodeship": "podlaskie",
     "city": "Lipowy Most",
     "coordinates": {
-      "lat": 53.12626544961653,
-      "lng": 23.16520820991065
+      "lat": 53.412924403696266,
+      "lng": 23.513420569587407
     },
     "isNearBorder": true,
     "areaM2": 3379,
@@ -7816,8 +7816,8 @@
     "city": "Oleksin",
     "street": "Oleksin",
     "coordinates": {
-      "lat": 53.12590130067171,
-      "lng": 23.174384258846356
+      "lat": 52.76731254426932,
+      "lng": 23.185471345590344
     },
     "isNearBorder": true,
     "areaM2": 1800,
@@ -7850,8 +7850,8 @@
     "voivodeship": "podlaskie",
     "city": "Topolany",
     "coordinates": {
-      "lat": 53.12585710996524,
-      "lng": 23.168965916018195
+      "lat": 53.13147368307926,
+      "lng": 23.1609188555215
     },
     "isNearBorder": true,
     "areaM2": 3300,
@@ -7884,8 +7884,8 @@
     "voivodeship": "podlaskie",
     "city": "Dubiażyn",
     "coordinates": {
-      "lat": 53.13847506506338,
-      "lng": 23.159797919650643
+      "lat": 52.76758766451641,
+      "lng": 23.190152530781244
     },
     "isNearBorder": true,
     "areaM2": 2000,
@@ -7919,8 +7919,8 @@
     "city": "Maćkowicze",
     "street": "Kudelicze",
     "coordinates": {
-      "lat": 53.138114298275234,
-      "lng": 23.166755666322103
+      "lat": 52.42898331725568,
+      "lng": 22.8697899871696
     },
     "isNearBorder": true,
     "areaM2": 2000,
@@ -7953,8 +7953,8 @@
     "voivodeship": "podlaskie",
     "city": "Zasady",
     "coordinates": {
-      "lat": 53.12510634595837,
-      "lng": 23.16539225666018
+      "lat": 53.13847069317669,
+      "lng": 23.169460905138763
     },
     "isNearBorder": true,
     "areaM2": 1589,
@@ -7987,8 +7987,8 @@
     "voivodeship": "podlaskie",
     "city": "Mulawicze",
     "coordinates": {
-      "lat": 53.134362799731804,
-      "lng": 23.166287506106972
+      "lat": 52.768304515250854,
+      "lng": 23.197548167495153
     },
     "isNearBorder": true,
     "areaM2": 8095,
@@ -8021,8 +8021,8 @@
     "voivodeship": "podlaskie",
     "city": "Rydzewo-Świątki",
     "coordinates": {
-      "lat": 53.127140403042816,
-      "lng": 23.164319065565603
+      "lat": 53.41006056408395,
+      "lng": 21.929176962221977
     },
     "isNearBorder": false,
     "areaM2": 14800,
@@ -8055,8 +8055,8 @@
     "voivodeship": "podlaskie",
     "city": "Bohdan",
     "coordinates": {
-      "lat": 53.129846821551,
-      "lng": 23.168098526194118
+      "lat": 53.13194994567827,
+      "lng": 23.16948269183017
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -8089,8 +8089,8 @@
     "voivodeship": "podlaskie",
     "city": "Miastkowo",
     "coordinates": {
-      "lat": 53.12737448749741,
-      "lng": 23.16572923870302
+      "lat": 53.172405714747924,
+      "lng": 22.050093911598566
     },
     "isNearBorder": false,
     "areaM2": 3000,
@@ -8123,8 +8123,8 @@
     "voivodeship": "podlaskie",
     "city": "Koszki",
     "coordinates": {
-      "lat": 53.13207680907869,
-      "lng": 23.174417421393645
+      "lat": 52.759842113886585,
+      "lng": 23.187302318711854
     },
     "isNearBorder": true,
     "areaM2": 3400,
@@ -8157,8 +8157,8 @@
     "voivodeship": "podlaskie",
     "city": "Jaginty",
     "coordinates": {
-      "lat": 53.12686110927612,
-      "lng": 23.178494889500296
+      "lat": 53.400872304133635,
+      "lng": 23.501936394810446
     },
     "isNearBorder": true,
     "areaM2": 2700,
@@ -8191,8 +8191,8 @@
     "voivodeship": "podlaskie",
     "city": "Czyże",
     "coordinates": {
-      "lat": 53.126708613939044,
-      "lng": 23.161007430484773
+      "lat": 52.73786323092427,
+      "lng": 23.588547799693295
     },
     "isNearBorder": true,
     "areaM2": 5400,
@@ -8225,8 +8225,8 @@
     "voivodeship": "podlaskie",
     "city": "Rzepniki",
     "coordinates": {
-      "lat": 53.138438203140545,
-      "lng": 23.1757489291489
+      "lat": 53.13171422283365,
+      "lng": 23.177356433322664
     },
     "isNearBorder": true,
     "areaM2": 705,
@@ -8259,8 +8259,8 @@
     "voivodeship": "podlaskie",
     "city": "Załuskie Kościelne",
     "coordinates": {
-      "lat": 53.12944575188479,
-      "lng": 23.16690427444997
+      "lat": 52.76765595012836,
+      "lng": 23.197163620062906
     },
     "isNearBorder": true,
     "areaM2": 3164,
@@ -8293,8 +8293,8 @@
     "voivodeship": "podlaskie",
     "city": "Wysokie Małe",
     "coordinates": {
-      "lat": 53.138086991071056,
-      "lng": 23.17233445109717
+      "lat": 53.41248560361204,
+      "lng": 21.93955399578055
     },
     "isNearBorder": false,
     "areaM2": 55400,
@@ -8327,8 +8327,8 @@
     "voivodeship": "podlaskie",
     "city": "Klepacze",
     "coordinates": {
-      "lat": 53.135216247192915,
-      "lng": 23.162429372146853
+      "lat": 52.42840387344019,
+      "lng": 22.861955154690722
     },
     "isNearBorder": true,
     "areaM2": 3200,
@@ -8362,8 +8362,8 @@
     "city": "Juchnowiec Dolny",
     "street": "ul. Spacerowa",
     "coordinates": {
-      "lat": 53.133884011603904,
-      "lng": 23.178391167939434
+      "lat": 53.13496128671556,
+      "lng": 23.174615148551535
     },
     "isNearBorder": true,
     "areaM2": 6547,
@@ -8396,8 +8396,8 @@
     "voivodeship": "podlaskie",
     "city": "Wólka",
     "coordinates": {
-      "lat": 53.13960440037429,
-      "lng": 23.164908992731164
+      "lat": 52.759300515572235,
+      "lng": 23.201146901643696
     },
     "isNearBorder": true,
     "areaM2": 8843,
@@ -8430,8 +8430,8 @@
     "voivodeship": "podlaskie",
     "city": "Sieśki",
     "coordinates": {
-      "lat": 53.13934076601128,
-      "lng": 23.16412123449234
+      "lat": 53.13812699203438,
+      "lng": 23.177924293213348
     },
     "isNearBorder": true,
     "areaM2": 3092,
@@ -8464,8 +8464,8 @@
     "voivodeship": "podlaskie",
     "city": "Kalwińszczyzna",
     "coordinates": {
-      "lat": 53.126896387197874,
-      "lng": 23.174674841551223
+      "lat": 53.40465478774744,
+      "lng": 23.508080321925334
     },
     "isNearBorder": true,
     "areaM2": 10700,
@@ -8498,8 +8498,8 @@
     "voivodeship": "podlaskie",
     "city": "Klepacze",
     "coordinates": {
-      "lat": 53.134150459895466,
-      "lng": 23.174667008611934
+      "lat": 52.42752855703763,
+      "lng": 22.86537203475534
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -8532,8 +8532,8 @@
     "voivodeship": "podlaskie",
     "city": "Rajgród",
     "coordinates": {
-      "lat": 53.12897755220183,
-      "lng": 23.172906498809716
+      "lat": 53.651923747302156,
+      "lng": 22.456265763268746
     },
     "isNearBorder": false,
     "areaM2": 173400,
@@ -8566,8 +8566,8 @@
     "voivodeship": "podlaskie",
     "city": "Mocarze",
     "coordinates": {
-      "lat": 53.13772964807831,
-      "lng": 23.17600916198182
+      "lat": 53.17925879270129,
+      "lng": 22.068247649027892
     },
     "isNearBorder": false,
     "areaM2": 4000,
@@ -8600,8 +8600,8 @@
     "voivodeship": "podlaskie",
     "city": "Bruszewo",
     "coordinates": {
-      "lat": 53.13165522744463,
-      "lng": 23.16915494854104
+      "lat": 52.9217523710956,
+      "lng": 22.518626736232573
     },
     "isNearBorder": false,
     "areaM2": 5638,
@@ -8634,8 +8634,8 @@
     "voivodeship": "podlaskie",
     "city": "Solniki",
     "coordinates": {
-      "lat": 53.12764915315701,
-      "lng": 23.160856259443438
+      "lat": 52.77035738321775,
+      "lng": 23.18797473272396
     },
     "isNearBorder": true,
     "areaM2": 1276,
@@ -8668,8 +8668,8 @@
     "voivodeship": "podlaskie",
     "city": "Przybudki",
     "coordinates": {
-      "lat": 53.138532714164526,
-      "lng": 23.15920279663452
+      "lat": 52.746988844286214,
+      "lng": 23.57365333096021
     },
     "isNearBorder": true,
     "areaM2": 4500,
@@ -8702,8 +8702,8 @@
     "voivodeship": "podlaskie",
     "city": "Wyłudzin",
     "coordinates": {
-      "lat": 53.13634863556757,
-      "lng": 23.15911041332692
+      "lat": 53.184734947243626,
+      "lng": 22.062056911495723
     },
     "isNearBorder": false,
     "areaM2": 8500,
@@ -8736,8 +8736,8 @@
     "voivodeship": "podlaskie",
     "city": "Kundzicze",
     "coordinates": {
-      "lat": 53.12940797036295,
-      "lng": 23.17607580197732
+      "lat": 53.40472513625365,
+      "lng": 23.50946314289421
     },
     "isNearBorder": true,
     "areaM2": 3835,
@@ -8770,8 +8770,8 @@
     "voivodeship": "podlaskie",
     "city": "Kundzicze",
     "coordinates": {
-      "lat": 53.137392400885396,
-      "lng": 23.16959070270374
+      "lat": 53.40577938906236,
+      "lng": 23.507601667827966
     },
     "isNearBorder": true,
     "areaM2": 3752,
@@ -8804,8 +8804,8 @@
     "voivodeship": "podlaskie",
     "city": "Małyszczyn",
     "coordinates": {
-      "lat": 53.12979773549284,
-      "lng": 23.178161142040867
+      "lat": 52.4210558092618,
+      "lng": 22.86486559995956
     },
     "isNearBorder": true,
     "areaM2": 2800,
@@ -8838,8 +8838,8 @@
     "voivodeship": "podlaskie",
     "city": "Gąsówka-Oleksin",
     "coordinates": {
-      "lat": 53.137604795292766,
-      "lng": 23.16962075277623
+      "lat": 53.13651280871489,
+      "lng": 23.16891989801673
     },
     "isNearBorder": true,
     "areaM2": 8400,
@@ -8873,8 +8873,8 @@
     "city": "Orzeszkowo",
     "street": "Olszyna",
     "coordinates": {
-      "lat": 53.13587755720291,
-      "lng": 23.17398945918686
+      "lat": 52.73870995977142,
+      "lng": 23.58104966700187
     },
     "isNearBorder": true,
     "areaM2": 19400,
@@ -8908,8 +8908,8 @@
     "city": "Białystok Dojlidy Górne",
     "street": "ul. Liniowa",
     "coordinates": {
-      "lat": 53.12867812574405,
-      "lng": 23.176024513087263
+      "lat": 53.13477435572166,
+      "lng": 23.171671955607895
     },
     "isNearBorder": true,
     "areaM2": 3049,
@@ -8942,8 +8942,8 @@
     "voivodeship": "podlaskie",
     "city": "Topolany",
     "coordinates": {
-      "lat": 53.13206956553814,
-      "lng": 23.16497317896199
+      "lat": 53.13588271927783,
+      "lng": 23.175861249679965
     },
     "isNearBorder": true,
     "areaM2": 5842,
@@ -8977,8 +8977,8 @@
     "city": "Mielnik",
     "street": "ul. Sadowa",
     "coordinates": {
-      "lat": 53.13750351075347,
-      "lng": 23.174887337808645
+      "lat": 52.430114670387304,
+      "lng": 22.867628610029744
     },
     "isNearBorder": true,
     "areaM2": 40900,
@@ -9011,8 +9011,8 @@
     "voivodeship": "podlaskie",
     "city": "Kołaki-Wietrzychowo",
     "coordinates": {
-      "lat": 53.13424621642273,
-      "lng": 23.16442868589744
+      "lat": 53.4136592362685,
+      "lng": 21.9416679294353
     },
     "isNearBorder": false,
     "areaM2": 7900,
@@ -9045,8 +9045,8 @@
     "voivodeship": "podlaskie",
     "city": "Zaśpicze",
     "coordinates": {
-      "lat": 53.12980321491446,
-      "lng": 23.169755340155884
+      "lat": 53.400809456753734,
+      "lng": 23.496389328205684
     },
     "isNearBorder": true,
     "areaM2": 1900,
@@ -9080,8 +9080,8 @@
     "city": "Zabłudów",
     "street": "ul. Kolonia",
     "coordinates": {
-      "lat": 53.128246149993835,
-      "lng": 23.169877656549588
+      "lat": 53.130050421333074,
+      "lng": 23.16144688111892
     },
     "isNearBorder": true,
     "areaM2": 7300,
@@ -9114,8 +9114,8 @@
     "voivodeship": "podlaskie",
     "city": "Nowa Przerośl",
     "coordinates": {
-      "lat": 53.13328717676694,
-      "lng": 23.178356880244134
+      "lat": 54.10417071720385,
+      "lng": 22.9362184588072
     },
     "isNearBorder": true,
     "areaM2": 19000,
@@ -9148,8 +9148,8 @@
     "voivodeship": "podlaskie",
     "city": "Kołodno",
     "coordinates": {
-      "lat": 53.139065301170504,
-      "lng": 23.16973504549616
+      "lat": 53.12793055706419,
+      "lng": 23.1612338267045
     },
     "isNearBorder": true,
     "areaM2": 2900,
@@ -9183,8 +9183,8 @@
     "county": "suwalski",
     "city": "Sidory",
     "coordinates": {
-      "lat": 53.13771358013383,
-      "lng": 23.170657568782527
+      "lat": 54.10222168451495,
+      "lng": 22.93428018921918
     },
     "isNearBorder": true,
     "areaM2": 8964,
@@ -9217,8 +9217,8 @@
     "county": "białostocki",
     "city": "Zaczerlany",
     "coordinates": {
-      "lat": 53.138729151300694,
-      "lng": 23.173383397245846
+      "lat": 53.13825474887898,
+      "lng": 23.164831510862857
     },
     "isNearBorder": true,
     "areaM2": 3001,
@@ -9250,8 +9250,8 @@
     "county": "suwalski",
     "city": "Kolonia Przerośl",
     "coordinates": {
-      "lat": 53.135961856933044,
-      "lng": 23.167428465772776
+      "lat": 54.09958496226653,
+      "lng": 22.926989344940946
     },
     "isNearBorder": true,
     "areaM2": 400000,
@@ -9283,8 +9283,8 @@
     "voivodeship": "podlaskie",
     "city": "Olszanka",
     "coordinates": {
-      "lat": 53.125631811501734,
-      "lng": 23.177221752613853
+      "lat": 54.10703027388606,
+      "lng": 22.929709806763277
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -9318,8 +9318,8 @@
     "county": "siemiatycki",
     "city": "Pokaniewo-Kolonia",
     "coordinates": {
-      "lat": 53.130730088479794,
-      "lng": 23.160234935248397
+      "lat": 52.42299623220458,
+      "lng": 22.869917000979562
     },
     "isNearBorder": true,
     "areaM2": 47506,
@@ -9351,8 +9351,8 @@
     "voivodeship": "podlaskie",
     "city": "Sidory",
     "coordinates": {
-      "lat": 53.138976817667704,
-      "lng": 23.173216284298594
+      "lat": 54.094023659666,
+      "lng": 22.92533443749638
     },
     "isNearBorder": true,
     "areaM2": 8964,
@@ -9386,8 +9386,8 @@
     "county": "hajnowski",
     "city": "Doratynka",
     "coordinates": {
-      "lat": 53.1265689573474,
-      "lng": 23.16747244024077
+      "lat": 52.73862635275711,
+      "lng": 23.590747476536126
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -9419,8 +9419,8 @@
     "county": "hajnowski",
     "city": "Górny Gród",
     "coordinates": {
-      "lat": 53.132203495122596,
-      "lng": 23.161289055124556
+      "lat": 52.74297590098188,
+      "lng": 23.57574796239936
     },
     "isNearBorder": true,
     "areaM2": 3392,
@@ -9453,8 +9453,8 @@
     "county": "hajnowski",
     "city": "Iwanki",
     "coordinates": {
-      "lat": 53.13770445507068,
-      "lng": 23.158801007056738
+      "lat": 52.746403945185016,
+      "lng": 23.580276094484987
     },
     "isNearBorder": true,
     "areaM2": 19200,
@@ -9487,8 +9487,8 @@
     "county": "suwalski",
     "city": "Okuniowiec",
     "coordinates": {
-      "lat": 53.128819235958225,
-      "lng": 23.1761507255007
+      "lat": 54.100490046861765,
+      "lng": 22.933408129177607
     },
     "isNearBorder": true,
     "areaM2": 1518,
@@ -9521,8 +9521,8 @@
     "county": "bielski",
     "city": "Samułki Duże",
     "coordinates": {
-      "lat": 53.132179471684694,
-      "lng": 23.16725187578072
+      "lat": 52.763202087604185,
+      "lng": 23.188386909700498
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -9555,8 +9555,8 @@
     "county": "bielski",
     "city": "Samułki Małe",
     "coordinates": {
-      "lat": 53.13935217802142,
-      "lng": 23.17130466665364
+      "lat": 52.76543915152811,
+      "lng": 23.188243013969206
     },
     "isNearBorder": true,
     "areaM2": 3699,
@@ -9589,8 +9589,8 @@
     "county": "ostrowski",
     "city": "Zaszków",
     "coordinates": {
-      "lat": 53.13782738038564,
-      "lng": 23.174692435677866
+      "lat": 51.65012058441821,
+      "lng": 17.801129255465675
     },
     "isNearBorder": false,
     "areaM2": 2240,
@@ -9657,8 +9657,8 @@
     "county": "augustowski",
     "city": "Jabłońskie",
     "coordinates": {
-      "lat": 53.12732986488271,
-      "lng": 23.171364834283644
+      "lat": 53.84068382032518,
+      "lng": 22.973895726677103
     },
     "isNearBorder": true,
     "areaM2": 6304,
@@ -9691,8 +9691,8 @@
     "county": "sokólski",
     "city": "Rykaczewo",
     "coordinates": {
-      "lat": 53.13264143159834,
-      "lng": 23.176019145708107
+      "lat": 53.40999389737989,
+      "lng": 23.508234524180846
     },
     "isNearBorder": true,
     "areaM2": 5000,
@@ -9725,8 +9725,8 @@
     "county": "białostocki",
     "city": "Solniki",
     "coordinates": {
-      "lat": 53.13166743176535,
-      "lng": 23.160888227473357
+      "lat": 53.1343834930163,
+      "lng": 23.162948962816877
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -9759,8 +9759,8 @@
     "county": "białostocki",
     "city": "Odnoga-Kuźmy",
     "coordinates": {
-      "lat": 53.136196800312774,
-      "lng": 23.16418012470529
+      "lat": 53.13323159593106,
+      "lng": 23.17821250384893
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -9793,8 +9793,8 @@
     "county": "białostocki",
     "city": "Szerenosy",
     "coordinates": {
-      "lat": 53.12529143828112,
-      "lng": 23.175045213641823
+      "lat": 53.12726471124188,
+      "lng": 23.169649068947216
     },
     "isNearBorder": true,
     "areaM2": 3000,
@@ -9827,8 +9827,8 @@
     "county": "sejneński",
     "city": "Berżałowce",
     "coordinates": {
-      "lat": 53.1331943690278,
-      "lng": 23.165813056708107
+      "lat": 54.10892846589955,
+      "lng": 23.347882563640187
     },
     "isNearBorder": true,
     "areaM2": 12046,
@@ -9861,8 +9861,8 @@
     "county": "suwalski",
     "city": "Sidorówka",
     "coordinates": {
-      "lat": 53.13306011550995,
-      "lng": 23.17106967906137
+      "lat": 54.09995059539461,
+      "lng": 22.929155549357688
     },
     "isNearBorder": true,
     "areaM2": 3200,
@@ -9895,8 +9895,8 @@
     "county": "białostocki",
     "city": "Aleksicze",
     "coordinates": {
-      "lat": 53.13813928166304,
-      "lng": 23.1592236121007
+      "lat": 53.126585026418894,
+      "lng": 23.16174035036454
     },
     "isNearBorder": true,
     "areaM2": 3000,
