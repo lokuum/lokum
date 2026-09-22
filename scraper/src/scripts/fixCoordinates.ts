@@ -39,12 +39,12 @@ async function main() {
         const normCity = item.city ? normalizeText(item.city) : '';
         const isCapitalCity = capitals.some((c) => normCity.includes(c));
 
-        const distFromCenterLat = Math.abs(item.coordinates.lat - center.lat);
-        const distFromCenterLng = Math.abs(item.coordinates.lng - center.lng);
+        const distFromCenterLat = item.coordinates ? Math.abs(item.coordinates.lat - center.lat) : 999;
+        const distFromCenterLng = item.coordinates ? Math.abs(item.coordinates.lng - center.lng) : 999;
         const wasInCenter = distFromCenterLat < 0.03 && distFromCenterLng < 0.03;
 
-        // Jeśli oferta pochodzi z Adresowo LUB była umieszczona w centrum województwa, mimo że miejscowość to nie stolica
-        if (item.source === 'adresowo' || (wasInCenter && !isCapitalCity)) {
+        // Jeśli oferta pochodzi z Adresowo LUB nie ma współrzędnych LUB była umieszczona w centrum województwa, mimo że miejscowość to nie stolica
+        if (!item.coordinates || item.source === 'adresowo' || (wasInCenter && !isCapitalCity)) {
           const newCoords = getLocationCoordinates(v, item.city, item.county);
           item.coordinates = newCoords;
           updatedCount++;
