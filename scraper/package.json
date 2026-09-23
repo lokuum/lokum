@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "scrape": "tsx src/index.ts",
+    "fix:geo": "tsx src/scripts/recalculateGeo.ts",
     "typecheck": "tsc --noEmit",
     "test": "vitest run"
   },

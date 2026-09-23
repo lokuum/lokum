@@ -6,7 +6,7 @@
   "avgHousePricePerM2": 6033,
   "avgPlotPricePerM2": 193,
   "avgHabitatPricePerM2": 2040,
-  "lastUpdated": "2026-09-23T09:17:43.449Z",
+  "lastUpdated": "2026-09-23T19:49:29.047Z",
   "topPriceDrops": [
     {
       "id": "adresowo-1778704",
@@ -19,8 +19,8 @@
       "city": "Augustowo",
       "street": "Na Brańskiej",
       "coordinates": {
-        "lat": 52.762416085985635,
-        "lng": 23.194343073339603
+        "lat": 52.76594698799181,
+        "lng": 23.184473996444698
       },
       "isNearBorder": true,
       "areaM2": 832,
@@ -59,8 +59,8 @@
       "voivodeship": "lubelskie",
       "city": "Tomaszowice-Kolonia",
       "coordinates": {
-        "lat": 51.24347894069202,
-        "lng": 22.57614991750334
+        "lat": 51.27085223278876,
+        "lng": 22.37645014380339
       },
       "isNearBorder": false,
       "areaM2": 3800,
@@ -99,8 +99,8 @@
       "voivodeship": "podkarpackie",
       "city": "Mokra",
       "coordinates": {
-        "lat": 50.016004001178565,
-        "lng": 22.674805413394008
+        "lat": 50.01707351493172,
+        "lng": 22.67877303188357
       },
       "isNearBorder": true,
       "areaM2": 3600,
@@ -141,8 +141,8 @@
       "city": "Jasło",
       "street": "ul. Rzemieślnicza",
       "coordinates": {
-        "lat": 49.741362456793595,
-        "lng": 21.47415358777692
+        "lat": 49.747787467954396,
+        "lng": 21.4789855801095
       },
       "isNearBorder": false,
       "areaM2": 2300,
@@ -181,8 +181,8 @@
       "county": "zamojski",
       "city": "Sitaniec",
       "coordinates": {
-        "lat": 50.713154803543176,
-        "lng": 23.251586063815004
+        "lat": 50.74882725851308,
+        "lng": 23.24055741462369
       },
       "isNearBorder": true,
       "areaM2": 29700,
@@ -220,8 +220,8 @@
       "voivodeship": "lubelskie",
       "city": "Chomęciska Duże",
       "coordinates": {
-        "lat": 50.72722698768209,
-        "lng": 23.261742959902712
+        "lat": 50.72213163679331,
+        "lng": 23.25574482114134
       },
       "isNearBorder": true,
       "areaM2": 5866,
@@ -260,8 +260,8 @@
       "voivodeship": "podlaskie",
       "city": "Skindzierz",
       "coordinates": {
-        "lat": 53.40253291248016,
-        "lng": 23.501077275925734
+        "lat": 53.40846526235063,
+        "lng": 23.49753266006465
       },
       "isNearBorder": true,
       "areaM2": 69000,
@@ -300,8 +300,8 @@
       "voivodeship": "podlaskie",
       "city": "Mołowiste",
       "coordinates": {
-        "lat": 53.84525935460806,
-        "lng": 22.977060218239124
+        "lat": 53.8379834564741,
+        "lng": 22.985891901184285
       },
       "isNearBorder": true,
       "areaM2": 11600,
@@ -341,8 +341,8 @@
       "county": "bialski",
       "city": "Polinów",
       "coordinates": {
-        "lat": 52.02918783713703,
-        "lng": 23.110574877537513
+        "lat": 52.02886086036478,
+        "lng": 23.11397902251887
       },
       "isNearBorder": true,
       "areaM2": 2200,
@@ -381,8 +381,8 @@
       "county": "suwalski",
       "city": "Supienie",
       "coordinates": {
-        "lat": 54.0950040373399,
-        "lng": 22.939725809533698
+        "lat": 54.10124626558743,
+        "lng": 22.94004197244611
       },
       "isNearBorder": true,
       "areaM2": 2500,
@@ -420,8 +420,8 @@
       "voivodeship": "lubelskie",
       "city": "Rudnik-Kolonia",
       "coordinates": {
-        "lat": 50.92709157546917,
-        "lng": 22.22132402298724
+        "lat": 50.92112599722833,
+        "lng": 22.232664505163434
       },
       "isNearBorder": false,
       "areaM2": 3611,
@@ -461,8 +461,8 @@
       "county": "ropczycko-sędziszowski",
       "city": "Iwierzyce",
       "coordinates": {
-        "lat": 50.05781364430276,
-        "lng": 21.607437064914826
+        "lat": 50.05020245262968,
+        "lng": 21.60313189298445
       },
       "isNearBorder": false,
       "areaM2": 3154,
@@ -501,8 +501,8 @@
       "city": "Lublin",
       "street": "ul. Koncertowa",
       "coordinates": {
-        "lat": 51.25304588910052,
-        "lng": 22.577334601693828
+        "lat": 51.24507795466993,
+        "lng": 22.56465452458947
       },
       "isNearBorder": false,
       "areaM2": 531,
@@ -542,8 +542,8 @@
       "county": "ropczycko-sędziszowski",
       "city": "Ostrów",
       "coordinates": {
-        "lat": 50.051683085152284,
-        "lng": 21.603809555503094
+        "lat": 50.048383790727215,
+        "lng": 21.608310410000282
       },
       "isNearBorder": false,
       "areaM2": 2900,
@@ -582,8 +582,8 @@
       "county": "rzeszowski",
       "city": "Świlcza",
       "coordinates": {
-        "lat": 50.037286573630624,
-        "lng": 21.990173722282236
+        "lat": 50.067368909929684,
+        "lng": 21.902008102822556
       },
       "isNearBorder": false,
       "areaM2": 195.47,
@@ -622,8 +622,8 @@
       "voivodeship": "podlaskie",
       "city": "Obrubniki",
       "coordinates": {
-        "lat": 53.13403615923941,
-        "lng": 23.162911288792856
+        "lat": 53.13953741553992,
+        "lng": 23.177174203322824
       },
       "isNearBorder": true,
       "areaM2": 1100,
@@ -662,8 +662,8 @@
       "voivodeship": "lubelskie",
       "city": "Curyn",
       "coordinates": {
-        "lat": 52.02888458732208,
-        "lng": 23.108114157771748
+        "lat": 52.03260665501526,
+        "lng": 23.118181997716032
       },
       "isNearBorder": true,
       "areaM2": 39600,
@@ -703,8 +703,8 @@
       "city": "Jelna",
       "street": "Judaszówka",
       "coordinates": {
-        "lat": 50.26566036993538,
-        "lng": 22.41563150803523
+        "lat": 50.25661354190952,
+        "lng": 22.430071697430666
       },
       "isNearBorder": false,
       "areaM2": 5400,
@@ -743,8 +743,8 @@
       "voivodeship": "lubelskie",
       "city": "Żminne",
       "coordinates": {
-        "lat": 51.64373918260149,
-        "lng": 22.900835963582836
+        "lat": 51.647385590073355,
+        "lng": 22.90440820219448
       },
       "isNearBorder": true,
       "areaM2": 1500,
@@ -784,8 +784,8 @@
       "city": "Orla",
       "street": "ul. Poświętna",
       "coordinates": {
-        "lat": 52.77393785272105,
-        "lng": 23.19769123286049
+        "lat": 52.70307257412503,
+        "lng": 23.331835348640737
       },
       "isNearBorder": true,
       "areaM2": 2200,
@@ -824,8 +824,8 @@
       "voivodeship": "podlaskie",
       "city": "Sośnia",
       "coordinates": {
-        "lat": 53.648204983623856,
-        "lng": 22.463634167992783
+        "lat": 53.642770026098994,
+        "lng": 22.459225737340706
       },
       "isNearBorder": false,
       "areaM2": 42000,
@@ -865,8 +865,8 @@
       "county": "ropczycko-sędziszowski",
       "city": "Ropczyce",
       "coordinates": {
-        "lat": 50.058573398986866,
-        "lng": 21.604088938943452
+        "lat": 50.04801856525617,
+        "lng": 21.60064699951495
       },
       "isNearBorder": false,
       "areaM2": 1007,
@@ -904,8 +904,8 @@
       "voivodeship": "podkarpackie",
       "city": "Bzianka",
       "coordinates": {
-        "lat": 49.692310382448376,
-        "lng": 21.76692709562212
+        "lat": 50.02318392138153,
+        "lng": 21.923298192143974
       },
       "isNearBorder": false,
       "areaM2": 1470,
@@ -946,8 +946,8 @@
       "city": "Łańcut",
       "street": "ul. Podzwierzyniec",
       "coordinates": {
-        "lat": 50.065679646780346,
-        "lng": 22.23027797651681
+        "lat": 50.06438234353386,
+        "lng": 22.228925136246872
       },
       "isNearBorder": false,
       "areaM2": 650,
@@ -986,8 +986,8 @@
       "county": "bieszczadzki",
       "city": "Sokole",
       "coordinates": {
-        "lat": 49.42677118731592,
-        "lng": 22.592851516983103
+        "lat": 49.426919263072364,
+        "lng": 22.60158326414559
       },
       "isNearBorder": true,
       "areaM2": 260000,
@@ -1026,8 +1026,8 @@
       "city": "Łuków",
       "street": "ul. Radzyńska",
       "coordinates": {
-        "lat": 51.92489143522814,
-        "lng": 22.391843458443184
+        "lat": 51.932572353124854,
+        "lng": 22.37539216537816
       },
       "isNearBorder": false,
       "areaM2": 874,
@@ -1067,8 +1067,8 @@
       "city": "Przemyśl Zasanie",
       "street": "ul. Biskupa Jakuba Glazera 20",
       "coordinates": {
-        "lat": 49.78379148667546,
-        "lng": 22.766592786505257
+        "lat": 49.78809870579221,
+        "lng": 22.776260367160667
       },
       "isNearBorder": true,
       "areaM2": 300,
@@ -1108,8 +1108,8 @@
       "city": "Rzeszów",
       "street": "ul. Senatorska",
       "coordinates": {
-        "lat": 50.03843156904573,
-        "lng": 21.991029832104456
+        "lat": 50.042266596637106,
+        "lng": 22.004993551522265
       },
       "isNearBorder": false,
       "areaM2": 5685,
@@ -1154,8 +1154,8 @@
       "city": "Narew",
       "street": "ul. Szlak Żubra",
       "coordinates": {
-        "lat": 52.747668895117904,
-        "lng": 23.58467786247954
+        "lat": 52.91253825655287,
+        "lng": 23.523833733255753
       },
       "isNearBorder": true,
       "areaM2": 9200,
@@ -1194,8 +1194,8 @@
       "voivodeship": "podkarpackie",
       "city": "Stróże Małe",
       "coordinates": {
-        "lat": 49.55471080542632,
-        "lng": 22.205249692820445
+        "lat": 49.55495376407357,
+        "lng": 22.19660753035681
       },
       "isNearBorder": true,
       "areaM2": 70,
@@ -1235,8 +1235,8 @@
       "city": "Nowodworce",
       "street": "ul. Łąkowa",
       "coordinates": {
-        "lat": 53.12858774202702,
-        "lng": 23.172657123012865
+        "lat": 53.19250205648782,
+        "lng": 23.230017215597467
       },
       "isNearBorder": true,
       "areaM2": 2821,
@@ -1275,8 +1275,8 @@
       "voivodeship": "lubelskie",
       "city": "Witoroż",
       "coordinates": {
-        "lat": 52.0338435963658,
-        "lng": 23.126050484146614
+        "lat": 52.0301212499865,
+        "lng": 23.11577225600083
       },
       "isNearBorder": true,
       "areaM2": 700,
@@ -1316,8 +1316,8 @@
       "county": "opolski",
       "city": "Skoków",
       "coordinates": {
-        "lat": 51.151721481855034,
-        "lng": 21.969937316566224
+        "lat": 51.15288734866028,
+        "lng": 21.96160282462904
       },
       "isNearBorder": false,
       "areaM2": 1500,
@@ -1362,8 +1362,8 @@
       "city": "Nowodworce",
       "street": "ul. 3-go Maja",
       "coordinates": {
-        "lat": 53.139309944517535,
-        "lng": 23.178527854718464
+        "lat": 53.19545431270283,
+        "lng": 23.230051462515963
       },
       "isNearBorder": true,
       "areaM2": 116.7,
@@ -1403,8 +1403,8 @@
       "city": "Łomża",
       "street": "ul. Spokojna",
       "coordinates": {
-        "lat": 53.18440368455771,
-        "lng": 22.050356256714988
+        "lat": 53.17269822911724,
+        "lng": 22.056870699109258
       },
       "isNearBorder": false,
       "areaM2": 190,
@@ -1445,8 +1445,8 @@
       "county": "rzeszowski",
       "city": "Głogów Małopolski",
       "coordinates": {
-        "lat": 50.03885519843671,
-        "lng": 21.994967721633106
+        "lat": 50.15481014186909,
+        "lng": 21.95690751517782
       },
       "isNearBorder": false,
       "areaM2": 986,
@@ -1484,8 +1484,8 @@
       "voivodeship": "lubelskie",
       "city": "Kaleń",
       "coordinates": {
-        "lat": 51.42391140936706,
-        "lng": 21.972486059616514
+        "lat": 51.42333355117005,
+        "lng": 21.967364258035513
       },
       "isNearBorder": false,
       "areaM2": 1600,
@@ -1525,8 +1525,8 @@
       "county": "sanocki",
       "city": "Pisarowce",
       "coordinates": {
-        "lat": 49.564348833074284,
-        "lng": 22.2020983097203
+        "lat": 49.56039828797254,
+        "lng": 22.215486825196724
       },
       "isNearBorder": true,
       "areaM2": 57,
@@ -1565,8 +1565,8 @@
       "county": "hajnowski",
       "city": "Doratynka",
       "coordinates": {
-        "lat": 52.74465798531818,
-        "lng": 23.572384862060368
+        "lat": 52.73730037379319,
+        "lng": 23.576116893782096
       },
       "isNearBorder": true,
       "areaM2": 4500,
@@ -1606,8 +1606,8 @@
       "city": "Krosno",
       "street": "ul. Franciszka Wójtowicza",
       "coordinates": {
-        "lat": 49.689086927180234,
-        "lng": 21.76778434149905
+        "lat": 49.693456674010605,
+        "lng": 21.77690272104687
       },
       "isNearBorder": false,
       "areaM2": 454,
@@ -1646,8 +1646,8 @@
       "voivodeship": "podkarpackie",
       "city": "Dynów",
       "coordinates": {
-        "lat": 50.04658637010167,
-        "lng": 21.992564006019755
+        "lat": 49.82121195388108,
+        "lng": 22.228326291636243
       },
       "isNearBorder": false,
       "areaM2": 8100,
@@ -1687,8 +1687,8 @@
       "county": "rzeszowski",
       "city": "Głogów Małopolski",
       "coordinates": {
-        "lat": 50.04118038642247,
-        "lng": 22.001879540429698
+        "lat": 50.15164989731689,
+        "lng": 21.96482916389105
       },
       "isNearBorder": false,
       "areaM2": 2520,
@@ -1728,8 +1728,8 @@
       "city": "Białka",
       "street": "Spokojna 10",
       "coordinates": {
-        "lat": 51.63796798485723,
-        "lng": 22.89457926800636
+        "lat": 51.646003987568,
+        "lng": 22.906037254943712
       },
       "isNearBorder": true,
       "areaM2": 70,
@@ -1770,8 +1770,8 @@
       "city": "Nowodworce",
       "street": "3go maja",
       "coordinates": {
-        "lat": 53.12583131872678,
-        "lng": 23.159445407048906
+        "lat": 53.19665827178075,
+        "lng": 23.234445712267792
       },
       "isNearBorder": true,
       "areaM2": 116.7,
@@ -1815,8 +1815,8 @@
       "voivodeship": "podkarpackie",
       "city": "Kopytowa",
       "coordinates": {
-        "lat": 49.688790326267814,
-        "lng": 21.764124453597493
+        "lat": 49.692123531926605,
+        "lng": 21.761122348748163
       },
       "isNearBorder": false,
       "areaM2": 2239,
@@ -1855,8 +1855,8 @@
       "voivodeship": "podlaskie",
       "city": "Suwałki",
       "coordinates": {
-        "lat": 54.0934675079258,
-        "lng": 22.92526973702358
+        "lat": 54.10144964792043,
+        "lng": 22.923241658184278
       },
       "isNearBorder": true,
       "areaM2": 400,
@@ -1897,8 +1897,8 @@
       "city": "Polańczyk",
       "street": "ul. Bieszczadzka",
       "coordinates": {
-        "lat": 49.36883529701921,
-        "lng": 22.41304693196959
+        "lat": 49.367610473623984,
+        "lng": 22.42609711718511
       },
       "isNearBorder": true,
       "areaM2": 370,
@@ -1938,8 +1938,8 @@
       "county": "strzyżowski",
       "city": "Frysztak",
       "coordinates": {
-        "lat": 49.868007264656825,
-        "lng": 21.78447778606474
+        "lat": 49.86976521092639,
+        "lng": 21.787145266985217
       },
       "isNearBorder": false,
       "areaM2": 70,
@@ -1979,8 +1979,8 @@
       "city": "Orchówek",
       "street": "ul. Piaskowa",
       "coordinates": {
-        "lat": 51.54900099334252,
-        "lng": 23.548022583015726
+        "lat": 51.51806664311434,
+        "lng": 23.565271862472716
       },
       "isNearBorder": true,
       "areaM2": 2573,
@@ -2019,8 +2019,8 @@
       "voivodeship": "podkarpackie",
       "city": "Odrzykoń",
       "coordinates": {
-        "lat": 49.684455452447324,
-        "lng": 21.77249520705142
+        "lat": 49.68881790007203,
+        "lng": 21.773576025326864
       },
       "isNearBorder": false,
       "areaM2": 1677,

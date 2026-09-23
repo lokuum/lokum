@@ -183,7 +183,7 @@ export function parseAdresowoHtml(
 
     const typeLabel = resolvedType === 'habitat' ? 'Siedlisko' : resolvedType === 'house' ? 'Dom' : 'Działka';
     const title = `${typeLabel} — ${city}${street ? `, ${street}` : ''}`;
-    const coordinates = getLocationCoordinates(voivodeship, city, county);
+    const coordinates = getLocationCoordinates(voivodeship, city, county, undefined, street);
     const isNearBorder = isBorderLocation(voivodeship, county, city);
 
     items.push({

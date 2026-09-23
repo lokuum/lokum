@@ -1,0 +1,2102 @@
+{
+  "glogow malopolski": {
+    "lat": 50.1511809,
+    "lng": 21.9627571,
+    "displayName": "Głogów Małopolski, gmina Głogów Małopolski, powiat rzeszowski, województwo podkarpackie, 36-060, Polska"
+  },
+  "jasionka": {
+    "lat": 50.1160961,
+    "lng": 22.0547134,
+    "displayName": "Jasionka, gmina Trzebownisko, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "krasne": {
+    "lat": 50.0486411,
+    "lng": 22.0914337,
+    "displayName": "gmina Krasne, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "choroszcz": {
+    "lat": 53.143925,
+    "lng": 22.9884588,
+    "displayName": "Choroszcz, gmina Choroszcz, powiat białostocki, województwo podlaskie, 16-070, Polska"
+  },
+  "dys": {
+    "lat": 51.3136055,
+    "lng": 22.5744716,
+    "displayName": "Dys, gmina Niemce, powiat lubelski, województwo lubelskie, 21-003, Polska"
+  },
+  "jakubowice koninskie": {
+    "lat": 51.3026832,
+    "lng": 22.5296567,
+    "displayName": "Jakubowice Konińskie, gmina Niemce, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "kazimierz dolny": {
+    "lat": 51.3220058,
+    "lng": 21.947372,
+    "displayName": "Kazimierz Dolny, gmina Kazimierz Dolny, powiat puławski, województwo lubelskie, 24-120, Polska"
+  },
+  "turka": {
+    "lat": 51.2864512,
+    "lng": 22.6769642,
+    "displayName": "Turka, gmina Wólka, powiat lubelski, województwo lubelskie, 20-258, Polska"
+  },
+  "sokolow malopolski": {
+    "lat": 50.2311643,
+    "lng": 22.1189272,
+    "displayName": "Sokołów Małopolski, gmina Sokołów Małopolski, powiat rzeszowski, województwo podkarpackie, 36-050, Polska"
+  },
+  "tyczyn": {
+    "lat": 49.9637919,
+    "lng": 22.0336719,
+    "displayName": "Tyczyn, gmina Tyczyn, powiat rzeszowski, województwo podkarpackie, 36-020, Polska"
+  },
+  "chmielnik": {
+    "lat": 49.9746112,
+    "lng": 22.1458482,
+    "displayName": "Chmielnik, gmina Chmielnik, powiat rzeszowski, województwo podkarpackie, 36-016, Polska"
+  },
+  "niedrzwica duza": {
+    "lat": 51.1142462,
+    "lng": 22.3878472,
+    "displayName": "Niedrzwica Duża, gmina Niedrzwica Duża, powiat lubelski, województwo lubelskie, 24-220, Polska"
+  },
+  "okuninka": {
+    "lat": 51.5056717,
+    "lng": 23.5262631,
+    "displayName": "Okuninka, gmina Włodawa, powiat włodawski, województwo lubelskie, 22-232, Polska"
+  },
+  "wysoka glogowska": {
+    "lat": 50.1573795,
+    "lng": 22.0219164,
+    "displayName": "Wysoka Głogowska, gmina Głogów Małopolski, powiat rzeszowski, województwo podkarpackie, 36-061, Polska"
+  },
+  "sieroslaw": {
+    "lat": 52.4039794,
+    "lng": 16.6752851,
+    "displayName": "Sierosław, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, Polska"
+  },
+  "straszydle": {
+    "lat": 49.9033396,
+    "lng": 21.971964,
+    "displayName": "Straszydle, gmina Lubenia, powiat rzeszowski, województwo podkarpackie, 36-043, Polska"
+  },
+  "ploskie": {
+    "lat": 50.7115952,
+    "lng": 23.1779535,
+    "displayName": "Płoskie, gmina Zamość, powiat zamojski, województwo lubelskie, Polska"
+  },
+  "lubenia": {
+    "lat": 49.9260216,
+    "lng": 21.9349039,
+    "displayName": "Lubenia, gmina Lubenia, powiat rzeszowski, województwo podkarpackie, 36-042, Polska"
+  },
+  "konopnica": {
+    "lat": 51.226236,
+    "lng": 22.4614994,
+    "displayName": "gmina Konopnica, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "jakubowice koninskie-kolonia": {
+    "lat": 51.3238887,
+    "lng": 22.5311909,
+    "displayName": "Jakubowice Konińskie-Kolonia, gmina Niemce, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "motycz": {
+    "lat": 51.2395618,
+    "lng": 22.3812812,
+    "displayName": "Motycz, gmina Konopnica, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "kalinowka": {
+    "lat": 51.2030091,
+    "lng": 22.6565396,
+    "displayName": "Kalinówka, gmina Głusk, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "miedzyrzec podlaski": {
+    "lat": 51.9853172,
+    "lng": 22.7842492,
+    "displayName": "Międzyrzec Podlaski, powiat bialski, województwo lubelskie, 21-560, Polska"
+  },
+  "nowodworce": {
+    "lat": 53.1910632,
+    "lng": 23.2387391,
+    "displayName": "Nowodworce, gmina Wasilków, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "niemce": {
+    "lat": 51.3602767,
+    "lng": 22.6284194,
+    "displayName": "Niemce, gmina Niemce, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "sedziszow malopolski": {
+    "lat": 50.0715996,
+    "lng": 21.7007524,
+    "displayName": "Sędziszów Małopolski, gmina Sędziszów Małopolski, powiat ropczycko-sędziszowski, województwo podkarpackie, 39-120, Polska"
+  },
+  "raclawowka": {
+    "lat": 50.0019391,
+    "lng": 21.917883,
+    "displayName": "Racławówka, gmina Boguchwała, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "malawa": {
+    "lat": 50.0285549,
+    "lng": 22.1050768,
+    "displayName": "Malawa, gmina Krasne, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "panienszczyzna": {
+    "lat": 51.3024737,
+    "lng": 22.4379924,
+    "displayName": "Panieńszczyzna, gmina Jastków, powiat lubelski, województwo lubelskie, 21-002, Polska"
+  },
+  "snopkow": {
+    "lat": 51.3113,
+    "lng": 22.4803,
+    "displayName": "Snopków, gmina Jastków, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "stobierna": {
+    "lat": 50.135701,
+    "lng": 22.0670722,
+    "displayName": "Stobierna, gmina Trzebownisko, powiat rzeszowski, województwo podkarpackie, 36-002, Polska"
+  },
+  "rzeszow budziwoj": {
+    "lat": 49.9584352,
+    "lng": 21.9583372,
+    "displayName": "Osiedle Budziwój, Budziwojska, Budziwój, Rzeszów, gmina Lubenia, powiat rzeszowski, województwo podkarpackie, 35-317, Polska"
+  },
+  "nasutow": {
+    "lat": 51.3592076,
+    "lng": 22.5214373,
+    "displayName": "Nasutów, gmina Niemce, powiat lubelski, województwo lubelskie, 21-025, Polska"
+  },
+  "wasilkow": {
+    "lat": 53.198684,
+    "lng": 23.2056777,
+    "displayName": "Wasilków, gmina Wasilków, powiat białostocki, województwo podlaskie, 16-010, Polska"
+  },
+  "bakalarzewo": {
+    "lat": 54.0937511,
+    "lng": 22.6516364,
+    "displayName": "Bakałarzewo, gmina Bakałarzewo, powiat suwalski, województwo podlaskie, 16-423, Polska"
+  },
+  "siemianowka": {
+    "lat": 52.8987821,
+    "lng": 23.8381887,
+    "displayName": "Siemianówka, gmina Narewka, powiat hajnowski, województwo podlaskie, Polska"
+  },
+  "hermanowa": {
+    "lat": 49.9439012,
+    "lng": 22.0201487,
+    "displayName": "Hermanowa, gmina Tyczyn, powiat rzeszowski, województwo podkarpackie, 32-205, Polska"
+  },
+  "kielnarowa": {
+    "lat": 49.9656864,
+    "lng": 22.0633099,
+    "displayName": "Kielnarowa, gmina Tyczyn, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "marysin": {
+    "lat": 50.9978965,
+    "lng": 22.5551775,
+    "displayName": "Marysin, gmina Bychawa, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "borek stary": {
+    "lat": 49.9540185,
+    "lng": 22.1002441,
+    "displayName": "Borek Stary, gmina Tyczyn, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "klepacze": {
+    "lat": 53.1076895,
+    "lng": 23.0743476,
+    "displayName": "Klepacze, gmina Choroszcz, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "zabludow": {
+    "lat": 53.0147671,
+    "lng": 23.3379526,
+    "displayName": "Zabłudów, gmina Zabłudów, powiat białostocki, województwo podlaskie, 16-060, Polska"
+  },
+  "deblin": {
+    "lat": 51.5672318,
+    "lng": 21.856244,
+    "displayName": "Dęblin, powiat rycki, województwo lubelskie, Polska"
+  },
+  "bratkowice": {
+    "lat": 50.1158396,
+    "lng": 21.8584118,
+    "displayName": "Bratkowice, gmina Świlcza, powiat rzeszowski, województwo podkarpackie, 36-055, Polska"
+  },
+  "dynow": {
+    "lat": 49.8137773,
+    "lng": 22.2380944,
+    "displayName": "Dynów, powiat rzeszowski, województwo podkarpackie, 36-065, Polska"
+  },
+  "zascianki": {
+    "lat": 53.1263055,
+    "lng": 23.2386408,
+    "displayName": "Zaścianki, gmina Grabówka, powiat białostocki, województwo podlaskie, 15-521, Polska"
+  },
+  "nowe brusno": {
+    "lat": 50.2444055,
+    "lng": 23.3402244,
+    "displayName": "Nowe Brusno, gmina Horyniec-Zdrój, powiat lubaczowski, województwo podkarpackie, Polska"
+  },
+  "prawiedniki": {
+    "lat": 51.1403257,
+    "lng": 22.5057076,
+    "displayName": "Prawiedniki, gmina Głusk, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "lutoryz": {
+    "lat": 49.9666064,
+    "lng": 21.9093209,
+    "displayName": "Lutoryż, gmina Boguchwała, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "stare kupiski": {
+    "lat": 53.1904257,
+    "lng": 22.0040105,
+    "displayName": "Stare Kupiski, gmina Łomża, powiat łomżyński, województwo podlaskie, Polska"
+  },
+  "knyszyn": {
+    "lat": 53.3122442,
+    "lng": 22.9200387,
+    "displayName": "Knyszyn, gmina Knyszyn, powiat moniecki, województwo podlaskie, 19-120, Polska"
+  },
+  "lapy": {
+    "lat": 52.9908208,
+    "lng": 22.883005,
+    "displayName": "Łapy, gmina Łapy, powiat białostocki, województwo podlaskie, 18-100, Polska"
+  },
+  "naleczow": {
+    "lat": 51.2876064,
+    "lng": 22.214792,
+    "displayName": "Nałęczów, gmina Nałęczów, powiat puławski, województwo lubelskie, 24-140, Polska"
+  },
+  "boguchwala": {
+    "lat": 49.9806882,
+    "lng": 21.9391822,
+    "displayName": "Boguchwała, gmina Boguchwała, powiat rzeszowski, województwo podkarpackie, 36-040, Polska"
+  },
+  "szopinek": {
+    "lat": 50.7267483,
+    "lng": 23.3216339,
+    "displayName": "Szopinek, gmina Zamość, powiat zamojski, województwo lubelskie, Polska"
+  },
+  "trzciana": {
+    "lat": 50.0721411,
+    "lng": 21.8394499,
+    "displayName": "Trzciana, gmina Świlcza, powiat rzeszowski, województwo podkarpackie, 36-071, Polska"
+  },
+  "zaczernie": {
+    "lat": 50.0929648,
+    "lng": 21.996049,
+    "displayName": "Zaczernie, gmina Trzebownisko, powiat rzeszowski, województwo podkarpackie, 36-062, Polska"
+  },
+  "strazow": {
+    "lat": 50.0679954,
+    "lng": 22.1328471,
+    "displayName": "Strażów, gmina Krasne, powiat rzeszowski, województwo podkarpackie, 36-073, Polska"
+  },
+  "berezka": {
+    "lat": 49.3913422,
+    "lng": 22.3870367,
+    "displayName": "Berezka, gmina Solina, powiat leski, województwo podkarpackie, Polska"
+  },
+  "sobolewo": {
+    "lat": 53.1112859,
+    "lng": 23.274371,
+    "displayName": "Sobolewo, gmina Grabówka, powiat białostocki, województwo podlaskie, 15-509, Polska"
+  },
+  "wysokie mazowieckie": {
+    "lat": 52.9154988,
+    "lng": 22.5131199,
+    "displayName": "Wysokie Mazowieckie, powiat wysokomazowiecki, województwo podlaskie, 18-200, Polska"
+  },
+  "mogielnica": {
+    "lat": 49.9792458,
+    "lng": 21.8933999,
+    "displayName": "Mogielnica, gmina Boguchwała, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "grabniak": {
+    "lat": 51.3767197,
+    "lng": 23.1246499,
+    "displayName": "Grabniak, gmina Urszulin, powiat włodawski, województwo lubelskie, Polska"
+  },
+  "swilcza": {
+    "lat": 50.0714236,
+    "lng": 21.8998941,
+    "displayName": "Świlcza, gmina Świlcza, powiat rzeszowski, województwo podkarpackie, 36-072, Polska"
+  },
+  "trzebownisko": {
+    "lat": 50.0780016,
+    "lng": 22.0364592,
+    "displayName": "Trzebownisko, gmina Trzebownisko, powiat rzeszowski, województwo podkarpackie, 36-001, Polska"
+  },
+  "grabowka": {
+    "lat": 53.1277732,
+    "lng": 23.2578789,
+    "displayName": "Grabówka, gmina Grabówka, powiat białostocki, województwo podlaskie, 15-523, Polska"
+  },
+  "pysznica": {
+    "lat": 50.5751933,
+    "lng": 22.1234092,
+    "displayName": "Pysznica, gmina Pysznica, powiat stalowowolski, województwo podkarpackie, 37-403, Polska"
+  },
+  "zawoz": {
+    "lat": 49.33621,
+    "lng": 22.44447,
+    "displayName": "Zawóz, gmina Solina, powiat leski, województwo podkarpackie, Polska"
+  },
+  "siedliska": {
+    "lat": 49.953874,
+    "lng": 21.9475727,
+    "displayName": "Siedliska, gmina Lubenia, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "lipniak": {
+    "lat": 51.2457004,
+    "lng": 22.4640324,
+    "displayName": "Lipniak, gmina Konopnica, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "budy glogowskie": {
+    "lat": 50.1469072,
+    "lng": 21.9114974,
+    "displayName": "Budy Głogowskie, gmina Głogów Małopolski, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "jablonna druga": {
+    "lat": 51.0831155,
+    "lng": 22.5886562,
+    "displayName": "Jabłonna Druga, gmina Jabłonna, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "uniszowice": {
+    "lat": 51.248325,
+    "lng": 22.4402984,
+    "displayName": "Uniszowice, gmina Konopnica, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "zabia wola": {
+    "lat": 51.119925,
+    "lng": 22.514044,
+    "displayName": "Żabia Wola, gmina Strzyżewice, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "rudna mala": {
+    "lat": 50.0989298,
+    "lng": 21.9602711,
+    "displayName": "Rudna Mała, gmina Głogów Małopolski, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "dubiny": {
+    "lat": 52.7706364,
+    "lng": 23.5889042,
+    "displayName": "Dubiny, gmina Hajnówka, powiat hajnowski, województwo podlaskie, Polska"
+  },
+  "polko": {
+    "lat": 51.3321329,
+    "lng": 22.5559677,
+    "displayName": "Pólko, gmina Niemce, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "tajecina": {
+    "lat": 50.1222291,
+    "lng": 22.0144676,
+    "displayName": "Tajęcina, gmina Trzebownisko, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "studzianki": {
+    "lat": 53.23696,
+    "lng": 23.28257,
+    "displayName": "Studzianki, gmina Wasilków, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "filipow": {
+    "lat": 54.1796287,
+    "lng": 22.6215914,
+    "displayName": "Filipów, gmina Filipów, powiat suwalski, województwo podlaskie, Polska"
+  },
+  "skrybicze": {
+    "lat": 53.0549688,
+    "lng": 23.2316181,
+    "displayName": "Skrybicze, gmina Zabłudów, powiat białostocki, województwo podlaskie, 15-606, Polska"
+  },
+  "radawiec duzy": {
+    "lat": 51.20105,
+    "lng": 22.38701,
+    "displayName": "Radawiec Duży, gmina Konopnica, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "kazimierzowka": {
+    "lat": 51.1897915,
+    "lng": 22.6796829,
+    "displayName": "Kazimierzówka, gmina Głusk, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "luszczow pierwszy": {
+    "lat": 51.3022568,
+    "lng": 22.7259762,
+    "displayName": "Łuszczów Pierwszy, gmina Wólka, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "nowy orzechow": {
+    "lat": 51.45764,
+    "lng": 23.00576,
+    "displayName": "Nowy Orzechów, gmina Sosnowica, powiat parczewski, województwo lubelskie, 21-230, Polska"
+  },
+  "rzeszow przybyszowka": {
+    "lat": 50.0519392,
+    "lng": 21.9405094,
+    "displayName": "Przybyszówka, Rzeszów, województwo podkarpackie, Polska"
+  },
+  "nowa luka": {
+    "lat": 52.9288889,
+    "lng": 23.7502779,
+    "displayName": "Nowa Łuka, gmina Narewka, powiat hajnowski, województwo podlaskie, Polska"
+  },
+  "wilczopole": {
+    "lat": 51.1693074,
+    "lng": 22.6280053,
+    "displayName": "Wilczopole, gmina Głusk, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "nowy borek": {
+    "lat": 49.9260278,
+    "lng": 22.0831853,
+    "displayName": "Nowy Borek, gmina Błażowa, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "bobrka": {
+    "lat": 49.41867,
+    "lng": 22.44778,
+    "displayName": "Bóbrka, gmina Solina, powiat leski, województwo podkarpackie, Polska"
+  },
+  "elizowka": {
+    "lat": 51.297619,
+    "lng": 22.5768768,
+    "displayName": "Elizówka, gmina Niemce, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "kock": {
+    "lat": 51.6383917,
+    "lng": 22.4478158,
+    "displayName": "Kock, gmina Kock, powiat lubartowski, województwo lubelskie, 21-150, Polska"
+  },
+  "hyzne": {
+    "lat": 49.9184999,
+    "lng": 22.173322,
+    "displayName": "Hyżne, gmina Hyżne, powiat rzeszowski, województwo podkarpackie, 36-024, Polska"
+  },
+  "ksiezyno": {
+    "lat": 53.0820479,
+    "lng": 23.1009206,
+    "displayName": "Księżyno, gmina Juchnowiec Kościelny, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "kuriany": {
+    "lat": 53.0825944,
+    "lng": 23.2573399,
+    "displayName": "Kuriany, gmina Zabłudów, powiat białostocki, województwo podlaskie, 15-588, Polska"
+  },
+  "niewodnica koscielna": {
+    "lat": 53.0836113,
+    "lng": 23.0463769,
+    "displayName": "Niewodnica Kościelna, gmina Turośń Kościelna, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "tykocin": {
+    "lat": 53.207646,
+    "lng": 22.7730188,
+    "displayName": "Tykocin, gmina Tykocin, powiat białostocki, województwo podlaskie, 16-080, Polska"
+  },
+  "rabowice": {
+    "lat": 52.38629,
+    "lng": 17.11696,
+    "displayName": "Rabowice, gmina Swarzędz, powiat poznański, województwo wielkopolskie, Polska"
+  },
+  "pniowek": {
+    "lat": 50.6813164,
+    "lng": 23.2950653,
+    "displayName": "Pniówek, gmina Zamość, powiat zamojski, województwo lubelskie, Polska"
+  },
+  "natalin": {
+    "lat": 51.2926467,
+    "lng": 22.4881909,
+    "displayName": "Natalin, gmina Jastków, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "rakszawa": {
+    "lat": 50.169963,
+    "lng": 22.2324531,
+    "displayName": "Rakszawa, gmina Rakszawa, powiat łańcucki, województwo podkarpackie, 37-111, Polska"
+  },
+  "rzeszow slocina": {
+    "lat": 50.0213396,
+    "lng": 22.0581706,
+    "displayName": "Słocina, Rzeszów, województwo podkarpackie, Polska"
+  },
+  "rudnik nad sanem": {
+    "lat": 50.4447766,
+    "lng": 22.2440326,
+    "displayName": "Rudnik nad Sanem, gmina Rudnik nad Sanem, powiat niżański, województwo podkarpackie, 37-420, Polska"
+  },
+  "ciechanowiec": {
+    "lat": 52.6787967,
+    "lng": 22.4991103,
+    "displayName": "Ciechanowiec, gmina Ciechanowiec, powiat wysokomazowiecki, województwo podlaskie, 18-230, Polska"
+  },
+  "szale": {
+    "lat": 51.7231986,
+    "lng": 18.1571397,
+    "displayName": "Szałe, gmina Opatówek, powiat kaliski, województwo wielkopolskie, Polska"
+  },
+  "poznan lawica": {
+    "lat": 52.4058591,
+    "lng": 16.7258236,
+    "displayName": "Poznań Ławica, S11, Dąbrowa, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 62-069, Polska"
+  },
+  "wola zglobienska": {
+    "lat": 49.9990156,
+    "lng": 21.8143462,
+    "displayName": "Wola Zgłobieńska, gmina Boguchwała, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "bialystok dojlidy gorne": {
+    "lat": 53.0941658,
+    "lng": 23.212407,
+    "displayName": "Poczta Polska - AP Białystok, 76, Stoczni Gdańskiej, Dojlidy Górne, Białystok, województwo podlaskie, 15-571, Polska"
+  },
+  "mielnik": {
+    "lat": 52.3308675,
+    "lng": 23.048909,
+    "displayName": "Mielnik, gmina Mielnik, powiat siemiatycki, województwo podlaskie, 17-307, Polska"
+  },
+  "okuniowiec": {
+    "lat": 54.1139741,
+    "lng": 22.9881996,
+    "displayName": "Okuniowiec, gmina Suwałki, powiat suwalski, województwo podlaskie, Polska"
+  },
+  "dobrzyniewo duze": {
+    "lat": 53.2019,
+    "lng": 23.01197,
+    "displayName": "Dobrzyniewo Duże, gmina Dobrzyniewo Duże, powiat białostocki, województwo podlaskie, 16-002, Polska"
+  },
+  "krepiec": {
+    "lat": 51.2014504,
+    "lng": 22.7216558,
+    "displayName": "Krępiec, gmina Mełgiew, powiat świdnicki, województwo lubelskie, Polska"
+  },
+  "kalinowice": {
+    "lat": 50.6987656,
+    "lng": 23.2914285,
+    "displayName": "Kalinowice, gmina Zamość, powiat zamojski, województwo lubelskie, Polska"
+  },
+  "ciecierzyn": {
+    "lat": 51.3189,
+    "lng": 22.60695,
+    "displayName": "Ciecierzyn, gmina Niemce, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "besko": {
+    "lat": 49.5918349,
+    "lng": 21.9571794,
+    "displayName": "Besko, gmina Besko, powiat sanocki, województwo podkarpackie, 38-524, Polska"
+  },
+  "olchowa": {
+    "lat": 50.0553718,
+    "lng": 21.7599141,
+    "displayName": "Olchowa, gmina Iwierzyce, powiat ropczycko-sędziszowski, województwo podkarpackie, Polska"
+  },
+  "wyzne": {
+    "lat": 49.9185962,
+    "lng": 21.8756692,
+    "displayName": "Wyżne, gmina Czudec, powiat strzyżowski, województwo podkarpackie, Polska"
+  },
+  "widelka": {
+    "lat": 50.2035715,
+    "lng": 21.8805279,
+    "displayName": "Widełka, gmina Kolbuszowa, powiat kolbuszowski, województwo podkarpackie, 36-145, Polska"
+  },
+  "lukawiec": {
+    "lat": 50.1051946,
+    "lng": 22.1014888,
+    "displayName": "Łukawiec, gmina Trzebownisko, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "czarna bialostocka": {
+    "lat": 53.2982835,
+    "lng": 23.2851013,
+    "displayName": "Czarna Białostocka, gmina Czarna Białostocka, powiat białostocki, województwo podlaskie, 16-020, Polska"
+  },
+  "jurowce": {
+    "lat": 53.1982416,
+    "lng": 23.1563406,
+    "displayName": "Jurowce, gmina Wasilków, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "fasty": {
+    "lat": 53.1697765,
+    "lng": 23.0580853,
+    "displayName": "Fasty, gmina Dobrzyniewo Duże, powiat białostocki, województwo podlaskie, 15-694, Polska"
+  },
+  "halickie": {
+    "lat": 53.0666667,
+    "lng": 23.2333333,
+    "displayName": "Halickie, gmina Zabłudów, powiat białostocki, województwo podlaskie, 15-593, Polska"
+  },
+  "zalasewo": {
+    "lat": 52.386163,
+    "lng": 17.074423,
+    "displayName": "Zalasewo, gmina Swarzędz, powiat poznański, województwo wielkopolskie, Polska"
+  },
+  "siekierki wielkie": {
+    "lat": 52.3819652,
+    "lng": 17.1656827,
+    "displayName": "Siekierki Wielkie, gmina Kostrzyn, powiat poznański, województwo wielkopolskie, Polska"
+  },
+  "opalenica": {
+    "lat": 52.3088119,
+    "lng": 16.4124256,
+    "displayName": "Opalenica, gmina Opalenica, powiat nowotomyski, województwo wielkopolskie, 64-330, Polska"
+  },
+  "koden": {
+    "lat": 51.911428,
+    "lng": 23.6027774,
+    "displayName": "Kodeń, gmina Kodeń, powiat bialski, województwo lubelskie, Polska"
+  },
+  "abramowice prywatne": {
+    "lat": 51.2028992,
+    "lng": 22.6211976,
+    "displayName": "Abramowice Prywatne, gmina Głusk, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "metow": {
+    "lat": 51.1487714,
+    "lng": 22.5920467,
+    "displayName": "Mętów, gmina Głusk, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "dabrowica": {
+    "lat": 51.2700532,
+    "lng": 22.4548373,
+    "displayName": "Dąbrowica, gmina Jastków, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "porosiuki": {
+    "lat": 52.0162728,
+    "lng": 23.0579546,
+    "displayName": "Porosiuki, gmina Biała Podlaska, powiat bialski, województwo lubelskie, 21-500, Polska"
+  },
+  "kamionka": {
+    "lat": 51.4711228,
+    "lng": 22.4644249,
+    "displayName": "Kamionka, gmina Kamionka, powiat lubartowski, województwo lubelskie, Polska"
+  },
+  "radawa": {
+    "lat": 50.13226,
+    "lng": 22.76568,
+    "displayName": "Radawa, gmina Wiązownica, powiat jarosławski, województwo podkarpackie, Polska"
+  },
+  "zagorz": {
+    "lat": 49.5098822,
+    "lng": 22.2632894,
+    "displayName": "Zagórz, gmina Zagórz, powiat sanocki, województwo podkarpackie, 38-540, Polska"
+  },
+  "przewrotne": {
+    "lat": 50.2138636,
+    "lng": 21.9507911,
+    "displayName": "Przewrotne, gmina Głogów Małopolski, powiat rzeszowski, województwo podkarpackie, 36-003, Polska"
+  },
+  "nowa wies": {
+    "lat": 54.1256802,
+    "lng": 23.0395911,
+    "displayName": "Nowa Wieś, gmina Suwałki, powiat suwalski, województwo podlaskie, Polska"
+  },
+  "poznan grunwald": {
+    "lat": 52.4619216,
+    "lng": 16.6534803,
+    "displayName": "Komornik Sądowy przy Sądzie Rejonowym Poznań - Grunwald i Jeżyce w Poznaniu, 112A, Poznańska, Tarnowo Podgórne, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-080, Polska"
+  },
+  "stasin": {
+    "lat": 51.2169197,
+    "lng": 22.2873853,
+    "displayName": "Stasin, gmina Wojciechów, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "wola przybyslawska": {
+    "lat": 51.4005758,
+    "lng": 22.3370319,
+    "displayName": "Wola Przybysławska, gmina Garbów, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "garbow": {
+    "lat": 51.3550917,
+    "lng": 22.3293587,
+    "displayName": "Garbów, gmina Garbów, powiat lubelski, województwo lubelskie, 21-080, Polska"
+  },
+  "dominow": {
+    "lat": 51.1702181,
+    "lng": 22.5942651,
+    "displayName": "Dominów, gmina Głusk, powiat lubelski, województwo lubelskie, 20-388, Polska"
+  },
+  "firlej": {
+    "lat": 51.5582926,
+    "lng": 22.5054567,
+    "displayName": "Firlej, gmina Firlej, powiat lubartowski, województwo lubelskie, 21-136, Polska"
+  },
+  "strzyzewice": {
+    "lat": 51.0471984,
+    "lng": 22.4367336,
+    "displayName": "Strzyżewice, gmina Strzyżewice, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "piszczac": {
+    "lat": 51.9804862,
+    "lng": 23.3776226,
+    "displayName": "Piszczac, gmina Piszczac, powiat bialski, województwo lubelskie, 21-530, Polska"
+  },
+  "bledowa tyczynska": {
+    "lat": 49.9635074,
+    "lng": 22.173786,
+    "displayName": "Błędowa Tyczyńska, gmina Chmielnik, powiat rzeszowski, województwo podkarpackie, 36-017, Polska"
+  },
+  "narew": {
+    "lat": 52.9138035,
+    "lng": 23.5202266,
+    "displayName": "Narew, gmina Narew, powiat hajnowski, województwo podlaskie, 17-210, Polska"
+  },
+  "krasnopol": {
+    "lat": 54.1164621,
+    "lng": 23.2049687,
+    "displayName": "Krasnopol, gmina Krasnopol, powiat sejneński, województwo podlaskie, Polska"
+  },
+  "przylek": {
+    "lat": 52.3395404,
+    "lng": 16.1013069,
+    "displayName": "Przyłęk, gmina Nowy Tomyśl, powiat nowotomyski, województwo wielkopolskie, Polska"
+  },
+  "jastkow": {
+    "lat": 51.3096822,
+    "lng": 22.4392406,
+    "displayName": "Jastków, gmina Jastków, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "rakowiska": {
+    "lat": 52.0628247,
+    "lng": 23.0822455,
+    "displayName": "Rakowiska, gmina Biała Podlaska, powiat bialski, województwo lubelskie, 21-500, Polska"
+  },
+  "lejno": {
+    "lat": 51.4467635,
+    "lng": 23.0497382,
+    "displayName": "Lejno, gmina Sosnowica, powiat parczewski, województwo lubelskie, 21-230, Polska"
+  },
+  "krasienin-kolonia": {
+    "lat": 51.3677149,
+    "lng": 22.4735882,
+    "displayName": "Krasienin-Kolonia, gmina Niemce, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "wierzchowiska": {
+    "lat": 51.1812998,
+    "lng": 22.753941,
+    "displayName": "Wierzchowiska, gmina Piaski, powiat świdnicki, województwo lubelskie, Polska"
+  },
+  "podleszany": {
+    "lat": 50.2718092,
+    "lng": 21.4115855,
+    "displayName": "Podleszany, gmina Mielec, powiat mielecki, województwo podkarpackie, 39-330, Polska"
+  },
+  "dabrowki": {
+    "lat": 50.1165,
+    "lng": 22.2322207,
+    "displayName": "Dąbrówki, gmina Czarna, powiat łańcucki, województwo podkarpackie, Polska"
+  },
+  "wola rafalowska": {
+    "lat": 49.9908546,
+    "lng": 22.1609056,
+    "displayName": "Wola Rafałowska, gmina Chmielnik, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "olchowiec": {
+    "lat": 49.3005717,
+    "lng": 22.5232238,
+    "displayName": "Olchowiec, gmina Czarna, powiat bieszczadzki, województwo podkarpackie, Polska"
+  },
+  "mchawa": {
+    "lat": 49.3539916,
+    "lng": 22.2750288,
+    "displayName": "Mchawa, gmina Baligród, powiat leski, województwo podkarpackie, Polska"
+  },
+  "wolka podlesna": {
+    "lat": 50.1271528,
+    "lng": 22.1091438,
+    "displayName": "Wólka Podleśna, gmina Trzebownisko, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "rzeszow biala": {
+    "lat": 49.9870087,
+    "lng": 22.0182505,
+    "displayName": "Biała, Rzeszów, województwo podkarpackie, 35-304, Polska"
+  },
+  "uherce mineralne": {
+    "lat": 49.4613357,
+    "lng": 22.4042898,
+    "displayName": "Uherce Mineralne, gmina Olszanica, powiat leski, województwo podkarpackie, 38-623, Polska"
+  },
+  "bukowiec": {
+    "lat": 49.3121124,
+    "lng": 22.4106011,
+    "displayName": "Bukowiec, gmina Solina, powiat leski, województwo podkarpackie, Polska"
+  },
+  "kielanowka": {
+    "lat": 50.0236332,
+    "lng": 21.9274091,
+    "displayName": "Kielanówka, gmina Boguchwała, powiat rzeszowski, województwo podkarpackie, 35-106, Polska"
+  },
+  "henrykowo": {
+    "lat": 53.1040526,
+    "lng": 23.2947324,
+    "displayName": "Henrykowo, gmina Grabówka, powiat białostocki, województwo podlaskie, 15-511, Polska"
+  },
+  "ciasne": {
+    "lat": 53.1727146,
+    "lng": 23.2883963,
+    "displayName": "Ciasne, gmina Supraśl, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "bialystok dojlidy": {
+    "lat": 53.0978273,
+    "lng": 23.1656869,
+    "displayName": "Tor Białystok, Ułańska, Dojlidy, Białystok, gmina Juchnowiec Kościelny, powiat białostocki, województwo podlaskie, 15-603, Polska"
+  },
+  "gruszczyn": {
+    "lat": 52.4299489,
+    "lng": 17.0729128,
+    "displayName": "Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, Polska"
+  },
+  "lusowko": {
+    "lat": 52.4314364,
+    "lng": 16.6469438,
+    "displayName": "Lusówko, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, Polska"
+  },
+  "kosewo": {
+    "lat": 52.4033785,
+    "lng": 17.9498705,
+    "displayName": "Kosewo, gmina Ostrowite, powiat słupecki, województwo wielkopolskie, 62-402, Polska"
+  },
+  "prawiedniki-kolonia": {
+    "lat": 51.1452778,
+    "lng": 22.5480556,
+    "displayName": "Prawiedniki-Kolonia, gmina Głusk, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "belzyce": {
+    "lat": 51.175063,
+    "lng": 22.2749995,
+    "displayName": "Bełżyce, gmina Bełżyce, powiat lubelski, województwo lubelskie, 24-200, Polska"
+  },
+  "drohobyczka": {
+    "lat": 49.858609,
+    "lng": 22.355596,
+    "displayName": "Drohobyczka, gmina Dubiecko, powiat przemyski, województwo podkarpackie, Polska"
+  },
+  "goniadz": {
+    "lat": 53.489222,
+    "lng": 22.7323721,
+    "displayName": "Goniądz, gmina Goniądz, powiat moniecki, województwo podlaskie, 19-110, Polska"
+  },
+  "rafalowka": {
+    "lat": 53.0541471,
+    "lng": 23.337076,
+    "displayName": "Rafałówka, gmina Zabłudów, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "klodawa": {
+    "lat": 52.2574519,
+    "lng": 18.911206,
+    "displayName": "Kłodawa, gmina Kłodawa, powiat kolski, województwo wielkopolskie, Polska"
+  },
+  "wola niemiecka": {
+    "lat": 51.3584521,
+    "lng": 22.6075125,
+    "displayName": "Wola Niemiecka, gmina Niemce, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "jablonna pierwsza": {
+    "lat": 51.0889025,
+    "lng": 22.5944281,
+    "displayName": "Jabłonna Pierwsza, gmina Jabłonna, powiat lubelski, województwo lubelskie, 23-114, Polska"
+  },
+  "piotrowice": {
+    "lat": 51.0893597,
+    "lng": 22.4761313,
+    "displayName": "Piotrowice, gmina Strzyżewice, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "orchowek": {
+    "lat": 51.5232805,
+    "lng": 23.5713424,
+    "displayName": "Orchówek, gmina Włodawa, powiat włodawski, województwo lubelskie, Polska"
+  },
+  "pulawy wlostowice": {
+    "lat": 51.4134985,
+    "lng": 21.9624113,
+    "displayName": "Poczta Polska, Głęboka, Marynki, Włostowice, Puławy, powiat puławski, województwo lubelskie, 24-111, Polska"
+  },
+  "lublin dziesiata": {
+    "lat": 51.2056251,
+    "lng": 22.5834793,
+    "displayName": "Poczta Polska Centrum Logistyki Oddział w Lublinie, Dziesiąta, Lublin, województwo lubelskie, Polska"
+  },
+  "pustkow": {
+    "lat": 50.1427812,
+    "lng": 21.4906079,
+    "displayName": "Pustków, gmina Dębica, powiat dębicki, województwo podkarpackie, 39-205, Polska"
+  },
+  "bialobrzegi": {
+    "lat": 50.1013653,
+    "lng": 22.3351583,
+    "displayName": "Białobrzegi, gmina Białobrzegi, powiat łańcucki, województwo podkarpackie, Polska"
+  },
+  "wola mielecka": {
+    "lat": 50.2815451,
+    "lng": 21.387955,
+    "displayName": "Wola Mielecka, gmina Mielec, powiat mielecki, województwo podkarpackie, Polska"
+  },
+  "dabrowa": {
+    "lat": 50.058144,
+    "lng": 21.811486,
+    "displayName": "Dąbrowa, gmina Świlcza, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "tuszyma": {
+    "lat": 50.1968443,
+    "lng": 21.5131551,
+    "displayName": "Tuszyma, gmina Przecław, powiat mielecki, województwo podkarpackie, 39-321, Polska"
+  },
+  "ksiaznice": {
+    "lat": 50.2629065,
+    "lng": 21.4281411,
+    "displayName": "Książnice, gmina Mielec, powiat mielecki, województwo podkarpackie, Polska"
+  },
+  "skoloszow": {
+    "lat": 49.9322475,
+    "lng": 22.807723,
+    "displayName": "Skołoszów, gmina Radymno, powiat jarosławski, województwo podkarpackie, Polska"
+  },
+  "nowa deba": {
+    "lat": 50.413485,
+    "lng": 21.7541268,
+    "displayName": "Nowa Dęba, gmina Nowa Dęba, powiat tarnobrzeski, województwo podkarpackie, Polska"
+  },
+  "niewodnica korycka": {
+    "lat": 53.0695211,
+    "lng": 23.0786462,
+    "displayName": "Niewodnica Korycka, gmina Turośń Kościelna, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "danowskie": {
+    "lat": 53.96152,
+    "lng": 23.10192,
+    "displayName": "Danowskie, gmina Nowinka, powiat augustowski, województwo podlaskie, Polska"
+  },
+  "walne": {
+    "lat": 53.96713,
+    "lng": 23.07324,
+    "displayName": "Walne, gmina Nowinka, powiat augustowski, województwo podlaskie, Polska"
+  },
+  "karakule": {
+    "lat": 53.1742345,
+    "lng": 23.2610871,
+    "displayName": "Karakule, gmina Supraśl, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "olmonty": {
+    "lat": 53.08359,
+    "lng": 23.1626386,
+    "displayName": "Olmonty, gmina Juchnowiec Kościelny, powiat białostocki, województwo podlaskie, 15-603, Polska"
+  },
+  "gowarzewo": {
+    "lat": 52.3615998,
+    "lng": 17.1323006,
+    "displayName": "Gowarzewo, gmina Kleszczewo, powiat poznański, województwo wielkopolskie, 63-004, Polska"
+  },
+  "poznan jezyce": {
+    "lat": 52.4280705,
+    "lng": 16.8349278,
+    "displayName": "Dekanat Poznań – Jeżyce, Poznań, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, Polska"
+  },
+  "pryszczowa gora": {
+    "lat": 51.39473,
+    "lng": 22.44846,
+    "displayName": "Pryszczowa Góra, gmina Niemce, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "smugi": {
+    "lat": 51.3299102,
+    "lng": 22.5197818,
+    "displayName": "Smugi, gmina Jastków, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "wojszyn": {
+    "lat": 51.3499683,
+    "lng": 21.9230101,
+    "displayName": "Wojszyn, gmina Janowiec, powiat puławski, województwo lubelskie, Polska"
+  },
+  "luszczow drugi": {
+    "lat": 51.2963006,
+    "lng": 22.7508464,
+    "displayName": "Łuszczów Drugi, gmina Wólka, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "plouszowice-kolonia": {
+    "lat": 51.2669215,
+    "lng": 22.4159817,
+    "displayName": "Płouszowice-Kolonia, gmina Jastków, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "dylagowka": {
+    "lat": 49.9039992,
+    "lng": 22.2083372,
+    "displayName": "Dylągówka, gmina Hyżne, powiat rzeszowski, województwo podkarpackie, 36-025, Polska"
+  },
+  "domaradz": {
+    "lat": 49.7953178,
+    "lng": 21.9473137,
+    "displayName": "Domaradz, gmina Domaradz, powiat brzozowski, województwo podkarpackie, 36-230, Polska"
+  },
+  "krynice": {
+    "lat": 53.2252804,
+    "lng": 23.0317413,
+    "displayName": "Krynice, gmina Dobrzyniewo Duże, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "rajgrod": {
+    "lat": 53.7304739,
+    "lng": 22.6976173,
+    "displayName": "Rajgród, gmina Rajgród, powiat grajewski, województwo podlaskie, Polska"
+  },
+  "zamety": {
+    "lat": 51.982521,
+    "lng": 18.1812626,
+    "displayName": "Zamęty, gmina Mycielin, powiat kaliski, województwo wielkopolskie, 62-831, Polska"
+  },
+  "ostrow lubelski": {
+    "lat": 51.4969068,
+    "lng": 22.8560394,
+    "displayName": "Ostrów Lubelski, gmina Ostrów Lubelski, powiat lubartowski, województwo lubelskie, Polska"
+  },
+  "golab": {
+    "lat": 51.4874721,
+    "lng": 21.876229,
+    "displayName": "Gołąb, gmina Puławy, powiat puławski, województwo lubelskie, Polska"
+  },
+  "kaniwola": {
+    "lat": 51.3649963,
+    "lng": 23.0284275,
+    "displayName": "Kaniwola, gmina Ludwin, powiat łęczyński, województwo lubelskie, Polska"
+  },
+  "szerokie": {
+    "lat": 51.2517483,
+    "lng": 22.4752479,
+    "displayName": "Szerokie, gmina Konopnica, powiat lubelski, województwo lubelskie, 20-050, Polska"
+  },
+  "rozkopaczew": {
+    "lat": 51.41271,
+    "lng": 22.85491,
+    "displayName": "Rozkopaczew, gmina Ostrów Lubelski, powiat lubartowski, województwo lubelskie, Polska"
+  },
+  "pogwizdow": {
+    "lat": 50.1269903,
+    "lng": 22.1306384,
+    "displayName": "Pogwizdów, gmina Czarna, powiat łańcucki, województwo podkarpackie, Polska"
+  },
+  "kakolowka": {
+    "lat": 49.8594563,
+    "lng": 22.0690335,
+    "displayName": "Kąkolówka, gmina Błażowa, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "chmielow": {
+    "lat": 50.51552,
+    "lng": 21.66925,
+    "displayName": "Chmielów, gmina Nowa Dęba, powiat tarnobrzeski, województwo podkarpackie, Polska"
+  },
+  "grebow": {
+    "lat": 50.5654299,
+    "lng": 21.8746189,
+    "displayName": "Grębów, gmina Grębów, powiat tarnobrzeski, województwo podkarpackie, 39-410, Polska"
+  },
+  "pruchnik": {
+    "lat": 49.9061358,
+    "lng": 22.5160585,
+    "displayName": "Pruchnik, gmina Pruchnik, powiat jarosławski, województwo podkarpackie, 37-560, Polska"
+  },
+  "wolkowyja": {
+    "lat": 49.3350079,
+    "lng": 22.4094464,
+    "displayName": "Wołkowyja, gmina Solina, powiat leski, województwo podkarpackie, Polska"
+  },
+  "malinie": {
+    "lat": 50.35787,
+    "lng": 21.45744,
+    "displayName": "Malinie, gmina Tuszów Narodowy, powiat mielecki, województwo podkarpackie, Polska"
+  },
+  "stara wies": {
+    "lat": 49.7214975,
+    "lng": 22.0095894,
+    "displayName": "Stara Wieś, gmina Brzozów, powiat brzozowski, województwo podkarpackie, Polska"
+  },
+  "jedlicze": {
+    "lat": 49.714148,
+    "lng": 21.6421513,
+    "displayName": "Jedlicze, gmina Jedlicze, powiat krośnieński, województwo podkarpackie, 38-460, Polska"
+  },
+  "rymanow": {
+    "lat": 49.576131,
+    "lng": 21.8676433,
+    "displayName": "Rymanów, gmina Rymanów, powiat krośnieński, województwo podkarpackie, Polska"
+  },
+  "kraczkowa": {
+    "lat": 50.037351,
+    "lng": 22.1663482,
+    "displayName": "Kraczkowa, gmina Łańcut, powiat łańcucki, województwo podkarpackie, 37-124, Polska"
+  },
+  "lipiny": {
+    "lat": 52.75481,
+    "lng": 23.6246,
+    "displayName": "Lipiny, gmina Hajnówka, powiat hajnowski, województwo podlaskie, Polska"
+  },
+  "suraz": {
+    "lat": 52.9491665,
+    "lng": 22.9563836,
+    "displayName": "Suraż, gmina Suraż, powiat białostocki, województwo podlaskie, 18-105, Polska"
+  },
+  "sztabin": {
+    "lat": 53.6773198,
+    "lng": 23.103732,
+    "displayName": "Sztabin, gmina Sztabin, powiat augustowski, województwo podlaskie, 16-310, Polska"
+  },
+  "bialystok skorupy": {
+    "lat": 53.1167313,
+    "lng": 23.2100402,
+    "displayName": "Poczta Polska - FUP Białystok 3, 33, Sowlańska, Skorupy, Białystok, województwo podlaskie, 15-557, Polska"
+  },
+  "radzyny": {
+    "lat": 52.53872,
+    "lng": 16.58079,
+    "displayName": "Radzyny, gmina Kaźmierz, powiat szamotulski, województwo wielkopolskie, 64-530, Polska"
+  },
+  "poznan nowe miasto": {
+    "lat": 52.4087836,
+    "lng": 17.0016445,
+    "displayName": "Dekanat Poznań – Nowe Miasto, Poznań, gmina Swarzędz, powiat poznański, województwo wielkopolskie, Polska"
+  },
+  "strzeszkowice duze": {
+    "lat": 51.156233,
+    "lng": 22.4033719,
+    "displayName": "Strzeszkowice Duże, gmina Niedrzwica Duża, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "kreznica jara": {
+    "lat": 51.1513076,
+    "lng": 22.467704,
+    "displayName": "Krężnica Jara, gmina Niedrzwica Duża, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "orzechow-kolonia": {
+    "lat": 51.4787689,
+    "lng": 22.9799884,
+    "displayName": "Orzechów-Kolonia, gmina Uścimów, powiat lubartowski, województwo lubelskie, Polska"
+  },
+  "sporniak": {
+    "lat": 51.2320103,
+    "lng": 22.33446,
+    "displayName": "Sporniak, gmina Wojciechów, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "tomaszowice-kolonia": {
+    "lat": 51.2766515,
+    "lng": 22.3732305,
+    "displayName": "Tomaszowice-Kolonia, gmina Jastków, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "stary orzechow": {
+    "lat": 51.48288,
+    "lng": 23.02142,
+    "displayName": "Stary Orzechów, gmina Sosnowica, powiat parczewski, województwo lubelskie, 21-230, Polska"
+  },
+  "siedliszcze": {
+    "lat": 51.1946235,
+    "lng": 23.1648455,
+    "displayName": "Siedliszcze, gmina Siedliszcze, powiat chełmski, województwo lubelskie, 22-130, Polska"
+  },
+  "radawczyk drugi": {
+    "lat": 51.1827479,
+    "lng": 22.4106132,
+    "displayName": "Radawczyk Drugi, gmina Konopnica, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "adamow": {
+    "lat": 51.7436921,
+    "lng": 22.2623567,
+    "displayName": "Adamów, gmina Adamów, powiat łukowski, województwo lubelskie, 21-412, Polska"
+  },
+  "laszczowka": {
+    "lat": 50.4336522,
+    "lng": 23.4490532,
+    "displayName": "Łaszczówka, gmina Tomaszów Lubelski, powiat tomaszowski, województwo lubelskie, Polska"
+  },
+  "bransk": {
+    "lat": 52.7454145,
+    "lng": 22.8328169,
+    "displayName": "Brańsk, powiat bielski, województwo podlaskie, Polska"
+  },
+  "lubochnia": {
+    "lat": 52.5198706,
+    "lng": 17.7237239,
+    "displayName": "Lubochnia, gmina Gniezno, powiat gnieźnieński, województwo wielkopolskie, 62-214, Polska"
+  },
+  "rzeczyca": {
+    "lat": 51.9615663,
+    "lng": 22.7468746,
+    "displayName": "Rzeczyca, gmina Międzyrzec Podlaski, powiat bialski, województwo lubelskie, 21-560, Polska"
+  },
+  "lipsko-polesie": {
+    "lat": 50.6453906,
+    "lng": 23.2000638,
+    "displayName": "Lipsko-Polesie, gmina Zamość, powiat zamojski, województwo lubelskie, Polska"
+  },
+  "bychawa": {
+    "lat": 51.0152225,
+    "lng": 22.534535,
+    "displayName": "Bychawa, gmina Bychawa, powiat lubelski, województwo lubelskie, 23-100, Polska"
+  },
+  "majdan krasieninski": {
+    "lat": 51.34284,
+    "lng": 22.46,
+    "displayName": "Majdan Krasieniński, gmina Niemce, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "zawada": {
+    "lat": 50.7232906,
+    "lng": 23.1152825,
+    "displayName": "Zawada, gmina Zamość, powiat zamojski, województwo lubelskie, Polska"
+  },
+  "wolka panienska": {
+    "lat": 50.698143,
+    "lng": 23.3049692,
+    "displayName": "Wólka Panieńska, gmina Zamość, powiat zamojski, województwo lubelskie, Polska"
+  },
+  "lazy": {
+    "lat": 51.9175,
+    "lng": 22.4205556,
+    "displayName": "Łazy, gmina Łuków, powiat łukowski, województwo lubelskie, 21-400, Polska"
+  },
+  "wytyczno": {
+    "lat": 51.4287676,
+    "lng": 23.2596305,
+    "displayName": "Wytyczno, gmina Urszulin, powiat włodawski, województwo lubelskie, Polska"
+  },
+  "suszno": {
+    "lat": 51.5781422,
+    "lng": 23.5506077,
+    "displayName": "Suszno, gmina Włodawa, powiat włodawski, województwo lubelskie, Polska"
+  },
+  "kozlowka": {
+    "lat": 51.4482906,
+    "lng": 22.4964637,
+    "displayName": "Kozłówka, gmina Kamionka, powiat lubartowski, województwo lubelskie, Polska"
+  },
+  "styrzyniec": {
+    "lat": 52.0227223,
+    "lng": 22.9971172,
+    "displayName": "Styrzyniec, gmina Biała Podlaska, powiat bialski, województwo lubelskie, 21-500, Polska"
+  },
+  "radomysl wielki": {
+    "lat": 50.1963674,
+    "lng": 21.2761596,
+    "displayName": "Radomyśl Wielki, gmina Radomyśl Wielki, powiat mielecki, województwo podkarpackie, 39-310, Polska"
+  },
+  "ranizow": {
+    "lat": 50.2586609,
+    "lng": 21.9714293,
+    "displayName": "Raniżów, gmina Raniżów, powiat kolbuszowski, województwo podkarpackie, Polska"
+  },
+  "wegliska": {
+    "lat": 50.1636721,
+    "lng": 22.2035994,
+    "displayName": "Węgliska, gmina Rakszawa, powiat łańcucki, województwo podkarpackie, Polska"
+  },
+  "rudna wielka": {
+    "lat": 50.0883033,
+    "lng": 21.9473131,
+    "displayName": "Rudna Wielka, gmina Świlcza, powiat rzeszowski, województwo podkarpackie, 36-054, Polska"
+  },
+  "laka": {
+    "lat": 50.0863214,
+    "lng": 22.0975671,
+    "displayName": "Łąka, gmina Trzebownisko, powiat rzeszowski, województwo podkarpackie, 36-004, Polska"
+  },
+  "blazowa": {
+    "lat": 49.8856022,
+    "lng": 22.1008013,
+    "displayName": "Błażowa, gmina Błażowa, powiat rzeszowski, województwo podkarpackie, 36-030, Polska"
+  },
+  "kolbuszowa dolna": {
+    "lat": 50.2552947,
+    "lng": 21.76431,
+    "displayName": "Kolbuszowa Dolna, gmina Kolbuszowa, powiat kolbuszowski, województwo podkarpackie, Polska"
+  },
+  "blazowa gorna": {
+    "lat": 49.877787,
+    "lng": 22.0812803,
+    "displayName": "Błażowa Górna, gmina Błażowa, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "pilzno": {
+    "lat": 49.978578,
+    "lng": 21.2908438,
+    "displayName": "Pilzno, gmina Pilzno, powiat dębicki, województwo podkarpackie, Polska"
+  },
+  "ustjanowa gorna": {
+    "lat": 49.425939,
+    "lng": 22.5468905,
+    "displayName": "Ustjanowa Górna, gmina Ustrzyki Dolne, powiat bieszczadzki, województwo podkarpackie, Polska"
+  },
+  "grochowe": {
+    "lat": 50.3644321,
+    "lng": 21.493147,
+    "displayName": "Grochowe, gmina Tuszów Narodowy, powiat mielecki, województwo podkarpackie, 39-332, Polska"
+  },
+  "niechobrz": {
+    "lat": 49.9822752,
+    "lng": 21.8690427,
+    "displayName": "Niechobrz, gmina Boguchwała, powiat rzeszowski, województwo podkarpackie, 36-047, Polska"
+  },
+  "sowlany": {
+    "lat": 53.154792,
+    "lng": 23.2425439,
+    "displayName": "Sowlany, gmina Grabówka, powiat białostocki, województwo podlaskie, 15-528, Polska"
+  },
+  "lubniki": {
+    "lat": 53.0553291,
+    "lng": 23.2676595,
+    "displayName": "Łubniki, gmina Zabłudów, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "tarnopol": {
+    "lat": 52.9067178,
+    "lng": 23.7766515,
+    "displayName": "Tarnopol, gmina Narewka, powiat hajnowski, województwo podlaskie, Polska"
+  },
+  "biala woda": {
+    "lat": 54.14761,
+    "lng": 22.9011,
+    "displayName": "Biała Woda, gmina Suwałki, powiat suwalski, województwo podlaskie, Polska"
+  },
+  "ignatki": {
+    "lat": 53.0693617,
+    "lng": 23.1014458,
+    "displayName": "Ignatki, gmina Juchnowiec Kościelny, powiat białostocki, województwo podlaskie, 16-005, Polska"
+  },
+  "baranowo": {
+    "lat": 52.2135664,
+    "lng": 16.9218226,
+    "displayName": "Baranowo, gmina Mosina, powiat poznański, województwo wielkopolskie, Polska"
+  },
+  "kamionki": {
+    "lat": 52.28553,
+    "lng": 16.99438,
+    "displayName": "Kamionki, gmina Kórnik, powiat poznański, województwo wielkopolskie, Polska"
+  },
+  "gorzyce wielkie": {
+    "lat": 51.6374088,
+    "lng": 17.7294912,
+    "displayName": "Gorzyce Wielkie, gmina Ostrów Wielkopolski, powiat ostrowski, województwo wielkopolskie, 63-400, Polska"
+  },
+  "przedecz": {
+    "lat": 52.3341735,
+    "lng": 18.8985119,
+    "displayName": "Przedecz, gmina Przedecz, powiat kolski, województwo wielkopolskie, Polska"
+  },
+  "wiry": {
+    "lat": 52.3197406,
+    "lng": 16.8542748,
+    "displayName": "Wiry, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-051, Polska"
+  },
+  "plewiska": {
+    "lat": 52.3665196,
+    "lng": 16.809783,
+    "displayName": "Plewiska, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-064, Polska"
+  },
+  "lusowo": {
+    "lat": 52.4331671,
+    "lng": 16.6971054,
+    "displayName": "Lusowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, Polska"
+  },
+  "kobyla gora": {
+    "lat": 51.3784042,
+    "lng": 17.8380295,
+    "displayName": "Kobyla Góra, gmina Kobyla Góra, powiat ostrzeszowski, województwo wielkopolskie, 63-507, Polska"
+  },
+  "maszki": {
+    "lat": 51.2462541,
+    "lng": 22.2592139,
+    "displayName": "Maszki, gmina Wojciechów, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "kijany": {
+    "lat": 51.3361689,
+    "lng": 22.7699536,
+    "displayName": "Kijany, gmina Spiczyn, powiat łęczyński, województwo lubelskie, Polska"
+  },
+  "jablonna-majatek": {
+    "lat": 51.0988024,
+    "lng": 22.5780744,
+    "displayName": "Jabłonna-Majątek, gmina Jabłonna, powiat lubelski, województwo lubelskie, 23-115, Polska"
+  },
+  "osmolice pierwsze": {
+    "lat": 51.110713,
+    "lng": 22.4893219,
+    "displayName": "Osmolice Pierwsze, gmina Strzyżewice, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "werbkowice": {
+    "lat": 50.7509575,
+    "lng": 23.767431,
+    "displayName": "gmina Werbkowice, powiat hrubieszowski, województwo lubelskie, Polska"
+  },
+  "dolhobyczow": {
+    "lat": 50.5867411,
+    "lng": 24.0348579,
+    "displayName": "Dołhobyczów, gmina Dołhobyczów, powiat hrubieszowski, województwo lubelskie, Polska"
+  },
+  "rudka kozlowiecka": {
+    "lat": 51.360275,
+    "lng": 22.590932,
+    "displayName": "Rudka Kozłowiecka, gmina Niemce, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "terka": {
+    "lat": 49.29716,
+    "lng": 22.42641,
+    "displayName": "Terka, gmina Solina, powiat leski, województwo podkarpackie, Polska"
+  },
+  "grabownica starzenska": {
+    "lat": 49.6583537,
+    "lng": 22.0775822,
+    "displayName": "Grabownica Starzeńska, gmina Brzozów, powiat brzozowski, województwo podkarpackie, 36-207, Polska"
+  },
+  "bocki": {
+    "lat": 52.6512834,
+    "lng": 23.0426375,
+    "displayName": "Boćki, gmina Boćki, powiat bielski, województwo podlaskie, Polska"
+  },
+  "toczylowo": {
+    "lat": 53.6789668,
+    "lng": 22.478338,
+    "displayName": "Toczyłowo, gmina Grajewo, powiat grajewski, województwo podlaskie, Polska"
+  },
+  "orla": {
+    "lat": 52.7029948,
+    "lng": 23.3321917,
+    "displayName": "Orla, gmina Orla, powiat bielski, województwo podlaskie, Polska"
+  },
+  "wymyslowo": {
+    "lat": 52.5379769,
+    "lng": 17.7681453,
+    "displayName": "Wymysłowo, gmina Trzemeszno, powiat gnieźnieński, województwo wielkopolskie, 62-240, Polska"
+  },
+  "mlyniska": {
+    "lat": 52.0091667,
+    "lng": 18.6913889,
+    "displayName": "Młyniska, gmina Przykona, powiat turecki, województwo wielkopolskie, 62-731, Polska"
+  },
+  "zemborzyce podlesne": {
+    "lat": 51.1971611,
+    "lng": 22.4833131,
+    "displayName": "Zemborzyce Podleśne, gmina Konopnica, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "kunow": {
+    "lat": 51.5679483,
+    "lng": 22.4772986,
+    "displayName": "Kunów, gmina Firlej, powiat lubartowski, województwo lubelskie, Polska"
+  },
+  "majdan gorny": {
+    "lat": 50.4637889,
+    "lng": 23.4863719,
+    "displayName": "Majdan Górny, gmina Tomaszów Lubelski, powiat tomaszowski, województwo lubelskie, Polska"
+  },
+  "jawidz": {
+    "lat": 51.3632446,
+    "lng": 22.7328119,
+    "displayName": "Jawidz, gmina Spiczyn, powiat łęczyński, województwo lubelskie, Polska"
+  },
+  "bochotnica": {
+    "lat": 51.3397608,
+    "lng": 21.9925412,
+    "displayName": "Bochotnica, gmina Kazimierz Dolny, powiat puławski, województwo lubelskie, Polska"
+  },
+  "staw noakowski": {
+    "lat": 50.8185963,
+    "lng": 23.0225968,
+    "displayName": "Staw Noakowski, gmina Nielisz, powiat zamojski, województwo lubelskie, Polska"
+  },
+  "zamosc karolowka": {
+    "lat": 50.7274143,
+    "lng": 23.1906898,
+    "displayName": "Zamość, Braterstwa Broni, Osiedle Karolówka, Zamość, gmina Zamość, powiat zamojski, województwo lubelskie, 22-403, Polska"
+  },
+  "rejowiec fabryczny": {
+    "lat": 51.1191844,
+    "lng": 23.2467333,
+    "displayName": "Rejowiec Fabryczny, powiat chełmski, województwo lubelskie, 22-170, Polska"
+  },
+  "sumin": {
+    "lat": 51.3712237,
+    "lng": 23.1543127,
+    "displayName": "Sumin, gmina Urszulin, powiat włodawski, województwo lubelskie, Polska"
+  },
+  "okszow": {
+    "lat": 51.1623059,
+    "lng": 23.4910043,
+    "displayName": "Okszów, gmina Chełm, powiat chełmski, województwo lubelskie, Polska"
+  },
+  "sitaniec": {
+    "lat": 50.7510318,
+    "lng": 23.2430157,
+    "displayName": "Sitaniec, gmina Zamość, powiat zamojski, województwo lubelskie, Polska"
+  },
+  "bogucin": {
+    "lat": 51.3299128,
+    "lng": 22.3566409,
+    "displayName": "Bogucin, gmina Garbów, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "hludno": {
+    "lat": 49.7801436,
+    "lng": 22.1356782,
+    "displayName": "Hłudno, gmina Nozdrzec, powiat brzozowski, województwo podkarpackie, Polska"
+  },
+  "baligrod": {
+    "lat": 49.3367963,
+    "lng": 22.2866341,
+    "displayName": "Baligród, gmina Baligród, powiat leski, województwo podkarpackie, 38-606, Polska"
+  },
+  "lubno": {
+    "lat": 49.8053029,
+    "lng": 22.1656815,
+    "displayName": "Łubno, gmina Dynów, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "cmolas": {
+    "lat": 50.294938,
+    "lng": 21.7444047,
+    "displayName": "Cmolas, gmina Cmolas, powiat kolbuszowski, województwo podkarpackie, 36-105, Polska"
+  },
+  "czarna gorna": {
+    "lat": 49.323566,
+    "lng": 22.6699025,
+    "displayName": "Czarna Górna, gmina Czarna, powiat bieszczadzki, województwo podkarpackie, 38-710, Polska"
+  },
+  "jastkowice": {
+    "lat": 50.606736,
+    "lng": 22.1032383,
+    "displayName": "Jastkowice, gmina Pysznica, powiat stalowowolski, województwo podkarpackie, Polska"
+  },
+  "oleszyce": {
+    "lat": 50.1682003,
+    "lng": 23.0314836,
+    "displayName": "Oleszyce, gmina Oleszyce, powiat lubaczowski, województwo podkarpackie, Polska"
+  },
+  "huta komorowska": {
+    "lat": 50.3871815,
+    "lng": 21.7189801,
+    "displayName": "Huta Komorowska, gmina Majdan Królewski, powiat kolbuszowski, województwo podkarpackie, Polska"
+  },
+  "zarszyn": {
+    "lat": 49.5831586,
+    "lng": 22.0150158,
+    "displayName": "Zarszyn, gmina Zarszyn, powiat sanocki, województwo podkarpackie, 38-530, Polska"
+  },
+  "bereznica wyzna": {
+    "lat": 49.3521555,
+    "lng": 22.3599046,
+    "displayName": "Bereżnica Wyżna, gmina Solina, powiat leski, województwo podkarpackie, Polska"
+  },
+  "ocieka": {
+    "lat": 50.1403031,
+    "lng": 21.5885325,
+    "displayName": "Ocieka, gmina Ostrów, powiat ropczycko-sędziszowski, województwo podkarpackie, 39-104, Polska"
+  },
+  "mala huta": {
+    "lat": 54.10002,
+    "lng": 22.99019,
+    "displayName": "Mała Huta, gmina Suwałki, powiat suwalski, województwo podlaskie, Polska"
+  },
+  "ogrodniczki": {
+    "lat": 53.0168702,
+    "lng": 23.1500726,
+    "displayName": "Ogrodniczki, gmina Juchnowiec Kościelny, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "konarzyce": {
+    "lat": 53.1322939,
+    "lng": 22.0410373,
+    "displayName": "Konarzyce, gmina Łomża, powiat łomżyński, województwo podlaskie, Polska"
+  },
+  "narewka": {
+    "lat": 52.8359438,
+    "lng": 23.757029,
+    "displayName": "Narewka, gmina Narewka, powiat hajnowski, województwo podlaskie, Polska"
+  },
+  "bialystok wygoda": {
+    "lat": 53.1424136,
+    "lng": 23.220718,
+    "displayName": "Filia Urzędu Pocztowego Białystok 8, 127, 42 Pułku Piechoty, Wygoda, Białystok, województwo podlaskie, 15-182, Polska"
+  },
+  "borowiec": {
+    "lat": 52.2800264,
+    "lng": 17.0424488,
+    "displayName": "Borówiec, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-023, Polska"
+  },
+  "wolica": {
+    "lat": 51.7067747,
+    "lng": 18.1471074,
+    "displayName": "Wolica, gmina Godziesze Wielkie, powiat kaliski, województwo wielkopolskie, 62-824, Polska"
+  },
+  "osiniec": {
+    "lat": 52.5113,
+    "lng": 17.63924,
+    "displayName": "Osiniec, gmina Gniezno, powiat gnieźnieński, województwo wielkopolskie, 62-200, Polska"
+  },
+  "skrzynka": {
+    "lat": 52.4281117,
+    "lng": 18.0076722,
+    "displayName": "Skrzynka, gmina Ostrowite, powiat słupecki, województwo wielkopolskie, 62-402, Polska"
+  },
+  "czolki": {
+    "lat": 50.7608916,
+    "lng": 23.3168907,
+    "displayName": "Czołki, gmina Sitno, powiat zamojski, województwo lubelskie, Polska"
+  },
+  "ruda woloska": {
+    "lat": 50.4314016,
+    "lng": 23.4706978,
+    "displayName": "Ruda Wołoska, gmina Tomaszów Lubelski, powiat tomaszowski, województwo lubelskie, Polska"
+  },
+  "zglobien": {
+    "lat": 50.0117026,
+    "lng": 21.8487069,
+    "displayName": "Zgłobień, gmina Boguchwała, powiat rzeszowski, województwo podkarpackie, 36-046, Polska"
+  },
+  "pomigacze": {
+    "lat": 53.0366925,
+    "lng": 23.0860465,
+    "displayName": "Pomigacze, gmina Turośń Kościelna, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "sobianowice": {
+    "lat": 51.300666,
+    "lng": 22.6808557,
+    "displayName": "Sobianowice, gmina Wólka, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "milocin": {
+    "lat": 51.2573936,
+    "lng": 22.30891,
+    "displayName": "Miłocin, gmina Wojciechów, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "nowodwor": {
+    "lat": 51.6426403,
+    "lng": 22.0998348,
+    "displayName": "Nowodwór, gmina Nowodwór, powiat rycki, województwo lubelskie, Polska"
+  },
+  "zemborzyce dolne": {
+    "lat": 51.1937031,
+    "lng": 22.463523,
+    "displayName": "Zemborzyce Dolne, gmina Konopnica, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "bondyrz": {
+    "lat": 50.5733043,
+    "lng": 23.0935403,
+    "displayName": "Bondyrz, gmina Adamów, powiat zamojski, województwo lubelskie, Polska"
+  },
+  "palecznica": {
+    "lat": 51.4808609,
+    "lng": 22.6706553,
+    "displayName": "Pałecznica, gmina Niedźwiada, powiat lubartowski, województwo lubelskie, Polska"
+  },
+  "michow": {
+    "lat": 51.52365,
+    "lng": 22.3137905,
+    "displayName": "Michów, gmina Michów, powiat lubartowski, województwo lubelskie, 21-140, Polska"
+  },
+  "dlugie": {
+    "lat": 51.2737272,
+    "lng": 22.6453481,
+    "displayName": "Długie, gmina Wólka, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "stezyca": {
+    "lat": 51.5825969,
+    "lng": 21.772083,
+    "displayName": "Stężyca, gmina Stężyca, powiat rycki, województwo lubelskie, 08-540, Polska"
+  },
+  "golcowa": {
+    "lat": 49.7733006,
+    "lng": 22.0248428,
+    "displayName": "Golcowa, gmina Domaradz, powiat brzozowski, województwo podkarpackie, 36-231, Polska"
+  },
+  "przedmiescie dubieckie": {
+    "lat": 49.83866,
+    "lng": 22.37151,
+    "displayName": "Przedmieście Dubieckie, gmina Dubiecko, powiat przemyski, województwo podkarpackie, Polska"
+  },
+  "zolynia": {
+    "lat": 50.1617652,
+    "lng": 22.3074738,
+    "displayName": "Żołynia, gmina Żołynia, powiat łańcucki, województwo podkarpackie, 37-110, Polska"
+  },
+  "skupowo": {
+    "lat": 52.83313,
+    "lng": 23.69592,
+    "displayName": "Skupowo, gmina Narewka, powiat hajnowski, województwo podlaskie, Polska"
+  },
+  "gora": {
+    "lat": 53.23088,
+    "lng": 22.85607,
+    "displayName": "Góra, gmina Krypno, powiat moniecki, województwo podlaskie, Polska"
+  },
+  "juchnowiec koscielny": {
+    "lat": 53.0189994,
+    "lng": 23.1413571,
+    "displayName": "Juchnowiec Kościelny, gmina Juchnowiec Kościelny, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "pogorzalki": {
+    "lat": 53.2250784,
+    "lng": 22.957815,
+    "displayName": "Pogorzałki, gmina Dobrzyniewo Duże, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "przerosl": {
+    "lat": 54.2514389,
+    "lng": 22.656474,
+    "displayName": "Przerośl, gmina Przerośl, powiat suwalski, województwo podlaskie, Polska"
+  },
+  "gielczyn": {
+    "lat": 53.1235924,
+    "lng": 22.0722829,
+    "displayName": "Giełczyn, gmina Łomża, powiat łomżyński, województwo podlaskie, Polska"
+  },
+  "milejczyce": {
+    "lat": 52.5196495,
+    "lng": 23.1321316,
+    "displayName": "Milejczyce, gmina Milejczyce, powiat siemiatycki, województwo podlaskie, 17-332, Polska"
+  },
+  "stare miasto": {
+    "lat": 52.1814386,
+    "lng": 18.2153535,
+    "displayName": "Stare Miasto, gmina Stare Miasto, powiat koniński, województwo wielkopolskie, Polska"
+  },
+  "hrud": {
+    "lat": 52.0957174,
+    "lng": 23.1374849,
+    "displayName": "Hrud, gmina Biała Podlaska, powiat bialski, województwo lubelskie, 21-500, Polska"
+  },
+  "polanowka": {
+    "lat": 51.1302228,
+    "lng": 22.5173737,
+    "displayName": "Polanówka, gmina Strzyżewice, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "kurow": {
+    "lat": 51.3888553,
+    "lng": 22.1862143,
+    "displayName": "Kurów, gmina Kurów, powiat puławski, województwo lubelskie, 24-170, Polska"
+  },
+  "baszki": {
+    "lat": 51.3243463,
+    "lng": 22.6268869,
+    "displayName": "Baszki, gmina Niemce, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "izbica": {
+    "lat": 50.8927773,
+    "lng": 23.1587974,
+    "displayName": "Izbica, gmina Izbica, powiat krasnostawski, województwo lubelskie, 22-375, Polska"
+  },
+  "pokrowka": {
+    "lat": 51.1004651,
+    "lng": 23.4514125,
+    "displayName": "Pokrówka, gmina Chełm, powiat chełmski, województwo lubelskie, 22-116, Polska"
+  },
+  "charlez": {
+    "lat": 51.3236831,
+    "lng": 22.7223675,
+    "displayName": "Charlęż, gmina Spiczyn, powiat łęczyński, województwo lubelskie, Polska"
+  },
+  "krynka": {
+    "lat": 52.0016146,
+    "lng": 22.4050889,
+    "displayName": "Krynka, gmina Łuków, powiat łukowski, województwo lubelskie, 21-400, Polska"
+  },
+  "wilczopole-kolonia": {
+    "lat": 51.167389,
+    "lng": 22.6518821,
+    "displayName": "Wilczopole-Kolonia, gmina Głusk, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "bykowce": {
+    "lat": 49.54389,
+    "lng": 22.27655,
+    "displayName": "Bykowce, gmina Sanok, powiat sanocki, województwo podkarpackie, Polska"
+  },
+  "palikowka": {
+    "lat": 50.0815442,
+    "lng": 22.1427715,
+    "displayName": "Palikówka, gmina Krasne, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "zarzecze": {
+    "lat": 49.9508524,
+    "lng": 21.9228188,
+    "displayName": "Zarzecze, gmina Boguchwała, powiat rzeszowski, województwo podkarpackie, 36-041, Polska"
+  },
+  "brzezowka": {
+    "lat": 50.0698958,
+    "lng": 21.5480398,
+    "displayName": "Brzezówka, gmina Ropczyce, powiat ropczycko-sędziszowski, województwo podkarpackie, Polska"
+  },
+  "skopanie": {
+    "lat": 50.4835346,
+    "lng": 21.5702916,
+    "displayName": "Skopanie, gmina Baranów Sandomierski, powiat tarnobrzeski, województwo podkarpackie, 39-450, Polska"
+  },
+  "kroscienko wyzne": {
+    "lat": 49.6744164,
+    "lng": 21.8299327,
+    "displayName": "Krościenko Wyżne, gmina Krościenko Wyżne, powiat krośnieński, województwo podkarpackie, Polska"
+  },
+  "trzebuska": {
+    "lat": 50.2086591,
+    "lng": 22.0883329,
+    "displayName": "Trzebuska, gmina Sokołów Małopolski, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "dobrynin": {
+    "lat": 50.2038579,
+    "lng": 21.5395349,
+    "displayName": "Dobrynin, gmina Przecław, powiat mielecki, województwo podkarpackie, Polska"
+  },
+  "izdebki": {
+    "lat": 49.7627795,
+    "lng": 22.094672,
+    "displayName": "Izdebki, gmina Nozdrzec, powiat brzozowski, województwo podkarpackie, 36-203, Polska"
+  },
+  "chorzelow": {
+    "lat": 50.3283855,
+    "lng": 21.4359549,
+    "displayName": "Chorzelów, gmina Mielec, powiat mielecki, województwo podkarpackie, 39-331, Polska"
+  },
+  "babica": {
+    "lat": 49.9354721,
+    "lng": 21.9004344,
+    "displayName": "Babica, gmina Czudec, powiat strzyżowski, województwo podkarpackie, Polska"
+  },
+  "grabiny": {
+    "lat": 50.0494444,
+    "lng": 21.345,
+    "displayName": "Grabiny, gmina Czarna, powiat dębicki, województwo podkarpackie, 39-217, Polska"
+  },
+  "tuszow narodowy": {
+    "lat": 50.3706214,
+    "lng": 21.464134,
+    "displayName": "Tuszów Narodowy, gmina Tuszów Narodowy, powiat mielecki, województwo podkarpackie, Polska"
+  },
+  "nosowka": {
+    "lat": 50.0248332,
+    "lng": 21.877183,
+    "displayName": "Nosówka, gmina Boguchwała, powiat rzeszowski, województwo podkarpackie, Polska"
+  },
+  "budy lancuckie": {
+    "lat": 50.1204164,
+    "lng": 22.4126925,
+    "displayName": "Budy Łańcuckie, gmina Białobrzegi, powiat łańcucki, województwo podkarpackie, Polska"
+  },
+  "wola chorzelowska": {
+    "lat": 50.3296198,
+    "lng": 21.5181957,
+    "displayName": "Wola Chorzelowska, gmina Mielec, powiat mielecki, województwo podkarpackie, Polska"
+  },
+  "kolaczyce": {
+    "lat": 49.8076605,
+    "lng": 21.4340516,
+    "displayName": "Kołaczyce, gmina Kołaczyce, powiat jasielski, województwo podkarpackie, Polska"
+  },
+  "nozdrzec": {
+    "lat": 49.77319,
+    "lng": 22.1959192,
+    "displayName": "Nozdrzec, gmina Nozdrzec, powiat brzozowski, województwo podkarpackie, 36-245, Polska"
+  },
+  "lutcza": {
+    "lat": 49.8056167,
+    "lng": 21.9013878,
+    "displayName": "Lutcza, gmina Niebylec, powiat strzyżowski, województwo podkarpackie, 38-112, Polska"
+  },
+  "podborze": {
+    "lat": 50.2397152,
+    "lng": 21.3168658,
+    "displayName": "Podborze, gmina Radomyśl Wielki, powiat mielecki, województwo podkarpackie, Polska"
+  },
+  "werlas": {
+    "lat": 49.35128,
+    "lng": 22.46392,
+    "displayName": "Werlas, gmina Solina, powiat leski, województwo podkarpackie, Polska"
+  },
+  "serwy": {
+    "lat": 53.9187424,
+    "lng": 23.2046159,
+    "displayName": "Serwy, gmina Płaska, powiat augustowski, województwo podlaskie, Polska"
+  },
+  "raczki": {
+    "lat": 53.9889338,
+    "lng": 22.7826183,
+    "displayName": "Raczki, gmina Raczki, powiat suwalski, województwo podlaskie, Polska"
+  },
+  "sochonie": {
+    "lat": 53.2069218,
+    "lng": 23.170605,
+    "displayName": "Sochonie, gmina Wasilków, powiat białostocki, województwo podlaskie, Polska"
+  },
+  "ruda": {
+    "lat": 53.26386,
+    "lng": 22.90488,
+    "displayName": "Ruda, gmina Krypno, powiat moniecki, województwo podlaskie, Polska"
+  },
+  "jedwabne": {
+    "lat": 53.2867308,
+    "lng": 22.3021413,
+    "displayName": "Jedwabne, gmina Jedwabne, powiat łomżyński, województwo podlaskie, Polska"
+  },
+  "serski las": {
+    "lat": 53.9449834,
+    "lng": 23.1828269,
+    "displayName": "Serski Las, gmina Płaska, powiat augustowski, województwo podlaskie, Polska"
+  },
+  "przezmierowo": {
+    "lat": 52.4260662,
+    "lng": 16.7873751,
+    "displayName": "Przeźmierowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-081, Polska"
+  },
+  "poznan junikowo": {
+    "lat": 52.3778621,
+    "lng": 16.8254704,
+    "displayName": "Poznań Junikowo, Grunwaldzka, Plewiska, gmina Komorniki, powiat poznański, województwo wielkopolskie, 61-169, Polska"
+  },
+  "leszno zatorze": {
+    "lat": 51.835402,
+    "lng": 16.5329054,
+    "displayName": "Pole kempingowe Lotnisko Leszno, Kosmonautów, Zatorze, Leszno, gmina Święciechowa, powiat leszczyński, województwo wielkopolskie, 64-100, Polska"
+  },
+  "dabrowka": {
+    "lat": 52.3826666,
+    "lng": 16.7461489,
+    "displayName": "Dąbrówka, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 62-069, Polska"
+  },
+  "glinno": {
+    "lat": 52.31389,
+    "lng": 16.11394,
+    "displayName": "Glinno, gmina Nowy Tomyśl, powiat nowotomyski, województwo wielkopolskie, Polska"
+  },
+  "laskowo": {
+    "lat": 53.02199,
+    "lng": 17.09593,
+    "displayName": "Laskowo, gmina Szamocin, powiat chodzieski, województwo wielkopolskie, 64-820, Polska"
+  },
+  "kepa": {
+    "lat": 52.5938964,
+    "lng": 16.6182175,
+    "displayName": "Kępa, gmina Szamotuły, powiat szamotulski, województwo wielkopolskie, Polska"
+  },
+  "grzebienisko": {
+    "lat": 52.4326651,
+    "lng": 16.5301767,
+    "displayName": "Grzebienisko, gmina Duszniki, powiat szamotulski, województwo wielkopolskie, 64-553, Polska"
+  },
+  "wtorek": {
+    "lat": 51.6418528,
+    "lng": 17.8906224,
+    "displayName": "Wtórek, gmina Ostrów Wielkopolski, powiat ostrowski, województwo wielkopolskie, 63-410, Polska"
+  },
+  "smigiel": {
+    "lat": 52.012744,
+    "lng": 16.5271118,
+    "displayName": "Śmigiel, gmina Śmigiel, powiat kościański, województwo wielkopolskie, Polska"
+  },
+  "jatutow": {
+    "lat": 50.6919145,
+    "lng": 23.3196502,
+    "displayName": "Jatutów, gmina Zamość, powiat zamojski, województwo lubelskie, Polska"
+  },
+  "czosnowka": {
+    "lat": 52.01447,
+    "lng": 23.22587,
+    "displayName": "Czosnówka, gmina Biała Podlaska, powiat bialski, województwo lubelskie, 21-500, Polska"
+  },
+  "nieciecz": {
+    "lat": 51.5338753,
+    "lng": 21.9196763,
+    "displayName": "Nieciecz, gmina Puławy, powiat puławski, województwo lubelskie, Polska"
+  },
+  "niwiska": {
+    "lat": 50.224456,
+    "lng": 21.6199128,
+    "displayName": "Niwiska, gmina Niwiska, powiat kolbuszowski, województwo podkarpackie, 36-147, Polska"
+  },
+  "hadle kanczuckie": {
+    "lat": 49.9208687,
+    "lng": 22.3029301,
+    "displayName": "Hadle Kańczuckie, gmina Jawornik Polski, powiat przeworski, województwo podkarpackie, 37-231, Polska"
+  },
+  "wiazownica": {
+    "lat": 50.07488,
+    "lng": 22.71183,
+    "displayName": "Wiązownica, gmina Wiązownica, powiat jarosławski, województwo podkarpackie, 37-522, Polska"
+  },
+  "wujskie": {
+    "lat": 49.5551392,
+    "lng": 22.2932323,
+    "displayName": "Wujskie, gmina Sanok, powiat sanocki, województwo podkarpackie, Polska"
+  },
+  "solniczki": {
+    "lat": 53.0630116,
+    "lng": 23.2099568,
+    "displayName": "Solniczki, gmina Juchnowiec Kościelny, powiat białostocki, województwo podlaskie, 15-605, Polska"
+  },
+  "dragany": {
+    "lat": 50.8890512,
+    "lng": 22.6561746,
+    "displayName": "Dragany, gmina Wysokie, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "sobieszyn": {
+    "lat": 51.5937884,
+    "lng": 22.1587976,
+    "displayName": "Sobieszyn, gmina Ułęż, powiat rycki, województwo lubelskie, Polska"
+  },
+  "kielczewice gorne": {
+    "lat": 51,
+    "lng": 22.4233333,
+    "displayName": "Kiełczewice Górne, gmina Strzyżewice, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "laziska": {
+    "lat": 51.1471586,
+    "lng": 21.8732526,
+    "displayName": "Łaziska, gmina Łaziska, powiat opolski, województwo lubelskie, Polska"
+  },
+  "tomaszowice": {
+    "lat": 51.2813798,
+    "lng": 22.3820946,
+    "displayName": "Tomaszowice, gmina Jastków, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "hrebenne": {
+    "lat": 50.873823,
+    "lng": 24.0162143,
+    "displayName": "Hrebenne, gmina Horodło, powiat hrubieszowski, województwo lubelskie, Polska"
+  },
+  "wola lisowska": {
+    "lat": 51.510638,
+    "lng": 22.5686388,
+    "displayName": "Wola Lisowska, gmina Lubartów, powiat lubartowski, województwo lubelskie, Polska"
+  },
+  "milejow": {
+    "lat": 51.2269743,
+    "lng": 22.9273856,
+    "displayName": "Milejów, gmina Milejów, powiat łęczyński, województwo lubelskie, 21-020, Polska"
+  },
+  "czerniejow-kolonia": {
+    "lat": 51.1195035,
+    "lng": 22.6107044,
+    "displayName": "Czerniejów-Kolonia, gmina Jabłonna, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "ozarow": {
+    "lat": 51.3036927,
+    "lng": 22.308167,
+    "displayName": "Ożarów, gmina Jastków, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "witaniow": {
+    "lat": 51.3247277,
+    "lng": 22.8624355,
+    "displayName": "Witaniów, gmina Łęczna, powiat łęczyński, województwo lubelskie, Polska"
+  },
+  "urzedow": {
+    "lat": 50.9939046,
+    "lng": 22.1435756,
+    "displayName": "Urzędów, gmina Urzędów, powiat kraśnicki, województwo lubelskie, Polska"
+  },
+  "malaszewicze duze": {
+    "lat": 52.0406285,
+    "lng": 23.516268,
+    "displayName": "Małaszewicze Duże, gmina Terespol, powiat bialski, województwo lubelskie, 21-540, Polska"
+  },
+  "bonow": {
+    "lat": 51.1813226,
+    "lng": 22.9524751,
+    "displayName": "Bonów, gmina Trawniki, powiat świdnicki, województwo lubelskie, Polska"
+  },
+  "boduszyn": {
+    "lat": 51.32693,
+    "lng": 22.6394,
+    "displayName": "Boduszyn, gmina Niemce, powiat lubelski, województwo lubelskie, Polska"
+  },
+  "franciszkow": {
+    "lat": 51.2253511,
+    "lng": 22.7265504,
+    "displayName": "Franciszków, gmina Mełgiew, powiat świdnicki, województwo lubelskie, Polska"
+  },
+  "bachow": {
+    "lat": 49.7892,
+    "lng": 22.49135,
+    "displayName": "Bachów, gmina Krzywcza, powiat przemyski, województwo podkarpackie, 37-754, Polska"
+  },
+  "hoszow": {
+    "lat": 49.397163,
+    "lng": 22.6473387,
+    "displayName": "Hoszów, gmina Ustrzyki Dolne, powiat bieszczadzki, województwo podkarpackie, Polska"
+  },
+  "wisniowa": {
+    "lat": 49.9982223,
+    "lng": 21.7540371,
+    "displayName": "Wiśniowa, gmina Iwierzyce, powiat ropczycko-sędziszowski, województwo podkarpackie, Polska"
+  },
+  "tarnawka": {
+    "lat": 49.9477288,
+    "lng": 22.2767784,
+    "displayName": "Tarnawka, gmina Markowa, powiat łańcucki, województwo podkarpackie, 37-121, Polska"
+  }
+}

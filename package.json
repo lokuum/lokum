@@ -16,6 +16,7 @@
     "scrape:podkarpackie": "npm run scrape --workspace scraper -- --voivodeship podkarpackie",
     "scrape:wielkopolskie": "npm run scrape --workspace scraper -- --voivodeship wielkopolskie",
     "scrape:summary": "npm run scrape --workspace scraper -- --summary-only",
+    "fix:geo": "npm run fix:geo --workspace scraper",
     "test": "vitest run",
     "typecheck": "npm run typecheck --workspaces --if-present"
   },

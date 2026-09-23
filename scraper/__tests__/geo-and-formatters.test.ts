@@ -71,6 +71,43 @@ describe('isBorderLocation & inferCounty', () => {
     expect(pilaCoords.lat).toBeGreaterThan(53.0);
     expect(pilaCoords.lng).toBeLessThan(17.2);
   });
+
+  it('zwraca precyzyjne współrzędne dla podmiejskich miejscowości zamiast centrów stolic', () => {
+    // Głogów Małopolski (pow. rzeszowski) - lat ~50.15, podczas gdy centrum Rzeszowa to lat ~50.04
+    const glogowCoords = getLocationCoordinates('podkarpackie', 'Głogów Małopolski', 'rzeszowski');
+    expect(glogowCoords.lat).toBeGreaterThan(50.12);
+    expect(glogowCoords.lat).toBeLessThan(50.18);
+
+    // Jasionka (pow. rzeszowski) - lat ~50.11, lng ~22.05
+    const jasionkaCoords = getLocationCoordinates('podkarpackie', 'Jasionka', 'rzeszowski');
+    expect(jasionkaCoords.lat).toBeGreaterThan(50.08);
+
+    // Dys (pow. lubelski) - lat ~51.31, podczas gdy centrum Lublina to lat ~51.24
+    const dysCoords = getLocationCoordinates('lubelskie', 'Dys', 'lubelski');
+    expect(dysCoords.lat).toBeGreaterThan(51.29);
+
+    // Wasilków (pow. białostocki) - lat ~53.20, podczas gdy centrum Białegostoku to lat ~53.13
+    const wasilkowCoords = getLocationCoordinates('podlaskie', 'Wasilków', 'białostocki');
+    expect(wasilkowCoords.lat).toBeGreaterThan(53.18);
+
+    // Sierosław (pow. poznański) - lng ~16.67, podczas gdy centrum Poznania to lng ~16.92
+    const sieroslawCoords = getLocationCoordinates('wielkopolskie', 'Sierosław', 'poznański');
+    expect(sieroslawCoords.lng).toBeLessThan(16.75);
+  });
+
+  it('rozpoznaje dzielnicę stolic podaną w polu street i wyznacza jej koordynaty', () => {
+    // Poznań Pokrzywno (południowy wschód: lat ~52.36, lng ~16.96)
+    const pokrzywnoCoords = getLocationCoordinates('wielkopolskie', 'Poznań', 'poznański', undefined, 'Pokrzywno');
+    expect(pokrzywnoCoords.lat).toBeLessThan(52.38);
+
+    // Lublin Sławinek (północny zachód: lat ~51.26, lng ~22.51)
+    const slawinekCoords = getLocationCoordinates('lubelskie', 'Lublin', 'lubelski', undefined, 'Sławinek');
+    expect(slawinekCoords.lng).toBeLessThan(22.53);
+
+    // Rzeszów Budziwój (południe: lat ~49.97, lng ~21.98)
+    const budziwojCoords = getLocationCoordinates('podkarpackie', 'Rzeszów', 'rzeszowski', undefined, 'Budziwój');
+    expect(budziwojCoords.lat).toBeLessThan(49.99);
+  });
 });
 
 describe('formatArea', () => {

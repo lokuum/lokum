@@ -129,7 +129,7 @@ export async function fetchOtodomPage(
       // Dokładne współrzędne dla miejscowości/gminy/powiatu
       const coordinates = (item.location?.coordinates?.latitude && item.location?.coordinates?.longitude)
         ? { lat: item.location.coordinates.latitude, lng: item.location.coordinates.longitude }
-        : getLocationCoordinates(voivodeship, city, county, commune);
+        : getLocationCoordinates(voivodeship, city, county, commune, street);
 
       const isNearBorder = isBorderLocation(voivodeship, county, city);
 
