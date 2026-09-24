@@ -1,5 +1,6 @@
 import type { PropertyOffer, PropertyType, Voivodeship } from 'shared';
 import { classifyPropertyType, getLocationCoordinates, inferCounty, isBorderLocation } from 'shared';
+import { OTODOM_VOIVODESHIP_SLUGS } from '../config.js';
 import { fetchWithRetry } from '../utils/http.js';
 
 interface OtodomSearchResponse {
@@ -62,7 +63,8 @@ export async function fetchOtodomPage(
   page = 1
 ): Promise<FetchResult> {
   const category = type === 'house' ? 'dom' : 'dzialka';
-  const url = `https://www.otodom.pl/pl/wyniki/sprzedaz/${category}/${voivodeship}?limit=36&page=${page}`;
+  const voivodeshipSlug = OTODOM_VOIVODESHIP_SLUGS[voivodeship] || voivodeship;
+  const url = `https://www.otodom.pl/pl/wyniki/sprzedaz/${category}/${voivodeshipSlug}?limit=36&page=${page}`;
 
   const html = await fetchWithRetry(url);
   const match = html.match(/<script id="__NEXT_DATA__" type="application\/json"[^>]*>(.*?)<\/script>/s);

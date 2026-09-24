@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useRef } from 'react';
 import type { PropertyOffer, Voivodeship } from 'shared';
-import { EAST_POLAND_CENTER, formatArea, formatPrice, formatPriceDelta, formatPricePerM2, VOIVODESHIP_CENTERS } from 'shared';
+import { EAST_POLAND_CENTER, formatArea, formatPrice, formatPriceDelta, formatPricePerM2, POLAND_CENTER, VOIVODESHIP_CENTERS } from 'shared';
 import L from 'leaflet';
 import Supercluster from 'supercluster';
 
@@ -37,7 +37,7 @@ export const PropertyMap: React.FC<PropertyMapProps> = ({
     const center =
       voivodeship !== 'all' && VOIVODESHIP_CENTERS[voivodeship]
         ? VOIVODESHIP_CENTERS[voivodeship]
-        : EAST_POLAND_CENTER;
+        : POLAND_CENTER;
 
     const map = L.map(mapContainerRef.current, {
       center: [center.lat, center.lng],
@@ -67,7 +67,7 @@ export const PropertyMap: React.FC<PropertyMapProps> = ({
     const center =
       voivodeship !== 'all' && VOIVODESHIP_CENTERS[voivodeship]
         ? VOIVODESHIP_CENTERS[voivodeship]
-        : EAST_POLAND_CENTER;
+        : POLAND_CENTER;
 
     map.flyTo([center.lat, center.lng], center.zoom, { duration: 0.8 });
   }, [voivodeship]);

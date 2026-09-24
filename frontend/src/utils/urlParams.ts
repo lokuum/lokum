@@ -1,4 +1,5 @@
 import type { FilterState, Voivodeship } from 'shared';
+import { VOIVODESHIPS } from 'shared';
 
 export interface UrlSyncState {
   filters: FilterState;
@@ -13,7 +14,7 @@ export const DEFAULT_FILTERS: FilterState = {
 };
 
 const VALID_TABS: FilterState['tab'][] = ['houses', 'plots', 'habitats', 'drops', 'favorites'];
-const VALID_VOIVODESHIPS: (Voivodeship | 'all')[] = ['all', 'lubelskie', 'podlaskie', 'podkarpackie', 'wielkopolskie'];
+const VALID_VOIVODESHIPS: (Voivodeship | 'all')[] = ['all', ...VOIVODESHIPS.map((v) => v.id)];
 const VALID_VIEWS: FilterState['viewMode'][] = ['cards', 'map'];
 const VALID_SORTS: FilterState['sortBy'][] = [
   'drop_percent_desc',

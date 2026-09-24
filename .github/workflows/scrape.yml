@@ -38,7 +38,25 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      # Krok 1: Województwo Lubelskie (UA / BY)
+      # Krok 1: Województwo Dolnośląskie (CZ / DE)
+      - name: Scrape Dolnośląskie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'dolnoslaskie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Dolnośląskiego (limit: $LIMIT stron) ==="
+          npm run scrape:dolnoslaskie -- --limit "$LIMIT"
+
+      # Krok 2: Województwo Kujawsko-Pomorskie
+      - name: Scrape Kujawsko-Pomorskie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'kujawsko-pomorskie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Kujawsko-Pomorskiego (limit: $LIMIT stron) ==="
+          npm run scrape:kujawsko-pomorskie -- --limit "$LIMIT"
+
+      # Krok 3: Województwo Lubelskie (UA / BY)
       - name: Scrape Lubelskie
         if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'lubelskie' }}
         continue-on-error: true
@@ -47,16 +65,52 @@ jobs:
           echo "=== Rozpoczynam scrapowanie woj. Lubelskiego (limit: $LIMIT stron) ==="
           npm run scrape:lubelskie -- --limit "$LIMIT"
 
-      # Krok 2: Województwo Podlaskie (BY / LT)
-      - name: Scrape Podlaskie
-        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'podlaskie' }}
+      # Krok 4: Województwo Lubuskie (DE)
+      - name: Scrape Lubuskie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'lubuskie' }}
         continue-on-error: true
         run: |
           LIMIT="${{ github.event.inputs.limit || '30' }}"
-          echo "=== Rozpoczynam scrapowanie woj. Podlaskiego (limit: $LIMIT stron) ==="
-          npm run scrape:podlaskie -- --limit "$LIMIT"
+          echo "=== Rozpoczynam scrapowanie woj. Lubuskiego (limit: $LIMIT stron) ==="
+          npm run scrape:lubuskie -- --limit "$LIMIT"
 
-      # Krok 3: Województwo Podkarpackie (UA / SK)
+      # Krok 5: Województwo Łódzkie
+      - name: Scrape Łódzkie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'lodzkie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Łódzkiego (limit: $LIMIT stron) ==="
+          npm run scrape:lodzkie -- --limit "$LIMIT"
+
+      # Krok 6: Województwo Małopolskie (SK)
+      - name: Scrape Małopolskie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'malopolskie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Małopolskiego (limit: $LIMIT stron) ==="
+          npm run scrape:malopolskie -- --limit "$LIMIT"
+
+      # Krok 7: Województwo Mazowieckie
+      - name: Scrape Mazowieckie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'mazowieckie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Mazowieckiego (limit: $LIMIT stron) ==="
+          npm run scrape:mazowieckie -- --limit "$LIMIT"
+
+      # Krok 8: Województwo Opolskie (CZ)
+      - name: Scrape Opolskie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'opolskie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Opolskiego (limit: $LIMIT stron) ==="
+          npm run scrape:opolskie -- --limit "$LIMIT"
+
+      # Krok 9: Województwo Podkarpackie (UA / SK)
       - name: Scrape Podkarpackie
         if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'podkarpackie' }}
         continue-on-error: true
@@ -65,7 +119,52 @@ jobs:
           echo "=== Rozpoczynam scrapowanie woj. Podkarpackiego (limit: $LIMIT stron) ==="
           npm run scrape:podkarpackie -- --limit "$LIMIT"
 
-      # Krok 4: Województwo Wielkopolskie
+      # Krok 10: Województwo Podlaskie (BY / LT)
+      - name: Scrape Podlaskie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'podlaskie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Podlaskiego (limit: $LIMIT stron) ==="
+          npm run scrape:podlaskie -- --limit "$LIMIT"
+
+      # Krok 11: Województwo Pomorskie (Mierzeja / Morze)
+      - name: Scrape Pomorskie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'pomorskie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Pomorskiego (limit: $LIMIT stron) ==="
+          npm run scrape:pomorskie -- --limit "$LIMIT"
+
+      # Krok 12: Województwo Śląskie (CZ / SK)
+      - name: Scrape Śląskie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'slaskie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Śląskiego (limit: $LIMIT stron) ==="
+          npm run scrape:slaskie -- --limit "$LIMIT"
+
+      # Krok 13: Województwo Świętokrzyskie
+      - name: Scrape Świętokrzyskie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'swietokrzyskie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Świętokrzyskiego (limit: $LIMIT stron) ==="
+          npm run scrape:swietokrzyskie -- --limit "$LIMIT"
+
+      # Krok 14: Województwo Warmińsko-Mazurskie (RU)
+      - name: Scrape Warmińsko-Mazurskie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'warminsko-mazurskie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Warmińsko-Mazurskiego (limit: $LIMIT stron) ==="
+          npm run scrape:warminsko-mazurskie -- --limit "$LIMIT"
+
+      # Krok 15: Województwo Wielkopolskie
       - name: Scrape Wielkopolskie
         if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'wielkopolskie' }}
         continue-on-error: true
@@ -73,6 +172,15 @@ jobs:
           LIMIT="${{ github.event.inputs.limit || '30' }}"
           echo "=== Rozpoczynam scrapowanie woj. Wielkopolskiego (limit: $LIMIT stron) ==="
           npm run scrape:wielkopolskie -- --limit "$LIMIT"
+
+      # Krok 16: Województwo Zachodniopomorskie (DE)
+      - name: Scrape Zachodniopomorskie
+        if: ${{ github.event.inputs.voivodeship == '' || github.event.inputs.voivodeship == 'zachodniopomorskie' }}
+        continue-on-error: true
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '30' }}"
+          echo "=== Rozpoczynam scrapowanie woj. Zachodniopomorskiego (limit: $LIMIT stron) ==="
+          npm run scrape:zachodniopomorskie -- --limit "$LIMIT"
 
       # Krok 5: Generowanie globalnego podsumowania (summary.json) ze wszystkich partycji
       - name: Generate Summary and Global Stats

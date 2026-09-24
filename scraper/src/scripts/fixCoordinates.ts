@@ -15,10 +15,22 @@ async function main() {
   console.log('Rozpoczynam aktualizację współrzędnych i powiatów...');
 
   const capitalNames: Record<Voivodeship, string[]> = {
-    wielkopolskie: ['poznan', 'poznań'],
+    dolnoslaskie: ['wroclaw', 'wrocław'],
+    'kujawsko-pomorskie': ['bydgoszcz', 'torun', 'toruń'],
     lubelskie: ['lublin'],
-    podlaskie: ['bialystok', 'białystok'],
+    lubuskie: ['gorzow wielkopolski', 'gorzów wielkopolski', 'zielona gora', 'zielona góra'],
+    lodzkie: ['lodz', 'łódź'],
+    malopolskie: ['krakow', 'kraków'],
+    mazowieckie: ['warszawa'],
+    opolskie: ['opole'],
     podkarpackie: ['rzeszow', 'rzeszów'],
+    podlaskie: ['bialystok', 'białystok'],
+    pomorskie: ['gdansk', 'gdańsk', 'gdynia', 'sopot'],
+    slaskie: ['katowice'],
+    swietokrzyskie: ['kielce'],
+    'warminsko-mazurskie': ['olsztyn'],
+    wielkopolskie: ['poznan', 'poznań'],
+    zachodniopomorskie: ['szczecin'],
   };
 
   for (const v of SUPPORTED_VOIVODESHIPS) {

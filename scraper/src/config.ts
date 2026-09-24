@@ -7,14 +7,62 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 export const DATA_OUTPUT_DIR = path.resolve(__dirname, '../../frontend/public/data');
 export const BACKUP_DATA_DIR = path.resolve(__dirname, '../../data');
 
-export const SUPPORTED_VOIVODESHIPS: Voivodeship[] = ['lubelskie', 'podlaskie', 'podkarpackie', 'wielkopolskie'];
+export const SUPPORTED_VOIVODESHIPS: Voivodeship[] = [
+  'dolnoslaskie',
+  'kujawsko-pomorskie',
+  'lubelskie',
+  'lubuskie',
+  'lodzkie',
+  'malopolskie',
+  'mazowieckie',
+  'opolskie',
+  'podkarpackie',
+  'podlaskie',
+  'pomorskie',
+  'slaskie',
+  'swietokrzyskie',
+  'warminsko-mazurskie',
+  'wielkopolskie',
+  'zachodniopomorskie',
+];
 export const SUPPORTED_TYPES: PropertyType[] = ['house', 'plot', 'habitat'];
 
 export const ADRESOWO_VOIVODESHIP_CODES: Record<Voivodeship, string> = {
+  dolnoslaskie: 'fds',
+  'kujawsko-pomorskie': 'fkp',
   lubelskie: 'flu',
-  podlaskie: 'fpd',
+  lubuskie: 'flb',
+  lodzkie: 'fld',
+  malopolskie: 'fma',
+  mazowieckie: 'fmz',
+  opolskie: 'fop',
   podkarpackie: 'fpk',
+  podlaskie: 'fpd',
+  pomorskie: 'fpm',
+  slaskie: 'fsl',
+  swietokrzyskie: 'fsk',
+  'warminsko-mazurskie': 'fwn',
   wielkopolskie: 'fwp',
+  zachodniopomorskie: 'fzp',
+};
+
+export const OTODOM_VOIVODESHIP_SLUGS: Record<Voivodeship, string> = {
+  dolnoslaskie: 'dolnoslaskie',
+  'kujawsko-pomorskie': 'kujawsko--pomorskie',
+  lubelskie: 'lubelskie',
+  lubuskie: 'lubuskie',
+  lodzkie: 'lodzkie',
+  malopolskie: 'malopolskie',
+  mazowieckie: 'mazowieckie',
+  opolskie: 'opolskie',
+  podkarpackie: 'podkarpackie',
+  podlaskie: 'podlaskie',
+  pomorskie: 'pomorskie',
+  slaskie: 'slaskie',
+  swietokrzyskie: 'swietokrzyskie',
+  'warminsko-mazurskie': 'warminsko--mazurskie',
+  wielkopolskie: 'wielkopolskie',
+  zachodniopomorskie: 'zachodniopomorskie',
 };
 
 export const SCRAPER_CONFIG = {

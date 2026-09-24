@@ -1,6 +1,22 @@
 export type PropertyType = 'house' | 'plot' | 'habitat';
 
-export type Voivodeship = 'lubelskie' | 'podlaskie' | 'podkarpackie' | 'wielkopolskie';
+export type Voivodeship =
+  | 'dolnoslaskie'
+  | 'kujawsko-pomorskie'
+  | 'lubelskie'
+  | 'lubuskie'
+  | 'lodzkie'
+  | 'malopolskie'
+  | 'mazowieckie'
+  | 'opolskie'
+  | 'podkarpackie'
+  | 'podlaskie'
+  | 'pomorskie'
+  | 'slaskie'
+  | 'swietokrzyskie'
+  | 'warminsko-mazurskie'
+  | 'wielkopolskie'
+  | 'zachodniopomorskie';
 
 export type PropertyStatus = 'active' | 'price_drop' | 'price_increase' | 'removed';
 

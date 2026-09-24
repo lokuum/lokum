@@ -7,7 +7,9 @@ import {
   inferCounty,
   isBorderLocation,
   normalizeText,
+  VOIVODESHIPS,
 } from 'shared';
+import { ADRESOWO_VOIVODESHIP_CODES, OTODOM_VOIVODESHIP_SLUGS, SUPPORTED_VOIVODESHIPS } from '../src/config.js';
 
 describe('normalizeText', () => {
   it('usuwa polskie znaki diakrytyczne i normalizuje tekst', () => {
@@ -107,6 +109,67 @@ describe('isBorderLocation & inferCounty', () => {
     // Rzeszów Budziwój (południe: lat ~49.97, lng ~21.98)
     const budziwojCoords = getLocationCoordinates('podkarpackie', 'Rzeszów', 'rzeszowski', undefined, 'Budziwój');
     expect(budziwojCoords.lat).toBeLessThan(49.99);
+
+    // Warszawa Mokotów (lat ~52.19, lng ~21.03)
+    const mokotowCoords = getLocationCoordinates('mazowieckie', 'Warszawa', 'warszawski zachodni', undefined, 'Mokotów');
+    expect(mokotowCoords.lat).toBeGreaterThan(52.17);
+    expect(mokotowCoords.lat).toBeLessThan(52.22);
+
+    // Wrocław Krzyki (lat ~51.07, lng ~17.01)
+    const krzykiCoords = getLocationCoordinates('dolnoslaskie', 'Wrocław', 'wrocławski', undefined, 'Krzyki');
+    expect(krzykiCoords.lat).toBeGreaterThan(51.05);
+    expect(krzykiCoords.lat).toBeLessThan(51.10);
+
+    // Kraków Nowa Huta (lat ~50.07, lng ~20.04)
+    const nowaHutaCoords = getLocationCoordinates('malopolskie', 'Kraków', 'krakowski', undefined, 'Nowa Huta');
+    expect(nowaHutaCoords.lng).toBeGreaterThan(20.00);
+  });
+
+  it('poprawnie rozpoznaje strefy przygraniczne dla nowych województw (DE, CZ, SK, RU)', () => {
+    // Dolnośląskie (Czechy / Niemcy)
+    expect(isBorderLocation('dolnoslaskie', 'zgorzelecki', 'Zgorzelec')).toBe(true);
+    expect(isBorderLocation('dolnoslaskie', 'kłodzki', 'Kłodzko')).toBe(true);
+    expect(isBorderLocation('dolnoslaskie', 'wrocławski', 'Wrocław')).toBe(false);
+
+    // Zachodniopomorskie (Niemcy)
+    expect(isBorderLocation('zachodniopomorskie', 'policki', 'Police')).toBe(true);
+    expect(isBorderLocation('zachodniopomorskie', 'kamieński', 'Świnoujście')).toBe(true);
+    expect(isBorderLocation('zachodniopomorskie', 'stargardzki', 'Stargard')).toBe(false);
+
+    // Warmińsko-Mazurskie (Rosja)
+    expect(isBorderLocation('warminsko-mazurskie', 'braniewski', 'Braniewo')).toBe(true);
+    expect(isBorderLocation('warminsko-mazurskie', 'olsztyński', 'Olsztyn')).toBe(false);
+
+    // Małopolskie (Słowacja)
+    expect(isBorderLocation('malopolskie', 'tatrzański', 'Zakopane')).toBe(true);
+    expect(isBorderLocation('malopolskie', 'krakowski', 'Kraków')).toBe(false);
+
+    // Śląskie (Czechy / Słowacja)
+    expect(isBorderLocation('slaskie', 'cieszyński', 'Cieszyn')).toBe(true);
+    expect(isBorderLocation('slaskie', 'katowicki', 'Katowice')).toBe(false);
+
+    // Województwa centralne nie mają stref przygranicznych
+    expect(isBorderLocation('mazowieckie', 'radomski', 'Radom')).toBe(false);
+    expect(isBorderLocation('lodzkie', 'piotrkowski', 'Piotrków Trybunalski')).toBe(false);
+    expect(isBorderLocation('kujawsko-pomorskie', 'bydgoski', 'Bydgoszcz')).toBe(false);
+  });
+
+  it('poprawnie przypisuje powiaty dla miast ze wszystkich 16 województw', () => {
+    expect(inferCounty('Wrocław')).toBe('wrocławski');
+    expect(inferCounty('Kołobrzeg')).toBe('kołobrzeski');
+    expect(inferCounty('Zakopane')).toBe('tatrzański');
+    expect(inferCounty('Kraków')).toBe('krakowski');
+    expect(inferCounty('Gdańsk')).toBe('gdański');
+    expect(inferCounty('Sopot')).toBe('gdański');
+    expect(inferCounty('Bydgoszcz')).toBe('bydgoski');
+    expect(inferCounty('Toruń')).toBe('toruński');
+    expect(inferCounty('Kielce')).toBe('kielecki');
+    expect(inferCounty('Olsztyn')).toBe('olsztyński');
+    expect(inferCounty('Opole')).toBe('opolski');
+    expect(inferCounty('Gorzów Wielkopolski')).toBe('gorzowski');
+    expect(inferCounty('Zielona Góra')).toBe('zielonogórski');
+    expect(inferCounty('Katowice')).toBe('katowicki');
+    expect(inferCounty('Częstochowa')).toBe('częstochowski');
   });
 });
 
@@ -131,5 +194,27 @@ describe('formatPricePerM2', () => {
   it('formatuje cenę za metr z polskimi separatorami', () => {
     expect(formatPricePerM2(3.28)).toBe('3 zł/m²');
     expect(formatPricePerM2(2500)).toMatch(/2[\s\u00a0]?500 zł\/m²/);
+  });
+});
+
+describe('16 voivodeships configuration', () => {
+  it('zawiera dokładnie 16 województw w VOIVODESHIPS i SUPPORTED_VOIVODESHIPS', () => {
+    expect(VOIVODESHIPS).toHaveLength(16);
+    expect(SUPPORTED_VOIVODESHIPS).toHaveLength(16);
+  });
+
+  it('każde województwo posiada unikalny 3-literowy kod w Adresowo', () => {
+    for (const v of SUPPORTED_VOIVODESHIPS) {
+      const code = ADRESOWO_VOIVODESHIP_CODES[v];
+      expect(code).toBeDefined();
+      expect(code).toMatch(/^f[a-z]{2}$/);
+    }
+  });
+
+  it('poprawnie mapuje podwójne myślniki dla Otodomu (kujawsko--pomorskie, warminsko--mazurskie)', () => {
+    expect(OTODOM_VOIVODESHIP_SLUGS['kujawsko-pomorskie']).toBe('kujawsko--pomorskie');
+    expect(OTODOM_VOIVODESHIP_SLUGS['warminsko-mazurskie']).toBe('warminsko--mazurskie');
+    expect(OTODOM_VOIVODESHIP_SLUGS['dolnoslaskie']).toBe('dolnoslaskie');
+    expect(OTODOM_VOIVODESHIP_SLUGS['mazowieckie']).toBe('mazowieckie');
   });
 });

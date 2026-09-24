@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import type { FilterState, PropertyOffer, SummaryStats, Voivodeship } from 'shared';
+import { VOIVODESHIPS } from 'shared';
 import { db } from '../db/index.js';
 import { parseUrlFilters, syncUrlWithFilters } from '../utils/urlParams.js';
 
@@ -30,7 +31,7 @@ export function useProperties(favorites: Set<string> = new Set()) {
         }
 
         // 2. Pobierz partycje dla wszystkich województw
-        const voivodeships: Voivodeship[] = ['lubelskie', 'podlaskie', 'podkarpackie', 'wielkopolskie'];
+        const voivodeships: Voivodeship[] = VOIVODESHIPS.map((v) => v.id);
         const partitionPromises: Promise<PropertyOffer[]>[] = [];
 
         for (const v of voivodeships) {
