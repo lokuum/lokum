@@ -1,0 +1,1793 @@
+[
+  {
+    "id": "otodom-68327298",
+    "source": "otodom",
+    "sourceId": "68327298",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-1-07-ha-z-domem-180-m-nowy-dach-pole-sad-laka-i-ogrod-ID4CH3c",
+    "propertyType": "habitat",
+    "title": "Siedlisko 1,07 ha z domem 180 m² - nowy dach, pole, sad, łąka i ogród",
+    "voivodeship": "opolskie",
+    "county": "głubczycki",
+    "city": "Sławoszów",
+    "coordinates": {
+      "lat": 50.200812726274265,
+      "lng": 17.829261847632754
+    },
+    "isNearBorder": true,
+    "areaM2": 180,
+    "plotAreaM2": 10716,
+    "currentPrice": 390000,
+    "currentPricePerM2": 2166.67,
+    "initialPrice": 390000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 390000,
+        "pricePerM2": 2166.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T21:55:12.000Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFnbjRqZnVyemx6MjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Vbo3TQh6I0ZOWX0UaPk99_6EzOiTKRdd0uj0q1hzqqo/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68423741",
+    "source": "otodom",
+    "sourceId": "68423741",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-z-zabudowaniami-czeska-wies-blisko-a4-ID4D68J",
+    "propertyType": "habitat",
+    "title": "Gospodarstwo rolne z zabudowaniami | Czeska Wieś | blisko A4",
+    "voivodeship": "opolskie",
+    "county": "brzeski",
+    "city": "Czeska Wieś",
+    "coordinates": {
+      "lat": 49.96425338715914,
+      "lng": 20.608635505826545
+    },
+    "isNearBorder": false,
+    "areaM2": 80,
+    "plotAreaM2": 2100,
+    "currentPrice": 260000,
+    "currentPricePerM2": 3250,
+    "initialPrice": 260000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-15",
+        "price": 260000,
+        "pricePerM2": 3250
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-15T18:17:44.000Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpoaG1jNXB1bzlmYS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.EW2xNdE7jWv5fFXWIOOzfRiHfqxlC4I-UgVaYVKT3xU/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67734339",
+    "source": "otodom",
+    "sourceId": "67734339",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-pokaznym-terenem-ID4AcNl",
+    "propertyType": "habitat",
+    "title": "Siedlisko z pokaźnym terenem.",
+    "voivodeship": "opolskie",
+    "county": "kędzierzyńsko-kozielski",
+    "city": "Kędzierzyn-Koźle",
+    "street": "Polska Cerekiew",
+    "coordinates": {
+      "lat": 50.34289552555292,
+      "lng": 18.212155154642772
+    },
+    "isNearBorder": false,
+    "areaM2": 110,
+    "plotAreaM2": 2022,
+    "currentPrice": 160000,
+    "currentPricePerM2": 1454.55,
+    "initialPrice": 160000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-15",
+        "price": 160000,
+        "pricePerM2": 1454.55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-15T04:31:28.000Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA0YTAwZW9zejFqbjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yunpUWwZ0DDUYtzhEOn22yO9uWfwHNQ8UHo0lVyZd9A/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68411074",
+    "source": "otodom",
+    "sourceId": "68411074",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowe-siedlisko-1-63-ha-z-wlasnym-lasem-ID4D2Qq",
+    "propertyType": "habitat",
+    "title": "WYJĄTKOWE SIEDLISKO 1,63 HA Z WŁASNYM LASEM",
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "city": "Gierałcice",
+    "coordinates": {
+      "lat": 50.31444816119329,
+      "lng": 17.390751851184568
+    },
+    "isNearBorder": true,
+    "areaM2": 200,
+    "plotAreaM2": 16300,
+    "currentPrice": 1290000,
+    "currentPricePerM2": 6450,
+    "initialPrice": 1290000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-12",
+        "price": 1290000,
+        "pricePerM2": 6450
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-12T08:36:09.000Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJiNXRrYmw3YjlnMzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.O50HhsDDPacBAcaGVZm9xbPJDmKyxV2lpBjJmsZxd6M/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68317174",
+    "source": "otodom",
+    "sourceId": "68317174",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/bukowie-270-m-49-arow-gospodarstwo-ID4CEpU",
+    "propertyType": "habitat",
+    "title": "Bukowie | 270 m² | 49 arów | gospodarstwo",
+    "voivodeship": "opolskie",
+    "county": "namysłowski",
+    "city": "Bukowie",
+    "street": "ul. Lipowa",
+    "coordinates": {
+      "lat": 51.080841690954685,
+      "lng": 17.719004677737413
+    },
+    "isNearBorder": false,
+    "areaM2": 300,
+    "plotAreaM2": 4905,
+    "currentPrice": 669000,
+    "currentPricePerM2": 2230,
+    "initialPrice": 669000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-16",
+        "price": 669000,
+        "pricePerM2": 2230
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-16T10:38:29.000Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZtZ2RnZDU5YW96cjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qxbxbkUV-1Oxf1aWgRmz5G5Nj5m7LmoQg77KBW28Q-w/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68121728",
+    "source": "otodom",
+    "sourceId": "68121728",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-z-gospodarstwem-4ha-gruntu-stajnia-ferma-ID4BPzy",
+    "propertyType": "habitat",
+    "title": "Dom z gospodarstwem, 4ha gruntu, stajnia, ferma",
+    "voivodeship": "opolskie",
+    "county": "opolski",
+    "city": "Kaniów",
+    "coordinates": {
+      "lat": 51.14031651603941,
+      "lng": 21.965316559745574
+    },
+    "isNearBorder": false,
+    "areaM2": 160,
+    "plotAreaM2": 39541,
+    "currentPrice": 1050000,
+    "currentPricePerM2": 6562.5,
+    "initialPrice": 1050000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-06-18",
+        "price": 1050000,
+        "pricePerM2": 6562.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-06-18T15:00:49.000Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijk0NmJ0bHFqc2pzaDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nmHHPCl6Ai3KC_KX6BsGsUEYRkaxxpPXVum9woAFAyU/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68057574",
+    "source": "otodom",
+    "sourceId": "68057574",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/zacisznie-polozone-gospodarstwo-rolne-piekne-tereny-ID4BySO",
+    "propertyType": "habitat",
+    "title": "Zacisznie położone gospodarstwo rolne, piękne tereny!",
+    "voivodeship": "opolskie",
+    "county": "oleski",
+    "city": "Bodzanowice",
+    "coordinates": {
+      "lat": 50.87036595552703,
+      "lng": 18.418032936059742
+    },
+    "isNearBorder": false,
+    "areaM2": 138,
+    "plotAreaM2": 84412,
+    "currentPrice": 790000,
+    "currentPricePerM2": 5724.64,
+    "initialPrice": 790000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-06-15",
+        "price": 790000,
+        "pricePerM2": 5724.64
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-06-15T12:54:07.000Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRqYm1vaDkzcmZwMjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lv0rpj6Lr97Cz-619Rk9lsxgsdRxnZYxwMPxyHQT95g/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67852327",
+    "source": "otodom",
+    "sourceId": "67852327",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/przedwstepna-siedlisko-z-potencjalem-30-arow-ID4AHun",
+    "propertyType": "habitat",
+    "title": "Przedwstępna! Siedlisko z potencjałem | 30 arów",
+    "voivodeship": "opolskie",
+    "county": "namysłowski",
+    "city": "Bąkowice",
+    "coordinates": {
+      "lat": 51.073622520978034,
+      "lng": 17.726009097529694
+    },
+    "isNearBorder": false,
+    "areaM2": 90,
+    "plotAreaM2": 3000,
+    "currentPrice": 299000,
+    "currentPricePerM2": 3322.22,
+    "initialPrice": 299000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-03-27",
+        "price": 299000,
+        "pricePerM2": 3322.22
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-03-27T13:39:50.000Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV2MDFqb3piYzBhMjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CfFaIbRzkpNnx7Hzal52Zg5m7bShNZIYYBRoFxoikCk/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67435912",
+    "source": "otodom",
+    "sourceId": "67435912",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-domem-stawem-i-czescia-rekreacyjna-borycz-30min-od-opola-ID4yXa0",
+    "propertyType": "habitat",
+    "title": "Siedlisko z domem, stawem i częścią rekreacyjną,Borycz-30min od Opola",
+    "voivodeship": "opolskie",
+    "county": "strzelecki",
+    "city": "Borycz",
+    "coordinates": {
+      "lat": 50.51726482560622,
+      "lng": 18.298454640231743
+    },
+    "isNearBorder": false,
+    "areaM2": 207.41,
+    "plotAreaM2": 18600,
+    "currentPrice": 1470000,
+    "currentPricePerM2": 7087.41,
+    "initialPrice": 1470000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2025-11-12",
+        "price": 1470000,
+        "pricePerM2": 7087.41
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2025-11-12T08:25:08.000Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjByanYyZm55ejJyNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._dXiF4frzEYDu8Ef2nIzv2mTFAm4TOnQsIONMJRypW4/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4235720",
+    "source": "adresowo",
+    "sourceId": "4235720",
+    "sourceUrl": "https://adresowo.pl/o/dom-wilkow-bukowie-ul-lipowa-d8l5m7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bukowie, ul. Lipowa",
+    "voivodeship": "opolskie",
+    "county": "namyslowski",
+    "city": "Bukowie",
+    "street": "ul. Lipowa",
+    "coordinates": {
+      "lat": 51.084618741790976,
+      "lng": 17.71510634790928
+    },
+    "isNearBorder": false,
+    "areaM2": 270,
+    "currentPrice": 669000,
+    "currentPricePerM2": 2477.78,
+    "initialPrice": 669000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 669000,
+        "pricePerM2": 2477.78
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:00.022Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5f/77/40a1c8_42ef_cover@2x-dom-namyslowski-bukowie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4266072",
+    "source": "adresowo",
+    "sourceId": "4266072",
+    "sourceUrl": "https://adresowo.pl/o/dom-lambinowice-sowin-200-m2-v4n0r8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Sowin",
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "city": "Sowin",
+    "coordinates": {
+      "lat": 50.47964139668377,
+      "lng": 17.33971103394544
+    },
+    "isNearBorder": true,
+    "areaM2": 200,
+    "currentPrice": 290000,
+    "currentPricePerM2": 1450,
+    "initialPrice": 290000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 290000,
+        "pricePerM2": 1450
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:00.022Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4f/68/411858_b11f_cover@2x-dom-nyski-sowin.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261028",
+    "source": "adresowo",
+    "sourceId": "4261028",
+    "sourceUrl": "https://adresowo.pl/o/dom-glucholazy-gieralcice-200-m2-b1t4j8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Gierałcice",
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "city": "Gierałcice",
+    "coordinates": {
+      "lat": 50.46873962874193,
+      "lng": 17.343272819711338
+    },
+    "isNearBorder": true,
+    "areaM2": 200,
+    "currentPrice": 1290000,
+    "currentPricePerM2": 6450,
+    "initialPrice": 1290000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1290000,
+        "pricePerM2": 6450
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:00.022Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/24/59/4104a4_befa_cover@2x-dom-nyski-gieralcice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4253670",
+    "source": "adresowo",
+    "sourceId": "4253670",
+    "sourceUrl": "https://adresowo.pl/o/dom-byczyna-proslice-124-m2-w2e3n6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Proślice",
+    "voivodeship": "opolskie",
+    "county": "kluczborski",
+    "city": "Proślice",
+    "coordinates": {
+      "lat": 50.97808742078686,
+      "lng": 18.222046168372145
+    },
+    "isNearBorder": false,
+    "areaM2": 124,
+    "currentPrice": 229000,
+    "currentPricePerM2": 1846.77,
+    "initialPrice": 229000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 229000,
+        "pricePerM2": 1846.77
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:01.893Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4e/7a/40e7e6_eb32_cover@2x-dom-kluczborski-proslice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4236912",
+    "source": "adresowo",
+    "sourceId": "4236912",
+    "sourceUrl": "https://adresowo.pl/o/dom-zebowice-kadlub-wolny-ul-dobrodzienska-s9u6v5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kadłub Wolny, ul. Dobrodzieńska",
+    "voivodeship": "opolskie",
+    "county": "oleski",
+    "city": "Kadłub Wolny",
+    "street": "ul. Dobrodzieńska",
+    "coordinates": {
+      "lat": 50.87081192498913,
+      "lng": 18.41934048704678
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "currentPrice": 499000,
+    "currentPricePerM2": 3326.67,
+    "initialPrice": 499000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 499000,
+        "pricePerM2": 3326.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:01.893Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2d/4e/40a670_cbb8_cover@2x-dom-oleski-kadlub-wolny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4017862",
+    "source": "adresowo",
+    "sourceId": "4017862",
+    "sourceUrl": "https://adresowo.pl/o/dom-lasowice-wielkie-szumirad-158-m2-v9o2f9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Szumirad",
+    "voivodeship": "opolskie",
+    "county": "kluczborski",
+    "city": "Szumirad",
+    "coordinates": {
+      "lat": 50.975489012908014,
+      "lng": 18.20670107972607
+    },
+    "isNearBorder": false,
+    "areaM2": 158,
+    "currentPrice": 1600000,
+    "currentPricePerM2": 10126.58,
+    "initialPrice": 1600000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1600000,
+        "pricePerM2": 10126.58
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:01.893Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5a/35/3d4ec6_dc65_cover@2x-dom-kluczborski-szumirad.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4216136",
+    "source": "adresowo",
+    "sourceId": "4216136",
+    "sourceUrl": "https://adresowo.pl/o/dom-glubczyce-slawoszow-180-m2-c5m0j8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Sławoszów",
+    "voivodeship": "opolskie",
+    "county": "glubczycki",
+    "city": "Sławoszów",
+    "coordinates": {
+      "lat": 50.20212682233542,
+      "lng": 17.833094176281193
+    },
+    "isNearBorder": true,
+    "areaM2": 180,
+    "currentPrice": 390000,
+    "currentPricePerM2": 2166.67,
+    "initialPrice": 390000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 390000,
+        "pricePerM2": 2166.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:01.893Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/66/63/405548_f168_cover@2x-dom-glubczycki-slawoszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4022176",
+    "source": "adresowo",
+    "sourceId": "4022176",
+    "sourceUrl": "https://adresowo.pl/o/dom-lambinowice-jasienica-dolna-156-m2-j6x0r4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jasienica Dolna",
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "city": "Jasienica Dolna",
+    "coordinates": {
+      "lat": 50.469241114277544,
+      "lng": 17.342516933371204
+    },
+    "isNearBorder": true,
+    "areaM2": 156,
+    "currentPrice": 500000,
+    "currentPricePerM2": 3205.13,
+    "initialPrice": 500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 500000,
+        "pricePerM2": 3205.13
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:06.501Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/68/2c/3d5fa0_e219_cover@2x-dom-nyski-jasienica-dolna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4004524",
+    "source": "adresowo",
+    "sourceId": "4004524",
+    "sourceUrl": "https://adresowo.pl/o/dom-glubczyce-dobieszow-300-m2-e9i6r1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Dobieszów",
+    "voivodeship": "opolskie",
+    "county": "glubczycki",
+    "city": "Dobieszów",
+    "coordinates": {
+      "lat": 50.20502890232915,
+      "lng": 17.83463417113601
+    },
+    "isNearBorder": true,
+    "areaM2": 300,
+    "currentPrice": 599000,
+    "currentPricePerM2": 1996.67,
+    "initialPrice": 599000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 599000,
+        "pricePerM2": 1996.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:06.501Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/50/15/3d1aac_61c6_cover@2x-dom-glubczycki-dobieszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3982740",
+    "source": "adresowo",
+    "sourceId": "3982740",
+    "sourceUrl": "https://adresowo.pl/o/dom-rudniki-mirowszczyzna-88-m2-u6w4z5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Mirowszczyzna",
+    "voivodeship": "opolskie",
+    "county": "oleski",
+    "city": "Mirowszczyzna",
+    "coordinates": {
+      "lat": 50.87899206547047,
+      "lng": 18.415165294504813
+    },
+    "isNearBorder": false,
+    "areaM2": 88,
+    "currentPrice": 129000,
+    "currentPricePerM2": 1465.91,
+    "initialPrice": 129000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 129000,
+        "pricePerM2": 1465.91
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:06.501Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/32/18/3cc594_7871_cover@2x-dom-oleski-mirowszczyzna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3971170",
+    "source": "adresowo",
+    "sourceId": "3971170",
+    "sourceUrl": "https://adresowo.pl/o/dom-branice-bliszczyce-400-m2-w6d1g4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bliszczyce",
+    "voivodeship": "opolskie",
+    "county": "glubczycki",
+    "city": "Bliszczyce",
+    "coordinates": {
+      "lat": 50.19931963338838,
+      "lng": 17.830187012584886
+    },
+    "isNearBorder": true,
+    "areaM2": 400,
+    "currentPrice": 220000,
+    "currentPricePerM2": 550,
+    "initialPrice": 220000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 220000,
+        "pricePerM2": 550
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:06.501Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2a/5c/3c9862_288d_cover@2x-dom-glubczycki-bliszczyce.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3960264",
+    "source": "adresowo",
+    "sourceId": "3960264",
+    "sourceUrl": "https://adresowo.pl/o/dom-glucholazy-bodzanow-200-m2-e8p1r4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bodzanów",
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "city": "Bodzanów",
+    "coordinates": {
+      "lat": 50.47062282833601,
+      "lng": 17.33328091085073
+    },
+    "isNearBorder": true,
+    "areaM2": 200,
+    "currentPrice": 670000,
+    "currentPricePerM2": 3350,
+    "initialPrice": 670000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 670000,
+        "pricePerM2": 3350
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:06.501Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/50/7c/3c6dc8_b1c3_cover@2x-dom-nyski-bodzanow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3912792",
+    "source": "adresowo",
+    "sourceId": "3912792",
+    "sourceUrl": "https://adresowo.pl/o/dom-dabrowa-siedliska-ul-kasztanowa-r3l6g0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedliska, ul. Kasztanowa",
+    "voivodeship": "opolskie",
+    "county": "opolski",
+    "city": "Siedliska",
+    "street": "ul. Kasztanowa",
+    "coordinates": {
+      "lat": 49.94947537125557,
+      "lng": 21.948193186111787
+    },
+    "isNearBorder": false,
+    "areaM2": 209,
+    "currentPrice": 1130000,
+    "currentPricePerM2": 5406.7,
+    "initialPrice": 1130000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1130000,
+        "pricePerM2": 5406.7
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:06.501Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/54/74/3bb458_7a21_cover@2x-dom-opolski-siedliska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3878946",
+    "source": "adresowo",
+    "sourceId": "3878946",
+    "sourceUrl": "https://adresowo.pl/o/dom-nysa-domaszkowice-250-m2-k0j7q1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Domaszkowice",
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "city": "Domaszkowice",
+    "coordinates": {
+      "lat": 50.478802732161405,
+      "lng": 17.330265881893006
+    },
+    "isNearBorder": true,
+    "areaM2": 250,
+    "currentPrice": 1200000,
+    "currentPricePerM2": 4800,
+    "initialPrice": 1200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1200000,
+        "pricePerM2": 4800
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:06.501Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2a/3c/3b3022_4399_cover@2x-dom-nyski-domaszkowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3799212",
+    "source": "adresowo",
+    "sourceId": "3799212",
+    "sourceUrl": "https://adresowo.pl/o/dom-jemielnica-centawa-ul-powstancow-slaskich-r6e1r3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Centawa, ul. Powstańców Śląskich",
+    "voivodeship": "opolskie",
+    "county": "strzelecki",
+    "city": "Centawa",
+    "street": "ul. Powstańców Śląskich",
+    "coordinates": {
+      "lat": 50.5088510169163,
+      "lng": 18.29064769674627
+    },
+    "isNearBorder": false,
+    "areaM2": 102,
+    "currentPrice": 690000,
+    "currentPricePerM2": 6764.71,
+    "initialPrice": 690000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 690000,
+        "pricePerM2": 6764.71
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:06.501Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/12/55/39f8ac_6abe_cover@2x-dom-strzelecki-centawa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3613710",
+    "source": "adresowo",
+    "sourceId": "3613710",
+    "sourceUrl": "https://adresowo.pl/o/dom-glucholazy-jarnoltowek-99-m2-s3y8g0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jarnołtówek",
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "city": "Jarnołtówek",
+    "coordinates": {
+      "lat": 50.47665040687185,
+      "lng": 17.329864366719743
+    },
+    "isNearBorder": true,
+    "areaM2": 99,
+    "currentPrice": 675000,
+    "currentPricePerM2": 6818.18,
+    "initialPrice": 675000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 675000,
+        "pricePerM2": 6818.18
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:08.488Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7e/6b/37240e_857f_cover@2x-dom-nyski-jarnoltowek.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-715289",
+    "source": "adresowo",
+    "sourceId": "715289",
+    "sourceUrl": "https://adresowo.pl/o/dom-popielow-rybna-385-m2-y2b3a5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Rybna",
+    "voivodeship": "opolskie",
+    "county": "opolski",
+    "city": "Rybna",
+    "coordinates": {
+      "lat": 51.14849925753673,
+      "lng": 21.966704996472114
+    },
+    "isNearBorder": false,
+    "areaM2": 385,
+    "currentPrice": 680000,
+    "currentPricePerM2": 1766.23,
+    "initialPrice": 680000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 680000,
+        "pricePerM2": 1766.23
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:11.055Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/40/7e/aea19_6544_cover@2x-dom-opolski-rybna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68386005",
+    "source": "otodom",
+    "sourceId": "68386005",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/rolna-zagrodowa-wz-30-min-od-wroclawia-cisza-ID4CVk5",
+    "propertyType": "habitat",
+    "title": "Rolna zagrodowa! WZ |30 min od Wrocławia! | Cisza!",
+    "voivodeship": "opolskie",
+    "county": "oławski",
+    "city": "Wójcice",
+    "coordinates": {
+      "lat": 50.94846866541618,
+      "lng": 17.30208431001614
+    },
+    "isNearBorder": false,
+    "areaM2": 65826,
+    "currentPrice": 679999,
+    "currentPricePerM2": 10.33,
+    "initialPrice": 679999,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-05",
+        "price": 679999,
+        "pricePerM2": 10.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-05T11:25:39.000Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InY4dDhudjVwdDAwaTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mT35YsSiP9bEd8Gv0-H2pRJvr6ztTx5hnLaE7OJvmqY/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67568429",
+    "source": "otodom",
+    "sourceId": "67568429",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-ranczo-gospodarstwo-dom-6-4-ha-las-staw-zabudow-ID4zwDn",
+    "propertyType": "habitat",
+    "title": "Siedlisko / ranczo / gospodarstwo / dom 6,4 ha + las + staw + zabudow.",
+    "voivodeship": "opolskie",
+    "county": "oleski",
+    "city": "Rozterk",
+    "coordinates": {
+      "lat": 50.871865949767525,
+      "lng": 18.420475743569416
+    },
+    "isNearBorder": false,
+    "areaM2": 63847,
+    "currentPrice": 749000,
+    "currentPricePerM2": 11.73,
+    "initialPrice": 749000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 749000,
+        "pricePerM2": 11.73
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-02T16:17:29.000Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IngwbGprYjdwc3V0aDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zrAbUkdjHjt2QJTcQS5gPWH8psuAwtX8nrLwftM-hJo/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68369818",
+    "source": "otodom",
+    "sourceId": "68369818",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedliska-34-ary-20-min-od-opola-ID4CS70",
+    "propertyType": "habitat",
+    "title": "Siedliska 34 ary - 20 min od Opola",
+    "voivodeship": "opolskie",
+    "county": "opolski",
+    "city": "Siedliska",
+    "street": "ul. Stawowa",
+    "coordinates": {
+      "lat": 49.950454560291696,
+      "lng": 21.938575777903136
+    },
+    "isNearBorder": false,
+    "areaM2": 3400,
+    "currentPrice": 220000,
+    "currentPricePerM2": 64.71,
+    "initialPrice": 220000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-01",
+        "price": 220000,
+        "pricePerM2": 64.71
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-01T11:24:28.000Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFjM2Y3bG9mZHliejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jtnoEN0HgoCm6k2KWA5q2OctbR_m7qGnGfSLR0rVans/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-60553663",
+    "source": "otodom",
+    "sourceId": "60553663",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-sadownicze-dzialalnosc-prosperujac-ID464LZ",
+    "propertyType": "habitat",
+    "title": "Gospodarstwo sadownicze - działalność prosperując",
+    "voivodeship": "opolskie",
+    "county": "strzelecki",
+    "city": "Rożniątów",
+    "coordinates": {
+      "lat": 50.505290917414115,
+      "lng": 18.30664864478623
+    },
+    "isNearBorder": false,
+    "areaM2": 80000,
+    "currentPrice": 2200000,
+    "currentPricePerM2": 27.5,
+    "initialPrice": 2200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2020-05-28",
+        "price": 2200000,
+        "pricePerM2": 27.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2020-05-28T23:10:27.000Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InljMDdscHhiMXl0OTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6GgW3-AwHMYJ5w6dWK7GDwWBwWcOxvxWehZ-_AAC6Wk/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4263766",
+    "source": "adresowo",
+    "sourceId": "4263766",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-pokoj-domaradz-1-ha-y6w0c2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Domaradz, Kozuby",
+    "voivodeship": "opolskie",
+    "county": "namyslowski",
+    "city": "Domaradz",
+    "street": "Kozuby",
+    "coordinates": {
+      "lat": 49.79807571366607,
+      "lng": 21.937529116632724
+    },
+    "isNearBorder": false,
+    "areaM2": 11200,
+    "currentPrice": 150000,
+    "currentPricePerM2": 13.39,
+    "initialPrice": 150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 150000,
+        "pricePerM2": 13.39
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:53.968Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/11/30/410f56_7f32_cover@2x-dzialka-siedliskowa-namyslowski-domaradz.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4252546",
+    "source": "adresowo",
+    "sourceId": "4252546",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-biala-smicz-1-200-m2-u2i9n9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Śmicz",
+    "voivodeship": "opolskie",
+    "county": "prudnicki",
+    "city": "Śmicz",
+    "coordinates": {
+      "lat": 50.31698046179287,
+      "lng": 17.58160635902661
+    },
+    "isNearBorder": true,
+    "areaM2": 1200,
+    "currentPrice": 85000,
+    "currentPricePerM2": 70.83,
+    "initialPrice": 85000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 85000,
+        "pricePerM2": 70.83
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:56.297Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/42/28/40e382_3057_cover@2x-dzialka-siedliskowa-prudnicki-smicz.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4192388",
+    "source": "adresowo",
+    "sourceId": "4192388",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-lubsza-blota-5-500-m2-a3t1v4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Błota",
+    "voivodeship": "opolskie",
+    "county": "brzeski",
+    "city": "Błota",
+    "coordinates": {
+      "lat": 49.96232025273667,
+      "lng": 20.59610217237695
+    },
+    "isNearBorder": false,
+    "areaM2": 5500,
+    "currentPrice": 198000,
+    "currentPricePerM2": 36,
+    "initialPrice": 198000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 198000,
+        "pricePerM2": 36
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:56.297Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/37/42/3ff884_622f_cover@2x-dzialka-rolno-budowlana-brzeski-blota.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4173434",
+    "source": "adresowo",
+    "sourceId": "4173434",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-skarbimierz-pawlow-5-ha-e3d4c3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Pawłów",
+    "voivodeship": "opolskie",
+    "county": "brzeski",
+    "city": "Pawłów",
+    "coordinates": {
+      "lat": 51.48718461264933,
+      "lng": 17.65121159093187
+    },
+    "isNearBorder": false,
+    "areaM2": 54100,
+    "currentPrice": 670000,
+    "currentPricePerM2": 12.38,
+    "initialPrice": 670000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 670000,
+        "pricePerM2": 12.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:58.687Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3a/70/3fae7a_fadd_cover@2x-dzialka-rolna-brzeski-pawlow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4135056",
+    "source": "adresowo",
+    "sourceId": "4135056",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-olszanka-krzyzowice-2-ha-h3w5n2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Krzyżowice",
+    "voivodeship": "opolskie",
+    "county": "brzeski",
+    "city": "Krzyżowice",
+    "coordinates": {
+      "lat": 49.967651861571206,
+      "lng": 20.610011282589195
+    },
+    "isNearBorder": false,
+    "areaM2": 22000,
+    "currentPrice": 1000000,
+    "currentPricePerM2": 45.45,
+    "initialPrice": 1000000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1000000,
+        "pricePerM2": 45.45
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:58.687Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/28/5a/3f1890_6a9d_cover@2x-dzialka-rolno-budowlana-brzeski-krzyzowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4124516",
+    "source": "adresowo",
+    "sourceId": "4124516",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-glucholazy-bodzanow-2-500-m2-a5z0d3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bodzanów",
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "city": "Bodzanów",
+    "coordinates": {
+      "lat": 50.47017728539547,
+      "lng": 17.3326945694278
+    },
+    "isNearBorder": true,
+    "areaM2": 2500,
+    "currentPrice": 200000,
+    "currentPricePerM2": 80,
+    "initialPrice": 200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 200000,
+        "pricePerM2": 80
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:58.687Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4d/25/3eef64_5dae_cover@2x-dzialka-siedliskowa-nyski-bodzanow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4102606",
+    "source": "adresowo",
+    "sourceId": "4102606",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-gorzow-slaski-zdziechowice-1-093-m2-m3w0n0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zdziechowice",
+    "voivodeship": "opolskie",
+    "county": "oleski",
+    "city": "Zdziechowice",
+    "coordinates": {
+      "lat": 50.87855179850147,
+      "lng": 18.41796647753666
+    },
+    "isNearBorder": false,
+    "areaM2": 1093,
+    "currentPrice": 85000,
+    "currentPricePerM2": 77.77,
+    "initialPrice": 85000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 85000,
+        "pricePerM2": 77.77
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:45:58.687Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7d/2f/3e99ce_e924_cover@2x-dzialka-siedliskowa-oleski-zdziechowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4044092",
+    "source": "adresowo",
+    "sourceId": "4044092",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-dabrowa-siedliska-ul-pod-debami-o7i7t1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedliska, ul. Pod Dębami",
+    "voivodeship": "opolskie",
+    "county": "opolski",
+    "city": "Siedliska",
+    "street": "ul. Pod Dębami",
+    "coordinates": {
+      "lat": 49.950479275706705,
+      "lng": 21.949152340273464
+    },
+    "isNearBorder": false,
+    "areaM2": 3000,
+    "currentPrice": 350000,
+    "currentPricePerM2": 116.67,
+    "initialPrice": 350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 350000,
+        "pricePerM2": 116.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:00.200Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/28/62/3db53c_d119_cover@2x-dzialka-rolno-budowlana-opolski-siedliska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4035806",
+    "source": "adresowo",
+    "sourceId": "4035806",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rekreacyjna-otmuchow-laka-1-ha-f6c3t0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Łąka",
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "city": "Łąka",
+    "coordinates": {
+      "lat": 50.08954979059153,
+      "lng": 22.08953279872684
+    },
+    "isNearBorder": true,
+    "areaM2": 11300,
+    "currentPrice": 219000,
+    "currentPricePerM2": 19.38,
+    "initialPrice": 219000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 219000,
+        "pricePerM2": 19.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:00.200Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/13/6f/3d94de_8585_cover@2x-dzialka-rekreacyjna-nyski-laka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4018288",
+    "source": "adresowo",
+    "sourceId": "4018288",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-nysa-sekowice-6-ha-s9k3i5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Sękowice",
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "city": "Sękowice",
+    "coordinates": {
+      "lat": 50.47795903807959,
+      "lng": 17.33179765740007
+    },
+    "isNearBorder": true,
+    "areaM2": 63500,
+    "currentPrice": 790000,
+    "currentPricePerM2": 12.44,
+    "initialPrice": 790000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 790000,
+        "pricePerM2": 12.44
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:00.200Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3a/54/3d5070_d79f_cover@2x-dzialka-rolna-nyski-sekowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3956976",
+    "source": "adresowo",
+    "sourceId": "3956976",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-dabrowa-siedliska-ul-kasztanowa-f2y8t5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedliska, ul. Kasztanowa",
+    "voivodeship": "opolskie",
+    "county": "opolski",
+    "city": "Siedliska",
+    "street": "ul. Kasztanowa",
+    "coordinates": {
+      "lat": 49.955122601079964,
+      "lng": 21.948372340558286
+    },
+    "isNearBorder": false,
+    "areaM2": 5253,
+    "currentPrice": 882500,
+    "currentPricePerM2": 168,
+    "initialPrice": 882500,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 882500,
+        "pricePerM2": 168
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:00.200Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/62/38/3c60f0_ea72_cover@2x-dzialka-budowlana-opolski-siedliska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3954974",
+    "source": "adresowo",
+    "sourceId": "3954974",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-dabrowa-siedliska-687-m2-p5n3h4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedliska",
+    "voivodeship": "opolskie",
+    "county": "opolski",
+    "city": "Siedliska",
+    "coordinates": {
+      "lat": 49.949476279113235,
+      "lng": 21.95325091264028
+    },
+    "isNearBorder": false,
+    "areaM2": 687,
+    "currentPrice": 83500,
+    "currentPricePerM2": 121.54,
+    "initialPrice": 83500,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 83500,
+        "pricePerM2": 121.54
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:00.200Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/28/22/3c591e_eed9_cover@2x-dzialka-budowlana-opolski-siedliska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3888504",
+    "source": "adresowo",
+    "sourceId": "3888504",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-lubsza-rogalice-1-ha-v8c1g1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Rogalice",
+    "voivodeship": "opolskie",
+    "county": "brzeski",
+    "city": "Rogalice",
+    "coordinates": {
+      "lat": 49.96518115816787,
+      "lng": 20.604196005144775
+    },
+    "isNearBorder": false,
+    "areaM2": 18000,
+    "currentPrice": 100000,
+    "currentPricePerM2": 5.56,
+    "initialPrice": 100000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 100000,
+        "pricePerM2": 5.56
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:00.200Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1d/6c/3b5578_3b76_cover@2x-dzialka-rolna-brzeski-rogalice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3843874",
+    "source": "adresowo",
+    "sourceId": "3843874",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-wolczyn-skalagi-7-000-m2-e4j1y2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Skałągi",
+    "voivodeship": "opolskie",
+    "county": "kluczborski",
+    "city": "Skałągi",
+    "coordinates": {
+      "lat": 50.97306462836651,
+      "lng": 18.219867451311178
+    },
+    "isNearBorder": false,
+    "areaM2": 7000,
+    "currentPrice": 280000,
+    "currentPricePerM2": 40,
+    "initialPrice": 280000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 280000,
+        "pricePerM2": 40
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:02.041Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6b/20/3aa722_cbe9_cover@2x-dzialka-rolno-budowlana-kluczborski-skalagi.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3835670",
+    "source": "adresowo",
+    "sourceId": "3835670",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-korfantow-kuropas-688-m2-u0i4t9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kuropas",
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "city": "Kuropas",
+    "coordinates": {
+      "lat": 50.46724027652481,
+      "lng": 17.330532397075505
+    },
+    "isNearBorder": true,
+    "areaM2": 688,
+    "currentPrice": 80000,
+    "currentPricePerM2": 116.28,
+    "initialPrice": 80000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 80000,
+        "pricePerM2": 116.28
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:02.041Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/40/23/3a8716_da58_cover@2x-dzialka-budowlana-nyski-kuropas.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3816266",
+    "source": "adresowo",
+    "sourceId": "3816266",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-namyslow-woskowice-male-ul-proszowska-p2j9p3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Woskowice Małe, ul. Proszowska",
+    "voivodeship": "opolskie",
+    "county": "namyslowski",
+    "city": "Woskowice Małe",
+    "street": "ul. Proszowska",
+    "coordinates": {
+      "lat": 51.07216172390065,
+      "lng": 17.71557433807463
+    },
+    "isNearBorder": false,
+    "areaM2": 140000,
+    "currentPrice": 1750000,
+    "currentPricePerM2": 12.5,
+    "initialPrice": 1750000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1750000,
+        "pricePerM2": 12.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:02.041Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/63/51/3a3b4a_b058_cover@2x-dzialka-rolno-budowlana-namyslowski-woskowice-male.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3720092",
+    "source": "adresowo",
+    "sourceId": "3720092",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-glucholazy-konradow-1-005-m2-k7m8b3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Konradów, Starowice",
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "city": "Konradów",
+    "street": "Starowice",
+    "coordinates": {
+      "lat": 50.46644453852731,
+      "lng": 17.327544158447008
+    },
+    "isNearBorder": true,
+    "areaM2": 1005,
+    "currentPrice": 100500,
+    "currentPricePerM2": 100,
+    "initialPrice": 100500,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 100500,
+        "pricePerM2": 100
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:02.041Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/34/22/38c39c_d1fb_cover@2x-dzialka-budowlana-nyski-konradow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3643658",
+    "source": "adresowo",
+    "sourceId": "3643658",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-dabrowa-siedliska-506-m2-r9c5g5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedliska",
+    "voivodeship": "opolskie",
+    "county": "opolski",
+    "city": "Siedliska",
+    "coordinates": {
+      "lat": 49.95331764764376,
+      "lng": 21.95332021710208
+    },
+    "isNearBorder": false,
+    "areaM2": 506,
+    "currentPrice": 99000,
+    "currentPricePerM2": 195.65,
+    "initialPrice": 99000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 99000,
+        "pricePerM2": 195.65
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:02.041Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/32/41/37990a_f26f_cover@2x-dzialka-budowlana-opolski-siedliska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3637836",
+    "source": "adresowo",
+    "sourceId": "3637836",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-lubsza-piastowice-932-m2-a9b4b8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Piastowice",
+    "voivodeship": "opolskie",
+    "county": "brzeski",
+    "city": "Piastowice",
+    "coordinates": {
+      "lat": 49.964972597118994,
+      "lng": 20.599279842145503
+    },
+    "isNearBorder": false,
+    "areaM2": 932,
+    "currentPrice": 99000,
+    "currentPricePerM2": 106.22,
+    "initialPrice": 99000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 99000,
+        "pricePerM2": 106.22
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:02.041Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6d/25/37824c_ccfe_cover@2x-dzialka-budowlana-brzeski-piastowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3620514",
+    "source": "adresowo",
+    "sourceId": "3620514",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-dobrzen-wielki-kup-ul-polna-w3j8v6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kup, ul. Polna",
+    "voivodeship": "opolskie",
+    "county": "opolski",
+    "city": "Kup",
+    "street": "ul. Polna",
+    "coordinates": {
+      "lat": 51.15092270758477,
+      "lng": 21.96952483073401
+    },
+    "isNearBorder": false,
+    "areaM2": 27100,
+    "currentPrice": 1490000,
+    "currentPricePerM2": 54.98,
+    "initialPrice": 1490000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1490000,
+        "pricePerM2": 54.98
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:02.041Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5c/78/373ea2_8b26_cover@2x-dzialka-siedliskowa-opolski-kup.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3186660",
+    "source": "adresowo",
+    "sourceId": "3186660",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-dabrowa-siedliska-ul-pod-debami-m2a1n7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedliska, ul. Pod Dębami",
+    "voivodeship": "opolskie",
+    "county": "opolski",
+    "city": "Siedliska",
+    "street": "ul. Pod Dębami",
+    "coordinates": {
+      "lat": 49.949836699706815,
+      "lng": 21.943013205195992
+    },
+    "isNearBorder": false,
+    "areaM2": 5000,
+    "currentPrice": 690000,
+    "currentPricePerM2": 138,
+    "initialPrice": 690000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 690000,
+        "pricePerM2": 138
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:04.495Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2a/25/309fe4_39cb_cover@2x-dzialka-siedliskowa-opolski-siedliska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3061914",
+    "source": "adresowo",
+    "sourceId": "3061914",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-lubsza-koscierzyce-2-200-m2-d8g6c4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kościerzyce",
+    "voivodeship": "opolskie",
+    "county": "brzeski",
+    "city": "Kościerzyce",
+    "coordinates": {
+      "lat": 49.965277781906586,
+      "lng": 20.607160588089172
+    },
+    "isNearBorder": false,
+    "areaM2": 2200,
+    "currentPrice": 242000,
+    "currentPricePerM2": 110,
+    "initialPrice": 242000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 242000,
+        "pricePerM2": 110
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:46:06.340Z",
+    "lastSeenAt": "2026-09-24T20:46:08.211Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/34/63/2eb89a_d2ef_cover@2x-dzialka-budowlana-brzeski-koscierzyce.webp",
+    "isDirectOwner": true
+  }
+]
