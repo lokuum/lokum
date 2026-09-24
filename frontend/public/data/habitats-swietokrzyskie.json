@@ -1,0 +1,4771 @@
+[
+  {
+    "id": "otodom-68246265",
+    "source": "otodom",
+    "sourceId": "68246265",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-z-prywatnym-siedliskiem-6005-m-ID4ClYd",
+    "propertyType": "habitat",
+    "title": "Dom z prywatnym siedliskiem | 6005 m²",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Śladków Duży",
+    "coordinates": {
+      "lat": 49.969573937200636,
+      "lng": 22.146420046627235
+    },
+    "isNearBorder": false,
+    "areaM2": 113.7,
+    "plotAreaM2": 6005,
+    "currentPrice": 1150000,
+    "currentPricePerM2": 10114.34,
+    "initialPrice": 1150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-21",
+        "price": 1150000,
+        "pricePerM2": 10114.34
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-21T16:00:58.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVpc2hzZXFhMzNnOS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.rPCYT5zNdV0sWIPox2GeiOQAkBzBERqstL-Ig0p_oh8/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68410361",
+    "source": "otodom",
+    "sourceId": "68410361",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-siedlisko-w-gminie-solec-zdroj-z-zabudowaniami-kikow-do-remontu-ID4D2EW",
+    "propertyType": "habitat",
+    "title": "Dom/siedlisko w Gminie Solec Zdrój z zabudowaniami! KIKÓW. Do remontu",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Kików",
+    "coordinates": {
+      "lat": 50.47034176934937,
+      "lng": 20.708881871294547
+    },
+    "isNearBorder": false,
+    "areaM2": 85,
+    "plotAreaM2": 1554,
+    "currentPrice": 150000,
+    "currentPricePerM2": 1764.71,
+    "initialPrice": 150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-18",
+        "price": 150000,
+        "pricePerM2": 1764.71
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-18T17:48:47.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InkyZHIwNXNqdzF3bjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xIBahUkXAiyQTsZcIkKbkXxqGs5ykioIoYTNxjB9l6Y/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68405894",
+    "source": "otodom",
+    "sourceId": "68405894",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-dzialka-siedlisko-w-daleszycach-ID4D1uS",
+    "propertyType": "habitat",
+    "title": "Dom działka siedlisko w Daleszycach",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Daleszyce",
+    "street": "ul. Adama Mickiewicza",
+    "coordinates": {
+      "lat": 50.86257185130559,
+      "lng": 20.632943635308912
+    },
+    "isNearBorder": false,
+    "areaM2": 82,
+    "plotAreaM2": 936,
+    "currentPrice": 360000,
+    "currentPricePerM2": 4390.24,
+    "initialPrice": 360000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 360000,
+        "pricePerM2": 4390.24
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T18:07:18.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZieXI0dXN5c3Y5Zy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.c-RPvl6DWOA6pcvd06SQYDenbjWHoF_6KjsdoGp8mx0/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68429178",
+    "source": "otodom",
+    "sourceId": "68429178",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-na-duzej-2-5-ha-dzialce-z-ogromnym-potencjalem-ID4D7yq",
+    "propertyType": "habitat",
+    "title": "Siedlisko na dużej 2,5 ha działce z ogromnym potencjałem",
+    "voivodeship": "swietokrzyskie",
+    "county": "staszowski",
+    "city": "Beszowa",
+    "coordinates": {
+      "lat": 50.565813720209874,
+      "lng": 21.172314011255978
+    },
+    "isNearBorder": false,
+    "areaM2": 60,
+    "plotAreaM2": 24641,
+    "currentPrice": 126000,
+    "currentPricePerM2": 2100,
+    "initialPrice": 126000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 126000,
+        "pricePerM2": 2100
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T08:13:14.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFjdmgyM2g2czFoZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.FnbRWfjk1B5WGXMb7qaMOSCf7omAJn2wPWH97yFqQto/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68114725",
+    "source": "otodom",
+    "sourceId": "68114725",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-klimatycznym-domem-i-duzym-garazem-ID4BNKB",
+    "propertyType": "habitat",
+    "title": "Siedlisko z klimatycznym domem i dużym garażem",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Mietel",
+    "coordinates": {
+      "lat": 50.4699812169661,
+      "lng": 20.725979880834572
+    },
+    "isNearBorder": false,
+    "areaM2": 180,
+    "plotAreaM2": 14000,
+    "currentPrice": 680000,
+    "currentPricePerM2": 3777.78,
+    "initialPrice": 680000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-16",
+        "price": 680000,
+        "pricePerM2": 3777.78
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T22:12:38.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJxeGVmbWVoOTd4aDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.AwcIW2kHSkxvQdOJ7xqVUS2xOewgdZoaHY8IpEPX4cU/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68353605",
+    "source": "otodom",
+    "sourceId": "68353605",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/okazja-galow-gm-busko-zdroj-siedlisko-20-000m-dom-budynki-gospodarcze-ID4CNTw",
+    "propertyType": "habitat",
+    "title": "OKAZJA Galów gm Busko-Zdrój.SIEDLISKO 20 000m²|DOM+BUDYNKI GOSPODARCZE",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Galów",
+    "street": "GALÓW 52",
+    "coordinates": {
+      "lat": 50.463595685263364,
+      "lng": 20.708913948924216
+    },
+    "isNearBorder": false,
+    "areaM2": 65,
+    "plotAreaM2": 20000,
+    "currentPrice": 199000,
+    "currentPricePerM2": 3061.54,
+    "initialPrice": 199000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-15",
+        "price": 199000,
+        "pricePerM2": 3061.54
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-15T18:17:57.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZnNjNvbngyMTA3NzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.49MQO5w-Ok3-v9AMAQfphCbISR1Ri5Ts1n9XYMMPNFk/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68366775",
+    "source": "otodom",
+    "sourceId": "68366775",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowe-siedlisko-z-projektem-adaptacji-ID4CRjW",
+    "propertyType": "habitat",
+    "title": "Wyjątkowe siedlisko z projektem adaptacji!",
+    "voivodeship": "swietokrzyskie",
+    "county": "sandomierski",
+    "city": "Krobielice",
+    "coordinates": {
+      "lat": 50.68387432395102,
+      "lng": 21.750833469106237
+    },
+    "isNearBorder": false,
+    "areaM2": 65,
+    "plotAreaM2": 900,
+    "currentPrice": 197000,
+    "currentPricePerM2": 3030.77,
+    "initialPrice": 197000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-31",
+        "price": 197000,
+        "pricePerM2": 3030.77
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-31T14:31:07.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjlrZms0c2tlNTMyeS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.FX6Shhl9S1jcEzrU2byD810_Csz1B_F-W2kY0y6cJ_U/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68332086",
+    "source": "otodom",
+    "sourceId": "68332086",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/prawdziwe-siedlisko-dom-sad-sliwkowy-i-las-zajrzyj-i-przeczytaj-ID4CIiq",
+    "propertyType": "habitat",
+    "title": "Prawdziwe siedlisko| Dom, sad śliwkowy i las. Zajrzyj i przeczytaj!",
+    "voivodeship": "swietokrzyskie",
+    "county": "sandomierski",
+    "city": "Linów",
+    "coordinates": {
+      "lat": 50.68746217480763,
+      "lng": 21.74563240742408
+    },
+    "isNearBorder": false,
+    "areaM2": 86,
+    "plotAreaM2": 18500,
+    "currentPrice": 549000,
+    "currentPricePerM2": 6383.72,
+    "initialPrice": 549000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-20",
+        "price": 549000,
+        "pricePerM2": 6383.72
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-20T09:11:44.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ6dGU1djMxd2ZsbTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.oxMmF15gv3QhbN2R-n5M3h2gLuDl9IDgNW-H_Uwj_vE/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68163557",
+    "source": "otodom",
+    "sourceId": "68163557",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-ogromnym-potencjalem-lisow-powiat-opatowski-ID4C0sd",
+    "propertyType": "habitat",
+    "title": "Siedlisko z ogromnym potencjałem – Lisów, powiat opatowski",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Lisów",
+    "coordinates": {
+      "lat": 50.80220190536535,
+      "lng": 21.427129319748662
+    },
+    "isNearBorder": false,
+    "areaM2": 50,
+    "plotAreaM2": 3842,
+    "currentPrice": 155000,
+    "currentPricePerM2": 3100,
+    "initialPrice": 155000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-13",
+        "price": 155000,
+        "pricePerM2": 3100
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-13T13:59:14.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjUxYW1qMHRlZXYyNTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nvg2wc8c2BkDfSN9FD-c5AwEITxy2_l7UtSSUGEbak4/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68306736",
+    "source": "otodom",
+    "sourceId": "68306736",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/widokowe-siedlisko-na-wzniesieniu-ID4CBHy",
+    "propertyType": "habitat",
+    "title": "Widokowe siedlisko na wzniesieniu!",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Prusy",
+    "coordinates": {
+      "lat": 51.29670094693734,
+      "lng": 22.308276743673296
+    },
+    "isNearBorder": false,
+    "areaM2": 50,
+    "plotAreaM2": 3000,
+    "currentPrice": 249000,
+    "currentPricePerM2": 4980,
+    "initialPrice": 249000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-12",
+        "price": 249000,
+        "pricePerM2": 4980
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-12T12:06:30.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUwZmZjM3FjZGQyMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.7A_uBWHvOpLp8GVaetJqsJfpgc1YsAqMBLGavEEW7h0/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68301681",
+    "source": "otodom",
+    "sourceId": "68301681",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-drewnianym-domem-w-swietokrzyskim-ID4CAo1",
+    "propertyType": "habitat",
+    "title": "Siedlisko z drewnianym domem w Świętokrzyskim !",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Budzyń",
+    "coordinates": {
+      "lat": 50.473403894459075,
+      "lng": 20.72343094452377
+    },
+    "isNearBorder": false,
+    "areaM2": 82,
+    "currentPrice": 1849000,
+    "currentPricePerM2": 22548.78,
+    "initialPrice": 1849000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-11",
+        "price": 1849000,
+        "pricePerM2": 22548.78
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-11T08:42:15.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBjZDgwZTVibG5vdC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.GQ1JEaCZgtoQkFnTivFYoamcdxtD8rKYbnbHJp0sO4Y/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68292567",
+    "source": "otodom",
+    "sourceId": "68292567",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-1-83ha-dom-i-zabudowania-szyszczyce-ID4Cy11",
+    "propertyType": "habitat",
+    "title": "Gospodarstwo 1,83ha, dom i zabudowania, Szyszczyce",
+    "voivodeship": "swietokrzyskie",
+    "county": "pińczowski",
+    "city": "Szyszczyce",
+    "coordinates": {
+      "lat": 50.51546788647163,
+      "lng": 20.528641651016283
+    },
+    "isNearBorder": false,
+    "areaM2": 140,
+    "currentPrice": 560000,
+    "currentPricePerM2": 4000,
+    "initialPrice": 560000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-07",
+        "price": 560000,
+        "pricePerM2": 4000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-07T12:45:23.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZjeGdwa3FpOWsxaC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.AosOF0CKTtlnE5fW6aoxCzkQGzoJqLZuXX22hIpq7l8/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68266213",
+    "source": "otodom",
+    "sourceId": "68266213",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/widokowe-siedlisko-3-dzialki-z-domem-ID4Cr9X",
+    "propertyType": "habitat",
+    "title": "Widokowe siedlisko - 3 działki z domem!",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Prusy",
+    "coordinates": {
+      "lat": 51.30535728155958,
+      "lng": 22.302708359665186
+    },
+    "isNearBorder": false,
+    "areaM2": 80,
+    "plotAreaM2": 3829,
+    "currentPrice": 159000,
+    "currentPricePerM2": 1987.5,
+    "initialPrice": 159000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-07-30",
+        "price": 159000,
+        "pricePerM2": 1987.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-07-30T12:25:29.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1oeGwwOWV3dXlzdy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.KbzpBX3wXygJ2E14I6KKbphhtFwl7m6rFE4ALlm24pQ/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68248853",
+    "source": "otodom",
+    "sourceId": "68248853",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/interesujace-siedlisko-4-dzialki-ok-1-5-ha-ze-strumykiem-w-gosaniu-ID4CmDX",
+    "propertyType": "habitat",
+    "title": "Interesujące siedlisko  4 działki  ok.1,5 ha   ze strumykiem w Gosaniu",
+    "voivodeship": "swietokrzyskie",
+    "county": "konecki",
+    "city": "Gosań",
+    "coordinates": {
+      "lat": 51.201978312392086,
+      "lng": 20.39928296528918
+    },
+    "isNearBorder": false,
+    "areaM2": 135,
+    "plotAreaM2": 11500,
+    "currentPrice": 220000,
+    "currentPricePerM2": 1629.63,
+    "initialPrice": 220000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-07-24",
+        "price": 220000,
+        "pricePerM2": 1629.63
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-07-24T13:19:53.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBoNjljNXJqZTd0ZjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ia_7DZrdTkK1DjjKmlbq3BU0NjCDyEl3bZTQfoxSGv8/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68111104",
+    "source": "otodom",
+    "sourceId": "68111104",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-byle-gospodarstwo-w-krzczonowicach-ID4BMOc",
+    "propertyType": "habitat",
+    "title": "Na sprzedaż byłe gospodarstwo w Krzczonowicach",
+    "voivodeship": "swietokrzyskie",
+    "county": "ostrowiecki",
+    "city": "Krzczonowice",
+    "coordinates": {
+      "lat": 50.92821698171384,
+      "lng": 21.3828752575318
+    },
+    "isNearBorder": false,
+    "areaM2": 385,
+    "currentPrice": 249000,
+    "currentPricePerM2": 646.75,
+    "initialPrice": 249000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-06-15",
+        "price": 249000,
+        "pricePerM2": 646.75
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-06-15T21:45:04.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9pNGJzcjQ2cHI3YTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.130MYcA0fq8e30-_1iB2BhgZWNQEAAh5DURRXBQk2mQ/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68143587",
+    "source": "otodom",
+    "sourceId": "68143587",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-8500-m-dom-przy-lesie-smykow-ID4BWg7",
+    "propertyType": "habitat",
+    "title": "Siedlisko 8500 m² , Dom, przy lesie , Smyków",
+    "voivodeship": "swietokrzyskie",
+    "county": "konecki",
+    "city": "Smyków",
+    "coordinates": {
+      "lat": 51.198994248825244,
+      "lng": 20.40717735840362
+    },
+    "isNearBorder": false,
+    "areaM2": 180,
+    "currentPrice": 320000,
+    "currentPricePerM2": 1777.78,
+    "initialPrice": 320000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-06-25",
+        "price": 320000,
+        "pricePerM2": 1777.78
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-06-25T10:37:50.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImV4cHVyaHd2ZGw1di1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.8r4tCLUw1uwG_5Dndh0YnrZ6Uoj7lPKb8P1oxKPUVJs/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68125094",
+    "source": "otodom",
+    "sourceId": "68125094",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/widokowe-siedlisko-w-checinach-6448m2-ID4BQrQ",
+    "propertyType": "habitat",
+    "title": "Widokowe siedlisko w Chęcinach - 6448m2!",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Chęciny",
+    "coordinates": {
+      "lat": 50.79633068851607,
+      "lng": 20.460330897467333
+    },
+    "isNearBorder": false,
+    "areaM2": 90,
+    "currentPrice": 549000,
+    "currentPricePerM2": 6100,
+    "initialPrice": 549000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-06-19",
+        "price": 549000,
+        "pricePerM2": 6100
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-06-19T13:25:29.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im54d3pjZGZlbXp3MjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Idvaqc--Eu8J2pdEMyIVJSB3x_1e_o_6Xq73RzFYWHw/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-66257992",
+    "source": "otodom",
+    "sourceId": "66257992",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/urocze-siedlisko-2-domy-piekna-dzialka-5633m2-ID4u0Ji",
+    "propertyType": "habitat",
+    "title": "Urocze siedlisko, 2 domy, piękna działka, 5633m2",
+    "voivodeship": "swietokrzyskie",
+    "county": "ostrowiecki",
+    "city": "Krzczonowice",
+    "coordinates": {
+      "lat": 50.92312542986153,
+      "lng": 21.393410024263975
+    },
+    "isNearBorder": false,
+    "areaM2": 77,
+    "plotAreaM2": 5633,
+    "currentPrice": 379000,
+    "currentPricePerM2": 4922.08,
+    "initialPrice": 379000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2025-10-09",
+        "price": 379000,
+        "pricePerM2": 4922.08
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2025-10-09T07:44:18.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inc3amtuY21scTkxZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Z9PbVTZg7tqAkR63EWOnpLw5zmxzuEUKKcQ6t9HPaSg/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-66859842",
+    "source": "otodom",
+    "sourceId": "66859842",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/atrakcyjna-nieruchomosc-siedliskowa-zabudowana-ID4vxiy",
+    "propertyType": "habitat",
+    "title": "Atrakcyjna nieruchomość siedliskowa zabudowana",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Drygulec",
+    "coordinates": {
+      "lat": 50.79798910959693,
+      "lng": 21.41597825203395
+    },
+    "isNearBorder": false,
+    "areaM2": 71.2,
+    "plotAreaM2": 8000,
+    "currentPrice": 629000,
+    "currentPricePerM2": 8834.27,
+    "initialPrice": 629000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2025-05-24",
+        "price": 629000,
+        "pricePerM2": 8834.27
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2025-05-24T18:35:36.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRpdXNpenZhOHlnbzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.amdWuQ70cqO9peUaBHFv1ua7c9WlElzV4TA-AHajFg8/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-66806537",
+    "source": "otodom",
+    "sourceId": "66806537",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-dom-120m2-na-dzialce-1-06ha-podzamcze-gmina-nowy-korczyn-ID4vjqN",
+    "propertyType": "habitat",
+    "title": "Gospodarstwo Dom 120m2 na działce 1,06ha, Podzamcze gmina Nowy Korczyn",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Podzamcze",
+    "coordinates": {
+      "lat": 50.46398133078605,
+      "lng": 20.728192991953996
+    },
+    "isNearBorder": false,
+    "areaM2": 120,
+    "plotAreaM2": 10679,
+    "currentPrice": 379000,
+    "currentPricePerM2": 3158.33,
+    "initialPrice": 379000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2025-05-09",
+        "price": 379000,
+        "pricePerM2": 3158.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2025-05-09T13:17:00.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY2dHMxdGpneDY4MTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dc9KALTyKR7fvC12LXPXvunSw1KQwbmfUHkKXaWi150/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-65958189",
+    "source": "otodom",
+    "sourceId": "65958189",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/atrakcyjne-siedlisko-blisko-jeziora-chancza-ID4sKJL",
+    "propertyType": "habitat",
+    "title": "Atrakcyjne siedlisko blisko Jeziora Chańcza",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Drogowle",
+    "coordinates": {
+      "lat": 50.86205096403252,
+      "lng": 20.62934074642968
+    },
+    "isNearBorder": false,
+    "areaM2": 97.84,
+    "plotAreaM2": 10033,
+    "currentPrice": 349000,
+    "currentPricePerM2": 3567.05,
+    "initialPrice": 349000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2024-10-01",
+        "price": 349000,
+        "pricePerM2": 3567.05
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2024-10-01T17:35:38.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImphMXJla2ttN2V4di1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.JnZ7am8pZGaqXYWsy3CSio-KRHLYnqrEMZ6wPEktjzM/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4270492",
+    "source": "adresowo",
+    "sourceId": "4270492",
+    "sourceUrl": "https://adresowo.pl/o/dom-lopuszno-gniezdziska-100-m2-n7r4y4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Gnieździska",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Gnieździska",
+    "coordinates": {
+      "lat": 50.859654422497634,
+      "lng": 20.620495975110554
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "currentPrice": 639000,
+    "currentPricePerM2": 6390,
+    "initialPrice": 639000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 639000,
+        "pricePerM2": 6390
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:15.227Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/29/63/41299c_b31d_cover@2x-dom-kielecki-gniezdziska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4199342",
+    "source": "adresowo",
+    "sourceId": "4199342",
+    "sourceUrl": "https://adresowo.pl/o/dom-busko-zdroj-budzyn-82-m2-o6f3d0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Budzyń",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Budzyń",
+    "coordinates": {
+      "lat": 50.46760832200543,
+      "lng": 20.7187716306186
+    },
+    "isNearBorder": false,
+    "areaM2": 82,
+    "currentPrice": 1849000,
+    "currentPricePerM2": 22548.78,
+    "initialPrice": 1849000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1849000,
+        "pricePerM2": 22548.78
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:17.310Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/62/3a/4013ae_5cf0_cover@2x-dom-buski-budzyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4188774",
+    "source": "adresowo",
+    "sourceId": "4188774",
+    "sourceUrl": "https://adresowo.pl/o/dom-ozarow-135-m2-j0u1e7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ożarów",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Ożarów",
+    "coordinates": {
+      "lat": 51.30138085348423,
+      "lng": 22.308673991813603
+    },
+    "isNearBorder": false,
+    "areaM2": 135,
+    "currentPrice": 159000,
+    "currentPricePerM2": 1177.78,
+    "initialPrice": 159000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 159000,
+        "pricePerM2": 1177.78
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:17.310Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/44/48/3fea66_36ca_cover@2x-dom-opatowski-ozarow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4128132",
+    "source": "adresowo",
+    "sourceId": "4128132",
+    "sourceUrl": "https://adresowo.pl/o/dom-checiny-180-m2-b7c5a0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Chęciny",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Chęciny",
+    "coordinates": {
+      "lat": 50.79696802522529,
+      "lng": 20.461743216699908
+    },
+    "isNearBorder": false,
+    "areaM2": 180,
+    "currentPrice": 549000,
+    "currentPricePerM2": 3050,
+    "initialPrice": 549000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 549000,
+        "pricePerM2": 3050
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:17.310Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/69/5d/3efd84_997b_cover@2x-dom-kielecki-checiny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4243966",
+    "source": "adresowo",
+    "sourceId": "4243966",
+    "sourceUrl": "https://adresowo.pl/o/dom-osiek-szwagrow-60-m2-w5t9v8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Szwagrów",
+    "voivodeship": "swietokrzyskie",
+    "county": "staszowski",
+    "city": "Szwagrów",
+    "coordinates": {
+      "lat": 50.56608817546156,
+      "lng": 21.162989092692463
+    },
+    "isNearBorder": false,
+    "areaM2": 60,
+    "currentPrice": 350000,
+    "currentPricePerM2": 5833.33,
+    "initialPrice": 350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 350000,
+        "pricePerM2": 5833.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:17.310Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/50/3e/40c1fe_9636_cover@2x-dom-staszowski-szwagrow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4122578",
+    "source": "adresowo",
+    "sourceId": "4122578",
+    "sourceUrl": "https://adresowo.pl/o/dom-cmielow-krzczonowice-400-m2-w2l9j0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Krzczonowice",
+    "voivodeship": "swietokrzyskie",
+    "county": "ostrowiecki",
+    "city": "Krzczonowice",
+    "coordinates": {
+      "lat": 50.93611009796592,
+      "lng": 21.37570329418552
+    },
+    "isNearBorder": false,
+    "areaM2": 400,
+    "currentPrice": 249000,
+    "currentPricePerM2": 622.5,
+    "initialPrice": 249000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 249000,
+        "pricePerM2": 622.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:17.310Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1a/10/3ee7d2_c991_cover@2x-dom-ostrowiecki-krzczonowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4242914",
+    "source": "adresowo",
+    "sourceId": "4242914",
+    "sourceUrl": "https://adresowo.pl/o/dom-lipnik-kurow-70-m2-a4l2w3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kurów",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Kurów",
+    "coordinates": {
+      "lat": 51.38252237241171,
+      "lng": 22.181272320515955
+    },
+    "isNearBorder": false,
+    "areaM2": 70,
+    "currentPrice": 249000,
+    "currentPricePerM2": 3557.14,
+    "initialPrice": 249000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 249000,
+        "pricePerM2": 3557.14
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:17.310Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/30/16/40bde2_7b31_cover@2x-dom-opatowski-kurow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4231142",
+    "source": "adresowo",
+    "sourceId": "4231142",
+    "sourceUrl": "https://adresowo.pl/o/dom-wojciechowice-lisow-100-m2-o0c3u5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Lisów",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Lisów",
+    "coordinates": {
+      "lat": 50.79641709906595,
+      "lng": 21.42162950729644
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "currentPrice": 1000000,
+    "currentPricePerM2": 10000,
+    "initialPrice": 1000000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1000000,
+        "pricePerM2": 10000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:17.310Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/73/67/408fe6_d33f_cover@2x-dom-opatowski-lisow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4229786",
+    "source": "adresowo",
+    "sourceId": "4229786",
+    "sourceUrl": "https://adresowo.pl/o/dom-gnojno-maciejowice-80-m2-r2a1d2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Maciejowice",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Maciejowice",
+    "coordinates": {
+      "lat": 50.47541294794915,
+      "lng": 20.711288556976324
+    },
+    "isNearBorder": false,
+    "areaM2": 80,
+    "plotAreaM2": 3663,
+    "currentPrice": 230000,
+    "currentPricePerM2": 2875,
+    "initialPrice": 230000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 230000,
+        "pricePerM2": 2875
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:17.310Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4f/41/408a9a_e4ff_cover@2x-dom-buski-maciejowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4225878",
+    "source": "adresowo",
+    "sourceId": "4225878",
+    "sourceUrl": "https://adresowo.pl/o/dom-dzialoszyce-wolica-97-m2-o7s9e3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wolica",
+    "voivodeship": "swietokrzyskie",
+    "county": "pinczowski",
+    "city": "Wolica",
+    "coordinates": {
+      "lat": 51.70908331324735,
+      "lng": 18.152159840615298
+    },
+    "isNearBorder": false,
+    "areaM2": 97,
+    "currentPrice": 680000,
+    "currentPricePerM2": 7010.31,
+    "initialPrice": 680000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 680000,
+        "pricePerM2": 7010.31
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:17.310Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/15/46/407b56_e4f8_cover@2x-dom-pinczowski-wolica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4198894",
+    "source": "adresowo",
+    "sourceId": "4198894",
+    "sourceUrl": "https://adresowo.pl/o/dom-ozarow-jakubowice-85-m2-o2d1r8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jakubowice",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Jakubowice",
+    "coordinates": {
+      "lat": 50.797578169434324,
+      "lng": 21.41648001510771
+    },
+    "isNearBorder": false,
+    "areaM2": 85,
+    "currentPrice": 750000,
+    "currentPricePerM2": 8823.53,
+    "initialPrice": 750000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 750000,
+        "pricePerM2": 8823.53
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:19.267Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2b/6b/4011ee_2a16_cover@2x-dom-opatowski-jakubowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4190436",
+    "source": "adresowo",
+    "sourceId": "4190436",
+    "sourceUrl": "https://adresowo.pl/o/dom-kije-czechow-73-m2-d1l1h0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Czechów",
+    "voivodeship": "swietokrzyskie",
+    "county": "pinczowski",
+    "city": "Czechów",
+    "coordinates": {
+      "lat": 51.27761693129014,
+      "lng": 22.55387602084823
+    },
+    "isNearBorder": false,
+    "areaM2": 73,
+    "currentPrice": 420000,
+    "currentPricePerM2": 5753.42,
+    "initialPrice": 420000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 420000,
+        "pricePerM2": 5753.42
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:19.267Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7a/3e/3ff0e4_d9a2_cover@2x-dom-pinczowski-czechow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4189618",
+    "source": "adresowo",
+    "sourceId": "4189618",
+    "sourceUrl": "https://adresowo.pl/o/dom-bodzentyn-wola-szczygielkowa-200-m2-v7l5v7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wola Szczygiełkowa",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Wola Szczygiełkowa",
+    "coordinates": {
+      "lat": 50.861121782375946,
+      "lng": 20.625100208918923
+    },
+    "isNearBorder": false,
+    "areaM2": 200,
+    "currentPrice": 450000,
+    "currentPricePerM2": 2250,
+    "initialPrice": 450000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 450000,
+        "pricePerM2": 2250
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:19.267Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/73/71/3fedb2_f5e7_cover@2x-dom-kielecki-wola-szczygielkowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4179862",
+    "source": "adresowo",
+    "sourceId": "4179862",
+    "sourceUrl": "https://adresowo.pl/o/dom-imielno-dalechowy-250-m2-f8i2f1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Dalechowy",
+    "voivodeship": "swietokrzyskie",
+    "county": "jedrzejowski",
+    "city": "Dalechowy",
+    "coordinates": {
+      "lat": 50.63394247049583,
+      "lng": 20.302723224297957
+    },
+    "isNearBorder": false,
+    "areaM2": 250,
+    "currentPrice": 3000000,
+    "currentPricePerM2": 12000,
+    "initialPrice": 3000000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 3000000,
+        "pricePerM2": 12000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:19.267Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/76/28/3fc796_e5ab_cover@2x-dom-jedrzejowski-dalechowy.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4170476",
+    "source": "adresowo",
+    "sourceId": "4170476",
+    "sourceUrl": "https://adresowo.pl/o/dom-falkow-turowice-70-m2-s3k9r4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Turowice",
+    "voivodeship": "swietokrzyskie",
+    "county": "konecki",
+    "city": "Turowice",
+    "coordinates": {
+      "lat": 51.19418223311392,
+      "lng": 20.39994119780073
+    },
+    "isNearBorder": false,
+    "areaM2": 70,
+    "currentPrice": 330000,
+    "currentPricePerM2": 4714.29,
+    "initialPrice": 330000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 330000,
+        "pricePerM2": 4714.29
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:19.267Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/14/30/3fa2ec_39db_cover@2x-dom-konecki-turowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4161504",
+    "source": "adresowo",
+    "sourceId": "4161504",
+    "sourceUrl": "https://adresowo.pl/o/dom-ozarow-nowe-60-m2-d0h9s9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Nowe",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Nowe",
+    "coordinates": {
+      "lat": 52.40346765385854,
+      "lng": 17.006436725786028
+    },
+    "isNearBorder": false,
+    "areaM2": 60,
+    "currentPrice": 220000,
+    "currentPricePerM2": 3666.67,
+    "initialPrice": 220000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 220000,
+        "pricePerM2": 3666.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:19.267Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5c/34/3f7fe0_bf6f_cover@2x-dom-opatowski-nowe.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4153578",
+    "source": "adresowo",
+    "sourceId": "4153578",
+    "sourceUrl": "https://adresowo.pl/o/dom-pacanow-kepa-lubawska-100-m2-y1u7y8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kępa Lubawska",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Kępa Lubawska",
+    "coordinates": {
+      "lat": 50.46521963986154,
+      "lng": 20.7203869277343
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "currentPrice": 349000,
+    "currentPricePerM2": 3490,
+    "initialPrice": 349000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 349000,
+        "pricePerM2": 3490
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:19.267Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/47/5b/3f60ea_9501_cover@2x-dom-buski-kepa-lubawska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4139354",
+    "source": "adresowo",
+    "sourceId": "4139354",
+    "sourceUrl": "https://adresowo.pl/o/dom-oksa-blogoszow-227-m2-f7u7c1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Błogoszów, W Lesie",
+    "voivodeship": "swietokrzyskie",
+    "county": "jedrzejowski",
+    "city": "Błogoszów",
+    "street": "W Lesie",
+    "coordinates": {
+      "lat": 50.64349940900541,
+      "lng": 20.29834638820658
+    },
+    "isNearBorder": false,
+    "areaM2": 227,
+    "currentPrice": 439000,
+    "currentPricePerM2": 1933.92,
+    "initialPrice": 439000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 439000,
+        "pricePerM2": 1933.92
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:19.267Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4d/3c/3f295a_3b1f_cover@2x-dom-jedrzejowski-blogoszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4139314",
+    "source": "adresowo",
+    "sourceId": "4139314",
+    "sourceUrl": "https://adresowo.pl/o/dom-miedziana-gora-cminsk-170-m2-s2m1n3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ćmińsk",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Ćmińsk",
+    "coordinates": {
+      "lat": 50.867338649478675,
+      "lng": 20.628408697351954
+    },
+    "isNearBorder": false,
+    "areaM2": 170,
+    "currentPrice": 550000,
+    "currentPricePerM2": 3235.29,
+    "initialPrice": 550000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 550000,
+        "pricePerM2": 3235.29
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:19.267Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6d/75/3f2932_cb64_cover@2x-dom-kielecki-cminsk.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4134414",
+    "source": "adresowo",
+    "sourceId": "4134414",
+    "sourceUrl": "https://adresowo.pl/o/dom-cmielow-przeuszyn-60-m2-v2b8m6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Przeuszyn",
+    "voivodeship": "swietokrzyskie",
+    "county": "ostrowiecki",
+    "city": "Przeuszyn",
+    "coordinates": {
+      "lat": 50.92740701116078,
+      "lng": 21.37897183882135
+    },
+    "isNearBorder": false,
+    "areaM2": 60,
+    "currentPrice": 360000,
+    "currentPricePerM2": 6000,
+    "initialPrice": 360000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 360000,
+        "pricePerM2": 6000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:19.267Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/71/3e/3f160e_73e0_cover@2x-dom-ostrowiecki-przeuszyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4090348",
+    "source": "adresowo",
+    "sourceId": "4090348",
+    "sourceUrl": "https://adresowo.pl/o/dom-cmielow-podgrodzie-84-m2-h4q8e6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Podgrodzie, Smyków",
+    "voivodeship": "swietokrzyskie",
+    "county": "ostrowiecki",
+    "city": "Podgrodzie",
+    "street": "Smyków",
+    "coordinates": {
+      "lat": 50.930640868258656,
+      "lng": 21.38313706735185
+    },
+    "isNearBorder": false,
+    "areaM2": 84,
+    "currentPrice": 279000,
+    "currentPricePerM2": 3321.43,
+    "initialPrice": 279000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 279000,
+        "pricePerM2": 3321.43
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:21.722Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/35/57/3e69ec_63a8_cover@2x-dom-ostrowiecki-podgrodzie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4087382",
+    "source": "adresowo",
+    "sourceId": "4087382",
+    "sourceUrl": "https://adresowo.pl/o/dom-pierzchnica-ujny-80-m2-n2a0c0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ujny",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Ujny",
+    "coordinates": {
+      "lat": 50.87242951570698,
+      "lng": 20.628717621664087
+    },
+    "isNearBorder": false,
+    "areaM2": 80,
+    "currentPrice": 340000,
+    "currentPricePerM2": 4250,
+    "initialPrice": 340000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 340000,
+        "pricePerM2": 4250
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:21.722Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/63/55/3e5e56_ef19_cover@2x-dom-kielecki-ujny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4080394",
+    "source": "adresowo",
+    "sourceId": "4080394",
+    "sourceUrl": "https://adresowo.pl/o/dom-wasniow-stryczowice-90-m2-x3p6s9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Stryczowice",
+    "voivodeship": "swietokrzyskie",
+    "county": "ostrowiecki",
+    "city": "Stryczowice",
+    "coordinates": {
+      "lat": 50.93558928037074,
+      "lng": 21.395160165866056
+    },
+    "isNearBorder": false,
+    "areaM2": 90,
+    "currentPrice": 650000,
+    "currentPricePerM2": 7222.22,
+    "initialPrice": 650000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 650000,
+        "pricePerM2": 7222.22
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:21.722Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4c/18/3e430a_2adc_cover@2x-dom-ostrowiecki-stryczowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4065706",
+    "source": "adresowo",
+    "sourceId": "4065706",
+    "sourceUrl": "https://adresowo.pl/o/dom-lopuszno-gniezdziska-70-m2-y2j1w0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Gnieździska",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Gnieździska",
+    "coordinates": {
+      "lat": 50.86529085387017,
+      "lng": 20.63306892472014
+    },
+    "isNearBorder": false,
+    "areaM2": 70,
+    "currentPrice": 485000,
+    "currentPricePerM2": 6928.57,
+    "initialPrice": 485000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 485000,
+        "pricePerM2": 6928.57
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:21.722Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/52/4d/3e09aa_313c_cover@2x-dom-kielecki-gniezdziska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4060406",
+    "source": "adresowo",
+    "sourceId": "4060406",
+    "sourceUrl": "https://adresowo.pl/o/dom-busko-zdroj-bilczow-170-m2-n5r8n2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bilczów",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Bilczów",
+    "coordinates": {
+      "lat": 50.47574277840022,
+      "lng": 20.715505702700654
+    },
+    "isNearBorder": false,
+    "areaM2": 170,
+    "currentPrice": 620000,
+    "currentPricePerM2": 3647.06,
+    "initialPrice": 620000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 620000,
+        "pricePerM2": 3647.06
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:21.722Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6f/34/3df4f6_dbe9_cover@2x-dom-buski-bilczow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4044694",
+    "source": "adresowo",
+    "sourceId": "4044694",
+    "sourceUrl": "https://adresowo.pl/o/dom-tarlow-ciszyca-dolna-70-m2-z0o2f6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ciszyca Dolna",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Ciszyca Dolna",
+    "coordinates": {
+      "lat": 50.798808661076265,
+      "lng": 21.433942369081883
+    },
+    "isNearBorder": false,
+    "areaM2": 70,
+    "currentPrice": 150000,
+    "currentPricePerM2": 2142.86,
+    "initialPrice": 150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 150000,
+        "pricePerM2": 2142.86
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:21.722Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/35/7f/3db796_9311_cover@2x-dom-opatowski-ciszyca-dolna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4002028",
+    "source": "adresowo",
+    "sourceId": "4002028",
+    "sourceUrl": "https://adresowo.pl/o/dom-opatow-jurkowice-100-m2-f3s0r5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jurkowice",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Jurkowice",
+    "coordinates": {
+      "lat": 50.81097514367873,
+      "lng": 21.429422131550535
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "currentPrice": 170000,
+    "currentPricePerM2": 1700,
+    "initialPrice": 170000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 170000,
+        "pricePerM2": 1700
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:21.722Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/38/3f/3d10ec_5698_cover@2x-dom-opatowski-jurkowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3984640",
+    "source": "adresowo",
+    "sourceId": "3984640",
+    "sourceUrl": "https://adresowo.pl/o/dom-bodzentyn-dabrowa-gorna-120-m2-y3u1b5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Dąbrowa Górna",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Dąbrowa Górna",
+    "coordinates": {
+      "lat": 50.859207354055805,
+      "lng": 20.627659794832013
+    },
+    "isNearBorder": false,
+    "areaM2": 120,
+    "currentPrice": 380000,
+    "currentPricePerM2": 3166.67,
+    "initialPrice": 380000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 380000,
+        "pricePerM2": 3166.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:21.722Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7d/7d/3ccd00_6193_cover@2x-dom-kielecki-dabrowa-gorna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3912842",
+    "source": "adresowo",
+    "sourceId": "3912842",
+    "sourceUrl": "https://adresowo.pl/o/dom-samborzec-kobierniki-175-m2-x2i6g0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kobierniki",
+    "voivodeship": "swietokrzyskie",
+    "county": "sandomierski",
+    "city": "Kobierniki",
+    "coordinates": {
+      "lat": 50.685003084468725,
+      "lng": 21.749930535795
+    },
+    "isNearBorder": false,
+    "areaM2": 175,
+    "currentPrice": 1999000,
+    "currentPricePerM2": 11422.86,
+    "initialPrice": 1999000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1999000,
+        "pricePerM2": 11422.86
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:23.670Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2b/4e/3bb48a_7f91_cover@2x-dom-sandomierski-kobierniki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3652834",
+    "source": "adresowo",
+    "sourceId": "3652834",
+    "sourceUrl": "https://adresowo.pl/o/dom-gnojno-janowice-raczyckie-180-m2-x2c6r6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Janowice Raczyckie, Pytlówka",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Janowice Raczyckie",
+    "street": "Pytlówka",
+    "coordinates": {
+      "lat": 50.46186111500582,
+      "lng": 20.723848869159422
+    },
+    "isNearBorder": false,
+    "areaM2": 180,
+    "currentPrice": 850000,
+    "currentPricePerM2": 4722.22,
+    "initialPrice": 850000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 850000,
+        "pricePerM2": 4722.22
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:23.670Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1f/46/37bce2_6a9d_cover@2x-dom-buski-janowice-raczyckie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3631468",
+    "source": "adresowo",
+    "sourceId": "3631468",
+    "sourceUrl": "https://adresowo.pl/o/dom-falkow-czermno-kolonia-ul-kolejowa-u9y9b1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Czermno-Kolonia, ul. Kolejowa",
+    "voivodeship": "swietokrzyskie",
+    "county": "konecki",
+    "city": "Czermno-Kolonia",
+    "street": "ul. Kolejowa",
+    "coordinates": {
+      "lat": 51.18884575604382,
+      "lng": 20.41131756675585
+    },
+    "isNearBorder": false,
+    "areaM2": 40,
+    "currentPrice": 180000,
+    "currentPricePerM2": 4500,
+    "initialPrice": 180000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 180000,
+        "pricePerM2": 4500
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:25.101Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/43/2b/37696c_4d1d_cover@2x-dom-konecki-czermno-kolonia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3619724",
+    "source": "adresowo",
+    "sourceId": "3619724",
+    "sourceUrl": "https://adresowo.pl/o/dom-koprzywnica-zbigniewice-100-m2-b8f0j5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zbigniewice",
+    "voivodeship": "swietokrzyskie",
+    "county": "sandomierski",
+    "city": "Zbigniewice",
+    "coordinates": {
+      "lat": 50.68675677247175,
+      "lng": 21.75504533884974
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "currentPrice": 300000,
+    "currentPricePerM2": 3000,
+    "initialPrice": 300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 300000,
+        "pricePerM2": 3000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:25.101Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/71/4a/373b8c_fa0a_cover@2x-dom-sandomierski-zbigniewice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3619004",
+    "source": "adresowo",
+    "sourceId": "3619004",
+    "sourceUrl": "https://adresowo.pl/o/dom-skarzysko-kamienna-150-m2-f6t3x5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Skarżysko-Kamienna",
+    "voivodeship": "swietokrzyskie",
+    "county": "skarzyski",
+    "city": "Skarżysko-Kamienna",
+    "coordinates": {
+      "lat": 51.12095171573002,
+      "lng": 20.867946229501364
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "currentPrice": 1999999,
+    "currentPricePerM2": 13333.33,
+    "initialPrice": 1999999,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1999999,
+        "pricePerM2": 13333.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:25.101Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/10/53/3738bc_92a5_cover@2x-dom-skarzyski-skarzysko-kamienna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3473094",
+    "source": "adresowo",
+    "sourceId": "3473094",
+    "sourceUrl": "https://adresowo.pl/o/dom-kunow-doly-biskupie-79-m2-x2p4x7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Doły Biskupie, Doły Opacie",
+    "voivodeship": "swietokrzyskie",
+    "county": "ostrowiecki",
+    "city": "Doły Biskupie",
+    "street": "Doły Opacie",
+    "coordinates": {
+      "lat": 50.92818891235179,
+      "lng": 21.376952022714285
+    },
+    "isNearBorder": false,
+    "areaM2": 79,
+    "currentPrice": 680000,
+    "currentPricePerM2": 8607.59,
+    "initialPrice": 680000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 680000,
+        "pricePerM2": 8607.59
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:25.101Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7b/76/34fec6_f4cc_cover@2x-dom-ostrowiecki-doly-biskupie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3395156",
+    "source": "adresowo",
+    "sourceId": "3395156",
+    "sourceUrl": "https://adresowo.pl/o/dom-mirzec-osiny-110-m2-l3y6c8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Osiny",
+    "voivodeship": "swietokrzyskie",
+    "county": "starachowicki",
+    "city": "Osiny",
+    "coordinates": {
+      "lat": 51.046268990270015,
+      "lng": 21.078050053218007
+    },
+    "isNearBorder": false,
+    "areaM2": 110,
+    "currentPrice": 350000,
+    "currentPricePerM2": 3181.82,
+    "initialPrice": 350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 350000,
+        "pricePerM2": 3181.82
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:25.101Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6a/30/33ce54_5c92_cover@2x-dom-starachowicki-osiny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3394464",
+    "source": "adresowo",
+    "sourceId": "3394464",
+    "sourceUrl": "https://adresowo.pl/o/dom-wilczyce-zagrody-220-m2-j6b8t7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zagrody",
+    "voivodeship": "swietokrzyskie",
+    "county": "sandomierski",
+    "city": "Zagrody",
+    "coordinates": {
+      "lat": 50.68574499201566,
+      "lng": 21.741285187768277
+    },
+    "isNearBorder": false,
+    "areaM2": 220,
+    "currentPrice": 490000,
+    "currentPricePerM2": 2227.27,
+    "initialPrice": 490000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 490000,
+        "pricePerM2": 2227.27
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:25.101Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/54/19/33cba0_79bd_cover@2x-dom-sandomierski-zagrody.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3327332",
+    "source": "adresowo",
+    "sourceId": "3327332",
+    "sourceUrl": "https://adresowo.pl/o/dom-zlota-kostrzeszyn-100-m2-l7p9s0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kostrzeszyn",
+    "voivodeship": "swietokrzyskie",
+    "county": "pinczowski",
+    "city": "Kostrzeszyn",
+    "coordinates": {
+      "lat": 50.516673080905434,
+      "lng": 20.52140743918181
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "currentPrice": 250999,
+    "currentPricePerM2": 2509.99,
+    "initialPrice": 250999,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 250999,
+        "pricePerM2": 2509.99
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:25.101Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/61/1a/32c564_c4a9_cover@2x-dom-pinczowski-kostrzeszyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3260702",
+    "source": "adresowo",
+    "sourceId": "3260702",
+    "sourceUrl": "https://adresowo.pl/o/dom-zlota-wojslawice-75-m2-t1w4m7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wojsławice",
+    "voivodeship": "swietokrzyskie",
+    "county": "pinczowski",
+    "city": "Wojsławice",
+    "coordinates": {
+      "lat": 50.919985906858926,
+      "lng": 23.557794622217514
+    },
+    "isNearBorder": false,
+    "areaM2": 75,
+    "currentPrice": 299000,
+    "currentPricePerM2": 3986.67,
+    "initialPrice": 299000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 299000,
+        "pricePerM2": 3986.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:25.101Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3d/27/31c11e_4e8d_cover@2x-dom-pinczowski-wojslawice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2957846",
+    "source": "adresowo",
+    "sourceId": "2957846",
+    "sourceUrl": "https://adresowo.pl/o/dom-mniow-zaborowice-92-m2-l8y9f2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zaborowice",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Zaborowice",
+    "coordinates": {
+      "lat": 50.87187812810925,
+      "lng": 20.635849690462855
+    },
+    "isNearBorder": false,
+    "areaM2": 92,
+    "currentPrice": 850000,
+    "currentPricePerM2": 9239.13,
+    "initialPrice": 850000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 850000,
+        "pricePerM2": 9239.13
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:27.785Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/74/33/2d2216_c972_cover@2x-dom-kielecki-zaborowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2870542",
+    "source": "adresowo",
+    "sourceId": "2870542",
+    "sourceUrl": "https://adresowo.pl/o/dom-mirzec-osiny-200-m2-i1i5p4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Osiny",
+    "voivodeship": "swietokrzyskie",
+    "county": "starachowicki",
+    "city": "Osiny",
+    "coordinates": {
+      "lat": 51.046788641110695,
+      "lng": 21.065096504184936
+    },
+    "isNearBorder": false,
+    "areaM2": 200,
+    "currentPrice": 420000,
+    "currentPricePerM2": 2100,
+    "initialPrice": 420000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 420000,
+        "pricePerM2": 2100
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:09:27.785Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1c/4c/2bcd0e_9d6c_cover@2x-dom-starachowicki-osiny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68416617",
+    "source": "otodom",
+    "sourceId": "68416617",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-dzialkami-rolnymi-5-82-ha-daromin-k-sandomierza-ID4D4hP",
+    "propertyType": "habitat",
+    "title": "Siedlisko z działkami rolnymi 5,82 ha – Daromin k. Sandomierza",
+    "voivodeship": "swietokrzyskie",
+    "county": "sandomierski",
+    "city": "Daromin",
+    "coordinates": {
+      "lat": 50.67633116129008,
+      "lng": 21.756234353885947
+    },
+    "isNearBorder": false,
+    "areaM2": 58200,
+    "currentPrice": 854000,
+    "currentPricePerM2": 14.67,
+    "initialPrice": 854000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-21",
+        "price": 854000,
+        "pricePerM2": 14.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-21T11:59:24.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InY2dXB3Y2NlMDBwZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.mCVD5xNRJdME9JEg3WMCy7GJqReANiRv73Q5NDd6094/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-65056397",
+    "source": "otodom",
+    "sourceId": "65056397",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-zabudowane-22-15ha-mpzp-woda-prad-ID4oY8J",
+    "propertyType": "habitat",
+    "title": "Gospodarstwo rolne zabudowane 22,15ha, MPZP, Woda, Prąd",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Ociesęki",
+    "coordinates": {
+      "lat": 50.871982485105235,
+      "lng": 20.637440175919053
+    },
+    "isNearBorder": false,
+    "areaM2": 221547,
+    "currentPrice": 2750000,
+    "currentPricePerM2": 12.41,
+    "initialPrice": 2750000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-20",
+        "price": 2750000,
+        "pricePerM2": 12.41
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-20T06:39:22.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtjaTRoa2Nxd2FvdTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.w7d3SR7ysfS7RA3Fu3RQqL7T45KwOAomvxljRbY52x4/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-65721682",
+    "source": "otodom",
+    "sourceId": "65721682",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedliskowa-dzialka-w-lesie-mokry-bor-ID4rLd8",
+    "propertyType": "habitat",
+    "title": "Siedliskowa działka w lesie Mokry Bór",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Mokry Bór",
+    "coordinates": {
+      "lat": 50.859849794923946,
+      "lng": 20.620471419467275
+    },
+    "isNearBorder": false,
+    "areaM2": 4314,
+    "currentPrice": 59000,
+    "currentPricePerM2": 13.68,
+    "initialPrice": 59000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2024-07-28",
+        "price": 59000,
+        "pricePerM2": 13.68
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2024-07-28T12:17:36.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImpvOTJnMWxzcHY5ci1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.ukk1_CDhAQDzkbcMqD2INrmsSoqDr5iyoHRFbTxLRYI/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68291352",
+    "source": "otodom",
+    "sourceId": "68291352",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-3056-m-z-mediami-piotrkowice-gm-wodzislaw-ID4CxHq",
+    "propertyType": "habitat",
+    "title": "Działka siedliskowa 3056 m² z mediami, Piotrkowice, gm. Wodzisław",
+    "voivodeship": "swietokrzyskie",
+    "county": "jędrzejowski",
+    "city": "Piotrkowice",
+    "coordinates": {
+      "lat": 50.639959710450206,
+      "lng": 20.310818293423388
+    },
+    "isNearBorder": false,
+    "areaM2": 3056,
+    "currentPrice": 95000,
+    "currentPricePerM2": 31.09,
+    "initialPrice": 95000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-07",
+        "price": 95000,
+        "pricePerM2": 31.09
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-07T10:05:41.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inc1aWYyazU5M2ttOTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jncWfdCm6-Tv9BCVFrqEzUMfXFiDJCYuLH-2VjOod5c/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68411453",
+    "source": "otodom",
+    "sourceId": "68411453",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-sadownicze-1-5ha-ok-1300-owocujacych-moreli-dom-ID4D2Vx",
+    "propertyType": "habitat",
+    "title": "Gospodarstwo sadownicze 1,5ha | ok. 1300 owocujących moreli - dom",
+    "voivodeship": "swietokrzyskie",
+    "county": "sandomierski",
+    "city": "Pęchowiec",
+    "coordinates": {
+      "lat": 50.686793150447926,
+      "lng": 21.74561070857511
+    },
+    "isNearBorder": false,
+    "areaM2": 15000,
+    "currentPrice": 840000,
+    "currentPricePerM2": 56,
+    "initialPrice": 840000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-12",
+        "price": 840000,
+        "pricePerM2": 56
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-12T11:41:19.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh4OTRyZzJ1eWVvZjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.G5bbDpUVLW9WdustNoZSdcGKJKuaSqKZZAJRzGnV6ME/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68286210",
+    "source": "otodom",
+    "sourceId": "68286210",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-2-9-ha-z-duzym-prywatnym-stawem-ID4Cvmu",
+    "propertyType": "habitat",
+    "title": "Siedlisko 2,9 ha z dużym, prywatnym stawem!",
+    "voivodeship": "swietokrzyskie",
+    "county": "włoszczowski",
+    "city": "Krogulec",
+    "coordinates": {
+      "lat": 50.84740297353339,
+      "lng": 19.975726218382846
+    },
+    "isNearBorder": false,
+    "areaM2": 29000,
+    "currentPrice": 799000,
+    "currentPricePerM2": 27.55,
+    "initialPrice": 799000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-05",
+        "price": 799000,
+        "pricePerM2": 27.55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-05T23:22:39.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE3ZXgwYWh6a2djcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.32uCVKFqBxfkpVwD7RuKwFmeg-V3l-NQIgheuToR73Q/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68162555",
+    "source": "otodom",
+    "sourceId": "68162555",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/do-sprzedania-dzialka-siedliskowo-rekreacyjna-ID4C0c3",
+    "propertyType": "habitat",
+    "title": "Do sprzedania działka siedliskowo-rekreacyjna",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Wólka Bosowska",
+    "coordinates": {
+      "lat": 50.46936416543618,
+      "lng": 20.726861042399683
+    },
+    "isNearBorder": false,
+    "areaM2": 27000,
+    "currentPrice": 1800000,
+    "currentPricePerM2": 66.67,
+    "initialPrice": 1800000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-07-01",
+        "price": 1800000,
+        "pricePerM2": 66.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-07-01T14:04:29.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZncWJ3anY1dXRvaTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.SWbzx7iCBIckDlZBPSAEKLoYR-Eb9r-gflMxVESv7RI/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68081170",
+    "source": "otodom",
+    "sourceId": "68081170",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-rolno-zagrodowa-6198-m-kolonia-gorzkow-ID4BF1o",
+    "propertyType": "habitat",
+    "title": "Działka rolno-zagrodowa 6198 m² | Kolonia Gorzków",
+    "voivodeship": "swietokrzyskie",
+    "county": "staszowski",
+    "city": "Mała Wieś",
+    "coordinates": {
+      "lat": 50.55699968026015,
+      "lng": 21.160614441139657
+    },
+    "isNearBorder": false,
+    "areaM2": 6198,
+    "currentPrice": 130000,
+    "currentPricePerM2": 20.97,
+    "initialPrice": 130000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-06-06",
+        "price": 130000,
+        "pricePerM2": 20.97
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-06-06T18:26:11.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRsaDZ4aGdhbWttbzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1aR_JItYYaYtQEKCUcsQuvfimN7WrsGSpsT2UBlu-bU/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67908764",
+    "source": "otodom",
+    "sourceId": "67908764",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-pieknych-okolicznosciach-przyrody-ID4AVaE",
+    "propertyType": "habitat",
+    "title": "Siedlisko w pięknych okolicznościach przyrody.",
+    "voivodeship": "swietokrzyskie",
+    "county": "szydłowiecki",
+    "city": "Borki",
+    "coordinates": {
+      "lat": 51.231443618715154,
+      "lng": 20.8514425382234
+    },
+    "isNearBorder": false,
+    "areaM2": 55200,
+    "currentPrice": 628000,
+    "currentPricePerM2": 11.38,
+    "initialPrice": 628000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-04-15",
+        "price": 628000,
+        "pricePerM2": 11.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-04-15T10:55:59.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9wNmJrMXRobG4wcTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Dw0te5K2vq00fYK__CTtMbYRazjbSslO5MnAAI3bNwc/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67662843",
+    "source": "otodom",
+    "sourceId": "67662843",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwe-siedlisko-2-63ha-z-zabudowaniami-blizyn-ID4zUcb",
+    "propertyType": "habitat",
+    "title": "Urokliwe siedlisko 2,63ha z zabudowaniami, Bliżyn",
+    "voivodeship": "swietokrzyskie",
+    "county": "skarżyski",
+    "city": "Bliżyn",
+    "street": "ul. Zafabryczna",
+    "coordinates": {
+      "lat": 51.11279853018356,
+      "lng": 20.863054944584146
+    },
+    "isNearBorder": false,
+    "areaM2": 26354,
+    "currentPrice": 499000,
+    "currentPricePerM2": 18.93,
+    "initialPrice": 499000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-01-31",
+        "price": 499000,
+        "pricePerM2": 18.93
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-01-31T08:13:13.000Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink4dGZndTFkdDB4bzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VHaD8_fv9zUgd1nGC5GTTdpc_CybVX6CkWBBSmGIVFM/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4234714",
+    "source": "adresowo",
+    "sourceId": "4234714",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-staporkow-hucisko-ul-kielecka-z8m4t8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Hucisko, ul. Kielecka 93",
+    "voivodeship": "swietokrzyskie",
+    "county": "konecki",
+    "city": "Hucisko",
+    "street": "ul. Kielecka 93",
+    "coordinates": {
+      "lat": 51.1987564833407,
+      "lng": 20.40943958821653
+    },
+    "isNearBorder": false,
+    "areaM2": 6400,
+    "currentPrice": 290000,
+    "currentPricePerM2": 45.31,
+    "initialPrice": 290000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 290000,
+        "pricePerM2": 45.31
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:41.474Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/39/44/409dda_3301_cover@2x-dzialka-siedliskowa-konecki-hucisko.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4265480",
+    "source": "adresowo",
+    "sourceId": "4265480",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-jedrzejow-ludwinow-7-500-m2-o6c4v7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ludwinów",
+    "voivodeship": "swietokrzyskie",
+    "county": "jedrzejowski",
+    "city": "Ludwinów",
+    "coordinates": {
+      "lat": 50.636856093963274,
+      "lng": 20.3026457858499
+    },
+    "isNearBorder": false,
+    "areaM2": 7500,
+    "currentPrice": 200000,
+    "currentPricePerM2": 26.67,
+    "initialPrice": 200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 200000,
+        "pricePerM2": 26.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:41.474Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/25/15/411608_7965_cover@2x-dzialka-rolno-budowlana-jedrzejowski-ludwinow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4256374",
+    "source": "adresowo",
+    "sourceId": "4256374",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wilczyce-daromin-5-ha-w4a5m7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Daromin",
+    "voivodeship": "swietokrzyskie",
+    "county": "sandomierski",
+    "city": "Daromin",
+    "coordinates": {
+      "lat": 50.67745866914774,
+      "lng": 21.755324184060473
+    },
+    "isNearBorder": false,
+    "areaM2": 58200,
+    "currentPrice": 854000,
+    "currentPricePerM2": 14.67,
+    "initialPrice": 854000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 854000,
+        "pricePerM2": 14.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:42.833Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6a/4e/40f276_7b99_cover@2x-dzialka-siedliskowa-sandomierski-daromin.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3988900",
+    "source": "adresowo",
+    "sourceId": "3988900",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-lagow-5-974-m2-h8m3a0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Łagów",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Łagów",
+    "coordinates": {
+      "lat": 50.8644511534778,
+      "lng": 20.6270253474855
+    },
+    "isNearBorder": false,
+    "areaM2": 5974,
+    "currentPrice": 89610,
+    "currentPricePerM2": 15,
+    "initialPrice": 89610,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 89610,
+        "pricePerM2": 15
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:42.833Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/75/5e/3cdda4_9b94_cover@2x-dzialka-rolna-kielecki-lagow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3754958",
+    "source": "adresowo",
+    "sourceId": "3754958",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-kazimierza-wielka-gunow-wilkow-7-730-m2-p5s4j5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Gunów-Wilków",
+    "voivodeship": "swietokrzyskie",
+    "county": "kazimierski",
+    "city": "Gunów-Wilków",
+    "coordinates": {
+      "lat": 50.26574871381345,
+      "lng": 20.485450783477454
+    },
+    "isNearBorder": false,
+    "areaM2": 7730,
+    "currentPrice": 170000,
+    "currentPricePerM2": 21.99,
+    "initialPrice": 170000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 170000,
+        "pricePerM2": 21.99
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:42.833Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/50/16/394bce_67f7_cover@2x-dzialka-rolna-kazimierski-gunow-wilkow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3747630",
+    "source": "adresowo",
+    "sourceId": "3747630",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-ozarow-prusy-3-000-m2-h9g9l3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Prusy",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Prusy",
+    "coordinates": {
+      "lat": 50.810069956558465,
+      "lng": 21.418578522159546
+    },
+    "isNearBorder": false,
+    "areaM2": 3000,
+    "currentPrice": 249000,
+    "currentPricePerM2": 83,
+    "initialPrice": 249000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 249000,
+        "pricePerM2": 83
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:42.833Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/45/13/392f2e_b06d_cover@2x-dzialka-opatowski-prusy.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4234320",
+    "source": "adresowo",
+    "sourceId": "4234320",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-bogoria-domaradzice-2-100-m2-z6g8s6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Domaradzice",
+    "voivodeship": "swietokrzyskie",
+    "county": "staszowski",
+    "city": "Domaradzice",
+    "coordinates": {
+      "lat": 50.569324902324084,
+      "lng": 21.175874149579887
+    },
+    "isNearBorder": false,
+    "areaM2": 2100,
+    "currentPrice": 160000,
+    "currentPricePerM2": 76.19,
+    "initialPrice": 160000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 160000,
+        "pricePerM2": 76.19
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:44.779Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/23/77/409c50_c2ba_cover@2x-dzialka-siedliskowa-staszowski-domaradzice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4234306",
+    "source": "adresowo",
+    "sourceId": "4234306",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-maslow-brzezinki-5-800-m2-o7w7s0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Brzezinki",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Brzezinki",
+    "coordinates": {
+      "lat": 50.86675531680013,
+      "lng": 20.63580662722402
+    },
+    "isNearBorder": false,
+    "areaM2": 5800,
+    "currentPrice": 240000,
+    "currentPricePerM2": 41.38,
+    "initialPrice": 240000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 240000,
+        "pricePerM2": 41.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:44.779Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/36/74/409c42_d349_cover@2x-dzialka-budowlana-kielecki-brzezinki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4223040",
+    "source": "adresowo",
+    "sourceId": "4223040",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wojciechowice-lisow-1-ha-w3z2y9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Lisów",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Lisów",
+    "coordinates": {
+      "lat": 50.80113254949775,
+      "lng": 21.42981622059384
+    },
+    "isNearBorder": false,
+    "areaM2": 10500,
+    "currentPrice": 110000,
+    "currentPricePerM2": 10.48,
+    "initialPrice": 110000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 110000,
+        "pricePerM2": 10.48
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:44.779Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/24/1f/407040_fb43_cover@2x-dzialka-siedliskowa-opatowski-lisow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4220986",
+    "source": "adresowo",
+    "sourceId": "4220986",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-pinczow-mlodzawy-duze-2-367-m2-l0c2t3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Młodzawy Duże",
+    "voivodeship": "swietokrzyskie",
+    "county": "pinczowski",
+    "city": "Młodzawy Duże",
+    "coordinates": {
+      "lat": 50.526014521868376,
+      "lng": 20.527118541641208
+    },
+    "isNearBorder": false,
+    "areaM2": 2367,
+    "currentPrice": 120000,
+    "currentPricePerM2": 50.7,
+    "initialPrice": 120000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 120000,
+        "pricePerM2": 50.7
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:44.779Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/28/6e/40683a_72a4_cover@2x-dzialka-rolno-budowlana-pinczowski-mlodzawy-duze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4198668",
+    "source": "adresowo",
+    "sourceId": "4198668",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-kazimierza-wielka-slonowice-2-000-m2-f4j5y1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Słonowice",
+    "voivodeship": "swietokrzyskie",
+    "county": "kazimierski",
+    "city": "Słonowice",
+    "coordinates": {
+      "lat": 50.26139112440259,
+      "lng": 20.492229445441794
+    },
+    "isNearBorder": false,
+    "areaM2": 2000,
+    "currentPrice": 145000,
+    "currentPricePerM2": 72.5,
+    "initialPrice": 145000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 145000,
+        "pricePerM2": 72.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:47.122Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6f/34/40110c_df3b_cover@2x-dzialka-budowlana-kazimierski-slonowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4197080",
+    "source": "adresowo",
+    "sourceId": "4197080",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-skalbmierz-sielec-biskupi-2-500-m2-y0e2p6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Sielec Biskupi",
+    "voivodeship": "swietokrzyskie",
+    "county": "kazimierski",
+    "city": "Sielec Biskupi",
+    "coordinates": {
+      "lat": 50.263191627900305,
+      "lng": 20.491452630575772
+    },
+    "isNearBorder": false,
+    "areaM2": 2500,
+    "currentPrice": 134000,
+    "currentPricePerM2": 53.6,
+    "initialPrice": 134000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 134000,
+        "pricePerM2": 53.6
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:47.122Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5c/3c/400ad8_ac0f_cover@2x-dzialka-budowlana-kazimierski-sielec-biskupi.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4179346",
+    "source": "adresowo",
+    "sourceId": "4179346",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-radoszyce-pakuly-4-ha-l2j0a5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Pakuły, Górka",
+    "voivodeship": "swietokrzyskie",
+    "county": "konecki",
+    "city": "Pakuły",
+    "street": "Górka",
+    "coordinates": {
+      "lat": 51.19475368654348,
+      "lng": 20.40486651336013
+    },
+    "isNearBorder": false,
+    "areaM2": 40000,
+    "currentPrice": 400000,
+    "currentPricePerM2": 10,
+    "initialPrice": 400000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 400000,
+        "pricePerM2": 10
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:47.122Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/52/5c/3fc592_8058_cover@2x-dzialka-siedliskowa-konecki-pakuly.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4124662",
+    "source": "adresowo",
+    "sourceId": "4124662",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-solec-zdroj-kolonia-zagajow-2-ha-c3o3m9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kolonia Zagajów",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Kolonia Zagajów",
+    "coordinates": {
+      "lat": 50.4710942883843,
+      "lng": 20.724026370511805
+    },
+    "isNearBorder": false,
+    "areaM2": 28400,
+    "currentPrice": 220000,
+    "currentPricePerM2": 7.75,
+    "initialPrice": 220000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 220000,
+        "pricePerM2": 7.75
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:49.055Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5c/6c/3eeff6_2a8d_cover@2x-dzialka-siedliskowa-buski-kolonia-zagajow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4112310",
+    "source": "adresowo",
+    "sourceId": "4112310",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-pawlow-szeligi-2-740-m2-z8x9l2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Szeligi",
+    "voivodeship": "swietokrzyskie",
+    "county": "starachowicki",
+    "city": "Szeligi",
+    "coordinates": {
+      "lat": 51.04819417318768,
+      "lng": 21.067099205707834
+    },
+    "isNearBorder": false,
+    "areaM2": 2740,
+    "currentPrice": 274000,
+    "currentPricePerM2": 100,
+    "initialPrice": 274000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 274000,
+        "pricePerM2": 100
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:49.055Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3b/57/3ebfb6_7780_cover@2x-dzialka-budowlana-starachowicki-szeligi.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4104058",
+    "source": "adresowo",
+    "sourceId": "4104058",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-bieliny-makoszyn-3-480-m2-q6j9v0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Makoszyn",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Makoszyn",
+    "coordinates": {
+      "lat": 50.86618473303156,
+      "lng": 20.619471908849253
+    },
+    "isNearBorder": false,
+    "areaM2": 3480,
+    "currentPrice": 300000,
+    "currentPricePerM2": 86.21,
+    "initialPrice": 300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 300000,
+        "pricePerM2": 86.21
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:49.055Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1a/69/3e9f7a_404c_cover@2x-dzialka-rolno-budowlana-kielecki-makoszyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4073160",
+    "source": "adresowo",
+    "sourceId": "4073160",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-jedrzejow-brus-1-693-m2-w5i4x1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Brus",
+    "voivodeship": "swietokrzyskie",
+    "county": "jedrzejowski",
+    "city": "Brus",
+    "coordinates": {
+      "lat": 50.64139191222222,
+      "lng": 20.298278625831355
+    },
+    "isNearBorder": false,
+    "areaM2": 1693,
+    "currentPrice": 95000,
+    "currentPricePerM2": 56.11,
+    "initialPrice": 95000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 95000,
+        "pricePerM2": 56.11
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:51.054Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1e/53/3e26c8_599e_cover@2x-dzialka-budowlana-jedrzejowski-brus.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4048658",
+    "source": "adresowo",
+    "sourceId": "4048658",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kije-3-ha-t2s3c8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kije",
+    "voivodeship": "swietokrzyskie",
+    "county": "pinczowski",
+    "city": "Kije",
+    "coordinates": {
+      "lat": 50.52631371367183,
+      "lng": 20.526882418330583
+    },
+    "isNearBorder": false,
+    "areaM2": 39000,
+    "currentPrice": 700000,
+    "currentPricePerM2": 17.95,
+    "initialPrice": 700000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 700000,
+        "pricePerM2": 17.95
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:51.054Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/48/7d/3dc712_64f4_cover@2x-dzialka-siedliskowa-pinczowski-kije.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4046066",
+    "source": "adresowo",
+    "sourceId": "4046066",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-skarzysko-kamienna-ul-paryska-e6n3k7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Skarżysko-Kamienna Milica, ul. Paryska",
+    "voivodeship": "swietokrzyskie",
+    "county": "skarzyski",
+    "city": "Skarżysko-Kamienna Milica",
+    "street": "ul. Paryska",
+    "coordinates": {
+      "lat": 51.11658585233444,
+      "lng": 20.87350553747867
+    },
+    "isNearBorder": false,
+    "areaM2": 8430,
+    "currentPrice": 380000,
+    "currentPricePerM2": 45.08,
+    "initialPrice": 380000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 380000,
+        "pricePerM2": 45.08
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:51.054Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/49/75/3dbcf2_9f55_cover@2x-dzialka-siedliskowa-skarzyski-skarzysko-kamienna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4030326",
+    "source": "adresowo",
+    "sourceId": "4030326",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lipnik-studzianki-2-500-m2-r5u8b1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Studzianki",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Studzianki",
+    "coordinates": {
+      "lat": 53.23982866895012,
+      "lng": 23.28678542547684
+    },
+    "isNearBorder": false,
+    "areaM2": 2500,
+    "currentPrice": 190000,
+    "currentPricePerM2": 76,
+    "initialPrice": 190000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 190000,
+        "pricePerM2": 76
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:51.054Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/60/21/3d7f76_713b_cover@2x-dzialka-siedliskowa-opatowski-studzianki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4009524",
+    "source": "adresowo",
+    "sourceId": "4009524",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-mirzec-osiny-4-ha-q3b7w8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Osiny",
+    "voivodeship": "swietokrzyskie",
+    "county": "starachowicki",
+    "city": "Osiny",
+    "coordinates": {
+      "lat": 51.04466997957287,
+      "lng": 21.06430090453448
+    },
+    "isNearBorder": false,
+    "areaM2": 40000,
+    "currentPrice": 400000,
+    "currentPricePerM2": 10,
+    "initialPrice": 400000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 400000,
+        "pricePerM2": 10
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:52.992Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/50/31/3d2e34_7825_cover@2x-dzialka-rolno-budowlana-starachowicki-osiny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3989662",
+    "source": "adresowo",
+    "sourceId": "3989662",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-lagow-malacentow-2-ha-q9q8z7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Małacentów",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Małacentów",
+    "coordinates": {
+      "lat": 50.870433471422146,
+      "lng": 20.633864965246314
+    },
+    "isNearBorder": false,
+    "areaM2": 25200,
+    "currentPrice": 180000,
+    "currentPricePerM2": 7.14,
+    "initialPrice": 180000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 180000,
+        "pricePerM2": 7.14
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:52.992Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/41/4e/3ce09e_8eb7_cover@2x-dzialka-rolna-kielecki-malacentow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3972044",
+    "source": "adresowo",
+    "sourceId": "3972044",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-wloszczowa-boczkowice-1-ha-c4r2h8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Boczkowice",
+    "voivodeship": "swietokrzyskie",
+    "county": "wloszczowski",
+    "city": "Boczkowice",
+    "coordinates": {
+      "lat": 50.854091959962176,
+      "lng": 19.9587007605597
+    },
+    "isNearBorder": false,
+    "areaM2": 14200,
+    "currentPrice": 62000,
+    "currentPricePerM2": 4.37,
+    "initialPrice": 62000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 62000,
+        "pricePerM2": 4.37
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:52.992Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/59/63/3c9bcc_c666_cover@2x-dzialka-rolna-wloszczowski-boczkowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3928850",
+    "source": "adresowo",
+    "sourceId": "3928850",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-baltow-skarbka-3-089-m2-r8l1z6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Skarbka, Skarbka Górna",
+    "voivodeship": "swietokrzyskie",
+    "county": "ostrowiecki",
+    "city": "Skarbka",
+    "street": "Skarbka Górna",
+    "coordinates": {
+      "lat": 50.92791837286498,
+      "lng": 21.38714082266712
+    },
+    "isNearBorder": false,
+    "areaM2": 3089,
+    "currentPrice": 60000,
+    "currentPricePerM2": 19.42,
+    "initialPrice": 60000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 60000,
+        "pricePerM2": 19.42
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:55.443Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1a/18/3bf312_8d4c_cover@2x-dzialka-budowlana-ostrowiecki-skarbka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3922640",
+    "source": "adresowo",
+    "sourceId": "3922640",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-osiek-3-ha-l0h5r6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Osiek",
+    "voivodeship": "swietokrzyskie",
+    "county": "staszowski",
+    "city": "Osiek",
+    "coordinates": {
+      "lat": 50.565789349662886,
+      "lng": 21.166348691267043
+    },
+    "isNearBorder": false,
+    "areaM2": 32800,
+    "currentPrice": 299000,
+    "currentPricePerM2": 9.12,
+    "initialPrice": 299000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 299000,
+        "pricePerM2": 9.12
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:55.443Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/23/13/3bdad0_5692_cover@2x-dzialka-siedliskowa-staszowski-osiek.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3909886",
+    "source": "adresowo",
+    "sourceId": "3909886",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-solec-zdroj-welnin-5-ha-t1o0c1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wełnin, Kopanina",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Wełnin",
+    "street": "Kopanina",
+    "coordinates": {
+      "lat": 50.464628559577335,
+      "lng": 20.718989524440993
+    },
+    "isNearBorder": false,
+    "areaM2": 54500,
+    "currentPrice": 570000,
+    "currentPricePerM2": 10.46,
+    "initialPrice": 570000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 570000,
+        "pricePerM2": 10.46
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:55.443Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6f/71/3ba8fe_3074_cover@2x-dzialka-siedliskowa-buski-welnin.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3888790",
+    "source": "adresowo",
+    "sourceId": "3888790",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-kije-wierzbica-3-093-m2-b8b5c0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wierzbica",
+    "voivodeship": "swietokrzyskie",
+    "county": "pinczowski",
+    "city": "Wierzbica",
+    "coordinates": {
+      "lat": 51.25961408449228,
+      "lng": 23.241442881254596
+    },
+    "isNearBorder": false,
+    "areaM2": 3093,
+    "currentPrice": 150000,
+    "currentPricePerM2": 48.5,
+    "initialPrice": 150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 150000,
+        "pricePerM2": 48.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:55.443Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1f/49/3b5696_692d_cover@2x-dzialka-rolno-budowlana-pinczowski-wierzbica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3876690",
+    "source": "adresowo",
+    "sourceId": "3876690",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-pinczow-pasturka-1-ha-q1s1l0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Pasturka, Krzywda",
+    "voivodeship": "swietokrzyskie",
+    "county": "pinczowski",
+    "city": "Pasturka",
+    "street": "Krzywda",
+    "coordinates": {
+      "lat": 50.52654878695306,
+      "lng": 20.53365294363371
+    },
+    "isNearBorder": false,
+    "areaM2": 19800,
+    "currentPrice": 430000,
+    "currentPricePerM2": 21.72,
+    "initialPrice": 430000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 430000,
+        "pricePerM2": 21.72
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:56.901Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3b/4e/3b2752_83c0_cover@2x-dzialka-rolno-budowlana-pinczowski-pasturka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3871564",
+    "source": "adresowo",
+    "sourceId": "3871564",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-sadowie-zwola-3-700-m2-n0k5i3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zwola",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Zwola",
+    "coordinates": {
+      "lat": 50.80647430035185,
+      "lng": 21.43478590269611
+    },
+    "isNearBorder": false,
+    "areaM2": 3700,
+    "currentPrice": 75000,
+    "currentPricePerM2": 20.27,
+    "initialPrice": 75000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 75000,
+        "pricePerM2": 20.27
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:56.901Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4c/34/3b134c_eeb5_cover@2x-dzialka-siedliskowa-opatowski-zwola.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3853500",
+    "source": "adresowo",
+    "sourceId": "3853500",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-mirzec-8-600-m2-n3l1f9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Mirzec, Mirzec-Podborki",
+    "voivodeship": "swietokrzyskie",
+    "county": "starachowicki",
+    "city": "Mirzec",
+    "street": "Mirzec-Podborki",
+    "coordinates": {
+      "lat": 51.036391254490184,
+      "lng": 21.07916217974654
+    },
+    "isNearBorder": false,
+    "areaM2": 8600,
+    "currentPrice": 140000,
+    "currentPricePerM2": 16.28,
+    "initialPrice": 140000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 140000,
+        "pricePerM2": 16.28
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:56.901Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3e/2b/3accbc_fa5d_cover@2x-dzialka-rolno-budowlana-starachowicki-mirzec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3846484",
+    "source": "adresowo",
+    "sourceId": "3846484",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wasniow-grzegorzowice-8-000-m2-w9g0i9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Grzegorzowice",
+    "voivodeship": "swietokrzyskie",
+    "county": "ostrowiecki",
+    "city": "Grzegorzowice",
+    "coordinates": {
+      "lat": 50.931771683864994,
+      "lng": 21.393634199632164
+    },
+    "isNearBorder": false,
+    "areaM2": 8000,
+    "currentPrice": 295000,
+    "currentPricePerM2": 36.88,
+    "initialPrice": 295000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 295000,
+        "pricePerM2": 36.88
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:56.901Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/77/51/3ab154_9f34_cover@2x-dzialka-siedliskowa-ostrowiecki-grzegorzowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3828844",
+    "source": "adresowo",
+    "sourceId": "3828844",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-sedziszow-marianow-1-000-m2-a7w1w2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Marianów",
+    "voivodeship": "swietokrzyskie",
+    "county": "jedrzejowski",
+    "city": "Marianów",
+    "coordinates": {
+      "lat": 50.63510236055879,
+      "lng": 20.296361215457516
+    },
+    "isNearBorder": false,
+    "areaM2": 1000,
+    "currentPrice": 75000,
+    "currentPricePerM2": 75,
+    "initialPrice": 75000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 75000,
+        "pricePerM2": 75
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:56.901Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7c/73/3a6c6c_d604_cover@2x-dzialka-budowlana-jedrzejowski-marianow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3828226",
+    "source": "adresowo",
+    "sourceId": "3828226",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-sedziszow-mierzyn-2-ha-g4z6x2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Mierzyn",
+    "voivodeship": "swietokrzyskie",
+    "county": "jedrzejowski",
+    "city": "Mierzyn",
+    "coordinates": {
+      "lat": 50.64319272528832,
+      "lng": 20.304827183595688
+    },
+    "isNearBorder": false,
+    "areaM2": 29200,
+    "currentPrice": 230000,
+    "currentPricePerM2": 7.88,
+    "initialPrice": 230000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 230000,
+        "pricePerM2": 7.88
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:56.901Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/19/30/3a6a02_f8d8_cover@2x-dzialka-siedliskowa-jedrzejowski-mierzyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3795054",
+    "source": "adresowo",
+    "sourceId": "3795054",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-gorno-radlin-6-700-m2-k2b0t5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Radlin",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Radlin",
+    "coordinates": {
+      "lat": 50.867926380802714,
+      "lng": 20.621306042695537
+    },
+    "isNearBorder": false,
+    "areaM2": 6700,
+    "currentPrice": 650000,
+    "currentPricePerM2": 97.01,
+    "initialPrice": 650000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 650000,
+        "pricePerM2": 97.01
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:56.901Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/37/79/39e86e_a9af_cover@2x-dzialka-rolno-budowlana-kielecki-radlin.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3650776",
+    "source": "adresowo",
+    "sourceId": "3650776",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-wloszczowa-gosciencin-2-ha-v4p4h9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Gościencin",
+    "voivodeship": "swietokrzyskie",
+    "county": "wloszczowski",
+    "city": "Gościencin",
+    "coordinates": {
+      "lat": 50.85446708947313,
+      "lng": 19.975575861386037
+    },
+    "isNearBorder": false,
+    "areaM2": 22200,
+    "currentPrice": 50000,
+    "currentPricePerM2": 2.25,
+    "initialPrice": 50000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 50000,
+        "pricePerM2": 2.25
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:59.418Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/26/2a/37b4d8_9491_cover@2x-dzialka-rolna-wloszczowski-gosciencin.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3721050",
+    "source": "adresowo",
+    "sourceId": "3721050",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wislica-holudza-700-m2-a3w6k3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Hołudza, Na Wyspie",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Hołudza",
+    "street": "Na Wyspie",
+    "coordinates": {
+      "lat": 50.46844923974964,
+      "lng": 20.727535138872213
+    },
+    "isNearBorder": false,
+    "areaM2": 700,
+    "currentPrice": 20000,
+    "currentPricePerM2": 28.57,
+    "initialPrice": 20000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 20000,
+        "pricePerM2": 28.57
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:59.418Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1f/31/38c75a_3db0_cover@2x-dzialka-siedliskowa-buski-holudza.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3680122",
+    "source": "adresowo",
+    "sourceId": "3680122",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-rakow-zyciny-6-200-m2-l9w4l6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Życiny",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Życiny",
+    "coordinates": {
+      "lat": 50.8637879212355,
+      "lng": 20.624721796808373
+    },
+    "isNearBorder": false,
+    "areaM2": 6200,
+    "currentPrice": 341000,
+    "currentPricePerM2": 55,
+    "initialPrice": 341000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 341000,
+        "pricePerM2": 55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:10:59.418Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/64/3f/38277a_9808_cover@2x-dzialka-budowlana-kielecki-zyciny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3544976",
+    "source": "adresowo",
+    "sourceId": "3544976",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-lesna-bodzechow-stara-debowa-wola-6-600-m2-r9y4b4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Stara Dębowa Wola",
+    "voivodeship": "swietokrzyskie",
+    "county": "ostrowiecki",
+    "city": "Stara Dębowa Wola",
+    "coordinates": {
+      "lat": 50.923091423718844,
+      "lng": 21.39074389919245
+    },
+    "isNearBorder": false,
+    "areaM2": 6600,
+    "currentPrice": 66000,
+    "currentPricePerM2": 10,
+    "initialPrice": 66000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 66000,
+        "pricePerM2": 10
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:03.389Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/53/24/361790_b824_cover@2x-dzialka-lesna-ostrowiecki-stara-debowa-wola.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3481788",
+    "source": "adresowo",
+    "sourceId": "3481788",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-baltow-okol-5-000-m2-s2q5r7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Okół",
+    "voivodeship": "swietokrzyskie",
+    "county": "ostrowiecki",
+    "city": "Okół",
+    "coordinates": {
+      "lat": 50.93408608275775,
+      "lng": 21.38084261989914
+    },
+    "isNearBorder": false,
+    "areaM2": 5000,
+    "currentPrice": 197000,
+    "currentPricePerM2": 39.4,
+    "initialPrice": 197000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 197000,
+        "pricePerM2": 39.4
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:03.389Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/51/4d/3520bc_8860_cover@2x-dzialka-siedliskowa-ostrowiecki-okol.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3471080",
+    "source": "adresowo",
+    "sourceId": "3471080",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-checiny-starocheciny-3-000-m2-n5z3q2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Starochęciny",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Starochęciny",
+    "coordinates": {
+      "lat": 50.85918389232569,
+      "lng": 20.631109582352636
+    },
+    "isNearBorder": false,
+    "areaM2": 3000,
+    "currentPrice": 250000,
+    "currentPricePerM2": 83.33,
+    "initialPrice": 250000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 250000,
+        "pricePerM2": 83.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:03.389Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/51/62/34f6e8_c8f1_cover@2x-dzialka-siedliskowa-kielecki-starocheciny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3445676",
+    "source": "adresowo",
+    "sourceId": "3445676",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-smykow-przylogi-2-ha-e3v9l6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Przyłogi, Znajoma",
+    "voivodeship": "swietokrzyskie",
+    "county": "konecki",
+    "city": "Przyłogi",
+    "street": "Znajoma",
+    "coordinates": {
+      "lat": 51.201665904873025,
+      "lng": 20.403335917353317
+    },
+    "isNearBorder": false,
+    "areaM2": 20700,
+    "currentPrice": 455400,
+    "currentPricePerM2": 22,
+    "initialPrice": 455400,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 455400,
+        "pricePerM2": 22
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:03.389Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/77/59/3493ac_7c04_cover@2x-dzialka-siedliskowa-konecki-przylogi.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3392740",
+    "source": "adresowo",
+    "sourceId": "3392740",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-zawichost-linow-kolonia-4-ha-p3q6r2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Linów-Kolonia",
+    "voivodeship": "swietokrzyskie",
+    "county": "sandomierski",
+    "city": "Linów-Kolonia",
+    "coordinates": {
+      "lat": 50.68841710818458,
+      "lng": 21.745430557672588
+    },
+    "isNearBorder": false,
+    "areaM2": 49300,
+    "currentPrice": 470000,
+    "currentPricePerM2": 9.53,
+    "initialPrice": 470000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 470000,
+        "pricePerM2": 9.53
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:05.588Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6e/21/33c4e4_74d3_cover@2x-dzialka-siedliskowa-sandomierski-linow-kolonia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3383104",
+    "source": "adresowo",
+    "sourceId": "3383104",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-krasocin-lipie-1-700-m2-c7i8s1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Lipie",
+    "voivodeship": "swietokrzyskie",
+    "county": "wloszczowski",
+    "city": "Lipie",
+    "coordinates": {
+      "lat": 50.85766696721088,
+      "lng": 19.961855109147454
+    },
+    "isNearBorder": false,
+    "areaM2": 1700,
+    "currentPrice": 100000,
+    "currentPricePerM2": 58.82,
+    "initialPrice": 100000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 100000,
+        "pricePerM2": 58.82
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:05.588Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/44/57/339f40_432b_cover@2x-dzialka-budowlana-wloszczowski-lipie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3369810",
+    "source": "adresowo",
+    "sourceId": "3369810",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-solec-zdroj-swiniary-2-400-m2-r8k2u1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Świniary",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Świniary",
+    "coordinates": {
+      "lat": 50.46602695258403,
+      "lng": 20.711429996992287
+    },
+    "isNearBorder": false,
+    "areaM2": 2400,
+    "currentPrice": 120000,
+    "currentPricePerM2": 50,
+    "initialPrice": 120000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 120000,
+        "pricePerM2": 50
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:05.588Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/76/22/336b52_cd26_cover@2x-dzialka-siedliskowa-buski-swiniary.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3343992",
+    "source": "adresowo",
+    "sourceId": "3343992",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-kazimierza-wielka-zyslawice-1-ha-a2z6n7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zysławice, Jankowskie",
+    "voivodeship": "swietokrzyskie",
+    "county": "kazimierski",
+    "city": "Zysławice",
+    "street": "Jankowskie",
+    "coordinates": {
+      "lat": 50.260533484671015,
+      "lng": 20.486885810385754
+    },
+    "isNearBorder": false,
+    "areaM2": 10200,
+    "currentPrice": 99000,
+    "currentPricePerM2": 9.71,
+    "initialPrice": 99000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 99000,
+        "pricePerM2": 9.71
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:05.588Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3d/29/330678_83a4_cover@2x-dzialka-rolno-budowlana-kazimierski-zyslawice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3342826",
+    "source": "adresowo",
+    "sourceId": "3342826",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-morawica-labedziow-ul-dluga-d0b1l9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Łabędziów, ul. Długa",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Łabędziów",
+    "street": "ul. Długa",
+    "coordinates": {
+      "lat": 50.87326499433925,
+      "lng": 20.635111734770177
+    },
+    "isNearBorder": false,
+    "areaM2": 4422,
+    "currentPrice": 355000,
+    "currentPricePerM2": 80.28,
+    "initialPrice": 355000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 355000,
+        "pricePerM2": 80.28
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:05.588Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/33/74/3301ea_6641_cover@2x-dzialka-rolno-budowlana-kielecki-labedziow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3312904",
+    "source": "adresowo",
+    "sourceId": "3312904",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-sandomierz-3-300-m2-l7v1f8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Sandomierz",
+    "voivodeship": "swietokrzyskie",
+    "county": "sandomierski",
+    "city": "Sandomierz",
+    "coordinates": {
+      "lat": 50.6867397965273,
+      "lng": 21.755605421898945
+    },
+    "isNearBorder": false,
+    "areaM2": 3300,
+    "currentPrice": 130000,
+    "currentPricePerM2": 39.39,
+    "initialPrice": 130000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 130000,
+        "pricePerM2": 39.39
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:05.588Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/57/15/328d08_6466_cover@2x-dzialka-siedliskowa-sandomierski-sandomierz.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3246700",
+    "source": "adresowo",
+    "sourceId": "3246700",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-opatowiec-kocina-2-ha-t2b5d1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kocina",
+    "voivodeship": "swietokrzyskie",
+    "county": "kazimierski",
+    "city": "Kocina",
+    "coordinates": {
+      "lat": 50.260138157266624,
+      "lng": 20.47369024124033
+    },
+    "isNearBorder": false,
+    "areaM2": 29600,
+    "currentPrice": 249000,
+    "currentPricePerM2": 8.41,
+    "initialPrice": 249000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 249000,
+        "pricePerM2": 8.41
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:07.440Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/68/6a/318a6c_534a_cover@2x-dzialka-siedliskowa-kazimierski-kocina.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3194256",
+    "source": "adresowo",
+    "sourceId": "3194256",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-sobkow-ul-dluga-c0e1s1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Sobków, ul. Długa",
+    "voivodeship": "swietokrzyskie",
+    "county": "jedrzejowski",
+    "city": "Sobków",
+    "street": "ul. Długa",
+    "coordinates": {
+      "lat": 50.639523758732146,
+      "lng": 20.306865848489306
+    },
+    "isNearBorder": false,
+    "areaM2": 1701,
+    "currentPrice": 220000,
+    "currentPricePerM2": 129.34,
+    "initialPrice": 220000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 220000,
+        "pricePerM2": 129.34
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:07.440Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/36/70/30bd90_2d80_cover@2x-dzialka-rolno-budowlana-jedrzejowski-sobkow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3170864",
+    "source": "adresowo",
+    "sourceId": "3170864",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-moskorzew-damiany-2-ha-x3r7g0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Damiany",
+    "voivodeship": "swietokrzyskie",
+    "county": "wloszczowski",
+    "city": "Damiany",
+    "coordinates": {
+      "lat": 50.85594245524741,
+      "lng": 19.960454120595397
+    },
+    "isNearBorder": false,
+    "areaM2": 29000,
+    "currentPrice": 1490000,
+    "currentPricePerM2": 51.38,
+    "initialPrice": 1490000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1490000,
+        "pricePerM2": 51.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:07.440Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/13/34/306230_3a73_cover@2x-dzialka-rolno-budowlana-wloszczowski-damiany.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3050834",
+    "source": "adresowo",
+    "sourceId": "3050834",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-gorno-gorno-parcele-3-000-m2-g3h7o3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Górno-Parcele",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Górno-Parcele",
+    "coordinates": {
+      "lat": 50.86936120064427,
+      "lng": 20.637943920205586
+    },
+    "isNearBorder": false,
+    "areaM2": 3000,
+    "currentPrice": 220000,
+    "currentPricePerM2": 73.33,
+    "initialPrice": 220000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 220000,
+        "pricePerM2": 73.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:07.440Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/72/35/2e8d52_73d4_cover@2x-dzialka-rolno-budowlana-kielecki-gorno-parcele.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2875148",
+    "source": "adresowo",
+    "sourceId": "2875148",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-mirzec-jagodne-2-950-m2-h6w9t1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jagodne",
+    "voivodeship": "swietokrzyskie",
+    "county": "starachowicki",
+    "city": "Jagodne",
+    "coordinates": {
+      "lat": 51.049792075791224,
+      "lng": 21.064108284342385
+    },
+    "isNearBorder": false,
+    "areaM2": 2950,
+    "currentPrice": 350000,
+    "currentPricePerM2": 118.64,
+    "initialPrice": 350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 350000,
+        "pricePerM2": 118.64
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:09.783Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/41/7d/2bdf0c_e19c_cover@2x-dzialka-siedliskowa-starachowicki-jagodne.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2661982",
+    "source": "adresowo",
+    "sourceId": "2661982",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rekreacyjna-pawlow-bronkowice-3-500-m2-x6o3c6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bronkowice, Górna Wieś",
+    "voivodeship": "swietokrzyskie",
+    "county": "starachowicki",
+    "city": "Bronkowice",
+    "street": "Górna Wieś",
+    "coordinates": {
+      "lat": 51.046398629934174,
+      "lng": 21.07509317036373
+    },
+    "isNearBorder": false,
+    "areaM2": 3500,
+    "currentPrice": 200000,
+    "currentPricePerM2": 57.14,
+    "initialPrice": 200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 200000,
+        "pricePerM2": 57.14
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:09.783Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5a/49/289e5e_c617_cover@2x-dzialka-rekreacyjna-starachowicki-bronkowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2497310",
+    "source": "adresowo",
+    "sourceId": "2497310",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-pawlow-wymyslow-2-ha-h2j0e5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wymysłów",
+    "voivodeship": "swietokrzyskie",
+    "county": "starachowicki",
+    "city": "Wymysłów",
+    "coordinates": {
+      "lat": 51.047634074846755,
+      "lng": 21.06634140384713
+    },
+    "isNearBorder": false,
+    "areaM2": 29200,
+    "currentPrice": 350000,
+    "currentPricePerM2": 11.99,
+    "initialPrice": 350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 350000,
+        "pricePerM2": 11.99
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:12.407Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7f/6f/261b1e_ce4c_cover@2x-dzialka-rolno-budowlana-starachowicki-wymyslow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2393600",
+    "source": "adresowo",
+    "sourceId": "2393600",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-starachowice-ul-aleja-niepodleglosci-c6k5z6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Starachowice Wanacja, ul. Aleja Niepodległości",
+    "voivodeship": "swietokrzyskie",
+    "county": "starachowicki",
+    "city": "Starachowice Wanacja",
+    "street": "ul. Aleja Niepodległości",
+    "coordinates": {
+      "lat": 51.03556940973747,
+      "lng": 21.077306968915906
+    },
+    "isNearBorder": false,
+    "areaM2": 764,
+    "currentPrice": 120000,
+    "currentPricePerM2": 157.07,
+    "initialPrice": 120000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 120000,
+        "pricePerM2": 157.07
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:12.407Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/67/57/248600_48f1_cover@2x-dzialka-siedliskowa-starachowicki-starachowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2384488",
+    "source": "adresowo",
+    "sourceId": "2384488",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-krasocin-kozia-wies-1-ha-g3n0n8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kozia Wieś",
+    "voivodeship": "swietokrzyskie",
+    "county": "wloszczowski",
+    "city": "Kozia Wieś",
+    "coordinates": {
+      "lat": 50.85368033930789,
+      "lng": 19.962260083355353
+    },
+    "isNearBorder": false,
+    "areaM2": 18300,
+    "currentPrice": 200000,
+    "currentPricePerM2": 10.93,
+    "initialPrice": 200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 200000,
+        "pricePerM2": 10.93
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:12.407Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/66/5a/246268_715c_cover@2x-dzialka-siedliskowa-wloszczowski-kozia-wies.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2221236",
+    "source": "adresowo",
+    "sourceId": "2221236",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-bejsce-1-ha-t9y6m9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bejsce, Brodek",
+    "voivodeship": "swietokrzyskie",
+    "county": "kazimierski",
+    "city": "Bejsce",
+    "street": "Brodek",
+    "coordinates": {
+      "lat": 50.269699510961125,
+      "lng": 20.479141438130014
+    },
+    "isNearBorder": false,
+    "areaM2": 15600,
+    "currentPrice": 200000,
+    "currentPricePerM2": 12.82,
+    "initialPrice": 200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 200000,
+        "pricePerM2": 12.82
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:12.407Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/78/2a/21e4b4_a25f_cover@2x-dzialka-rolna-kazimierski-bejsce.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2044508",
+    "source": "adresowo",
+    "sourceId": "2044508",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-pinczow-mlodzawy-duze-3-ha-t5a3k7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Młodzawy Duże, Piaski",
+    "voivodeship": "swietokrzyskie",
+    "county": "pinczowski",
+    "city": "Młodzawy Duże",
+    "street": "Piaski",
+    "coordinates": {
+      "lat": 50.517941132599674,
+      "lng": 20.531979748366062
+    },
+    "isNearBorder": false,
+    "areaM2": 35900,
+    "currentPrice": 110000,
+    "currentPricePerM2": 3.06,
+    "initialPrice": 110000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 110000,
+        "pricePerM2": 3.06
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:14.003Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4d/37/1f325c_9cd8_cover@2x-dzialka-rolna-pinczowski-mlodzawy-duze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1741945",
+    "source": "adresowo",
+    "sourceId": "1741945",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-samborzec-polanow-1-ha-b3f9l1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Polanów",
+    "voivodeship": "swietokrzyskie",
+    "county": "sandomierski",
+    "city": "Polanów",
+    "coordinates": {
+      "lat": 50.67635925268635,
+      "lng": 21.74336742618131
+    },
+    "isNearBorder": false,
+    "areaM2": 14500,
+    "currentPrice": 350000,
+    "currentPricePerM2": 24.14,
+    "initialPrice": 350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 350000,
+        "pricePerM2": 24.14
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:14.003Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/21/48/1a9479_4a6d_cover@2x-dzialka-rolna-sandomierski-polanow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1675545",
+    "source": "adresowo",
+    "sourceId": "1675545",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-tarlow-wolka-lipowa-11-ha-g6e9u9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wólka Lipowa",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Wólka Lipowa",
+    "coordinates": {
+      "lat": 50.80814830462221,
+      "lng": 21.42705998426957
+    },
+    "isNearBorder": false,
+    "areaM2": 113000,
+    "currentPrice": 680000,
+    "currentPricePerM2": 6.02,
+    "initialPrice": 680000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 680000,
+        "pricePerM2": 6.02
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:14.003Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/73/24/199119_7fac_cover@2x-dzialka-siedliskowa-opatowski-wolka-lipowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1548321",
+    "source": "adresowo",
+    "sourceId": "1548321",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-laczna-zagorze-4-ha-n3p0i3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zagórze",
+    "voivodeship": "swietokrzyskie",
+    "county": "skarzyski",
+    "city": "Zagórze",
+    "coordinates": {
+      "lat": 51.11506170842051,
+      "lng": 20.8584889034953
+    },
+    "isNearBorder": false,
+    "areaM2": 40000,
+    "currentPrice": 230000,
+    "currentPricePerM2": 5.75,
+    "initialPrice": 230000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 230000,
+        "pricePerM2": 5.75
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:14.003Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6c/70/17a021_3c3d_cover@2x-dzialka-rolno-budowlana-skarzyski-zagorze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1431717",
+    "source": "adresowo",
+    "sourceId": "1431717",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-lagow-wisniowa-5-ha-a7y8y8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wiśniowa",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Wiśniowa",
+    "coordinates": {
+      "lat": 49.99268427042752,
+      "lng": 21.7453615725615
+    },
+    "isNearBorder": false,
+    "areaM2": 52400,
+    "currentPrice": 600000,
+    "currentPricePerM2": 11.45,
+    "initialPrice": 600000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 600000,
+        "pricePerM2": 11.45
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:15.827Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/59/1b/15d8a5_2d10_cover@2x-dzialka-rolna-kielecki-wisniowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1419137",
+    "source": "adresowo",
+    "sourceId": "1419137",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-secemin-zwlecza-1-ha-u1v7m7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zwlecza",
+    "voivodeship": "swietokrzyskie",
+    "county": "wloszczowski",
+    "city": "Zwlecza",
+    "coordinates": {
+      "lat": 50.851680261649335,
+      "lng": 19.973373544546533
+    },
+    "isNearBorder": false,
+    "areaM2": 10400,
+    "currentPrice": 100000,
+    "currentPricePerM2": 9.62,
+    "initialPrice": 100000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 100000,
+        "pricePerM2": 9.62
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:15.827Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7d/75/15a781_aea8_cover@2x-dzialka-rolno-budowlana-wloszczowski-zwlecza.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1351195",
+    "source": "adresowo",
+    "sourceId": "1351195",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-falkow-zbojno-3-100-m2-h1h8s3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zbójno, Greszczyn",
+    "voivodeship": "swietokrzyskie",
+    "county": "konecki",
+    "city": "Zbójno",
+    "street": "Greszczyn",
+    "coordinates": {
+      "lat": 51.19102917436106,
+      "lng": 20.398989152102587
+    },
+    "isNearBorder": false,
+    "areaM2": 3100,
+    "currentPrice": 100000,
+    "currentPricePerM2": 32.26,
+    "initialPrice": 100000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 100000,
+        "pricePerM2": 32.26
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:15.827Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/56/45/149e1b_4056_cover@2x-dzialka-budowlana-konecki-zbojno.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1331753",
+    "source": "adresowo",
+    "sourceId": "1331753",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-obrazow-wegrce-panienskie-2-300-m2-m3k9r5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Węgrce Panieńskie",
+    "voivodeship": "swietokrzyskie",
+    "county": "sandomierski",
+    "city": "Węgrce Panieńskie",
+    "coordinates": {
+      "lat": 50.69000503574189,
+      "lng": 21.742123299523325
+    },
+    "isNearBorder": false,
+    "areaM2": 2300,
+    "currentPrice": 126500,
+    "currentPricePerM2": 55,
+    "initialPrice": 126500,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 126500,
+        "pricePerM2": 55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:15.827Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1b/42/145229_a246_cover@2x-dzialka-budowlana-sandomierski-wegrce-panienskie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1292715",
+    "source": "adresowo",
+    "sourceId": "1292715",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-pinczow-bogucice-pierwsze-ul-zakosciele-x8x8h0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bogucice Pierwsze Zakościele, ul. Zakościele",
+    "voivodeship": "swietokrzyskie",
+    "county": "pinczowski",
+    "city": "Bogucice Pierwsze Zakościele",
+    "street": "ul. Zakościele",
+    "coordinates": {
+      "lat": 50.51655416069604,
+      "lng": 20.532689002985247
+    },
+    "isNearBorder": false,
+    "areaM2": 2200,
+    "currentPrice": 230600,
+    "currentPricePerM2": 104.82,
+    "initialPrice": 230600,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 230600,
+        "pricePerM2": 104.82
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:15.827Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7f/4b/13b9ab_82f0_cover@2x-dzialka-siedliskowa-pinczowski-bogucice-pierwsze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1242857",
+    "source": "adresowo",
+    "sourceId": "1242857",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-wilczyce-lukawa-3-ha-b2j2o8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Łukawa",
+    "voivodeship": "swietokrzyskie",
+    "county": "sandomierski",
+    "city": "Łukawa",
+    "coordinates": {
+      "lat": 50.689192818219134,
+      "lng": 21.748960068117267
+    },
+    "isNearBorder": false,
+    "areaM2": 31300,
+    "currentPrice": 520000,
+    "currentPricePerM2": 16.61,
+    "initialPrice": 520000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 520000,
+        "pricePerM2": 16.61
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:15.827Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7d/46/12f6e9_d100_cover@2x-dzialka-rolno-budowlana-sandomierski-lukawa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1181323",
+    "source": "adresowo",
+    "sourceId": "1181323",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-staszow-podmaleniec-1-000-m2-g1r1p5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Podmaleniec",
+    "voivodeship": "swietokrzyskie",
+    "county": "staszowski",
+    "city": "Podmaleniec",
+    "coordinates": {
+      "lat": 50.55944909793211,
+      "lng": 21.176243274252506
+    },
+    "isNearBorder": false,
+    "areaM2": 1000,
+    "currentPrice": 90000,
+    "currentPricePerM2": 90,
+    "initialPrice": 90000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 90000,
+        "pricePerM2": 90
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:11:15.827Z",
+    "lastSeenAt": "2026-09-24T21:11:15.984Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3e/39/12068b_cc7b_cover@2x-dzialka-budowlana-staszowski-podmaleniec.webp",
+    "isDirectOwner": true
+  }
+]

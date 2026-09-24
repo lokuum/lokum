@@ -1,0 +1,6325 @@
+[
+  {
+    "id": "otodom-67472881",
+    "source": "otodom",
+    "sourceId": "67472881",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-na-polanie-pod-stadnine-lub-agroturystyke-30-min-od-krk-ID4z6Mh",
+    "propertyType": "habitat",
+    "title": "Siedlisko na polanie, pod stadninę lub agroturystykę, 30 min od KRK",
+    "voivodeship": "malopolskie",
+    "county": "miechowski",
+    "city": "Nasiechowice",
+    "coordinates": {
+      "lat": 50.361688769201436,
+      "lng": 20.03571219001865
+    },
+    "isNearBorder": false,
+    "areaM2": 76,
+    "plotAreaM2": 15350,
+    "currentPrice": 616000,
+    "currentPricePerM2": 8105.26,
+    "initialPrice": 616000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 616000,
+        "pricePerM2": 8105.26
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T15:42:03.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImliM3ZpMGpxeHhwcy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.7yZPqHLw75gQ3wr8QoQ3mNackFm8pBfy9A1KXpwC05Q/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68455371",
+    "source": "otodom",
+    "sourceId": "68455371",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-3-30-ha-z-wyremontowanymi-zabudowaniami-turza-ID4DemT",
+    "propertyType": "habitat",
+    "title": "Siedlisko 3,30 ha z wyremontowanymi zabudowaniami – Turza",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Turza",
+    "coordinates": {
+      "lat": 50.00756768511393,
+      "lng": 20.996226849813755
+    },
+    "isNearBorder": false,
+    "areaM2": 75,
+    "plotAreaM2": 33000,
+    "currentPrice": 599000,
+    "currentPricePerM2": 7986.67,
+    "initialPrice": 599000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 599000,
+        "pricePerM2": 7986.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T08:37:57.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVoZWh4Z3ZoZDVodi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.YwN17ctXQkRGfV5TKB5XXBQRioayTI-7kCqluiPldj8/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68453839",
+    "source": "otodom",
+    "sourceId": "68453839",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/widokowe-siedlisko-z-domem-i-bud-gosp-ID4DdYb",
+    "propertyType": "habitat",
+    "title": "Widokowe siedlisko z domem i bud. gosp",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Kowalowa",
+    "coordinates": {
+      "lat": 50.01664091021627,
+      "lng": 20.9857103806455
+    },
+    "isNearBorder": false,
+    "areaM2": 70,
+    "plotAreaM2": 35000,
+    "currentPrice": 349000,
+    "currentPricePerM2": 4985.71,
+    "initialPrice": 349000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 349000,
+        "pricePerM2": 4985.71
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T15:50:21.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhhMGc1djE3dXN4Zy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.QbIhCo_PUFAjKUblxvQlzz6puJU-JG2d2sF3L-H9RyA/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68447645",
+    "source": "otodom",
+    "sourceId": "68447645",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/nowoczesne-wnetrze-sielska-okolica-siedlisko-ID4Dcmh",
+    "propertyType": "habitat",
+    "title": "Nowoczesne wnętrze | sielska okolica | siedlisko",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Lachowice",
+    "coordinates": {
+      "lat": 49.74482245721445,
+      "lng": 19.67634318301341
+    },
+    "isNearBorder": false,
+    "areaM2": 224.45,
+    "plotAreaM2": 3002,
+    "currentPrice": 890000,
+    "currentPricePerM2": 3965.25,
+    "initialPrice": 890000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 890000,
+        "pricePerM2": 3965.25
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T10:30:03.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF3MTUwa3d5anBucTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8gNKPS0_pIfKk_G5Vr6_JGENH1srWtHn3Y2dpHsa22c/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-96844764500067",
+    "source": "otodom",
+    "sourceId": "96844764500067",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/nowoczesne-wnetrze-sielska-okolica-siedlisko-ID4Dcmh",
+    "propertyType": "habitat",
+    "title": "Nowoczesne wnętrze | sielska okolica | siedlisko",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Lachowice",
+    "coordinates": {
+      "lat": 49.74112096678165,
+      "lng": 19.685326844533527
+    },
+    "isNearBorder": false,
+    "areaM2": 224.45,
+    "plotAreaM2": 3002,
+    "currentPrice": 890000,
+    "currentPricePerM2": 3965.25,
+    "initialPrice": 890000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "1999-02-28",
+        "price": 890000,
+        "pricePerM2": 3965.25
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "1999-02-28T23:00:01.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67577146",
+    "source": "otodom",
+    "sourceId": "67577146",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-ktory-zarabia-agro-siedlisko-ID4zxTY",
+    "propertyType": "habitat",
+    "title": "Dom który zarabia - agro - siedlisko",
+    "voivodeship": "malopolskie",
+    "county": "nowotarski",
+    "city": "Bańska Niżna",
+    "coordinates": {
+      "lat": 49.48657096983307,
+      "lng": 20.04014063032211
+    },
+    "isNearBorder": true,
+    "areaM2": 320,
+    "plotAreaM2": 2911,
+    "currentPrice": 2629000,
+    "currentPricePerM2": 8215.63,
+    "initialPrice": 2629000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 2629000,
+        "pricePerM2": 8215.63
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-22T06:11:26.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpkdnoxdnllMHBrbDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ALFZMrIw2pgj0o4MsR_fS4f_mwUMotyUtSV1d2zTEzQ/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67777137",
+    "source": "otodom",
+    "sourceId": "67777137",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-marzenie-tuz-obok-krakowa-i-wieliczki-ID4AnWD",
+    "propertyType": "habitat",
+    "title": "Siedlisko marzenie tuż obok Krakowa i Wieliczki.",
+    "voivodeship": "malopolskie",
+    "county": "wielicki",
+    "city": "Lednica Górna",
+    "coordinates": {
+      "lat": 49.9881849211421,
+      "lng": 20.071255537630996
+    },
+    "isNearBorder": false,
+    "areaM2": 400,
+    "plotAreaM2": 22200,
+    "currentPrice": 2999000,
+    "currentPricePerM2": 7497.5,
+    "initialPrice": 2999000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-21",
+        "price": 2999000,
+        "pricePerM2": 7497.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-21T09:57:24.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRlcG82N25ua3VwYjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.A86H0_tCxK-YDt82IF_nWLbr9EQDVf44UC3155IHkoY/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68315125",
+    "source": "otodom",
+    "sourceId": "68315125",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-gorach-dom-drewniany-na-ustronnej-dzialce-pod-lasem-ID4CDSR",
+    "propertyType": "habitat",
+    "title": "Siedlisko w górach - dom drewniany na ustronnej działce pod lasem",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Stryszawa",
+    "coordinates": {
+      "lat": 49.735379779295556,
+      "lng": 19.684014692862235
+    },
+    "isNearBorder": false,
+    "areaM2": 140,
+    "plotAreaM2": 2400,
+    "currentPrice": 820000,
+    "currentPricePerM2": 5857.14,
+    "initialPrice": 820000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 820000,
+        "pricePerM2": 5857.14
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T10:26:08.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijdtb21vdGZjOTExZzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gIXiXjsGkZV6M98UxNgFCayjW1DjWrdDACw14_QiY-U/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68391994",
+    "source": "otodom",
+    "sourceId": "68391994",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-z-gospodarstwem-rolnym-powierzchnia-5-ha-zachelmna-gmina-budzow-ID4CXSG",
+    "propertyType": "habitat",
+    "title": "DOM Z GOSPODARSTWEM ROLNYM powierzchnia 5 ha– ZACHEŁMNA, GMINA BUDZÓW",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Zachełmna",
+    "coordinates": {
+      "lat": 49.74058185473482,
+      "lng": 19.67485761536967
+    },
+    "isNearBorder": false,
+    "areaM2": 160,
+    "plotAreaM2": 4700,
+    "currentPrice": 600000,
+    "currentPricePerM2": 3750,
+    "initialPrice": 600000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-15",
+        "price": 600000,
+        "pricePerM2": 3750
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-15T19:07:15.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd0ZTI0azJpa2toZi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.dyXWxHp8zTGYRmNI92TrZFjmZ73z7WCtB8ND5ClBL9Y/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68422645",
+    "source": "otodom",
+    "sourceId": "68422645",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-1-ha-dom-gm-slomniki-ID4D5R3",
+    "propertyType": "habitat",
+    "title": "Gospodarstwo rolne 1 ha + dom | gm. Słomniki",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Smroków",
+    "coordinates": {
+      "lat": 50.06192303540987,
+      "lng": 19.946027979794533
+    },
+    "isNearBorder": false,
+    "areaM2": 200,
+    "plotAreaM2": 11230,
+    "currentPrice": 795000,
+    "currentPricePerM2": 3975,
+    "initialPrice": 795000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-15",
+        "price": 795000,
+        "pricePerM2": 3975
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-15T13:24:11.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFpbnlhc2ZkN25hMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.lya6akj9uo6YxuN7jiAlasEbGCcougNqL_BLqtqI2Tg/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68272555",
+    "source": "otodom",
+    "sourceId": "68272555",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/zaciszne-siedlisko-z-domem-sadem-i-2-ha-ziemi-1-godz-od-krakowa-ID4CsOf",
+    "propertyType": "habitat",
+    "title": "Zaciszne siedlisko z domem, sadem i 2 ha ziemi – 1 godz. od Krakowa",
+    "voivodeship": "malopolskie",
+    "county": "miechowski",
+    "city": "Kozłów",
+    "street": "Kozłów 266",
+    "coordinates": {
+      "lat": 50.35687267257661,
+      "lng": 20.021808932706392
+    },
+    "isNearBorder": false,
+    "areaM2": 137,
+    "plotAreaM2": 22950,
+    "currentPrice": 850000,
+    "currentPricePerM2": 6204.38,
+    "initialPrice": 850000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-13",
+        "price": 850000,
+        "pricePerM2": 6204.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-13T17:01:48.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ2dnlpN2JrdjdnNy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._YEY5Cu01LqKUF8J84Ma0UsenAnCQAmV8xo2CA61I1Q/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68304495",
+    "source": "otodom",
+    "sourceId": "68304495",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwe-siedlisko-z-wlasnym-lasem-1-43-ha-prywatnej-przestrzeni-ID4CB7p",
+    "propertyType": "habitat",
+    "title": "Urokliwe siedlisko z własnym lasem – 1,43 ha prywatnej przestrzeni",
+    "voivodeship": "malopolskie",
+    "county": "gorlicki",
+    "city": "Strzeszyn",
+    "coordinates": {
+      "lat": 52.44214078912927,
+      "lng": 16.843418004027814
+    },
+    "isNearBorder": true,
+    "areaM2": 70,
+    "plotAreaM2": 14346,
+    "currentPrice": 430000,
+    "currentPricePerM2": 6142.86,
+    "initialPrice": 430000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-13",
+        "price": 430000,
+        "pricePerM2": 6142.86
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-13T15:45:38.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ0bmtkeGRsaWswbS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.-wLIIXQ-Io1nqUxJQIfnrhwkSfmcB6EiHXjqtM1Bx1U/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68413221",
+    "source": "otodom",
+    "sourceId": "68413221",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-dusza-dom-z-lat-50-i-stodola-95-arow-ID4D3p3",
+    "propertyType": "habitat",
+    "title": "Siedlisko z duszą|Dom z lat 50. i stodoła|95 arów",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Zagacie",
+    "coordinates": {
+      "lat": 50.0678441079016,
+      "lng": 19.941826159869045
+    },
+    "isNearBorder": false,
+    "areaM2": 120,
+    "plotAreaM2": 9550,
+    "currentPrice": 719000,
+    "currentPricePerM2": 5991.67,
+    "initialPrice": 719000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-13",
+        "price": 719000,
+        "pricePerM2": 5991.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-13T14:04:31.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImMwNmJwMWkxYmgweTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3DitzV4dvTD40xSaLh9O6bNrFC5jifuCPVSUdaiP638/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68412474",
+    "source": "otodom",
+    "sourceId": "68412474",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowe-siedlisko-z-mozliwoscia-prowadzenia-dzialalnosci-ID4D3d0",
+    "propertyType": "habitat",
+    "title": "Wyjątkowe siedlisko z możliwością prowadzenia działalności",
+    "voivodeship": "malopolskie",
+    "county": "oświęcimski",
+    "city": "Babice",
+    "coordinates": {
+      "lat": 50.03187565786032,
+      "lng": 19.23430013479004
+    },
+    "isNearBorder": false,
+    "areaM2": 231,
+    "plotAreaM2": 20000,
+    "currentPrice": 1289000,
+    "currentPricePerM2": 5580.09,
+    "initialPrice": 1289000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-13",
+        "price": 1289000,
+        "pricePerM2": 5580.09
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-13T07:39:44.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZwZzV6bnZkcGpycy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.K25FOWWAvjUZ2BHD1KMunTUTZvJCNd1Y0wn1mg6vPRY/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68392877",
+    "source": "otodom",
+    "sourceId": "68392877",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/rezerwacja-lesniczowka-w-miescie-ID4CY6W",
+    "propertyType": "habitat",
+    "title": "REZERWACJA ! LEŚNICZÓWKA W MIEŚCIE |",
+    "voivodeship": "malopolskie",
+    "county": "brzeski",
+    "city": "Brzesko",
+    "street": "Starowiejska",
+    "coordinates": {
+      "lat": 49.97193989036875,
+      "lng": 20.60104099201238
+    },
+    "isNearBorder": false,
+    "areaM2": 160,
+    "plotAreaM2": 1500,
+    "currentPrice": 847000,
+    "currentPricePerM2": 5293.75,
+    "initialPrice": 847000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-07",
+        "price": 847000,
+        "pricePerM2": 5293.75
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-07T17:43:30.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlzdmtvbDF1MGNwZDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ulNgsJueAQfuuF34enh11fbuP8OoB1NUvr9Sf6gGgRs/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4245776",
+    "source": "adresowo",
+    "sourceId": "4245776",
+    "sourceUrl": "https://adresowo.pl/o/dom-koszyce-80-m2-e3a3j6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Koszyce",
+    "voivodeship": "malopolskie",
+    "county": "proszowicki",
+    "city": "Koszyce",
+    "coordinates": {
+      "lat": 50.19792426664725,
+      "lng": 20.30039699851983
+    },
+    "isNearBorder": false,
+    "areaM2": 80,
+    "currentPrice": 289000,
+    "currentPricePerM2": 3612.5,
+    "initialPrice": 289000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 289000,
+        "pricePerM2": 3612.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:42.022Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/10/2b/40c910_e4c0_cover@2x-dom-proszowicki-koszyce.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4237078",
+    "source": "adresowo",
+    "sourceId": "4237078",
+    "sourceUrl": "https://adresowo.pl/o/dom-lipinki-wojtowa-90-m2-j9r7b4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wójtowa",
+    "voivodeship": "malopolskie",
+    "county": "gorlicki",
+    "city": "Wójtowa",
+    "coordinates": {
+      "lat": 49.654024068400105,
+      "lng": 21.167224160049578
+    },
+    "isNearBorder": true,
+    "areaM2": 90,
+    "currentPrice": 269000,
+    "currentPricePerM2": 2988.89,
+    "initialPrice": 269000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 269000,
+        "pricePerM2": 2988.89
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:43.899Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/36/14/40a716_4d17_cover@2x-dom-gorlicki-wojtowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4211418",
+    "source": "adresowo",
+    "sourceId": "4211418",
+    "sourceUrl": "https://adresowo.pl/o/dom-gnojnik-biesiadki-400-m2-l8s7g3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Biesiadki",
+    "voivodeship": "malopolskie",
+    "county": "brzeski",
+    "city": "Biesiadki",
+    "coordinates": {
+      "lat": 49.97049367484575,
+      "lng": 20.612156003224094
+    },
+    "isNearBorder": false,
+    "areaM2": 400,
+    "currentPrice": 2250000,
+    "currentPricePerM2": 5625,
+    "initialPrice": 2250000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 2250000,
+        "pricePerM2": 5625
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:43.899Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/63/1c/4042da_8f98_cover@2x-dom-brzeski-biesiadki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4203052",
+    "source": "adresowo",
+    "sourceId": "4203052",
+    "sourceUrl": "https://adresowo.pl/o/dom-budzow-bienkowka-70-m2-q5e2j2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bieńkówka",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Bieńkówka",
+    "coordinates": {
+      "lat": 49.74168261410824,
+      "lng": 19.679960641962047
+    },
+    "isNearBorder": false,
+    "areaM2": 70,
+    "currentPrice": 475000,
+    "currentPricePerM2": 6785.71,
+    "initialPrice": 475000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 475000,
+        "pricePerM2": 6785.71
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:45.598Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1f/31/40222c_3a12_cover@2x-dom-suski-bienkowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4184616",
+    "source": "adresowo",
+    "sourceId": "4184616",
+    "sourceUrl": "https://adresowo.pl/o/dom-oswiecim-babice-264-m2-v9s2e7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Babice",
+    "voivodeship": "malopolskie",
+    "county": "oswiecimski",
+    "city": "Babice",
+    "coordinates": {
+      "lat": 50.03159097886503,
+      "lng": 19.24026925015486
+    },
+    "isNearBorder": false,
+    "areaM2": 264,
+    "currentPrice": 1289000,
+    "currentPricePerM2": 4882.58,
+    "initialPrice": 1289000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1289000,
+        "pricePerM2": 4882.58
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:45.598Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7e/4d/3fda28_4736_cover@2x-dom-oswiecimski-babice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4158492",
+    "source": "adresowo",
+    "sourceId": "4158492",
+    "sourceUrl": "https://adresowo.pl/o/dom-bobowa-brzana-45-m2-m7f7k5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Brzana",
+    "voivodeship": "malopolskie",
+    "county": "gorlicki",
+    "city": "Brzana",
+    "coordinates": {
+      "lat": 49.64814403959197,
+      "lng": 21.160340071643727
+    },
+    "isNearBorder": true,
+    "areaM2": 45,
+    "currentPrice": 399999,
+    "currentPricePerM2": 8888.87,
+    "initialPrice": 399999,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 399999,
+        "pricePerM2": 8888.87
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:47.817Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7a/65/3f741c_c0d4_cover@2x-dom-gorlicki-brzana.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4154700",
+    "source": "adresowo",
+    "sourceId": "4154700",
+    "sourceUrl": "https://adresowo.pl/o/dom-lukowica-220-m2-u0o7e2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Łukowica",
+    "voivodeship": "malopolskie",
+    "county": "limanowski",
+    "city": "Łukowica",
+    "coordinates": {
+      "lat": 49.705320621223166,
+      "lng": 20.41781605715611
+    },
+    "isNearBorder": false,
+    "areaM2": 220,
+    "currentPrice": 2500000,
+    "currentPricePerM2": 11363.64,
+    "initialPrice": 2500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 2500000,
+        "pricePerM2": 11363.64
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:47.817Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/26/74/3f654c_d34f_cover@2x-dom-limanowski-lukowica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4139484",
+    "source": "adresowo",
+    "sourceId": "4139484",
+    "sourceUrl": "https://adresowo.pl/o/dom-tuchow-siedliska-120-m2-m8n3d4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedliska",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Siedliska",
+    "coordinates": {
+      "lat": 49.95707875704091,
+      "lng": 21.950801784202692
+    },
+    "isNearBorder": false,
+    "areaM2": 120,
+    "currentPrice": 499000,
+    "currentPricePerM2": 4158.33,
+    "initialPrice": 499000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 499000,
+        "pricePerM2": 4158.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:49.327Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/31/4d/3f29dc_2b50_cover@2x-dom-tarnowski-siedliska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4132522",
+    "source": "adresowo",
+    "sourceId": "4132522",
+    "sourceUrl": "https://adresowo.pl/o/dom-lisia-gora-stare-zukowice-145-m2-q8k0f8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Stare Żukowice, Polany",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Stare Żukowice",
+    "street": "Polany",
+    "coordinates": {
+      "lat": 50.005615500957234,
+      "lng": 20.991715315229325
+    },
+    "isNearBorder": false,
+    "areaM2": 145,
+    "currentPrice": 610000,
+    "currentPricePerM2": 4206.9,
+    "initialPrice": 610000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 610000,
+        "pricePerM2": 4206.9
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:49.327Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1f/7e/3f0eaa_d419_cover@2x-dom-tarnowski-stare-zukowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4131000",
+    "source": "adresowo",
+    "sourceId": "4131000",
+    "sourceUrl": "https://adresowo.pl/o/dom-proszowice-piekary-140-m2-s0b1e7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Piekary",
+    "voivodeship": "malopolskie",
+    "county": "proszowicki",
+    "city": "Piekary",
+    "coordinates": {
+      "lat": 50.19592166988837,
+      "lng": 20.29660226746311
+    },
+    "isNearBorder": false,
+    "areaM2": 140,
+    "currentPrice": 590000,
+    "currentPricePerM2": 4214.29,
+    "initialPrice": 590000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 590000,
+        "pricePerM2": 4214.29
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:49.327Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/79/52/3f08b8_b0ea_cover@2x-dom-proszowicki-piekary.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4129876",
+    "source": "adresowo",
+    "sourceId": "4129876",
+    "sourceUrl": "https://adresowo.pl/o/dom-iwkowa-88-m2-o4p9j9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Iwkowa",
+    "voivodeship": "malopolskie",
+    "county": "brzeski",
+    "city": "Iwkowa",
+    "coordinates": {
+      "lat": 49.965954338211,
+      "lng": 20.600630653513083
+    },
+    "isNearBorder": false,
+    "areaM2": 88,
+    "currentPrice": 1000000,
+    "currentPricePerM2": 11363.64,
+    "initialPrice": 1000000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1000000,
+        "pricePerM2": 11363.64
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:49.327Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/58/39/3f0454_36fa_cover@2x-dom-brzeski-iwkowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4133962",
+    "source": "adresowo",
+    "sourceId": "4133962",
+    "sourceUrl": "https://adresowo.pl/o/dom-myslenice-225-m2-t1g8q7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Myślenice",
+    "voivodeship": "malopolskie",
+    "county": "myslenicki",
+    "city": "Myślenice",
+    "coordinates": {
+      "lat": 49.833817203352005,
+      "lng": 19.929343640542772
+    },
+    "isNearBorder": false,
+    "areaM2": 225,
+    "currentPrice": 1350000,
+    "currentPricePerM2": 6000,
+    "initialPrice": 1350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1350000,
+        "pricePerM2": 6000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:49.327Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/20/3f/3f144a_46ca_cover@2x-dom-myslenicki-myslenice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4127358",
+    "source": "adresowo",
+    "sourceId": "4127358",
+    "sourceUrl": "https://adresowo.pl/o/dom-szczucin-leka-zabiecka-90-m2-n6r3q3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Łęka Żabiecka",
+    "voivodeship": "malopolskie",
+    "county": "dabrowski",
+    "city": "Łęka Żabiecka",
+    "coordinates": {
+      "lat": 50.173634702625236,
+      "lng": 20.989918297989185
+    },
+    "isNearBorder": false,
+    "areaM2": 90,
+    "currentPrice": 300000,
+    "currentPricePerM2": 3333.33,
+    "initialPrice": 300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 300000,
+        "pricePerM2": 3333.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:49.327Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/41/26/3efa7e_4ff5_cover@2x-dom-dabrowski-leka-zabiecka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4129532",
+    "source": "adresowo",
+    "sourceId": "4129532",
+    "sourceUrl": "https://adresowo.pl/o/dom-dobczyce-bienkowice-151-m2-l2z2c4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bieńkowice",
+    "voivodeship": "malopolskie",
+    "county": "myslenicki",
+    "city": "Bieńkowice",
+    "coordinates": {
+      "lat": 49.8329236834939,
+      "lng": 19.948449902288484
+    },
+    "isNearBorder": false,
+    "areaM2": 151,
+    "currentPrice": 950000,
+    "currentPricePerM2": 6291.39,
+    "initialPrice": 950000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 950000,
+        "pricePerM2": 6291.39
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:49.327Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/51/72/3f02fc_8481_cover@2x-dom-myslenicki-bienkowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4113418",
+    "source": "adresowo",
+    "sourceId": "4113418",
+    "sourceUrl": "https://adresowo.pl/o/dom-rabka-zdroj-rdzawka-218-m2-c7l9h2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Rdzawka",
+    "voivodeship": "malopolskie",
+    "county": "nowotarski",
+    "city": "Rdzawka",
+    "coordinates": {
+      "lat": 49.48940653141517,
+      "lng": 20.0287049706808
+    },
+    "isNearBorder": true,
+    "areaM2": 218,
+    "currentPrice": 1500000,
+    "currentPricePerM2": 6880.73,
+    "initialPrice": 1500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1500000,
+        "pricePerM2": 6880.73
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:49.327Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/17/29/3ec40a_f6d9_cover@2x-dom-nowotarski-rdzawka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4073232",
+    "source": "adresowo",
+    "sourceId": "4073232",
+    "sourceUrl": "https://adresowo.pl/o/dom-ryglice-ul-lokietka-q9z7g0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ryglice, ul. Łokietka 24",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Ryglice",
+    "street": "ul. Łokietka 24",
+    "coordinates": {
+      "lat": 50.005992343535084,
+      "lng": 20.98061419550884
+    },
+    "isNearBorder": false,
+    "areaM2": 120,
+    "currentPrice": 399000,
+    "currentPricePerM2": 3325,
+    "initialPrice": 399000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 399000,
+        "pricePerM2": 3325
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:50.968Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/11/25/3e2710_5e45_cover@2x-dom-tarnowski-ryglice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4075420",
+    "source": "adresowo",
+    "sourceId": "4075420",
+    "sourceUrl": "https://adresowo.pl/o/dom-brzeznica-marcyporeba-170-m2-p8a2s6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Marcyporęba",
+    "voivodeship": "malopolskie",
+    "county": "wadowicki",
+    "city": "Marcyporęba",
+    "coordinates": {
+      "lat": 49.888504707413304,
+      "lng": 19.496679144762727
+    },
+    "isNearBorder": false,
+    "areaM2": 170,
+    "currentPrice": 699000,
+    "currentPricePerM2": 4111.76,
+    "initialPrice": 699000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 699000,
+        "pricePerM2": 4111.76
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:52.534Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/10/30/3e2f9c_50dc_cover@2x-dom-wadowicki-marcyporeba.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4070222",
+    "source": "adresowo",
+    "sourceId": "4070222",
+    "sourceUrl": "https://adresowo.pl/o/dom-zawoja-200-m2-n3y8f4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zawoja, Podryżowana",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Zawoja",
+    "street": "Podryżowana",
+    "coordinates": {
+      "lat": 49.74230640654888,
+      "lng": 19.680397308952124
+    },
+    "isNearBorder": false,
+    "areaM2": 200,
+    "currentPrice": 595000,
+    "currentPricePerM2": 2975,
+    "initialPrice": 595000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 595000,
+        "pricePerM2": 2975
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:52.534Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/10/3d/3e1b4e_897a_cover@2x-dom-suski-zawoja.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3725116",
+    "source": "adresowo",
+    "sourceId": "3725116",
+    "sourceUrl": "https://adresowo.pl/o/dom-szczurowa-ul-krakowska-d7d2l9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Szczurowa, ul. Krakowska",
+    "voivodeship": "malopolskie",
+    "county": "brzeski",
+    "city": "Szczurowa",
+    "street": "ul. Krakowska",
+    "coordinates": {
+      "lat": 49.96788880549496,
+      "lng": 20.606291899406546
+    },
+    "isNearBorder": false,
+    "areaM2": 340,
+    "currentPrice": 149000,
+    "currentPricePerM2": 438.24,
+    "initialPrice": 149000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 149000,
+        "pricePerM2": 438.24
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:56.146Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/52/66/38d73c_6214_cover@2x-dom-brzeski-szczurowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3917462",
+    "source": "adresowo",
+    "sourceId": "3917462",
+    "sourceUrl": "https://adresowo.pl/o/dom-budzow-66-m2-j3u3o7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Budzów",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Budzów",
+    "coordinates": {
+      "lat": 49.74344811386092,
+      "lng": 19.675296478106294
+    },
+    "isNearBorder": false,
+    "areaM2": 66,
+    "currentPrice": 250000,
+    "currentPricePerM2": 3787.88,
+    "initialPrice": 250000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 250000,
+        "pricePerM2": 3787.88
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:56.146Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/68/61/3bc696_4657_cover@2x-dom-suski-budzow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3899574",
+    "source": "adresowo",
+    "sourceId": "3899574",
+    "sourceUrl": "https://adresowo.pl/o/dom-szerzyny-olpiny-80-m2-n3v9h8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ołpiny",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Ołpiny",
+    "coordinates": {
+      "lat": 50.01323796591006,
+      "lng": 20.98550577941971
+    },
+    "isNearBorder": false,
+    "areaM2": 80,
+    "currentPrice": 300000,
+    "currentPricePerM2": 3750,
+    "initialPrice": 300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 300000,
+        "pricePerM2": 3750
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:56.146Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/45/42/3b80b6_cf8a_cover@2x-dom-tarnowski-olpiny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3888032",
+    "source": "adresowo",
+    "sourceId": "3888032",
+    "sourceUrl": "https://adresowo.pl/o/dom-sekowa-siary-400-m2-u1k0x8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siary",
+    "voivodeship": "malopolskie",
+    "county": "gorlicki",
+    "city": "Siary",
+    "coordinates": {
+      "lat": 49.652866193999024,
+      "lng": 21.168587460352025
+    },
+    "isNearBorder": true,
+    "areaM2": 400,
+    "currentPrice": 2200000,
+    "currentPricePerM2": 5500,
+    "initialPrice": 2200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 2200000,
+        "pricePerM2": 5500
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:58.667Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/16/1d/3b53a0_55f4_cover@2x-dom-gorlicki-siary.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3878230",
+    "source": "adresowo",
+    "sourceId": "3878230",
+    "sourceUrl": "https://adresowo.pl/o/dom-koszyce-biskupice-100-m2-i1p9y0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Biskupice",
+    "voivodeship": "malopolskie",
+    "county": "proszowicki",
+    "city": "Biskupice",
+    "coordinates": {
+      "lat": 50.18543683000167,
+      "lng": 20.29156234282242
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "plotAreaM2": 6000,
+    "currentPrice": 280000,
+    "currentPricePerM2": 2800,
+    "initialPrice": 280000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 280000,
+        "pricePerM2": 2800
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:58.667Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5e/50/3b2d56_6856_cover@2x-dom-proszowicki-biskupice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3834746",
+    "source": "adresowo",
+    "sourceId": "3834746",
+    "sourceUrl": "https://adresowo.pl/o/dom-szerzyny-190-m2-q9i5k0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Szerzyny",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Szerzyny",
+    "coordinates": {
+      "lat": 50.01778004424103,
+      "lng": 20.98404872121431
+    },
+    "isNearBorder": false,
+    "areaM2": 190,
+    "plotAreaM2": 3100,
+    "currentPrice": 452850,
+    "currentPricePerM2": 2383.42,
+    "initialPrice": 452850,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 452850,
+        "pricePerM2": 2383.42
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:58.667Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/46/52/3a837a_3315_cover@2x-dom-tarnowski-szerzyny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3803990",
+    "source": "adresowo",
+    "sourceId": "3803990",
+    "sourceUrl": "https://adresowo.pl/o/dom-spytkowice-bachowice-ul-na-wzgorzach-h9f6k3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bachowice, ul. Na Wzgórzach",
+    "voivodeship": "malopolskie",
+    "county": "wadowicki",
+    "city": "Bachowice",
+    "street": "ul. Na Wzgórzach",
+    "coordinates": {
+      "lat": 49.88495588015357,
+      "lng": 19.50109409952438
+    },
+    "isNearBorder": false,
+    "areaM2": 110,
+    "currentPrice": 369000,
+    "currentPricePerM2": 3354.55,
+    "initialPrice": 369000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 369000,
+        "pricePerM2": 3354.55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:58.667Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/13/3d/3a0b56_63ec_cover@2x-dom-wadowicki-bachowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3796920",
+    "source": "adresowo",
+    "sourceId": "3796920",
+    "sourceUrl": "https://adresowo.pl/o/dom-gorlice-zagorzany-70-m2-j2u4o3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zagórzany",
+    "voivodeship": "malopolskie",
+    "county": "gorlicki",
+    "city": "Zagórzany",
+    "coordinates": {
+      "lat": 49.658167500189435,
+      "lng": 21.160661664155942
+    },
+    "isNearBorder": true,
+    "areaM2": 70,
+    "plotAreaM2": 7400,
+    "currentPrice": 200000,
+    "currentPricePerM2": 2857.14,
+    "initialPrice": 200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 200000,
+        "pricePerM2": 2857.14
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:32:58.667Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/24/63/39efb8_f98e_cover@2x-dom-gorlicki-zagorzany.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3777072",
+    "source": "adresowo",
+    "sourceId": "3777072",
+    "sourceUrl": "https://adresowo.pl/o/dom-brzeszcze-ul-siedliska-b1v4u6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Brzeszcze, ul. Siedliska",
+    "voivodeship": "malopolskie",
+    "county": "oswiecimski",
+    "city": "Brzeszcze",
+    "street": "ul. Siedliska",
+    "coordinates": {
+      "lat": 50.03332547659989,
+      "lng": 19.246325910760067
+    },
+    "isNearBorder": false,
+    "areaM2": 101,
+    "currentPrice": 699000,
+    "currentPricePerM2": 6920.79,
+    "initialPrice": 699000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 699000,
+        "pricePerM2": 6920.79
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:33:01.275Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/30/6e/39a230_d800_cover@2x-dom-oswiecimski-brzeszcze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3769956",
+    "source": "adresowo",
+    "sourceId": "3769956",
+    "sourceUrl": "https://adresowo.pl/o/dom-lanckorona-ul-jozefa-pilsudskiego-x1x8j4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Lanckorona, ul. Józefa Piłsudskiego",
+    "voivodeship": "malopolskie",
+    "county": "wadowicki",
+    "city": "Lanckorona",
+    "street": "ul. Józefa Piłsudskiego",
+    "coordinates": {
+      "lat": 49.878033917670784,
+      "lng": 19.487348297035037
+    },
+    "isNearBorder": false,
+    "areaM2": 105,
+    "currentPrice": 2100000,
+    "currentPricePerM2": 20000,
+    "initialPrice": 2100000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 2100000,
+        "pricePerM2": 20000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:33:01.275Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4e/2d/398664_eeb7_cover@2x-dom-wadowicki-lanckorona.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3399834",
+    "source": "adresowo",
+    "sourceId": "3399834",
+    "sourceUrl": "https://adresowo.pl/o/dom-wolbrom-podlesice-drugie-200-m2-n2s7b3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Podlesice Drugie",
+    "voivodeship": "malopolskie",
+    "county": "olkuski",
+    "city": "Podlesice Drugie",
+    "coordinates": {
+      "lat": 50.27892417516522,
+      "lng": 19.559872527798266
+    },
+    "isNearBorder": false,
+    "areaM2": 200,
+    "plotAreaM2": 27000,
+    "currentPrice": 450000,
+    "currentPricePerM2": 2250,
+    "initialPrice": 450000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 450000,
+        "pricePerM2": 2250
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:33:03.141Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/51/23/33e09a_8e09_cover@2x-dom-olkuski-podlesice-drugie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3050700",
+    "source": "adresowo",
+    "sourceId": "3050700",
+    "sourceUrl": "https://adresowo.pl/o/dom-lapanow-grabie-150-m2-x7r6t0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Grabie",
+    "voivodeship": "malopolskie",
+    "county": "bochenski",
+    "city": "Grabie",
+    "coordinates": {
+      "lat": 49.96755692406371,
+      "lng": 20.430258358907874
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "currentPrice": 1000000,
+    "currentPricePerM2": 6666.67,
+    "initialPrice": 1000000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1000000,
+        "pricePerM2": 6666.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:33:05.228Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/18/63/2e8ccc_95cf_cover@2x-dom-bochenski-grabie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2539922",
+    "source": "adresowo",
+    "sourceId": "2539922",
+    "sourceUrl": "https://adresowo.pl/o/dom-kroscienko-nad-dunajcem-krosnica-ul-ojca-leona-p8u2p1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Krośnica, ul. Ojca Leona",
+    "voivodeship": "malopolskie",
+    "county": "nowotarski",
+    "city": "Krośnica",
+    "street": "ul. Ojca Leona",
+    "coordinates": {
+      "lat": 49.48153687593103,
+      "lng": 20.04113941123476
+    },
+    "isNearBorder": true,
+    "areaM2": 110,
+    "currentPrice": 950000,
+    "currentPricePerM2": 8636.36,
+    "initialPrice": 950000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 950000,
+        "pricePerM2": 8636.36
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:33:05.228Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/41/13/26c192_41f7_cover@2x-dom-nowotarski-krosnica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2383142",
+    "source": "adresowo",
+    "sourceId": "2383142",
+    "sourceUrl": "https://adresowo.pl/o/dom-nowy-wisnicz-chronow-55-m2-j5t1e1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Chronów, Chronów Górny",
+    "voivodeship": "malopolskie",
+    "county": "bochenski",
+    "city": "Chronów",
+    "street": "Chronów Górny",
+    "coordinates": {
+      "lat": 49.969437146955656,
+      "lng": 20.427790819800247
+    },
+    "isNearBorder": false,
+    "areaM2": 55,
+    "currentPrice": 650000,
+    "currentPricePerM2": 11818.18,
+    "initialPrice": 650000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 650000,
+        "pricePerM2": 11818.18
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:33:05.228Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/27/35/245d26_9112_cover@2x-dom-bochenski-chronow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2380658",
+    "source": "adresowo",
+    "sourceId": "2380658",
+    "sourceUrl": "https://adresowo.pl/o/dom-koszyce-siedliska-150-m2-o8q0x9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedliska",
+    "voivodeship": "malopolskie",
+    "county": "proszowicki",
+    "city": "Siedliska",
+    "coordinates": {
+      "lat": 49.95911761859808,
+      "lng": 21.943567701291173
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "currentPrice": 175000,
+    "currentPricePerM2": 1166.67,
+    "initialPrice": 175000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 175000,
+        "pricePerM2": 1166.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:33:05.228Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3d/10/245372_9577_cover@2x-dom-proszowicki-siedliska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68454276",
+    "source": "otodom",
+    "sourceId": "68454276",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-3-500-m-ID4De5e",
+    "propertyType": "habitat",
+    "title": "Działka siedliskowa 3 500 m²",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Nowodworze",
+    "coordinates": {
+      "lat": 50.010415994926696,
+      "lng": 20.97913686052657
+    },
+    "isNearBorder": false,
+    "areaM2": 3500,
+    "currentPrice": 140000,
+    "currentPricePerM2": 40,
+    "initialPrice": 140000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 140000,
+        "pricePerM2": 40
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T18:16:57.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZraXE4dmh4cDZieS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1SqQd6gjv7EUIVUw-9_xCgMhizX6luFbxZAJ8X_4I60/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68429215",
+    "source": "otodom",
+    "sourceId": "68429215",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-2-7-ha-na-terenie-gminy-tuchow-ID4D7z1",
+    "propertyType": "habitat",
+    "title": "Siedlisko 2,7 ha na terenie gminy Tuchów!!",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Łowczów",
+    "coordinates": {
+      "lat": 50.01025726133685,
+      "lng": 20.995770177475737
+    },
+    "isNearBorder": false,
+    "areaM2": 27000,
+    "currentPrice": 179000,
+    "currentPricePerM2": 6.63,
+    "initialPrice": 179000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-17",
+        "price": 179000,
+        "pricePerM2": 6.63
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-17T08:20:48.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjcwdDlibGhtYm5zazEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1faAtK1GDylNL0TinDrp1NJAaptXba__ULPlvUsM-as/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68401427",
+    "source": "otodom",
+    "sourceId": "68401427",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-16-69-ar-domiarki-budowlano-zagrodowa-ID4D0kP",
+    "propertyType": "habitat",
+    "title": "Działka 16,69 ar | Domiarki | budowlano-zagrodowa",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Domiarki",
+    "coordinates": {
+      "lat": 50.06258341901811,
+      "lng": 19.94016486173775
+    },
+    "isNearBorder": false,
+    "areaM2": 1669,
+    "currentPrice": 400000,
+    "currentPricePerM2": 239.66,
+    "initialPrice": 400000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-10",
+        "price": 400000,
+        "pricePerM2": 239.66
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-10T08:37:47.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InplNTBudWptcjgwYjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RhAV9BUaypi-ywMlJo4Bw_-mwZf9lcdZIJ7cD1LkKgA/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68396181",
+    "source": "otodom",
+    "sourceId": "68396181",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowo-budowlano-rolna-duzy-areal-ID4CYYd",
+    "propertyType": "habitat",
+    "title": "Działka siedliskowo-budowlano-rolna. Duży areał!",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Rybna",
+    "street": "Graniczna",
+    "coordinates": {
+      "lat": 50.062506633333605,
+      "lng": 19.93782195939497
+    },
+    "isNearBorder": false,
+    "areaM2": 72700,
+    "currentPrice": 2499000,
+    "currentPricePerM2": 34.37,
+    "initialPrice": 2499000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-08",
+        "price": 2499000,
+        "pricePerM2": 34.37
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-08T12:45:48.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN4eXlseGp1cXZlby1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Gn7wQiHt1nqUfI3wor1x5IlutEdrH69eH4q0j7cmUDc/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68174740",
+    "source": "otodom",
+    "sourceId": "68174740",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedaz-gospodarstwa-z-widokiem-na-babia-gore-ok-2-5-ha-ID4C3mA",
+    "propertyType": "habitat",
+    "title": "Sprzedaż gospodarstwa z widokiem na Babią Górę – ok. 2,5 ha",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Zawoja",
+    "street": "Dolina",
+    "coordinates": {
+      "lat": 49.74206313343818,
+      "lng": 19.679480361121445
+    },
+    "isNearBorder": false,
+    "areaM2": 25000,
+    "currentPrice": 630000,
+    "currentPricePerM2": 25.2,
+    "initialPrice": 630000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 630000,
+        "pricePerM2": 25.2
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-07-05T22:22:55.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFrYWZuODk1a2drNjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.RmCE7O5iPH7XSkzhNenPw9RdjY33hhFUtOTQ-PTKTII/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68365604",
+    "source": "otodom",
+    "sourceId": "68365604",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-z-wz-pod-zabudowe-zagrodowa-bialy-dunajec-ID4CR12",
+    "propertyType": "habitat",
+    "title": "Działka z WZ pod zabudowę zagrodową, Biały Dunajec",
+    "voivodeship": "malopolskie",
+    "county": "tatrzański",
+    "city": "Biały Dunajec",
+    "street": "ul. Jana Pawła II",
+    "coordinates": {
+      "lat": 49.3037795154243,
+      "lng": 19.958348879691446
+    },
+    "isNearBorder": true,
+    "areaM2": 1696,
+    "currentPrice": 339000,
+    "currentPricePerM2": 199.88,
+    "initialPrice": 339000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-31",
+        "price": 339000,
+        "pricePerM2": 199.88
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-31T10:57:01.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inc1YzVlazd1MmRnYjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.W32K2m4hrNN-BOIA9RM84JUUuau0KhYz39HUzNkGHOc/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68042637",
+    "source": "otodom",
+    "sourceId": "68042637",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/budowlana-25-ar-siedliskowa-43-ar-mogilany-ID4BuZT",
+    "propertyType": "habitat",
+    "title": "Budowlana 25 ar, siedliskowa 43 ar | Mogilany",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Włosań",
+    "coordinates": {
+      "lat": 50.06292890495451,
+      "lng": 19.939368347353955
+    },
+    "isNearBorder": false,
+    "areaM2": 9597,
+    "currentPrice": 980000,
+    "currentPricePerM2": 102.12,
+    "initialPrice": 980000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-26",
+        "price": 980000,
+        "pricePerM2": 102.12
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-26T09:06:51.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InYyMGU4Z3A0cjdmaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.NYEoagJgdELscgs3EX-V3JTN92cqkwNq8TpveG-uOOc/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68347620",
+    "source": "otodom",
+    "sourceId": "68347620",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-rolna-z-dopuszczeniem-zabudowy-zagrodowej-2393-m2-ID4CMkY",
+    "propertyType": "habitat",
+    "title": "Działka rolna z dopuszczeniem zabudowy zagrodowej | 2393 m2",
+    "voivodeship": "malopolskie",
+    "county": "wadowicki",
+    "city": "Wysoka",
+    "street": "Przedszkolna",
+    "coordinates": {
+      "lat": 53.17561939128689,
+      "lng": 17.07950143194722
+    },
+    "isNearBorder": false,
+    "areaM2": 2393,
+    "currentPrice": 60000,
+    "currentPricePerM2": 25.07,
+    "initialPrice": 60000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-25",
+        "price": 60000,
+        "pricePerM2": 25.07
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-25T10:34:05.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJyNTM1emtuM3FiNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.5e6mYkbzlGjpiOBPgsr4TJhFYAqgNAvawJwKz2YFnQc/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68331874",
+    "source": "otodom",
+    "sourceId": "68331874",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-z-mediami-oraz-wydana-wz-na-budowe-domu-ID4CIf0",
+    "propertyType": "habitat",
+    "title": "Działka siedliskowa z mediami oraz wydana WZ na budowę Domu",
+    "voivodeship": "malopolskie",
+    "county": "miechowski",
+    "city": "Zarogów",
+    "street": "zarogów 34 B",
+    "coordinates": {
+      "lat": 50.358680845609584,
+      "lng": 20.02668173461233
+    },
+    "isNearBorder": false,
+    "areaM2": 1531,
+    "currentPrice": 159000,
+    "currentPricePerM2": 103.85,
+    "initialPrice": 159000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-20",
+        "price": 159000,
+        "pricePerM2": 103.85
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-20T08:42:44.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZvNDE2ZTJndmRqaDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lfTHgL0xvMPFE_jOZYZYGotSXggMtQRQ1mdZVp2jqk4/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67781309",
+    "source": "otodom",
+    "sourceId": "67781309",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-rolna-siedliskowa-49-18-ar-przy-lesie-ID4Ap0W",
+    "propertyType": "habitat",
+    "title": "Działka rolna-siedliskowa | 49,18 ar | przy lesie",
+    "voivodeship": "malopolskie",
+    "county": "wielicki",
+    "city": "Wola Batorska",
+    "coordinates": {
+      "lat": 50.031638292985065,
+      "lng": 20.209587688227074
+    },
+    "isNearBorder": false,
+    "areaM2": 4900,
+    "currentPrice": 295000,
+    "currentPricePerM2": 60.2,
+    "initialPrice": 295000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-17",
+        "price": 295000,
+        "pricePerM2": 60.2
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-17T16:00:39.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU2bWpiMDFqc3owZDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Lt6Fa5y4sn_U73y92X4BR7E_YGMNtOqrY3lgohU0E-A/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68310284",
+    "source": "otodom",
+    "sourceId": "68310284",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/kocmyrzow-luborzyca-dzialka-rolna-zagrodowa-68-ar-ID4CCCM",
+    "propertyType": "habitat",
+    "title": "Kocmyrzów Luborzyca działka rolna /zagrodowa 68 ar",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Łuczyce",
+    "coordinates": {
+      "lat": 50.063157491842205,
+      "lng": 19.94329444549163
+    },
+    "isNearBorder": false,
+    "areaM2": 68,
+    "currentPrice": 800000,
+    "currentPricePerM2": 11764.71,
+    "initialPrice": 800000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-13",
+        "price": 800000,
+        "pricePerM2": 11764.71
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-13T11:05:58.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZmeG1jazQ3Y2dnbC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._aNrQEfTrOVanEC6fQfJJi64qdWpGpP4slhtq0dKcLI/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-66935480",
+    "source": "otodom",
+    "sourceId": "66935480",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-zagrodowa-kocmyrzow-wysiolek-luborzycki-ID4vQYv",
+    "propertyType": "habitat",
+    "title": "Działka zagrodowa Kocmyrzów, Wysiołek Luborzycki",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Wysiołek Luborzycki",
+    "coordinates": {
+      "lat": 50.07164595072285,
+      "lng": 19.943314235178768
+    },
+    "isNearBorder": false,
+    "areaM2": 5783,
+    "currentPrice": 649999,
+    "currentPricePerM2": 112.4,
+    "initialPrice": 649999,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-05",
+        "price": 649999,
+        "pricePerM2": 112.4
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-05T12:20:10.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InAxeXMwNTdpeG5scjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.b6USHkTCnckWLLE4zM2M1UgA815pPicG_Ce0dzdwG_o/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-96693548000067",
+    "source": "otodom",
+    "sourceId": "96693548000067",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-zagrodowa-kocmyrzow-wysiolek-luborzycki-ID4vQYv",
+    "propertyType": "habitat",
+    "title": "Działka zagrodowa Kocmyrzów, Wysiołek Luborzycki",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Wysiołek Luborzycki",
+    "coordinates": {
+      "lat": 50.07128854249547,
+      "lng": 19.943688832419177
+    },
+    "isNearBorder": false,
+    "areaM2": 5783,
+    "currentPrice": 649999,
+    "currentPricePerM2": 112.4,
+    "initialPrice": 649999,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "1999-02-28",
+        "price": 649999,
+        "pricePerM2": 112.4
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "1999-02-28T23:00:01.000Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4271012",
+    "source": "adresowo",
+    "sourceId": "4271012",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-tarnow-nowodworze-3-500-m2-q4j7u6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Nowodworze",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Nowodworze",
+    "coordinates": {
+      "lat": 50.00884252891045,
+      "lng": 20.98250666477616
+    },
+    "isNearBorder": false,
+    "areaM2": 3500,
+    "currentPrice": 140000,
+    "currentPricePerM2": 40,
+    "initialPrice": 140000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 140000,
+        "pricePerM2": 40
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:27.947Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6c/12/412ba4_49f8_cover@2x-dzialka-siedliskowa-tarnowski-nowodworze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4236820",
+    "source": "adresowo",
+    "sourceId": "4236820",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-wieliczka-dobranowice-4-000-m2-z6s5y1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Dobranowice",
+    "voivodeship": "malopolskie",
+    "county": "wielicki",
+    "city": "Dobranowice",
+    "coordinates": {
+      "lat": 49.98883958046163,
+      "lng": 20.056259844584037
+    },
+    "isNearBorder": false,
+    "areaM2": 4000,
+    "currentPrice": 390000,
+    "currentPricePerM2": 97.5,
+    "initialPrice": 390000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 390000,
+        "pricePerM2": 97.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:29.805Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/34/35/40a614_4e20_cover@2x-dzialka-inwestycyjna-wielicki-dobranowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4231252",
+    "source": "adresowo",
+    "sourceId": "4231252",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lipinki-2-845-m2-h8r0i1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Lipinki",
+    "voivodeship": "malopolskie",
+    "county": "gorlicki",
+    "city": "Lipinki",
+    "coordinates": {
+      "lat": 49.66135296535347,
+      "lng": 21.15438183804048
+    },
+    "isNearBorder": true,
+    "areaM2": 2845,
+    "currentPrice": 120002,
+    "currentPricePerM2": 42.18,
+    "initialPrice": 120002,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 120002,
+        "pricePerM2": 42.18
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:29.805Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5d/19/409054_c132_cover@2x-dzialka-siedliskowa-gorlicki-lipinki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4230212",
+    "source": "adresowo",
+    "sourceId": "4230212",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-skrzyszow-szynwald-3-000-m2-x4m3k2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Szynwałd",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Szynwałd",
+    "coordinates": {
+      "lat": 50.01263484954157,
+      "lng": 20.981983988091855
+    },
+    "isNearBorder": false,
+    "areaM2": 3000,
+    "currentPrice": 195000,
+    "currentPricePerM2": 65,
+    "initialPrice": 195000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 195000,
+        "pricePerM2": 65
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:29.805Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/38/32/408c44_940c_cover@2x-dzialka-rolno-budowlana-tarnowski-szynwald.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4226962",
+    "source": "adresowo",
+    "sourceId": "4226962",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-czernichow-rybna-3-000-m2-q4w5v3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Rybna",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Rybna",
+    "coordinates": {
+      "lat": 50.05802982630802,
+      "lng": 19.950769239411997
+    },
+    "isNearBorder": false,
+    "areaM2": 3000,
+    "currentPrice": 210000,
+    "currentPricePerM2": 70,
+    "initialPrice": 210000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 210000,
+        "pricePerM2": 70
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:29.805Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5f/21/407f92_81c0_cover@2x-dzialka-siedliskowa-krakowski-rybna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4262530",
+    "source": "adresowo",
+    "sourceId": "4262530",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-jerzmanowice-przeginia-przeginia-7-550-m2-t0y6s7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Przeginia",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Przeginia",
+    "coordinates": {
+      "lat": 50.06339497613126,
+      "lng": 19.944618317879048
+    },
+    "isNearBorder": false,
+    "areaM2": 7550,
+    "currentPrice": 320000,
+    "currentPricePerM2": 42.38,
+    "initialPrice": 320000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 320000,
+        "pricePerM2": 42.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:29.805Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3b/7e/410a82_b5bf_cover@2x-dzialka-rolno-budowlana-krakowski-przeginia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4261216",
+    "source": "adresowo",
+    "sourceId": "4261216",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-stryszawa-kurow-1-732-m2-y7m1c1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kurów",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Kurów",
+    "coordinates": {
+      "lat": 51.3942482831063,
+      "lng": 22.182763732876513
+    },
+    "isNearBorder": false,
+    "areaM2": 1732,
+    "currentPrice": 245000,
+    "currentPricePerM2": 141.45,
+    "initialPrice": 245000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 245000,
+        "pricePerM2": 141.45
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:29.805Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1a/3f/410560_7f2d_cover@2x-dzialka-budowlana-suski-kurow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4219928",
+    "source": "adresowo",
+    "sourceId": "4219928",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-limanowa-nowe-rybie-1-200-m2-s4v5i7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Nowe Rybie",
+    "voivodeship": "malopolskie",
+    "county": "limanowski",
+    "city": "Nowe Rybie",
+    "coordinates": {
+      "lat": 49.71265764826148,
+      "lng": 20.41878038643474
+    },
+    "isNearBorder": false,
+    "areaM2": 1200,
+    "currentPrice": 78000,
+    "currentPricePerM2": 65,
+    "initialPrice": 78000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 78000,
+        "pricePerM2": 65
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:29.805Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/22/5d/406418_a3fd_cover@2x-dzialka-budowlana-limanowski-nowe-rybie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4260080",
+    "source": "adresowo",
+    "sourceId": "4260080",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kocmyrzow-luborzyca-goszcza-ul-zatorze-i7u3h5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Goszcza, ul. Zatorze",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Goszcza",
+    "street": "ul. Zatorze",
+    "coordinates": {
+      "lat": 50.06756932765111,
+      "lng": 19.93954472590739
+    },
+    "isNearBorder": false,
+    "areaM2": 4000,
+    "currentPrice": 600000,
+    "currentPricePerM2": 150,
+    "initialPrice": 600000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 600000,
+        "pricePerM2": 150
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:29.805Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/75/7b/4100f0_dc32_cover@2x-dzialka-siedliskowa-krakowski-goszcza.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4256010",
+    "source": "adresowo",
+    "sourceId": "4256010",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-skala-cianowice-ul-ojcowska-h8u7b5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Cianowice, ul. Ojcowska",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Cianowice",
+    "street": "ul. Ojcowska",
+    "coordinates": {
+      "lat": 50.06173446906993,
+      "lng": 19.95039515758885
+    },
+    "isNearBorder": false,
+    "areaM2": 1253,
+    "currentPrice": 245000,
+    "currentPricePerM2": 195.53,
+    "initialPrice": 245000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 245000,
+        "pricePerM2": 195.53
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:31.634Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4e/79/40f10a_8288_cover@2x-dzialka-siedliskowa-krakowski-cianowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4204266",
+    "source": "adresowo",
+    "sourceId": "4204266",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wieliczka-pawlikowice-1-900-m2-f9b4w9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Pawlikowice",
+    "voivodeship": "malopolskie",
+    "county": "wielicki",
+    "city": "Pawlikowice",
+    "coordinates": {
+      "lat": 49.98224407787473,
+      "lng": 20.074480217233166
+    },
+    "isNearBorder": false,
+    "areaM2": 1900,
+    "currentPrice": 180000,
+    "currentPricePerM2": 94.74,
+    "initialPrice": 180000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 180000,
+        "pricePerM2": 94.74
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:31.634Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4e/40/4026ea_91b3_cover@2x-dzialka-siedliskowa-wielicki-pawlikowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4182958",
+    "source": "adresowo",
+    "sourceId": "4182958",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-swiatniki-gorne-olszowice-2-566-m2-j9i7p5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Olszowice",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Olszowice",
+    "coordinates": {
+      "lat": 50.06185048873142,
+      "lng": 19.949284941716684
+    },
+    "isNearBorder": false,
+    "areaM2": 2566,
+    "currentPrice": 276000,
+    "currentPricePerM2": 107.56,
+    "initialPrice": 276000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 276000,
+        "pricePerM2": 107.56
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:34.243Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/36/19/3fd3ae_b5d9_cover@2x-dzialka-budowlana-krakowski-olszowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4245226",
+    "source": "adresowo",
+    "sourceId": "4245226",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-wierzchoslawice-5-900-m2-u7a4a8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wierzchosławice",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Wierzchosławice",
+    "coordinates": {
+      "lat": 50.00732272866053,
+      "lng": 20.99130516570974
+    },
+    "isNearBorder": false,
+    "areaM2": 5900,
+    "currentPrice": 329000,
+    "currentPricePerM2": 55.76,
+    "initialPrice": 329000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 329000,
+        "pricePerM2": 55.76
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:34.243Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/33/2f/40c6ea_9f4a_cover@2x-dzialka-budowlana-tarnowski-wierzchoslawice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4158978",
+    "source": "adresowo",
+    "sourceId": "4158978",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-czernichow-przeginia-narodowa-3-000-m2-r8s5k0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Przeginia Narodowa",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Przeginia Narodowa",
+    "coordinates": {
+      "lat": 50.06050785271491,
+      "lng": 19.952785734793917
+    },
+    "isNearBorder": false,
+    "areaM2": 3000,
+    "currentPrice": 189000,
+    "currentPricePerM2": 63,
+    "initialPrice": 189000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 189000,
+        "pricePerM2": 63
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:36.472Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1a/3c/3f7602_c0ab_cover@2x-dzialka-siedliskowa-krakowski-przeginia-narodowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4114748",
+    "source": "adresowo",
+    "sourceId": "4114748",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-mogilany-libertow-ul-poludniowa-c1c9k4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Libertów, ul. Południowa",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Libertów",
+    "street": "ul. Południowa",
+    "coordinates": {
+      "lat": 50.057932848584215,
+      "lng": 19.942411758818217
+    },
+    "isNearBorder": false,
+    "areaM2": 3600,
+    "currentPrice": 2080000,
+    "currentPricePerM2": 577.78,
+    "initialPrice": 2080000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 2080000,
+        "pricePerM2": 577.78
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:38.413Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7d/28/3ec93c_550d_cover@2x-dzialka-siedliskowa-krakowski-libertow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4227792",
+    "source": "adresowo",
+    "sourceId": "4227792",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-skala-ul-rzeznicza-u5x9y2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Skała, ul. Rzeźnicza",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Skała",
+    "street": "ul. Rzeźnicza",
+    "coordinates": {
+      "lat": 50.067193148953,
+      "lng": 19.94638337456636
+    },
+    "isNearBorder": false,
+    "areaM2": 7300,
+    "currentPrice": 230000,
+    "currentPricePerM2": 31.51,
+    "initialPrice": 230000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 230000,
+        "pricePerM2": 31.51
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:38.413Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2c/24/4082d0_ac0b_cover@2x-dzialka-rolno-budowlana-krakowski-skala.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4225004",
+    "source": "adresowo",
+    "sourceId": "4225004",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inna-krynica-zdroj-piorunka-16-ha-g1f2f6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Piorunka",
+    "voivodeship": "malopolskie",
+    "county": "nowosadecki",
+    "city": "Piorunka",
+    "coordinates": {
+      "lat": 49.624574513842646,
+      "lng": 20.688320257824774
+    },
+    "isNearBorder": true,
+    "areaM2": 163300,
+    "currentPrice": 1600000,
+    "currentPricePerM2": 9.8,
+    "initialPrice": 1600000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1600000,
+        "pricePerM2": 9.8
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:38.413Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/39/21/4077ec_59d5_cover@2x-dzialka-inna-nowosadecki-piorunka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4099696",
+    "source": "adresowo",
+    "sourceId": "4099696",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-jordanow-1-400-m2-c6b4x2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jordanów",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Jordanów",
+    "coordinates": {
+      "lat": 49.736237131944904,
+      "lng": 19.67792831827246
+    },
+    "isNearBorder": false,
+    "areaM2": 1400,
+    "currentPrice": 109000,
+    "currentPricePerM2": 77.86,
+    "initialPrice": 109000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 109000,
+        "pricePerM2": 77.86
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:38.413Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/15/3e/3e8e70_5403_cover@2x-dzialka-budowlana-suski-jordanow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4060286",
+    "source": "adresowo",
+    "sourceId": "4060286",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-szczurowa-popedzyna-9-212-m2-x0h5q9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Popędzyna",
+    "voivodeship": "malopolskie",
+    "county": "brzeski",
+    "city": "Popędzyna",
+    "coordinates": {
+      "lat": 49.974284170801134,
+      "lng": 20.59709395771692
+    },
+    "isNearBorder": false,
+    "areaM2": 9212,
+    "currentPrice": 198000,
+    "currentPricePerM2": 21.49,
+    "initialPrice": 198000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 198000,
+        "pricePerM2": 21.49
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:40.589Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2b/5f/3df47e_eb5f_cover@2x-dzialka-siedliskowa-brzeski-popedzyna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4060284",
+    "source": "adresowo",
+    "sourceId": "4060284",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-szczurowa-popedzyna-2-579-m2-h6h6r4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Popędzyna",
+    "voivodeship": "malopolskie",
+    "county": "brzeski",
+    "city": "Popędzyna",
+    "coordinates": {
+      "lat": 49.96356398187127,
+      "lng": 20.60814899703898
+    },
+    "isNearBorder": false,
+    "areaM2": 2579,
+    "currentPrice": 85000,
+    "currentPricePerM2": 32.96,
+    "initialPrice": 85000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 85000,
+        "pricePerM2": 32.96
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:40.589Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/40/71/3df47c_cb98_cover@2x-dzialka-brzeski-popedzyna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4211940",
+    "source": "adresowo",
+    "sourceId": "4211940",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-skala-rzeplin-2-360-m2-i0p5b2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Rzeplin",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Rzeplin",
+    "coordinates": {
+      "lat": 50.06020635668638,
+      "lng": 19.952527735661878
+    },
+    "isNearBorder": false,
+    "areaM2": 2360,
+    "currentPrice": 425000,
+    "currentPricePerM2": 180.08,
+    "initialPrice": 425000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 425000,
+        "pricePerM2": 180.08
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:40.589Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4f/34/4044e4_4efa_cover@2x-dzialka-budowlana-krakowski-rzeplin.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4210926",
+    "source": "adresowo",
+    "sourceId": "4210926",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-zielonki-trojanowice-ul-miechowska-i6c6r0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Trojanowice, ul. Miechowska",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Trojanowice",
+    "street": "ul. Miechowska",
+    "coordinates": {
+      "lat": 50.057586640907935,
+      "lng": 19.950673564802667
+    },
+    "isNearBorder": false,
+    "areaM2": 5181,
+    "currentPrice": 335500,
+    "currentPricePerM2": 64.76,
+    "initialPrice": 335500,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 335500,
+        "pricePerM2": 64.76
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:40.589Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/41/4a/4040ee_d84b_cover@2x-dzialka-siedliskowa-krakowski-trojanowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4205036",
+    "source": "adresowo",
+    "sourceId": "4205036",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-zawoja-2-ha-z5i9b3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zawoja, Dolina",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Zawoja",
+    "street": "Dolina",
+    "coordinates": {
+      "lat": 49.74890955244262,
+      "lng": 19.679753253877767
+    },
+    "isNearBorder": false,
+    "areaM2": 25000,
+    "currentPrice": 630000,
+    "currentPricePerM2": 25.2,
+    "initialPrice": 630000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 630000,
+        "pricePerM2": 25.2
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:40.589Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3e/14/4029ec_ff06_cover@2x-dzialka-rolno-budowlana-suski-zawoja.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4204926",
+    "source": "adresowo",
+    "sourceId": "4204926",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-limanowa-stare-rybie-6-600-m2-k5b5t0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Stare Rybie",
+    "voivodeship": "malopolskie",
+    "county": "limanowski",
+    "city": "Stare Rybie",
+    "coordinates": {
+      "lat": 49.708084520019625,
+      "lng": 20.43405563096655
+    },
+    "isNearBorder": false,
+    "areaM2": 6600,
+    "currentPrice": 240000,
+    "currentPricePerM2": 36.36,
+    "initialPrice": 240000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 240000,
+        "pricePerM2": 36.36
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:40.589Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/22/53/40297e_ef11_cover@2x-dzialka-budowlana-limanowski-stare-rybie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4201750",
+    "source": "adresowo",
+    "sourceId": "4201750",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-bochnia-gierczyce-1-ha-k5s6m8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Gierczyce, Niwa",
+    "voivodeship": "malopolskie",
+    "county": "bochenski",
+    "city": "Gierczyce",
+    "street": "Niwa",
+    "coordinates": {
+      "lat": 49.96738840795193,
+      "lng": 20.429316972859382
+    },
+    "isNearBorder": false,
+    "areaM2": 10100,
+    "currentPrice": 1300000,
+    "currentPricePerM2": 128.71,
+    "initialPrice": 1300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1300000,
+        "pricePerM2": 128.71
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:40.589Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2d/4e/401d16_6a50_cover@2x-dzialka-siedliskowa-bochenski-gierczyce.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3988896",
+    "source": "adresowo",
+    "sourceId": "3988896",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-siepraw-czechowka-ul-szkolna-n0v8q4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Czechówka, ul. Szkolna",
+    "voivodeship": "malopolskie",
+    "county": "myslenicki",
+    "city": "Czechówka",
+    "street": "ul. Szkolna",
+    "coordinates": {
+      "lat": 49.834474485066885,
+      "lng": 19.938814664335
+    },
+    "isNearBorder": false,
+    "areaM2": 5650,
+    "currentPrice": 320000,
+    "currentPricePerM2": 56.64,
+    "initialPrice": 320000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 320000,
+        "pricePerM2": 56.64
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:42.539Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/28/30/3cdda0_92f6_cover@2x-dzialka-budowlana-myslenicki-czechowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3987790",
+    "source": "adresowo",
+    "sourceId": "3987790",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-brzeznica-marcyporeba-2-847-m2-g4j5m5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Marcyporęba",
+    "voivodeship": "malopolskie",
+    "county": "wadowicki",
+    "city": "Marcyporęba",
+    "coordinates": {
+      "lat": 49.88897838497022,
+      "lng": 19.501381942494337
+    },
+    "isNearBorder": false,
+    "areaM2": 2847,
+    "currentPrice": 280000,
+    "currentPricePerM2": 98.35,
+    "initialPrice": 280000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 280000,
+        "pricePerM2": 98.35
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:42.539Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1c/42/3cd94e_66fa_cover@2x-dzialka-budowlana-wadowicki-marcyporeba.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3983924",
+    "source": "adresowo",
+    "sourceId": "3983924",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-sekowa-mecina-wielka-5-500-m2-e8u1m3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Męcina Wielka",
+    "voivodeship": "malopolskie",
+    "county": "gorlicki",
+    "city": "Męcina Wielka",
+    "coordinates": {
+      "lat": 49.64930269174315,
+      "lng": 21.157159572016766
+    },
+    "isNearBorder": true,
+    "areaM2": 5500,
+    "currentPrice": 219000,
+    "currentPricePerM2": 39.82,
+    "initialPrice": 219000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 219000,
+        "pricePerM2": 39.82
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:42.539Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/73/52/3cca34_e416_cover@2x-dzialka-budowlana-gorlicki-mecina-wielka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3974160",
+    "source": "adresowo",
+    "sourceId": "3974160",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-rytro-oblazy-ryterskie-2-ha-j0h0x1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Obłazy Ryterskie",
+    "voivodeship": "malopolskie",
+    "county": "nowosadecki",
+    "city": "Obłazy Ryterskie",
+    "coordinates": {
+      "lat": 49.63205012518587,
+      "lng": 20.699136962651565
+    },
+    "isNearBorder": true,
+    "areaM2": 23500,
+    "currentPrice": 299000,
+    "currentPricePerM2": 12.72,
+    "initialPrice": 299000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 299000,
+        "pricePerM2": 12.72
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:42.539Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/30/2b/3ca410_d773_cover@2x-dzialka-siedliskowa-nowosadecki-oblazy-ryterskie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3904342",
+    "source": "adresowo",
+    "sourceId": "3904342",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-koscielisko-ul-krolewska-c1w5i5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kościelisko Groń, ul. Królewska",
+    "voivodeship": "malopolskie",
+    "city": "Kościelisko Groń",
+    "street": "ul. Królewska",
+    "coordinates": {
+      "lat": 49.94441928484595,
+      "lng": 20.15566034040358
+    },
+    "isNearBorder": false,
+    "areaM2": 846,
+    "currentPrice": 1500000,
+    "currentPricePerM2": 1773.05,
+    "initialPrice": 1500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1500000,
+        "pricePerM2": 1773.05
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:42.539Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4174520",
+    "source": "adresowo",
+    "sourceId": "4174520",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-lososina-dolna-skrzetla-rojowka-4-000-m2-t3n5u9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Skrzętla-Rojówka",
+    "voivodeship": "malopolskie",
+    "county": "nowosadecki",
+    "city": "Skrzętla-Rojówka",
+    "coordinates": {
+      "lat": 49.62782628548748,
+      "lng": 20.693799465650212
+    },
+    "isNearBorder": true,
+    "areaM2": 4000,
+    "currentPrice": 220000,
+    "currentPricePerM2": 55,
+    "initialPrice": 220000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 220000,
+        "pricePerM2": 55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:44.764Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/66/4c/3fb2b8_37fd_cover@2x-dzialka-rolna-nowosadecki-skrzetla-rojowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4163412",
+    "source": "adresowo",
+    "sourceId": "4163412",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-swiatniki-gorne-ul-stawowa-r4q2i8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Świątniki Górne, ul. Stawowa",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Świątniki Górne",
+    "street": "ul. Stawowa",
+    "coordinates": {
+      "lat": 50.06489226958621,
+      "lng": 19.946513038872318
+    },
+    "isNearBorder": false,
+    "areaM2": 3200,
+    "currentPrice": 360000,
+    "currentPricePerM2": 112.5,
+    "initialPrice": 360000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 360000,
+        "pricePerM2": 112.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:47.052Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7a/75/3f8754_dda4_cover@2x-dzialka-budowlana-krakowski-swiatniki-gorne.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4163030",
+    "source": "adresowo",
+    "sourceId": "4163030",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-osiek-ul-glowna-a7x2t8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Osiek, ul. Główna",
+    "voivodeship": "malopolskie",
+    "county": "oswiecimski",
+    "city": "Osiek",
+    "street": "ul. Główna",
+    "coordinates": {
+      "lat": 50.02699187220496,
+      "lng": 19.24932946180982
+    },
+    "isNearBorder": false,
+    "areaM2": 4237,
+    "currentPrice": 394000,
+    "currentPricePerM2": 92.99,
+    "initialPrice": 394000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 394000,
+        "pricePerM2": 92.99
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:47.052Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/59/52/3f85d6_c0a6_cover@2x-dzialka-rolno-budowlana-oswiecimski-osiek.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3685684",
+    "source": "adresowo",
+    "sourceId": "3685684",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-palecznica-czuszow-1-600-m2-a7f6o0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Czuszów",
+    "voivodeship": "malopolskie",
+    "county": "proszowicki",
+    "city": "Czuszów",
+    "coordinates": {
+      "lat": 50.192372005367226,
+      "lng": 20.288784356639088
+    },
+    "isNearBorder": false,
+    "areaM2": 1600,
+    "currentPrice": 65000,
+    "currentPricePerM2": 40.63,
+    "initialPrice": 65000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 65000,
+        "pricePerM2": 40.63
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:47.052Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4a/7d/383d34_6472_cover@2x-dzialka-rolno-budowlana-proszowicki-czuszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3544174",
+    "source": "adresowo",
+    "sourceId": "3544174",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-myslenice-glogoczow-3-800-m2-q6y5r4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Głogoczów",
+    "voivodeship": "malopolskie",
+    "county": "myslenicki",
+    "city": "Głogoczów",
+    "coordinates": {
+      "lat": 49.83366552072856,
+      "lng": 19.946547771103287
+    },
+    "isNearBorder": false,
+    "areaM2": 3800,
+    "currentPrice": 850000,
+    "currentPricePerM2": 223.68,
+    "initialPrice": 850000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 850000,
+        "pricePerM2": 223.68
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:49.221Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/79/1a/36146e_349f_cover@2x-dzialka-budowlana-myslenicki-glogoczow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3484110",
+    "source": "adresowo",
+    "sourceId": "3484110",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-chrzanow-plaza-ul-podlas-q0y2n7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Płaza, ul. Podlas",
+    "voivodeship": "malopolskie",
+    "county": "chrzanowski",
+    "city": "Płaza",
+    "street": "ul. Podlas",
+    "coordinates": {
+      "lat": 50.13921194243563,
+      "lng": 19.409195953568737
+    },
+    "isNearBorder": false,
+    "areaM2": 22100,
+    "currentPrice": 800000,
+    "currentPricePerM2": 36.2,
+    "initialPrice": 800000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 800000,
+        "pricePerM2": 36.2
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:49.221Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6a/58/3529ce_b7d1_cover@2x-dzialka-siedliskowa-chrzanowski-plaza.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3401224",
+    "source": "adresowo",
+    "sourceId": "3401224",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-gorlice-1580-m2-p3m7t4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Gorlice",
+    "voivodeship": "malopolskie",
+    "county": "gorlicki",
+    "city": "Gorlice",
+    "coordinates": {
+      "lat": 49.65218058772829,
+      "lng": 21.151177253995375
+    },
+    "isNearBorder": true,
+    "areaM2": 1580,
+    "currentPrice": 94000,
+    "currentPricePerM2": 59.49,
+    "initialPrice": 94000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 94000,
+        "pricePerM2": 59.49
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:49.221Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/15/33/33e608_ab09_cover@2x-dzialka-rolno-budowlana-gorlicki-gorlice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4146182",
+    "source": "adresowo",
+    "sourceId": "4146182",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lipnica-murowana-lipnica-dolna-7-ha-p9o7m6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Lipnica Dolna",
+    "voivodeship": "malopolskie",
+    "county": "bochenski",
+    "city": "Lipnica Dolna",
+    "coordinates": {
+      "lat": 49.96814197158368,
+      "lng": 20.426511885662602
+    },
+    "isNearBorder": false,
+    "areaM2": 70000,
+    "currentPrice": 349000,
+    "currentPricePerM2": 4.99,
+    "initialPrice": 349000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 349000,
+        "pricePerM2": 4.99
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:49.221Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5c/7a/3f4406_3238_cover@2x-dzialka-siedliskowa-bochenski-lipnica-dolna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4139972",
+    "source": "adresowo",
+    "sourceId": "4139972",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-sekowa-wolowiec-1-ha-b6u0b4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wołowiec",
+    "voivodeship": "malopolskie",
+    "county": "gorlicki",
+    "city": "Wołowiec",
+    "coordinates": {
+      "lat": 49.65399150594261,
+      "lng": 21.15723206510373
+    },
+    "isNearBorder": true,
+    "areaM2": 17400,
+    "currentPrice": 700000,
+    "currentPricePerM2": 40.23,
+    "initialPrice": 700000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 700000,
+        "pricePerM2": 40.23
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:49.221Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5e/38/3f2bc4_9ebc_cover@2x-dzialka-siedliskowa-gorlicki-wolowiec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4138992",
+    "source": "adresowo",
+    "sourceId": "4138992",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-ksiaz-wielki-lazy-900-m2-f1j2v5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Łazy",
+    "voivodeship": "malopolskie",
+    "county": "miechowski",
+    "city": "Łazy",
+    "coordinates": {
+      "lat": 51.922144214405776,
+      "lng": 22.430412611082772
+    },
+    "isNearBorder": false,
+    "areaM2": 900,
+    "currentPrice": 39000,
+    "currentPricePerM2": 43.33,
+    "initialPrice": 39000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 39000,
+        "pricePerM2": 43.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:51.402Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/46/67/3f27f0_c004_cover@2x-dzialka-rolno-budowlana-miechowski-lazy.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3227214",
+    "source": "adresowo",
+    "sourceId": "3227214",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-proszowice-opatkowice-5-000-m2-t5p2l1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Opatkowice",
+    "voivodeship": "malopolskie",
+    "county": "proszowicki",
+    "city": "Opatkowice",
+    "coordinates": {
+      "lat": 50.19031859161215,
+      "lng": 20.290130844650182
+    },
+    "isNearBorder": false,
+    "areaM2": 5000,
+    "currentPrice": 265000,
+    "currentPricePerM2": 53,
+    "initialPrice": 265000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 265000,
+        "pricePerM2": 53
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:51.402Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/20/42/313e4e_d3b6_cover@2x-dzialka-rolno-budowlana-proszowicki-opatkowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3199038",
+    "source": "adresowo",
+    "sourceId": "3199038",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-myslenice-borzeta-8-000-m2-c1v2c3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Borzęta",
+    "voivodeship": "malopolskie",
+    "county": "myslenicki",
+    "city": "Borzęta",
+    "coordinates": {
+      "lat": 49.8275448067898,
+      "lng": 19.930970500791098
+    },
+    "isNearBorder": false,
+    "areaM2": 8000,
+    "currentPrice": 212000,
+    "currentPricePerM2": 26.5,
+    "initialPrice": 212000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 212000,
+        "pricePerM2": 26.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:51.402Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/49/2e/30d03e_475e_cover@2x-dzialka-siedliskowa-myslenicki-borzeta.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4113424",
+    "source": "adresowo",
+    "sourceId": "4113424",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-gnojnik-gosprzydowa-1-446-m2-x5g4z9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Gosprzydowa",
+    "voivodeship": "malopolskie",
+    "county": "brzeski",
+    "city": "Gosprzydowa",
+    "coordinates": {
+      "lat": 49.96930201427114,
+      "lng": 20.612704033718053
+    },
+    "isNearBorder": false,
+    "areaM2": 1446,
+    "currentPrice": 149000,
+    "currentPricePerM2": 103.04,
+    "initialPrice": 149000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 149000,
+        "pricePerM2": 103.04
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:53.777Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/16/57/3ec410_9c01_cover@2x-dzialka-budowlana-brzeski-gosprzydowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4111630",
+    "source": "adresowo",
+    "sourceId": "4111630",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-klucze-kwasniow-dolny-ul-cieslinska-e4u3c1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kwaśniów Dolny, ul. Cieślińska",
+    "voivodeship": "malopolskie",
+    "county": "olkuski",
+    "city": "Kwaśniów Dolny",
+    "street": "ul. Cieślińska",
+    "coordinates": {
+      "lat": 50.28742900705223,
+      "lng": 19.567659575484413
+    },
+    "isNearBorder": false,
+    "areaM2": 10400,
+    "currentPrice": 200000,
+    "currentPricePerM2": 19.23,
+    "initialPrice": 200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 200000,
+        "pricePerM2": 19.23
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:53.777Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3d/21/3ebd0e_61f0_cover@2x-dzialka-rolno-budowlana-olkuski-kwasniow-dolny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4109384",
+    "source": "adresowo",
+    "sourceId": "4109384",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-lacko-zagorzyn-3-000-m2-t0b1t7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zagorzyn",
+    "voivodeship": "malopolskie",
+    "county": "nowosadecki",
+    "city": "Zagorzyn",
+    "coordinates": {
+      "lat": 49.62867659064828,
+      "lng": 20.699828311715375
+    },
+    "isNearBorder": true,
+    "areaM2": 3000,
+    "currentPrice": 480000,
+    "currentPricePerM2": 160,
+    "initialPrice": 480000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 480000,
+        "pricePerM2": 160
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:53.777Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7b/1c/3eb448_829a_cover@2x-dzialka-budowlana-nowosadecki-zagorzyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4101332",
+    "source": "adresowo",
+    "sourceId": "4101332",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-zator-smolice-ul-wislana-s5m7g5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Smolice, ul. Wiślana",
+    "voivodeship": "malopolskie",
+    "county": "oswiecimski",
+    "city": "Smolice",
+    "street": "ul. Wiślana",
+    "coordinates": {
+      "lat": 50.03378323801329,
+      "lng": 19.234469549547637
+    },
+    "isNearBorder": false,
+    "areaM2": 4716,
+    "currentPrice": 289000,
+    "currentPricePerM2": 61.28,
+    "initialPrice": 289000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 289000,
+        "pricePerM2": 61.28
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:53.777Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/20/3c/3e94d4_dcba_cover@2x-dzialka-budowlana-oswiecimski-smolice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4101218",
+    "source": "adresowo",
+    "sourceId": "4101218",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-drwinia-ispnia-1-000-m2-z6m0j4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ispnia",
+    "voivodeship": "malopolskie",
+    "county": "bochenski",
+    "city": "Ispnia",
+    "coordinates": {
+      "lat": 49.96682412979763,
+      "lng": 20.429718830201228
+    },
+    "isNearBorder": false,
+    "areaM2": 1000,
+    "currentPrice": 65000,
+    "currentPricePerM2": 65,
+    "initialPrice": 65000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 65000,
+        "pricePerM2": 65
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:53.777Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/65/70/3e9462_9a15_cover@2x-dzialka-rolna-bochenski-ispnia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4100856",
+    "source": "adresowo",
+    "sourceId": "4100856",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-liszki-raczna-3-500-m2-w0m3v9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Rączna",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Rączna",
+    "coordinates": {
+      "lat": 50.06603915831058,
+      "lng": 19.940282537250287
+    },
+    "isNearBorder": false,
+    "areaM2": 3500,
+    "currentPrice": 499000,
+    "currentPricePerM2": 142.57,
+    "initialPrice": 499000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 499000,
+        "pricePerM2": 142.57
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:53.777Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/40/7f/3e92f8_7387_cover@2x-dzialka-siedliskowa-krakowski-raczna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4094504",
+    "source": "adresowo",
+    "sourceId": "4094504",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-skala-szczodrkowice-1-ha-x7l7u8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Szczodrkowice",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Szczodrkowice",
+    "coordinates": {
+      "lat": 50.06803691176955,
+      "lng": 19.950969593812147
+    },
+    "isNearBorder": false,
+    "areaM2": 10100,
+    "currentPrice": 800000,
+    "currentPricePerM2": 79.21,
+    "initialPrice": 800000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 800000,
+        "pricePerM2": 79.21
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:56.363Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/40/1a/3e7a28_b95c_cover@2x-dzialka-siedliskowa-krakowski-szczodrkowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4091344",
+    "source": "adresowo",
+    "sourceId": "4091344",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wolbrom-wierzchowisko-2-733-m2-m7k1f5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wierzchowisko, Marianów",
+    "voivodeship": "malopolskie",
+    "county": "olkuski",
+    "city": "Wierzchowisko",
+    "street": "Marianów",
+    "coordinates": {
+      "lat": 50.27552195998913,
+      "lng": 19.565431218528662
+    },
+    "isNearBorder": false,
+    "areaM2": 2733,
+    "currentPrice": 110000,
+    "currentPricePerM2": 40.25,
+    "initialPrice": 110000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 110000,
+        "pricePerM2": 40.25
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:56.363Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1b/11/3e6dd0_3304_cover@2x-dzialka-siedliskowa-olkuski-wierzchowisko.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4084618",
+    "source": "adresowo",
+    "sourceId": "4084618",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inna-lacko-jazowsko-6-500-m2-f2j1c2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jazowsko",
+    "voivodeship": "malopolskie",
+    "county": "nowosadecki",
+    "city": "Jazowsko",
+    "coordinates": {
+      "lat": 49.62587883790243,
+      "lng": 20.689253335061206
+    },
+    "isNearBorder": true,
+    "areaM2": 6500,
+    "currentPrice": 150000,
+    "currentPricePerM2": 23.08,
+    "initialPrice": 150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 150000,
+        "pricePerM2": 23.08
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:56.363Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/69/30/3e538a_b098_cover@2x-dzialka-inna-nowosadecki-jazowsko.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4071456",
+    "source": "adresowo",
+    "sourceId": "4071456",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-charsznica-5-775-m2-t5r8o7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Charsznica",
+    "voivodeship": "malopolskie",
+    "county": "miechowski",
+    "city": "Charsznica",
+    "coordinates": {
+      "lat": 50.36144958462613,
+      "lng": 20.031496020775943
+    },
+    "isNearBorder": false,
+    "areaM2": 5775,
+    "currentPrice": 427350,
+    "currentPricePerM2": 74,
+    "initialPrice": 427350,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 427350,
+        "pricePerM2": 74
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:56.363Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/74/66/3e2020_7692_cover@2x-dzialka-budowlana-miechowski-charsznica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4070312",
+    "source": "adresowo",
+    "sourceId": "4070312",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-igolomia-wawrzenczyce-zofipole-8-100-m2-h9v1o5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zofipole",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Zofipole",
+    "coordinates": {
+      "lat": 50.05991441286905,
+      "lng": 19.947565936044334
+    },
+    "isNearBorder": false,
+    "areaM2": 8100,
+    "currentPrice": 2000000,
+    "currentPricePerM2": 246.91,
+    "initialPrice": 2000000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 2000000,
+        "pricePerM2": 246.91
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:56.363Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/26/10/3e1ba8_3243_cover@2x-dzialka-siedliskowa-krakowski-zofipole.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4065652",
+    "source": "adresowo",
+    "sourceId": "4065652",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-wolbrom-strzegowa-4-ha-s3t5j7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Strzegowa",
+    "voivodeship": "malopolskie",
+    "county": "olkuski",
+    "city": "Strzegowa",
+    "coordinates": {
+      "lat": 50.28408520428342,
+      "lng": 19.57376326961796
+    },
+    "isNearBorder": false,
+    "areaM2": 40000,
+    "currentPrice": 555000,
+    "currentPricePerM2": 13.88,
+    "initialPrice": 555000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 555000,
+        "pricePerM2": 13.88
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:56.363Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/14/36/3e0974_57fe_cover@2x-dzialka-rolna-olkuski-strzegowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4065376",
+    "source": "adresowo",
+    "sourceId": "4065376",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-grybow-ptaszkowa-2-600-m2-w5p1q4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ptaszkowa",
+    "voivodeship": "malopolskie",
+    "county": "nowosadecki",
+    "city": "Ptaszkowa",
+    "coordinates": {
+      "lat": 49.62396105960388,
+      "lng": 20.701028483575563
+    },
+    "isNearBorder": true,
+    "areaM2": 2600,
+    "currentPrice": 250000,
+    "currentPricePerM2": 96.15,
+    "initialPrice": 250000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 250000,
+        "pricePerM2": 96.15
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:56.363Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/56/22/3e0860_494d_cover@2x-dzialka-siedliskowa-nowosadecki-ptaszkowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4060242",
+    "source": "adresowo",
+    "sourceId": "4060242",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-lipnica-murowana-lipnica-dolna-9-000-m2-i4n3o7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Lipnica Dolna",
+    "voivodeship": "malopolskie",
+    "county": "bochenski",
+    "city": "Lipnica Dolna",
+    "coordinates": {
+      "lat": 49.970984203180066,
+      "lng": 20.424356798657183
+    },
+    "isNearBorder": false,
+    "areaM2": 9000,
+    "currentPrice": 42500,
+    "currentPricePerM2": 4.72,
+    "initialPrice": 42500,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 42500,
+        "pricePerM2": 4.72
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:58.033Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/25/43/3df452_71db_cover@2x-dzialka-rolna-bochenski-lipnica-dolna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4055876",
+    "source": "adresowo",
+    "sourceId": "4055876",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inna-laskowa-5-888-m2-x5t1q9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Laskowa, Na Górze",
+    "voivodeship": "malopolskie",
+    "county": "limanowski",
+    "city": "Laskowa",
+    "street": "Na Górze",
+    "coordinates": {
+      "lat": 49.71269155836817,
+      "lng": 20.425093132532844
+    },
+    "isNearBorder": false,
+    "areaM2": 5888,
+    "currentPrice": 80000,
+    "currentPricePerM2": 13.59,
+    "initialPrice": 80000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 80000,
+        "pricePerM2": 13.59
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:58.033Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1c/1a/3de344_de0d_cover@2x-dzialka-inna-limanowski-laskowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4010902",
+    "source": "adresowo",
+    "sourceId": "4010902",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-tuchow-siedliska-15-m2-l4k2e3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedliska",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Siedliska",
+    "coordinates": {
+      "lat": 49.9488689788523,
+      "lng": 21.93780780246479
+    },
+    "isNearBorder": false,
+    "areaM2": 15,
+    "currentPrice": 4000,
+    "currentPricePerM2": 266.67,
+    "initialPrice": 4000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 4000,
+        "pricePerM2": 266.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:59.902Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/26/55/3d3396_cd89_cover@2x-dzialka-budowlana-tarnowski-siedliska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4001632",
+    "source": "adresowo",
+    "sourceId": "4001632",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-mogilany-konary-3-ha-d8q7s1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Konary",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Konary",
+    "coordinates": {
+      "lat": 50.067090586939855,
+      "lng": 19.939217836249338
+    },
+    "isNearBorder": false,
+    "areaM2": 30000,
+    "currentPrice": 3500000,
+    "currentPricePerM2": 116.67,
+    "initialPrice": 3500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 3500000,
+        "pricePerM2": 116.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:35:59.902Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/16/6c/3d0f60_580d_cover@2x-dzialka-rolno-budowlana-krakowski-konary.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3990222",
+    "source": "adresowo",
+    "sourceId": "3990222",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-dobczyce-kornatka-2-782-m2-x3s3w8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kornatka",
+    "voivodeship": "malopolskie",
+    "county": "myslenicki",
+    "city": "Kornatka",
+    "coordinates": {
+      "lat": 49.83938484432545,
+      "lng": 19.92933878719458
+    },
+    "isNearBorder": false,
+    "areaM2": 2782,
+    "currentPrice": 355000,
+    "currentPricePerM2": 127.61,
+    "initialPrice": 355000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 355000,
+        "pricePerM2": 127.61
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:02.173Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2d/60/3ce2ce_f343_cover@2x-dzialka-budowlana-myslenicki-kornatka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3990130",
+    "source": "adresowo",
+    "sourceId": "3990130",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-olkusz-osiek-1-ha-r4k2n4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Osiek",
+    "voivodeship": "malopolskie",
+    "county": "olkuski",
+    "city": "Osiek",
+    "coordinates": {
+      "lat": 50.27537748266352,
+      "lng": 19.560750875751832
+    },
+    "isNearBorder": false,
+    "areaM2": 14000,
+    "currentPrice": 680000,
+    "currentPricePerM2": 48.57,
+    "initialPrice": 680000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 680000,
+        "pricePerM2": 48.57
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:02.173Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3a/17/3ce272_dfc7_cover@2x-dzialka-rolno-budowlana-olkuski-osiek.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3986634",
+    "source": "adresowo",
+    "sourceId": "3986634",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-skala-niebyla-2-755-m2-y1g4y2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Niebyła, Świnczów",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Niebyła",
+    "street": "Świnczów",
+    "coordinates": {
+      "lat": 50.06727134293026,
+      "lng": 19.94746202834
+    },
+    "isNearBorder": false,
+    "areaM2": 2755,
+    "currentPrice": 1300000,
+    "currentPricePerM2": 471.87,
+    "initialPrice": 1300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1300000,
+        "pricePerM2": 471.87
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:02.173Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/78/5e/3cd4ca_be57_cover@2x-dzialka-siedliskowa-krakowski-niebyla.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3957886",
+    "source": "adresowo",
+    "sourceId": "3957886",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-kety-witkowice-2-ha-u2n7b6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Witkowice",
+    "voivodeship": "malopolskie",
+    "county": "oswiecimski",
+    "city": "Witkowice",
+    "coordinates": {
+      "lat": 50.03113643194939,
+      "lng": 19.24405164372096
+    },
+    "isNearBorder": false,
+    "areaM2": 22500,
+    "currentPrice": 950000,
+    "currentPricePerM2": 42.22,
+    "initialPrice": 950000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 950000,
+        "pricePerM2": 42.22
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:02.173Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/27/5d/3c647e_e83c_cover@2x-dzialka-rolno-budowlana-oswiecimski-witkowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3935616",
+    "source": "adresowo",
+    "sourceId": "3935616",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lapsze-nizne-ul-czarna-c8j5n2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Łapsze Niżne Za Czarną Górą, ul. Czarna",
+    "voivodeship": "malopolskie",
+    "county": "nowotarski",
+    "city": "Łapsze Niżne Za Czarną Górą",
+    "street": "ul. Czarna",
+    "coordinates": {
+      "lat": 49.4889220185315,
+      "lng": 20.035696222290714
+    },
+    "isNearBorder": true,
+    "areaM2": 7740,
+    "currentPrice": 1800000,
+    "currentPricePerM2": 232.56,
+    "initialPrice": 1800000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1800000,
+        "pricePerM2": 232.56
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:04.446Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7e/6c/3c0d80_c598_cover@2x-dzialka-siedliskowa-nowotarski-lapsze-nizne.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3933196",
+    "source": "adresowo",
+    "sourceId": "3933196",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-czorsztyn-kluszkowce-ul-modrzewiowa-w9r2w4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kluszkowce, ul. Modrzewiowa",
+    "voivodeship": "malopolskie",
+    "county": "nowotarski",
+    "city": "Kluszkowce",
+    "street": "ul. Modrzewiowa",
+    "coordinates": {
+      "lat": 49.48576705890147,
+      "lng": 20.029182739560863
+    },
+    "isNearBorder": true,
+    "areaM2": 2390,
+    "currentPrice": 700000,
+    "currentPricePerM2": 292.89,
+    "initialPrice": 700000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 700000,
+        "pricePerM2": 292.89
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:04.446Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5c/2c/3c040c_c2ee_cover@2x-dzialka-budowlana-nowotarski-kluszkowce.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3922178",
+    "source": "adresowo",
+    "sourceId": "3922178",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-gorlice-szymbark-2-ha-k0u3g9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Szymbark",
+    "voivodeship": "malopolskie",
+    "county": "gorlicki",
+    "city": "Szymbark",
+    "coordinates": {
+      "lat": 49.65743944242504,
+      "lng": 21.15619581363466
+    },
+    "isNearBorder": true,
+    "areaM2": 21400,
+    "currentPrice": 130000,
+    "currentPricePerM2": 6.07,
+    "initialPrice": 130000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 130000,
+        "pricePerM2": 6.07
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:04.446Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/59/47/3bd902_6097_cover@2x-dzialka-rolna-gorlicki-szymbark.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3913716",
+    "source": "adresowo",
+    "sourceId": "3913716",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-igolomia-wawrzenczyce-igolomia-8-200-m2-s7l3b4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Igołomia, Luborzyczka",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Igołomia",
+    "street": "Luborzyczka",
+    "coordinates": {
+      "lat": 50.058884066556594,
+      "lng": 19.949009911299303
+    },
+    "isNearBorder": false,
+    "areaM2": 8200,
+    "currentPrice": 150000,
+    "currentPricePerM2": 18.29,
+    "initialPrice": 150000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 150000,
+        "pricePerM2": 18.29
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:06.703Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/40/10/3bb7f4_5327_cover@2x-dzialka-rolno-budowlana-krakowski-igolomia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3914226",
+    "source": "adresowo",
+    "sourceId": "3914226",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-biecz-raclawice-3-142-m2-a0b6u8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Racławice",
+    "voivodeship": "malopolskie",
+    "county": "gorlicki",
+    "city": "Racławice",
+    "coordinates": {
+      "lat": 49.650457924245366,
+      "lng": 21.155640065033126
+    },
+    "isNearBorder": true,
+    "areaM2": 3142,
+    "currentPrice": 140000,
+    "currentPricePerM2": 44.56,
+    "initialPrice": 140000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 140000,
+        "pricePerM2": 44.56
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:06.703Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6a/4d/3bb9f2_957b_cover@2x-dzialka-rolna-gorlicki-raclawice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3872270",
+    "source": "adresowo",
+    "sourceId": "3872270",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-ksiaz-wielki-antolka-1-300-m2-g9r7g0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Antolka",
+    "voivodeship": "malopolskie",
+    "county": "miechowski",
+    "city": "Antolka",
+    "coordinates": {
+      "lat": 50.35891291849,
+      "lng": 20.018226180124007
+    },
+    "isNearBorder": false,
+    "areaM2": 1300,
+    "currentPrice": 199000,
+    "currentPricePerM2": 153.08,
+    "initialPrice": 199000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 199000,
+        "pricePerM2": 153.08
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:06.703Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/28/6e/3b160e_fa95_cover@2x-dzialka-budowlana-miechowski-antolka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3866660",
+    "source": "adresowo",
+    "sourceId": "3866660",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-palecznica-9-500-m2-z5h8k3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Pałecznica",
+    "voivodeship": "malopolskie",
+    "county": "proszowicki",
+    "city": "Pałecznica",
+    "coordinates": {
+      "lat": 51.48494731995775,
+      "lng": 22.671665037782645
+    },
+    "isNearBorder": false,
+    "areaM2": 9500,
+    "currentPrice": 185000,
+    "currentPricePerM2": 19.47,
+    "initialPrice": 185000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 185000,
+        "pricePerM2": 19.47
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:06.703Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/55/79/3b0024_ecd3_cover@2x-dzialka-rolno-budowlana-proszowicki-palecznica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3864630",
+    "source": "adresowo",
+    "sourceId": "3864630",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-lososina-dolna-bilsko-3-ha-i5w7e5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bilsko",
+    "voivodeship": "malopolskie",
+    "county": "nowosadecki",
+    "city": "Bilsko",
+    "coordinates": {
+      "lat": 49.62673429524487,
+      "lng": 20.7022630910399
+    },
+    "isNearBorder": true,
+    "areaM2": 32700,
+    "currentPrice": 1050000,
+    "currentPricePerM2": 32.11,
+    "initialPrice": 1050000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1050000,
+        "pricePerM2": 32.11
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:09.283Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/56/51/3af836_ceca_cover@2x-dzialka-rolno-budowlana-nowosadecki-bilsko.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3827190",
+    "source": "adresowo",
+    "sourceId": "3827190",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-michalowice-zdzieslawice-ul-na-wzgorze-l8h4o8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zdzięsławice, ul. Na Wzgórze",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Zdzięsławice",
+    "street": "ul. Na Wzgórze",
+    "coordinates": {
+      "lat": 50.06243397154938,
+      "lng": 19.9412907166315
+    },
+    "isNearBorder": false,
+    "areaM2": 4500,
+    "currentPrice": 445500,
+    "currentPricePerM2": 99,
+    "initialPrice": 445500,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 445500,
+        "pricePerM2": 99
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:09.283Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/43/10/3a65f6_fb34_cover@2x-dzialka-rolno-budowlana-krakowski-zdzieslawice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3824178",
+    "source": "adresowo",
+    "sourceId": "3824178",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-makow-podhalanski-grzechynia-1-464-m2-x0d3m0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Grzechynia",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Grzechynia",
+    "coordinates": {
+      "lat": 49.73946105585487,
+      "lng": 19.685588174696385
+    },
+    "isNearBorder": false,
+    "areaM2": 1464,
+    "currentPrice": 35000,
+    "currentPricePerM2": 23.91,
+    "initialPrice": 35000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 35000,
+        "pricePerM2": 23.91
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:09.283Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/17/6b/3a5a32_f0da_cover@2x-dzialka-rolna-suski-grzechynia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3824168",
+    "source": "adresowo",
+    "sourceId": "3824168",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-zembrzyce-1-200-m2-h5a0j5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zembrzyce",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Zembrzyce",
+    "coordinates": {
+      "lat": 49.741807628323436,
+      "lng": 19.68977079176405
+    },
+    "isNearBorder": false,
+    "areaM2": 1200,
+    "currentPrice": 59000,
+    "currentPricePerM2": 49.17,
+    "initialPrice": 59000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 59000,
+        "pricePerM2": 49.17
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:09.283Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/55/68/3a5a28_c65c_cover@2x-dzialka-budowlana-suski-zembrzyce.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3824160",
+    "source": "adresowo",
+    "sourceId": "3824160",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-makow-podhalanski-grzechynia-5-290-m2-q1k3i1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Grzechynia",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Grzechynia",
+    "coordinates": {
+      "lat": 49.74700275168507,
+      "lng": 19.67164610952087
+    },
+    "isNearBorder": false,
+    "areaM2": 5290,
+    "currentPrice": 89000,
+    "currentPricePerM2": 16.82,
+    "initialPrice": 89000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 89000,
+        "pricePerM2": 16.82
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:09.283Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2c/1f/3a5a20_eae4_cover@2x-dzialka-rolna-suski-grzechynia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3824156",
+    "source": "adresowo",
+    "sourceId": "3824156",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-lesna-makow-podhalanski-grzechynia-1-657-m2-s8h0f9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Grzechynia",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Grzechynia",
+    "coordinates": {
+      "lat": 49.741108096610745,
+      "lng": 19.684189658340955
+    },
+    "isNearBorder": false,
+    "areaM2": 1657,
+    "currentPrice": 25000,
+    "currentPricePerM2": 15.09,
+    "initialPrice": 25000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 25000,
+        "pricePerM2": 15.09
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:09.283Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3d/5c/3a5a1c_351f_cover@2x-dzialka-lesna-suski-grzechynia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3824154",
+    "source": "adresowo",
+    "sourceId": "3824154",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-lesna-makow-podhalanski-grzechynia-1-376-m2-k1c0z6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Grzechynia",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Grzechynia",
+    "coordinates": {
+      "lat": 49.74421378676117,
+      "lng": 19.68067592089404
+    },
+    "isNearBorder": false,
+    "areaM2": 1376,
+    "currentPrice": 19000,
+    "currentPricePerM2": 13.81,
+    "initialPrice": 19000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 19000,
+        "pricePerM2": 13.81
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:09.283Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3d/31/3a5a1a_9da7_cover@2x-dzialka-lesna-suski-grzechynia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3823568",
+    "source": "adresowo",
+    "sourceId": "3823568",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-szczawnica-ul-kunie-n1i8q7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Szczawnica Kunie, ul. Kunie",
+    "voivodeship": "malopolskie",
+    "county": "nowotarski",
+    "city": "Szczawnica Kunie",
+    "street": "ul. Kunie",
+    "coordinates": {
+      "lat": 49.483431574655086,
+      "lng": 20.030753286876983
+    },
+    "isNearBorder": true,
+    "areaM2": 1263,
+    "currentPrice": 299999,
+    "currentPricePerM2": 237.53,
+    "initialPrice": 299999,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 299999,
+        "pricePerM2": 237.53
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:09.283Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6b/31/3a57d0_ab77_cover@2x-dzialka-rolno-budowlana-nowotarski-szczawnica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3821196",
+    "source": "adresowo",
+    "sourceId": "3821196",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-oswiecim-4-519-m2-q2v0s1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Oświęcim, Dwory Pierwsze",
+    "voivodeship": "malopolskie",
+    "county": "oswiecimski",
+    "city": "Oświęcim",
+    "street": "Dwory Pierwsze",
+    "coordinates": {
+      "lat": 50.03106663887878,
+      "lng": 19.24268336590034
+    },
+    "isNearBorder": false,
+    "areaM2": 4519,
+    "currentPrice": 499000,
+    "currentPricePerM2": 110.42,
+    "initialPrice": 499000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 499000,
+        "pricePerM2": 110.42
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:09.283Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/28/5e/3a4e8c_d334_cover@2x-dzialka-inwestycyjna-oswiecimski-oswiecim.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3816394",
+    "source": "adresowo",
+    "sourceId": "3816394",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-skala-minoga-5-038-m2-n7f7f9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Minoga",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Minoga",
+    "coordinates": {
+      "lat": 50.06874300587719,
+      "lng": 19.94490603053752
+    },
+    "isNearBorder": false,
+    "areaM2": 5038,
+    "currentPrice": 295000,
+    "currentPricePerM2": 58.55,
+    "initialPrice": 295000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 295000,
+        "pricePerM2": 58.55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:10.966Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/69/71/3a3bca_aef3_cover@2x-dzialka-siedliskowa-krakowski-minoga.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3782198",
+    "source": "adresowo",
+    "sourceId": "3782198",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-chelmiec-trzetrzewina-5-200-m2-t6m1w2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Trzetrzewina, Sołtystwo",
+    "voivodeship": "malopolskie",
+    "county": "nowosadecki",
+    "city": "Trzetrzewina",
+    "street": "Sołtystwo",
+    "coordinates": {
+      "lat": 49.63201196743059,
+      "lng": 20.690680825226487
+    },
+    "isNearBorder": true,
+    "areaM2": 5200,
+    "currentPrice": 390000,
+    "currentPricePerM2": 75,
+    "initialPrice": 390000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 390000,
+        "pricePerM2": 75
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:10.966Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2f/28/39b636_a431_cover@2x-dzialka-siedliskowa-nowosadecki-trzetrzewina.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3772650",
+    "source": "adresowo",
+    "sourceId": "3772650",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-miechow-widnica-2-200-m2-q0b3j0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Widnica",
+    "voivodeship": "malopolskie",
+    "county": "miechowski",
+    "city": "Widnica",
+    "coordinates": {
+      "lat": 50.35954719511272,
+      "lng": 20.03474841203576
+    },
+    "isNearBorder": false,
+    "areaM2": 2200,
+    "currentPrice": 290000,
+    "currentPricePerM2": 131.82,
+    "initialPrice": 290000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 290000,
+        "pricePerM2": 131.82
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:10.966Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/17/77/3990ea_5f0f_cover@2x-dzialka-siedliskowa-miechowski-widnica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3747478",
+    "source": "adresowo",
+    "sourceId": "3747478",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-slomniki-januszowice-3-ha-u2d4k1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Januszowice",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Januszowice",
+    "coordinates": {
+      "lat": 50.059140629631095,
+      "lng": 19.94133790530097
+    },
+    "isNearBorder": false,
+    "areaM2": 36600,
+    "currentPrice": 1280720,
+    "currentPricePerM2": 34.99,
+    "initialPrice": 1280720,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1280720,
+        "pricePerM2": 34.99
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:12.583Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/35/42/392e96_63cd_cover@2x-dzialka-rolna-krakowski-januszowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3736710",
+    "source": "adresowo",
+    "sourceId": "3736710",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-brzesko-okocim-ul-czerwona-droga-w0i4t6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Okocim Kamieniec, ul. Czerwona Droga",
+    "voivodeship": "malopolskie",
+    "county": "brzeski",
+    "city": "Okocim Kamieniec",
+    "street": "ul. Czerwona Droga",
+    "coordinates": {
+      "lat": 49.96841183299271,
+      "lng": 20.613450035676728
+    },
+    "isNearBorder": false,
+    "areaM2": 8300,
+    "currentPrice": 950000,
+    "currentPricePerM2": 114.46,
+    "initialPrice": 950000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 950000,
+        "pricePerM2": 114.46
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:12.583Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4a/66/390486_8e78_cover@2x-dzialka-siedliskowa-brzeski-okocim.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3723046",
+    "source": "adresowo",
+    "sourceId": "3723046",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-skala-rzeplin-9-600-m2-f6u5h1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Rzeplin",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Rzeplin",
+    "coordinates": {
+      "lat": 50.07074539888387,
+      "lng": 19.946560698826325
+    },
+    "isNearBorder": false,
+    "areaM2": 9600,
+    "currentPrice": 650000,
+    "currentPricePerM2": 67.71,
+    "initialPrice": 650000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 650000,
+        "pricePerM2": 67.71
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:12.583Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/45/43/38cf26_6d49_cover@2x-dzialka-siedliskowa-krakowski-rzeplin.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3688534",
+    "source": "adresowo",
+    "sourceId": "3688534",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-oswiecim-poreba-wielka-ul-lesniczowka-s0a1d1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Poręba Wielka, ul. Leśniczówka",
+    "voivodeship": "malopolskie",
+    "county": "oswiecimski",
+    "city": "Poręba Wielka",
+    "street": "ul. Leśniczówka",
+    "coordinates": {
+      "lat": 50.03956390574968,
+      "lng": 19.238287212691667
+    },
+    "isNearBorder": false,
+    "areaM2": 1600,
+    "currentPrice": 173000,
+    "currentPricePerM2": 108.13,
+    "initialPrice": 173000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 173000,
+        "pricePerM2": 108.13
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:12.583Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/62/1e/384856_8a71_cover@2x-dzialka-budowlana-oswiecimski-poreba-wielka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3686132",
+    "source": "adresowo",
+    "sourceId": "3686132",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-michalowice-5-400-m2-c4d2m9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Michałowice",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Michałowice",
+    "coordinates": {
+      "lat": 50.070670928604,
+      "lng": 19.94805376815785
+    },
+    "isNearBorder": false,
+    "areaM2": 5400,
+    "currentPrice": 270000,
+    "currentPricePerM2": 50,
+    "initialPrice": 270000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 270000,
+        "pricePerM2": 50
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:12.583Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4a/75/383ef4_6f2d_cover@2x-dzialka-rolna-krakowski-michalowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3652872",
+    "source": "adresowo",
+    "sourceId": "3652872",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-grybow-chodorowa-3-ha-h9q7c7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Chodorowa, Półanek",
+    "voivodeship": "malopolskie",
+    "county": "nowosadecki",
+    "city": "Chodorowa",
+    "street": "Półanek",
+    "coordinates": {
+      "lat": 49.61940118550562,
+      "lng": 20.68731003333168
+    },
+    "isNearBorder": true,
+    "areaM2": 39300,
+    "currentPrice": 950000,
+    "currentPricePerM2": 24.17,
+    "initialPrice": 950000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 950000,
+        "pricePerM2": 24.17
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:15.132Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6d/63/37bd08_44b5_cover@2x-dzialka-rolna-nowosadecki-chodorowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3626298",
+    "source": "adresowo",
+    "sourceId": "3626298",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-uscie-gorlickie-hanczowa-3-600-m2-j9g7q0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Hańczowa",
+    "voivodeship": "malopolskie",
+    "county": "gorlicki",
+    "city": "Hańczowa",
+    "coordinates": {
+      "lat": 49.66002721369167,
+      "lng": 21.160154056475946
+    },
+    "isNearBorder": true,
+    "areaM2": 3600,
+    "currentPrice": 216000,
+    "currentPricePerM2": 60,
+    "initialPrice": 216000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 216000,
+        "pricePerM2": 60
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:15.132Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/67/6b/37553a_df89_cover@2x-dzialka-budowlana-gorlicki-hanczowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3614740",
+    "source": "adresowo",
+    "sourceId": "3614740",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-mucharz-jaszczurowa-5-200-m2-i7c5r2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jaszczurowa",
+    "voivodeship": "malopolskie",
+    "county": "wadowicki",
+    "city": "Jaszczurowa",
+    "coordinates": {
+      "lat": 49.881175178308425,
+      "lng": 19.48845888539179
+    },
+    "isNearBorder": false,
+    "areaM2": 5200,
+    "currentPrice": 550000,
+    "currentPricePerM2": 105.77,
+    "initialPrice": 550000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 550000,
+        "pricePerM2": 105.77
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:15.132Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/55/22/372814_6873_cover@2x-dzialka-budowlana-wadowicki-jaszczurowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3573918",
+    "source": "adresowo",
+    "sourceId": "3573918",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-stryszawa-targoszow-2-096-m2-l1d3r1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Targoszów",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Targoszów",
+    "coordinates": {
+      "lat": 49.74360467384184,
+      "lng": 19.676555822888613
+    },
+    "isNearBorder": false,
+    "areaM2": 2096,
+    "currentPrice": 225000,
+    "currentPricePerM2": 107.35,
+    "initialPrice": 225000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 225000,
+        "pricePerM2": 107.35
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:17.624Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/24/17/36889e_6858_cover@2x-dzialka-siedliskowa-suski-targoszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3545252",
+    "source": "adresowo",
+    "sourceId": "3545252",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-zabno-sieradza-2-000-m2-e6t2a0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Sieradza",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Sieradza",
+    "coordinates": {
+      "lat": 50.0063643758363,
+      "lng": 20.980876109850705
+    },
+    "isNearBorder": false,
+    "areaM2": 2000,
+    "currentPrice": 229000,
+    "currentPricePerM2": 114.5,
+    "initialPrice": 229000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 229000,
+        "pricePerM2": 114.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:17.624Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/36/6f/3618a4_3313_cover@2x-dzialka-siedliskowa-tarnowski-sieradza.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3505520",
+    "source": "adresowo",
+    "sourceId": "3505520",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-skala-minoga-3-000-m2-c2i9v6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Minoga",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Minoga",
+    "coordinates": {
+      "lat": 50.06719598404307,
+      "lng": 19.952926694041
+    },
+    "isNearBorder": false,
+    "areaM2": 3000,
+    "currentPrice": 210000,
+    "currentPricePerM2": 70,
+    "initialPrice": 210000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 210000,
+        "pricePerM2": 70
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:19.659Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3a/72/357d70_5e75_cover@2x-dzialka-siedliskowa-krakowski-minoga.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3483084",
+    "source": "adresowo",
+    "sourceId": "3483084",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-iwanowice-maszkow-ul-zamoscie-m5b3d1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Maszków, ul. Zamoście",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Maszków",
+    "street": "ul. Zamoście",
+    "coordinates": {
+      "lat": 50.0621577269544,
+      "lng": 19.946929197597846
+    },
+    "isNearBorder": false,
+    "areaM2": 1400,
+    "currentPrice": 280000,
+    "currentPricePerM2": 200,
+    "initialPrice": 280000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 280000,
+        "pricePerM2": 200
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:19.659Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/34/10/3525cc_90ea_cover@2x-dzialka-siedliskowa-krakowski-maszkow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3472544",
+    "source": "adresowo",
+    "sourceId": "3472544",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kozlow-rogow-4-ha-e6v1o4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Rogów",
+    "voivodeship": "malopolskie",
+    "county": "miechowski",
+    "city": "Rogów",
+    "coordinates": {
+      "lat": 50.35813179653258,
+      "lng": 20.01781602401227
+    },
+    "isNearBorder": false,
+    "areaM2": 45000,
+    "currentPrice": 1690000,
+    "currentPricePerM2": 37.56,
+    "initialPrice": 1690000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1690000,
+        "pricePerM2": 37.56
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:19.659Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6c/21/34fca0_370d_cover@2x-dzialka-siedliskowa-miechowski-rogow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3467880",
+    "source": "adresowo",
+    "sourceId": "3467880",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-spytkowice-ryczow-ul-nadwislanska-m9a2u1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ryczów Chałupki, ul. Nadwiślańska",
+    "voivodeship": "malopolskie",
+    "county": "wadowicki",
+    "city": "Ryczów Chałupki",
+    "street": "ul. Nadwiślańska",
+    "coordinates": {
+      "lat": 49.88973391472677,
+      "lng": 19.496900436334865
+    },
+    "isNearBorder": false,
+    "areaM2": 5000,
+    "currentPrice": 750000,
+    "currentPricePerM2": 150,
+    "initialPrice": 750000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 750000,
+        "pricePerM2": 150
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:19.659Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/62/35/34ea68_9332_cover@2x-dzialka-rolno-budowlana-wadowicki-ryczow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3460038",
+    "source": "adresowo",
+    "sourceId": "3460038",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kalwaria-zebrzydowska-lencze-4-000-m2-x0v7n3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Leńcze",
+    "voivodeship": "malopolskie",
+    "county": "wadowicki",
+    "city": "Leńcze",
+    "coordinates": {
+      "lat": 49.88677071917231,
+      "lng": 19.48680304439346
+    },
+    "isNearBorder": false,
+    "areaM2": 4000,
+    "currentPrice": 225000,
+    "currentPricePerM2": 56.25,
+    "initialPrice": 225000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 225000,
+        "pricePerM2": 56.25
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:19.659Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/78/54/34cbc6_43ab_cover@2x-dzialka-siedliskowa-wadowicki-lencze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3407986",
+    "source": "adresowo",
+    "sourceId": "3407986",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-wielka-wies-giebultow-ul-trojadyn-m5k4w8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Giebułtów, ul. Trojadyn",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Giebułtów",
+    "street": "ul. Trojadyn",
+    "coordinates": {
+      "lat": 50.06626382974464,
+      "lng": 19.945769521112496
+    },
+    "isNearBorder": false,
+    "areaM2": 2100,
+    "currentPrice": 800000,
+    "currentPricePerM2": 380.95,
+    "initialPrice": 800000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 800000,
+        "pricePerM2": 380.95
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:22.231Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1b/3c/340072_8b2b_cover@2x-dzialka-budowlana-krakowski-giebultow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3399804",
+    "source": "adresowo",
+    "sourceId": "3399804",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-swiatniki-gorne-wrzasowice-2-846-m2-c3p8a9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wrząsowice",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Wrząsowice",
+    "coordinates": {
+      "lat": 50.06457565908434,
+      "lng": 19.95013474544048
+    },
+    "isNearBorder": false,
+    "areaM2": 2846,
+    "currentPrice": 320000,
+    "currentPricePerM2": 112.44,
+    "initialPrice": 320000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 320000,
+        "pricePerM2": 112.44
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:22.231Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/12/47/33e07c_e720_cover@2x-dzialka-siedliskowa-krakowski-wrzasowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3353788",
+    "source": "adresowo",
+    "sourceId": "3353788",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-tuchow-siedliska-1-000-m2-d8p4m1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedliska",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Siedliska",
+    "coordinates": {
+      "lat": 49.952041407759424,
+      "lng": 21.95195801693761
+    },
+    "isNearBorder": false,
+    "areaM2": 1000,
+    "currentPrice": 100000,
+    "currentPricePerM2": 100,
+    "initialPrice": 100000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 100000,
+        "pricePerM2": 100
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:22.231Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/23/50/332cbc_92f8_cover@2x-dzialka-budowlana-tarnowski-siedliska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3352350",
+    "source": "adresowo",
+    "sourceId": "3352350",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-tuchow-jodlowka-tuchowska-5-300-m2-k1w5e0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jodłówka Tuchowska",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Jodłówka Tuchowska",
+    "coordinates": {
+      "lat": 50.006498419202686,
+      "lng": 20.98710997614439
+    },
+    "isNearBorder": false,
+    "areaM2": 5300,
+    "currentPrice": 212000,
+    "currentPricePerM2": 40,
+    "initialPrice": 212000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 212000,
+        "pricePerM2": 40
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:22.231Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5b/32/33271e_92e9_cover@2x-dzialka-budowlana-tarnowski-jodlowka-tuchowska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3340524",
+    "source": "adresowo",
+    "sourceId": "3340524",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-gdow-jaroszowka-1-ha-s0r5r0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jaroszówka",
+    "voivodeship": "malopolskie",
+    "county": "wielicki",
+    "city": "Jaroszówka",
+    "coordinates": {
+      "lat": 49.98524165968573,
+      "lng": 20.071118065925187
+    },
+    "isNearBorder": false,
+    "areaM2": 12200,
+    "currentPrice": 985000,
+    "currentPricePerM2": 80.74,
+    "initialPrice": 985000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 985000,
+        "pricePerM2": 80.74
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:22.231Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2a/72/32f8ec_29e8_cover@2x-dzialka-rolno-budowlana-wielicki-jaroszowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3313134",
+    "source": "adresowo",
+    "sourceId": "3313134",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-iwanowice-grzegorzowice-wielkie-4-200-m2-u3d0c8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Grzegorzowice Wielkie",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Grzegorzowice Wielkie",
+    "coordinates": {
+      "lat": 50.06476568153315,
+      "lng": 19.94358978302835
+    },
+    "isNearBorder": false,
+    "areaM2": 4200,
+    "currentPrice": 170000,
+    "currentPricePerM2": 40.48,
+    "initialPrice": 170000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 170000,
+        "pricePerM2": 40.48
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:22.231Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7e/47/328dee_3df5_cover@2x-dzialka-siedliskowa-krakowski-grzegorzowice-wielkie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3236934",
+    "source": "adresowo",
+    "sourceId": "3236934",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-stryszawa-hucisko-4-660-m2-z7b9z6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Hucisko, Wielkie Pole",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Hucisko",
+    "street": "Wielkie Pole",
+    "coordinates": {
+      "lat": 49.74683925528824,
+      "lng": 19.671569748124472
+    },
+    "isNearBorder": false,
+    "areaM2": 4660,
+    "currentPrice": 500000,
+    "currentPricePerM2": 107.3,
+    "initialPrice": 500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 500000,
+        "pricePerM2": 107.3
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:23.676Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/66/6c/316446_f845_cover@2x-dzialka-siedliskowa-suski-hucisko.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3171784",
+    "source": "adresowo",
+    "sourceId": "3171784",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kocmyrzow-luborzyca-rawalowice-4-400-m2-b7i7o3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Rawałowice",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Rawałowice",
+    "coordinates": {
+      "lat": 50.06498585522445,
+      "lng": 19.94607398017741
+    },
+    "isNearBorder": false,
+    "areaM2": 4400,
+    "currentPrice": 440000,
+    "currentPricePerM2": 100,
+    "initialPrice": 440000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 440000,
+        "pricePerM2": 100
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:23.676Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/20/76/3065c8_85a4_cover@2x-dzialka-siedliskowa-krakowski-rawalowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3146046",
+    "source": "adresowo",
+    "sourceId": "3146046",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-zawoja-2-ha-e9y3d3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zawoja, Mosorne",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Zawoja",
+    "street": "Mosorne",
+    "coordinates": {
+      "lat": 49.73704589491137,
+      "lng": 19.685672239102605
+    },
+    "isNearBorder": false,
+    "areaM2": 23000,
+    "currentPrice": 500000,
+    "currentPricePerM2": 21.74,
+    "initialPrice": 500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 500000,
+        "pricePerM2": 21.74
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:23.676Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5c/4e/30013e_a0ee_cover@2x-dzialka-rolno-budowlana-suski-zawoja.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3124862",
+    "source": "adresowo",
+    "sourceId": "3124862",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-grybow-chodorowa-1-085-m2-r4p3o1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Chodorowa",
+    "voivodeship": "malopolskie",
+    "county": "nowosadecki",
+    "city": "Chodorowa",
+    "coordinates": {
+      "lat": 49.629278692210505,
+      "lng": 20.688839800923727
+    },
+    "isNearBorder": true,
+    "areaM2": 1085,
+    "currentPrice": 90000,
+    "currentPricePerM2": 82.95,
+    "initialPrice": 90000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 90000,
+        "pricePerM2": 82.95
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:25.651Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4f/69/2fae7e_cc97_cover@2x-dzialka-budowlana-nowosadecki-chodorowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3105496",
+    "source": "adresowo",
+    "sourceId": "3105496",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-gnojnik-3-700-m2-f6b5h7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Gnojnik",
+    "voivodeship": "malopolskie",
+    "county": "brzeski",
+    "city": "Gnojnik",
+    "coordinates": {
+      "lat": 49.96299433741772,
+      "lng": 20.601454607102852
+    },
+    "isNearBorder": false,
+    "areaM2": 3700,
+    "currentPrice": 95000,
+    "currentPricePerM2": 25.68,
+    "initialPrice": 95000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 95000,
+        "pricePerM2": 25.68
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:25.651Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/40/65/2f62d8_c5f4_cover@2x-dzialka-siedliskowa-brzeski-gnojnik.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2980204",
+    "source": "adresowo",
+    "sourceId": "2980204",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-krzeszowice-miekinia-683-m2-l0f0z8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Miękinia, Wzgórze",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Miękinia",
+    "street": "Wzgórze",
+    "coordinates": {
+      "lat": 50.05789745892482,
+      "lng": 19.94075571095595
+    },
+    "isNearBorder": false,
+    "areaM2": 683,
+    "currentPrice": 85000,
+    "currentPricePerM2": 124.45,
+    "initialPrice": 85000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 85000,
+        "pricePerM2": 124.45
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:25.651Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/12/24/2d796c_920f_cover@2x-dzialka-budowlana-krakowski-miekinia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2940764",
+    "source": "adresowo",
+    "sourceId": "2940764",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-michalowice-gorna-wies-ul-krolewska-s2a9b1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Górna Wieś, ul. Królewska",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Górna Wieś",
+    "street": "ul. Królewska",
+    "coordinates": {
+      "lat": 50.06312802900533,
+      "lng": 19.938822833727606
+    },
+    "isNearBorder": false,
+    "areaM2": 3600,
+    "currentPrice": 1200000,
+    "currentPricePerM2": 333.33,
+    "initialPrice": 1200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1200000,
+        "pricePerM2": 333.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:27.698Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/12/12/2cdf5c_e19b_cover@2x-dzialka-rolno-budowlana-krakowski-gorna-wies.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2885644",
+    "source": "adresowo",
+    "sourceId": "2885644",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-slomniki-niedzwiedz-ul-zielona-n8x0l1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Niedźwiedź, ul. Zielona",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Niedźwiedź",
+    "street": "ul. Zielona",
+    "coordinates": {
+      "lat": 50.071743022572626,
+      "lng": 19.94779265032183
+    },
+    "isNearBorder": false,
+    "areaM2": 3000,
+    "currentPrice": 118000,
+    "currentPricePerM2": 39.33,
+    "initialPrice": 118000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 118000,
+        "pricePerM2": 39.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:27.698Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/12/66/2c080c_b47f_cover@2x-dzialka-budowlana-krakowski-niedzwiedz.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2818656",
+    "source": "adresowo",
+    "sourceId": "2818656",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-skrzyszow-szynwald-3-218-m2-w5n2o5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Szynwałd, Japonia",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Szynwałd",
+    "street": "Japonia",
+    "coordinates": {
+      "lat": 50.01035626220521,
+      "lng": 20.98434000803743
+    },
+    "isNearBorder": false,
+    "areaM2": 3218,
+    "currentPrice": 260000,
+    "currentPricePerM2": 80.8,
+    "initialPrice": 260000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 260000,
+        "pricePerM2": 80.8
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:27.698Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/42/57/2b0260_6564_cover@2x-dzialka-budowlana-tarnowski-szynwald.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2812734",
+    "source": "adresowo",
+    "sourceId": "2812734",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-wadowice-wysoka-1-920-m2-o6n4u2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wysoka",
+    "voivodeship": "malopolskie",
+    "county": "wadowicki",
+    "city": "Wysoka",
+    "coordinates": {
+      "lat": 53.188601664059526,
+      "lng": 17.072324388364194
+    },
+    "isNearBorder": false,
+    "areaM2": 1920,
+    "currentPrice": 160000,
+    "currentPricePerM2": 83.33,
+    "initialPrice": 160000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 160000,
+        "pricePerM2": 83.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:27.698Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/51/47/2aeb3e_80fc_cover@2x-dzialka-rolna-wadowicki-wysoka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2800646",
+    "source": "adresowo",
+    "sourceId": "2800646",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inna-koniusza-polekarcice-6-700-m2-y7h0u4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Polekarcice",
+    "voivodeship": "malopolskie",
+    "county": "proszowicki",
+    "city": "Polekarcice",
+    "coordinates": {
+      "lat": 50.18451012022968,
+      "lng": 20.295701473540475
+    },
+    "isNearBorder": false,
+    "areaM2": 6700,
+    "currentPrice": 190000,
+    "currentPricePerM2": 28.36,
+    "initialPrice": 190000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 190000,
+        "pricePerM2": 28.36
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:27.698Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/70/11/2abc06_cae9_cover@2x-dzialka-inna-proszowicki-polekarcice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2629174",
+    "source": "adresowo",
+    "sourceId": "2629174",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-tuchow-jodlowka-tuchowska-1-600-m2-w3w2p3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jodłówka Tuchowska",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Jodłówka Tuchowska",
+    "coordinates": {
+      "lat": 50.00637489733759,
+      "lng": 20.978454703044918
+    },
+    "isNearBorder": false,
+    "areaM2": 1600,
+    "currentPrice": 64000,
+    "currentPricePerM2": 40,
+    "initialPrice": 64000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 64000,
+        "pricePerM2": 40
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:29.274Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/70/6b/281e36_f2aa_cover@2x-dzialka-budowlana-tarnowski-jodlowka-tuchowska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2619408",
+    "source": "adresowo",
+    "sourceId": "2619408",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-proszowice-klimontow-5-286-m2-p6c8a6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Klimontów",
+    "voivodeship": "malopolskie",
+    "county": "proszowicki",
+    "city": "Klimontów",
+    "coordinates": {
+      "lat": 50.187052855695896,
+      "lng": 20.287460692068134
+    },
+    "isNearBorder": false,
+    "areaM2": 5286,
+    "currentPrice": 220000,
+    "currentPricePerM2": 41.62,
+    "initialPrice": 220000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 220000,
+        "pricePerM2": 41.62
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:29.274Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2d/3b/27f810_e2fd_cover@2x-dzialka-rolno-budowlana-proszowicki-klimontow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2408428",
+    "source": "adresowo",
+    "sourceId": "2408428",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-zakliczyn-wesolow-1-750-m2-w3o7h7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wesołów",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Wesołów",
+    "coordinates": {
+      "lat": 50.01355539414215,
+      "lng": 20.995088654000394
+    },
+    "isNearBorder": false,
+    "areaM2": 1750,
+    "currentPrice": 127000,
+    "currentPricePerM2": 72.57,
+    "initialPrice": 127000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 127000,
+        "pricePerM2": 72.57
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:31.060Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/26/1f/24bfec_7e1a_cover@2x-dzialka-siedliskowa-tarnowski-wesolow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2327874",
+    "source": "adresowo",
+    "sourceId": "2327874",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-lososina-dolna-skrzetla-rojowka-1-ha-a3w3w7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Skrzętla-Rojówka",
+    "voivodeship": "malopolskie",
+    "county": "nowosadecki",
+    "city": "Skrzętla-Rojówka",
+    "coordinates": {
+      "lat": 49.63027119215817,
+      "lng": 20.69113591728491
+    },
+    "isNearBorder": true,
+    "areaM2": 11400,
+    "currentPrice": 742000,
+    "currentPricePerM2": 65.09,
+    "initialPrice": 742000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 742000,
+        "pricePerM2": 65.09
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:31.060Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5e/36/238542_f033_cover@2x-dzialka-rolno-budowlana-nowosadecki-skrzetla-rojowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2299966",
+    "source": "adresowo",
+    "sourceId": "2299966",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-uscie-gorlickie-zdynia-2-753-m2-l3r6h1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zdynia",
+    "voivodeship": "malopolskie",
+    "county": "gorlicki",
+    "city": "Zdynia",
+    "coordinates": {
+      "lat": 49.651440933113214,
+      "lng": 21.150557972526038
+    },
+    "isNearBorder": true,
+    "areaM2": 2753,
+    "currentPrice": 200000,
+    "currentPricePerM2": 72.65,
+    "initialPrice": 200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 200000,
+        "pricePerM2": 72.65
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:31.060Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6a/2d/23183e_6ca9_cover@2x-dzialka-budowlana-gorlicki-zdynia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2272772",
+    "source": "adresowo",
+    "sourceId": "2272772",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-stryszow-zakrzow-1-ha-l2r7v0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zakrzów",
+    "voivodeship": "malopolskie",
+    "county": "wadowicki",
+    "city": "Zakrzów",
+    "coordinates": {
+      "lat": 49.88809136762126,
+      "lng": 19.49830959825832
+    },
+    "isNearBorder": false,
+    "areaM2": 13100,
+    "currentPrice": 786000,
+    "currentPricePerM2": 60,
+    "initialPrice": 786000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 786000,
+        "pricePerM2": 60
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:31.060Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5c/5d/22ae04_b830_cover@2x-dzialka-budowlana-wadowicki-zakrzow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2124966",
+    "source": "adresowo",
+    "sourceId": "2124966",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kety-witkowice-3-260-m2-v3m1i1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Witkowice",
+    "voivodeship": "malopolskie",
+    "county": "oswiecimski",
+    "city": "Witkowice",
+    "coordinates": {
+      "lat": 50.02918901714916,
+      "lng": 19.24551789842964
+    },
+    "isNearBorder": false,
+    "areaM2": 3260,
+    "currentPrice": 180000,
+    "currentPricePerM2": 55.21,
+    "initialPrice": 180000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 180000,
+        "pricePerM2": 55.21
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:31.060Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4b/69/206ca6_be80_cover@2x-dzialka-siedliskowa-oswiecimski-witkowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1567763",
+    "source": "adresowo",
+    "sourceId": "1567763",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-lapanow-grabie-2-600-m2-a0e8x7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Grabie",
+    "voivodeship": "malopolskie",
+    "county": "bochenski",
+    "city": "Grabie",
+    "coordinates": {
+      "lat": 49.96960809483533,
+      "lng": 20.421896551641087
+    },
+    "isNearBorder": false,
+    "areaM2": 2600,
+    "currentPrice": 160000,
+    "currentPricePerM2": 61.54,
+    "initialPrice": 160000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 160000,
+        "pricePerM2": 61.54
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:32.707Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/71/1b/17ec13_781f_cover@2x-dzialka-budowlana-bochenski-grabie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1422961",
+    "source": "adresowo",
+    "sourceId": "1422961",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-myslenice-beczarka-1-ha-y8z2u0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bęczarka",
+    "voivodeship": "malopolskie",
+    "county": "myslenicki",
+    "city": "Bęczarka",
+    "coordinates": {
+      "lat": 49.82832529630857,
+      "lng": 19.942020640689194
+    },
+    "isNearBorder": false,
+    "areaM2": 10000,
+    "currentPrice": 400000,
+    "currentPricePerM2": 40,
+    "initialPrice": 400000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 400000,
+        "pricePerM2": 40
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:32.707Z",
+    "lastSeenAt": "2026-09-24T20:36:32.959Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/66/18/15b671_7f70_cover@2x-dzialka-rolno-budowlana-myslenicki-beczarka.webp",
+    "isDirectOwner": true
+  }
+]
