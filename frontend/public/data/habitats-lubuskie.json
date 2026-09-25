@@ -29,9 +29,10 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-17T09:50:30.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBvaHljNTZ3amp5YjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7n6s3dGrgDvrCazGFbQtCVAPN-gjAWZx0D60dvt69bM/image;s=655x491;q=80",
-    "isDirectOwner": false
+    "isDirectOwner": false,
+    "plotAreaM2": 42000
   },
   {
     "id": "otodom-68396387",
@@ -64,7 +65,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-08T13:15:47.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inh2bHl5MXozYzR6ay1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.8MHXIyvk2639Xc6w7S33pRoI-55yBECHCh4jhj2zRQs/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -99,42 +100,8 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-08T09:16:58.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjAzM2k3NmlveWhmcS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.5IYCNhwAgQwdfwor0rWUWcTRVMFYwaIISpRO3V4tb3k/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-96839638700067",
-    "source": "otodom",
-    "sourceId": "96839638700067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-w-zabudowie-zagrodowej-zielomysl-k-pszczewa-ID4CZ1x",
-    "propertyType": "habitat",
-    "title": "Dom w zabudowie zagrodowej , Zielomyśl k. Pszczewa",
-    "voivodeship": "lubuskie",
-    "county": "międzyrzecki",
-    "city": "Zielomyśl",
-    "coordinates": {
-      "lat": 52.44610020563835,
-      "lng": 15.588510173265616
-    },
-    "isNearBorder": false,
-    "areaM2": 116,
-    "plotAreaM2": 2200,
-    "currentPrice": 420000,
-    "currentPricePerM2": 3620.69,
-    "initialPrice": 420000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "1999-02-28",
-        "price": 420000,
-        "pricePerM2": 3620.69
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "1999-02-28T23:00:01.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
     "isDirectOwner": false
   },
   {
@@ -168,8 +135,1405 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-07-14T20:35:38.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBqbHhyeGltMTk3ZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RdztkN8GXeO93bPLkEdIuIkNr6o95r65Tf6IRJkTXIU/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4226830",
+    "source": "adresowo",
+    "sourceId": "4226830",
+    "sourceUrl": "https://adresowo.pl/o/dom-szlichtyngowa-jedrzychowice-420-m2-n5m9c2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jędrzychowice",
+    "voivodeship": "lubuskie",
+    "county": "wschowski",
+    "city": "Jędrzychowice",
+    "coordinates": {
+      "lat": 51.803771654363636,
+      "lng": 16.30579553168832
+    },
+    "isNearBorder": false,
+    "areaM2": 420,
+    "currentPrice": 529000,
+    "currentPricePerM2": 1259.52,
+    "initialPrice": 529000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 529000,
+        "pricePerM2": 1259.52
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:21:57.738Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2c/52/407f0e_bbef_cover@2x-dom-wschowski-jedrzychowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4177706",
+    "source": "adresowo",
+    "sourceId": "4177706",
+    "sourceUrl": "https://adresowo.pl/o/dom-drezdenko-trzebicz-mlyn-235-m2-p2o8c2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Trzebicz-Młyn",
+    "voivodeship": "lubuskie",
+    "county": "drezdenecki",
+    "city": "Trzebicz-Młyn",
+    "coordinates": {
+      "lat": 52.83568278323766,
+      "lng": 15.600995224201117
+    },
+    "isNearBorder": false,
+    "areaM2": 235,
+    "currentPrice": 500000,
+    "currentPricePerM2": 2127.66,
+    "initialPrice": 500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 500000,
+        "pricePerM2": 2127.66
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:21:59.967Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5e/16/3fbf2a_3975_cover@2x-dom-strzelecko-drezdenecki-trzebicz-mlyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4091768",
+    "source": "adresowo",
+    "sourceId": "4091768",
+    "sourceUrl": "https://adresowo.pl/o/dom-siedlisko-bielawy-108-m2-p4m3r0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bielawy",
+    "voivodeship": "lubuskie",
+    "county": "nowosolski",
+    "city": "Bielawy",
+    "coordinates": {
+      "lat": 51.79484021080216,
+      "lng": 15.718547887537678
+    },
+    "isNearBorder": false,
+    "areaM2": 108,
+    "currentPrice": 289000,
+    "currentPricePerM2": 2675.93,
+    "initialPrice": 289000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 289000,
+        "pricePerM2": 2675.93
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:21:59.967Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/66/68/3e6f78_7988_cover@2x-dom-nowosolski-bielawy.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4010732",
+    "source": "adresowo",
+    "sourceId": "4010732",
+    "sourceUrl": "https://adresowo.pl/o/dom-jasien-guzow-110-m2-l6m5z1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Guzów",
+    "voivodeship": "lubuskie",
+    "county": "zarski",
+    "city": "Guzów",
+    "coordinates": {
+      "lat": 51.639002123888076,
+      "lng": 15.12394044781034
+    },
+    "isNearBorder": true,
+    "areaM2": 110,
+    "currentPrice": 340000,
+    "currentPricePerM2": 3090.91,
+    "initialPrice": 340000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 340000,
+        "pricePerM2": 3090.91
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:22:02.414Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/24/20/3d32ec_5799_cover@2x-dom-zarski-guzow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3962704",
+    "source": "adresowo",
+    "sourceId": "3962704",
+    "sourceUrl": "https://adresowo.pl/o/dom-gubin-gubinek-81-m2-g3r1g1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Gubinek",
+    "voivodeship": "lubuskie",
+    "county": "krosnienski",
+    "city": "Gubinek",
+    "coordinates": {
+      "lat": 49.69580437221354,
+      "lng": 21.76999527124119
+    },
+    "isNearBorder": true,
+    "areaM2": 81,
+    "currentPrice": 680000,
+    "currentPricePerM2": 8395.06,
+    "initialPrice": 680000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 680000,
+        "pricePerM2": 8395.06
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:22:02.414Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/74/7b/3c7750_9f5b_cover@2x-dom-krosnienski-gubinek.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3805370",
+    "source": "adresowo",
+    "sourceId": "3805370",
+    "sourceUrl": "https://adresowo.pl/o/dom-maszewo-siedlisko-75-m2-n6u2t3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedlisko",
+    "voivodeship": "lubuskie",
+    "county": "krosnienski",
+    "city": "Siedlisko",
+    "coordinates": {
+      "lat": 49.69393378152779,
+      "lng": 21.776637417128754
+    },
+    "isNearBorder": true,
+    "areaM2": 75,
+    "currentPrice": 350000,
+    "currentPricePerM2": 4666.67,
+    "initialPrice": 350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 350000,
+        "pricePerM2": 4666.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:22:04.149Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6d/7d/3a10ba_d201_cover@2x-dom-krosnienski-siedlisko.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3782348",
+    "source": "adresowo",
+    "sourceId": "3782348",
+    "sourceUrl": "https://adresowo.pl/o/dom-kolsko-jesiona-150-m2-h5o0b0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jesiona",
+    "voivodeship": "lubuskie",
+    "county": "nowosolski",
+    "city": "Jesiona",
+    "coordinates": {
+      "lat": 51.806486084795054,
+      "lng": 15.71911074656875
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "currentPrice": 550000,
+    "currentPricePerM2": 3666.67,
+    "initialPrice": 550000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 550000,
+        "pricePerM2": 3666.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:22:04.149Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/12/23/39b6cc_ba3d_cover@2x-dom-nowosolski-jesiona.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68358912",
+    "source": "otodom",
+    "sourceId": "68358912",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-wydane-wz-boruszyn-ID4CPh6",
+    "propertyType": "habitat",
+    "title": "Działka siedliskowa wydane WZ Boruszyn",
+    "voivodeship": "lubuskie",
+    "county": "żarski",
+    "city": "Boruszyn",
+    "coordinates": {
+      "lat": 51.631593223708975,
+      "lng": 15.129598050913234
+    },
+    "isNearBorder": true,
+    "areaM2": 100017,
+    "currentPrice": 750000,
+    "currentPricePerM2": 7.5,
+    "initialPrice": 750000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-28",
+        "price": 750000,
+        "pricePerM2": 7.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-28T10:50:48.000Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imtqbml2bjdvMWxrejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.M59jjxt5b_FhcGfD_we0IJ8GEXebvsRyB3zUK8Mrh8w/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67447015",
+    "source": "otodom",
+    "sourceId": "67447015",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-z-wz-zabudowa-zagrodowa-lasy-blisko-zjazd-a2-w-trzcielu-ID4z035",
+    "propertyType": "habitat",
+    "title": "Działka z WZ zabudowa zagrodowa, lasy, blisko zjazd A2 w Trzcielu",
+    "voivodeship": "lubuskie",
+    "county": "międzyrzecki",
+    "city": "Rybojady",
+    "coordinates": {
+      "lat": 52.44496037904845,
+      "lng": 15.570823240205446
+    },
+    "isNearBorder": false,
+    "areaM2": 6800,
+    "currentPrice": 136000,
+    "currentPricePerM2": 20,
+    "initialPrice": 136000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-24",
+        "price": 136000,
+        "pricePerM2": 20
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-24T17:32:32.000Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVxNmNjMGI1ZGQ4azEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.580ozJ_MttVLIh8a5hpCiJqdkhFtPKTzoSwP7tuI-ho/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-61335251",
+    "source": "otodom",
+    "sourceId": "61335251",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-agroturystyczne-lowisko-ryb-staw-hodowlany-ID49m6f",
+    "propertyType": "habitat",
+    "title": "Gospodarstwo agroturystyczne / Łowisko Ryb/ Staw hodowlany",
+    "voivodeship": "lubuskie",
+    "county": "krośnieński",
+    "city": "Drzeńsk Wielki",
+    "coordinates": {
+      "lat": 49.68778253309565,
+      "lng": 21.775373554566706
+    },
+    "isNearBorder": true,
+    "areaM2": 30500,
+    "currentPrice": 1000000,
+    "currentPricePerM2": 32.79,
+    "initialPrice": 1000000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-06",
+        "price": 1000000,
+        "pricePerM2": 32.79
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-06T12:53:06.000Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlsY3k3OW80N3VwMTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.29KkC0LXsfA_c4gham-4T9iUA0tz0c-KjOrjuSH-HHg/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-66816252",
+    "source": "otodom",
+    "sourceId": "66816252",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwa-dzialka-siedliskowa-przy-parku-krajobrazowym-ujscie-warty-ID4vlXu",
+    "propertyType": "habitat",
+    "title": "Urokliwa działka siedliskowa przy Parku Krajobrazowym „Ujście Warty”",
+    "voivodeship": "lubuskie",
+    "county": "sulęciński",
+    "city": "Krępiny",
+    "coordinates": {
+      "lat": 52.45044619888346,
+      "lng": 15.122173487761422
+    },
+    "isNearBorder": true,
+    "areaM2": 3012,
+    "currentPrice": 99000,
+    "currentPricePerM2": 32.87,
+    "initialPrice": 99000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-07-31",
+        "price": 99000,
+        "pricePerM2": 32.87
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-07-31T18:31:41.000Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjI4bnI3MmYwZGM4azMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5ucsCvrItIAswNwHDkKxuAQABe8PJawaQrGDg4cWssA/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68105367",
+    "source": "otodom",
+    "sourceId": "68105367",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/spokoj-natura-jezioradzialka-zagrodowa-dormowo-ID4BLjF",
+    "propertyType": "habitat",
+    "title": "Spokój, natura, jeziora–działka zagrodowa Dormowo",
+    "voivodeship": "lubuskie",
+    "county": "międzychodzki",
+    "city": "Dormowo",
+    "coordinates": {
+      "lat": 52.60069467175428,
+      "lng": 15.884713238082574
+    },
+    "isNearBorder": false,
+    "areaM2": 4800,
+    "currentPrice": 385000,
+    "currentPricePerM2": 80.21,
+    "initialPrice": 385000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-07-08",
+        "price": 385000,
+        "pricePerM2": 80.21
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-07-08T07:55:11.000Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ5MGExcjRmeWFzbTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.y-adq_OJvcqiJJieJvlUmPGIuMMe6rlezOPDRwNXxUY/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67713863",
+    "source": "otodom",
+    "sourceId": "67713863",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/roztoki-dom-gospodarstwo-i-dzialka-budowlana-razem-0-63-ha-ID4A7t5",
+    "propertyType": "habitat",
+    "title": "Roztoki - dom/gospodarstwo i działka budowlana, razem 0.63 ha",
+    "voivodeship": "lubuskie",
+    "county": "żarski",
+    "city": "Roztoki",
+    "coordinates": {
+      "lat": 51.62684478732129,
+      "lng": 15.132805384383001
+    },
+    "isNearBorder": true,
+    "areaM2": 6300,
+    "currentPrice": 350000,
+    "currentPricePerM2": 55.56,
+    "initialPrice": 350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-06-23",
+        "price": 350000,
+        "pricePerM2": 55.56
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-06-23T08:30:04.000Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBscjl4ZnB2NHExYS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.qsjTKI0jVz1I_ui7J3s3XuygArZvQT9x8kdFljXrOhc/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67726896",
+    "source": "otodom",
+    "sourceId": "67726896",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-na-sprzedaz-ID4AaRi",
+    "propertyType": "habitat",
+    "title": "Gospodarstwo rolne na sprzedaż",
+    "voivodeship": "lubuskie",
+    "county": "zielonogórski",
+    "city": "Gębice",
+    "coordinates": {
+      "lat": 51.934121004212386,
+      "lng": 15.505074073069178
+    },
+    "isNearBorder": false,
+    "areaM2": 113283,
+    "currentPrice": 995000,
+    "currentPricePerM2": 8.78,
+    "initialPrice": 995000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-02-18",
+        "price": 995000,
+        "pricePerM2": 8.78
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-02-18T18:26:47.000Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFnOHozaTh1ZmN1ZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.4Lpi5TWRip1dT_sPvBEfUPtAH1lQjns5i5ajatOy3HQ/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67593558",
+    "source": "otodom",
+    "sourceId": "67593558",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-3648m2-radomia-orzewo-ID4zCaG",
+    "propertyType": "habitat",
+    "title": "Działka siedliskowa 3648m2 - Radomia-Orzewo",
+    "voivodeship": "lubuskie",
+    "county": "zielonogórski",
+    "city": "Orzewo",
+    "street": "ul. Radomia",
+    "coordinates": {
+      "lat": 50.84025768397265,
+      "lng": 16.49709000702641
+    },
+    "isNearBorder": false,
+    "areaM2": 1200,
+    "currentPrice": 180000,
+    "currentPricePerM2": 150,
+    "initialPrice": 180000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-01-09",
+        "price": 180000,
+        "pricePerM2": 150
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-01-09T11:06:14.000Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjcwbXYxeGZ5Z3ViYzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.EWhGCQhKT_i1sHaC26Ve46zrE-q_fnwhsJuhrDQ6C-M/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-66893135",
+    "source": "otodom",
+    "sourceId": "66893135",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dwie-dzialki-atrakcyjne-polozone-warunki-zabudowy-zagrodowej-glinsk-ID4vFXx",
+    "propertyType": "habitat",
+    "title": "Dwie działki atrakcyjne położone| Warunki zabudowy zagrodowej | Glińsk",
+    "voivodeship": "lubuskie",
+    "county": "świebodziński",
+    "city": "Glińsk",
+    "coordinates": {
+      "lat": 52.251004776955284,
+      "lng": 15.537699102221358
+    },
+    "isNearBorder": false,
+    "areaM2": 1752,
+    "currentPrice": 87000,
+    "currentPricePerM2": 49.66,
+    "initialPrice": 87000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2025-06-03",
+        "price": 87000,
+        "pricePerM2": 49.66
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2025-06-03T08:11:25.000Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJjdXB0MnY0bWJ4cC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.5TnvorsMaJClfujIK3poDP8jWMPHpUeLuuqKUFO0g7c/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-66736611",
+    "source": "otodom",
+    "sourceId": "66736611",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-w-otoczeniu-lasu-ID4v1eX",
+    "propertyType": "habitat",
+    "title": "Działka siedliskowa w otoczeniu lasu",
+    "voivodeship": "lubuskie",
+    "county": "nowotomyski",
+    "city": "Pąchy",
+    "coordinates": {
+      "lat": 52.3173955872895,
+      "lng": 16.128923847524494
+    },
+    "isNearBorder": false,
+    "areaM2": 3398,
+    "currentPrice": 250000,
+    "currentPricePerM2": 73.57,
+    "initialPrice": 250000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2025-04-18",
+        "price": 250000,
+        "pricePerM2": 73.57
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2025-04-18T06:13:57.000Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1seTNvdGR6YW83eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tOoLuhMKlQPPqTtZyXF6zWXyYBZRS5Jssvfxy_zjDW8/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4222128",
+    "source": "adresowo",
+    "sourceId": "4222128",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-slawa-kuznica-glogowska-1-000-m2-c9p8z9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kuźnica Głogowska, Myszyniec",
+    "voivodeship": "lubuskie",
+    "county": "wschowski",
+    "city": "Kuźnica Głogowska",
+    "street": "Myszyniec",
+    "coordinates": {
+      "lat": 51.801132238015995,
+      "lng": 16.3237175578265
+    },
+    "isNearBorder": false,
+    "areaM2": 1000,
+    "currentPrice": 269000,
+    "currentPricePerM2": 269,
+    "initialPrice": 269000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 269000,
+        "pricePerM2": 269
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:38.279Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4f/19/406cb0_d4d7_cover@2x-dzialka-siedliskowa-wschowski-kuznica-glogowska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4248306",
+    "source": "adresowo",
+    "sourceId": "4248306",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-zary-lubomysl-2-000-m2-o9y6j3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Lubomyśl",
+    "voivodeship": "lubuskie",
+    "county": "zarski",
+    "city": "Lubomyśl",
+    "coordinates": {
+      "lat": 51.636815028836416,
+      "lng": 15.128439589201273
+    },
+    "isNearBorder": true,
+    "areaM2": 2000,
+    "currentPrice": 190000,
+    "currentPricePerM2": 95,
+    "initialPrice": 190000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 190000,
+        "pricePerM2": 95
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:38.279Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/46/6f/40d2f2_ecfb_cover@2x-dzialka-siedliskowa-zarski-lubomysl.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4249958",
+    "source": "adresowo",
+    "sourceId": "4249958",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-krosno-odrzanskie-radnica-34-ha-m7o3f7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Radnica",
+    "voivodeship": "lubuskie",
+    "county": "krosnienski",
+    "city": "Radnica",
+    "coordinates": {
+      "lat": 49.68886494951548,
+      "lng": 21.777395773090362
+    },
+    "isNearBorder": true,
+    "areaM2": 340000,
+    "currentPrice": 1700000,
+    "currentPricePerM2": 5,
+    "initialPrice": 1700000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1700000,
+        "pricePerM2": 5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:38.279Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/63/79/40d966_ffd9_cover@2x-dzialka-inwestycyjna-krosnienski-radnica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4240024",
+    "source": "adresowo",
+    "sourceId": "4240024",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-bytnica-3-500-m2-s9w3g5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bytnica",
+    "voivodeship": "lubuskie",
+    "county": "krosnienski",
+    "city": "Bytnica",
+    "coordinates": {
+      "lat": 49.68609493133265,
+      "lng": 21.767372820363896
+    },
+    "isNearBorder": true,
+    "areaM2": 3500,
+    "currentPrice": 490000,
+    "currentPricePerM2": 140,
+    "initialPrice": 490000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 490000,
+        "pricePerM2": 140
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:38.279Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5d/75/40b298_3dc4_cover@2x-dzialka-inwestycyjna-krosnienski-bytnica.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4228890",
+    "source": "adresowo",
+    "sourceId": "4228890",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-lesna-siedlisko-15-ha-y0h9f3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedlisko",
+    "voivodeship": "lubuskie",
+    "county": "nowosolski",
+    "city": "Siedlisko",
+    "coordinates": {
+      "lat": 51.794354004791195,
+      "lng": 15.711495893247593
+    },
+    "isNearBorder": false,
+    "areaM2": 151000,
+    "currentPrice": 1500000,
+    "currentPricePerM2": 9.93,
+    "initialPrice": 1500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1500000,
+        "pricePerM2": 9.93
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:40.520Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/31/43/40871a_6d43_cover@2x-dzialka-lesna-nowosolski-siedlisko.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4138440",
+    "source": "adresowo",
+    "sourceId": "4138440",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-siedlisko-bielawy-1-ha-u5g7u0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Bielawy",
+    "voivodeship": "lubuskie",
+    "county": "nowosolski",
+    "city": "Bielawy",
+    "coordinates": {
+      "lat": 51.80208565466411,
+      "lng": 15.718606268760487
+    },
+    "isNearBorder": false,
+    "areaM2": 16100,
+    "currentPrice": 590000,
+    "currentPricePerM2": 36.65,
+    "initialPrice": 590000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 590000,
+        "pricePerM2": 36.65
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:44.645Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1c/71/3f25c8_fcff_cover@2x-dzialka-rolno-budowlana-nowosolski-bielawy.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4082762",
+    "source": "adresowo",
+    "sourceId": "4082762",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-kozuchow-studzieniec-1-ha-j0v7d2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Studzieniec",
+    "voivodeship": "lubuskie",
+    "county": "nowosolski",
+    "city": "Studzieniec",
+    "coordinates": {
+      "lat": 51.80060742571869,
+      "lng": 15.711342617585847
+    },
+    "isNearBorder": false,
+    "areaM2": 14000,
+    "currentPrice": 110000,
+    "currentPricePerM2": 7.86,
+    "initialPrice": 110000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 110000,
+        "pricePerM2": 7.86
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:44.645Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3d/46/3e4c4a_646a_cover@2x-dzialka-rolno-budowlana-nowosolski-studzieniec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4049610",
+    "source": "adresowo",
+    "sourceId": "4049610",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-siedlisko-borowiec-1-400-m2-m3u8q6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Borowiec",
+    "voivodeship": "lubuskie",
+    "county": "nowosolski",
+    "city": "Borowiec",
+    "coordinates": {
+      "lat": 52.27904056920052,
+      "lng": 17.039936323234624
+    },
+    "isNearBorder": false,
+    "areaM2": 1400,
+    "currentPrice": 65000,
+    "currentPricePerM2": 46.43,
+    "initialPrice": 65000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 65000,
+        "pricePerM2": 46.43
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:46.416Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5c/1b/3dcaca_868a_cover@2x-dzialka-budowlana-nowosolski-borowiec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4030164",
+    "source": "adresowo",
+    "sourceId": "4030164",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-witnica-bialcz-1-000-m2-q6q6n3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Białcz",
+    "voivodeship": "lubuskie",
+    "county": "gorzowski",
+    "city": "Białcz",
+    "coordinates": {
+      "lat": 52.74028564280542,
+      "lng": 15.234098752731182
+    },
+    "isNearBorder": true,
+    "areaM2": 1000,
+    "currentPrice": 75000,
+    "currentPricePerM2": 75,
+    "initialPrice": 75000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 75000,
+        "pricePerM2": 75
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:46.416Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4f/67/3d7ed4_bf40_cover@2x-dzialka-budowlana-gorzowski-bialcz.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3854806",
+    "source": "adresowo",
+    "sourceId": "3854806",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-santok-ludzislawice-1-ha-o8h7w3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ludzisławice",
+    "voivodeship": "lubuskie",
+    "county": "gorzowski",
+    "city": "Ludzisławice",
+    "coordinates": {
+      "lat": 52.73595184605846,
+      "lng": 15.238531890360656
+    },
+    "isNearBorder": true,
+    "areaM2": 11700,
+    "currentPrice": 58000,
+    "currentPricePerM2": 4.96,
+    "initialPrice": 58000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 58000,
+        "pricePerM2": 4.96
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:51.238Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/60/61/3ad1d6_78aa_cover@2x-dzialka-rolna-gorzowski-ludzislawice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3821458",
+    "source": "adresowo",
+    "sourceId": "3821458",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-witnica-dabroszyn-1-100-m2-r6h8o0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Dąbroszyn",
+    "voivodeship": "lubuskie",
+    "county": "gorzowski",
+    "city": "Dąbroszyn",
+    "coordinates": {
+      "lat": 52.736700252587404,
+      "lng": 15.223837395325676
+    },
+    "isNearBorder": true,
+    "areaM2": 1100,
+    "currentPrice": 40000,
+    "currentPricePerM2": 36.36,
+    "initialPrice": 40000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 40000,
+        "pricePerM2": 36.36
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:51.238Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/18/5e/3a4f92_ec59_cover@2x-dzialka-rolna-gorzowski-dabroszyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3743766",
+    "source": "adresowo",
+    "sourceId": "3743766",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-trzciel-zydowo-2-896-m2-w3x7g0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Żydowo",
+    "voivodeship": "lubuskie",
+    "county": "miedzyrzecki",
+    "city": "Żydowo",
+    "coordinates": {
+      "lat": 52.44704416006471,
+      "lng": 15.575515110530562
+    },
+    "isNearBorder": false,
+    "areaM2": 2896,
+    "currentPrice": 286704,
+    "currentPricePerM2": 99,
+    "initialPrice": 286704,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 286704,
+        "pricePerM2": 99
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:51.238Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/50/11/392016_dfef_cover@2x-dzialka-siedliskowa-miedzyrzecki-zydowo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3751352",
+    "source": "adresowo",
+    "sourceId": "3751352",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-kozuchow-studzieniec-7-ha-t0h5a3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Studzieniec",
+    "voivodeship": "lubuskie",
+    "county": "nowosolski",
+    "city": "Studzieniec",
+    "coordinates": {
+      "lat": 51.80620118272328,
+      "lng": 15.717513305271908
+    },
+    "isNearBorder": false,
+    "areaM2": 79400,
+    "currentPrice": 750000,
+    "currentPricePerM2": 9.45,
+    "initialPrice": 750000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 750000,
+        "pricePerM2": 9.45
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:51.238Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/56/2a/393db8_842a_cover@2x-dzialka-rolna-nowosolski-studzieniec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3688776",
+    "source": "adresowo",
+    "sourceId": "3688776",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-jasien-roztoki-4-ha-d6c1d4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Roztoki",
+    "voivodeship": "lubuskie",
+    "county": "zarski",
+    "city": "Roztoki",
+    "coordinates": {
+      "lat": 51.634767369432424,
+      "lng": 15.123505985939945
+    },
+    "isNearBorder": true,
+    "areaM2": 43000,
+    "currentPrice": 430000,
+    "currentPricePerM2": 10,
+    "initialPrice": 430000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 430000,
+        "pricePerM2": 10
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:52.871Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1b/5c/384948_61fa_cover@2x-dzialka-siedliskowa-zarski-roztoki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3646742",
+    "source": "adresowo",
+    "sourceId": "3646742",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-trzciel-swidwowiec-8-400-m2-r3t2f3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Świdwowiec",
+    "voivodeship": "lubuskie",
+    "county": "miedzyrzecki",
+    "city": "Świdwowiec",
+    "coordinates": {
+      "lat": 52.441302089243315,
+      "lng": 15.587481042373803
+    },
+    "isNearBorder": false,
+    "areaM2": 8400,
+    "currentPrice": 411600,
+    "currentPricePerM2": 49,
+    "initialPrice": 411600,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 411600,
+        "pricePerM2": 49
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:52.871Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/76/22/37a516_f5ee_cover@2x-dzialka-budowlana-miedzyrzecki-swidwowiec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3585264",
+    "source": "adresowo",
+    "sourceId": "3585264",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-czerwiensk-sudol-6-ha-g2v2o8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Sudoł",
+    "voivodeship": "lubuskie",
+    "county": "zielonogorski",
+    "city": "Sudoł",
+    "coordinates": {
+      "lat": 51.93946477031871,
+      "lng": 15.502767502610999
+    },
+    "isNearBorder": false,
+    "areaM2": 63000,
+    "currentPrice": 945000,
+    "currentPricePerM2": 15,
+    "initialPrice": 945000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 945000,
+        "pricePerM2": 15
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:23:52.871Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/49/2b/36b4f0_f64e_cover@2x-dzialka-siedliskowa-zielonogorski-sudol.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2829652",
+    "source": "adresowo",
+    "sourceId": "2829652",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-klodawa-chwalecice-2-696-m2-c7r3e3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Chwalęcice",
+    "voivodeship": "lubuskie",
+    "county": "gorzowski",
+    "city": "Chwalęcice",
+    "coordinates": {
+      "lat": 52.73413989108001,
+      "lng": 15.237389547631999
+    },
+    "isNearBorder": true,
+    "areaM2": 2696,
+    "currentPrice": 990000,
+    "currentPricePerM2": 367.21,
+    "initialPrice": 990000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 990000,
+        "pricePerM2": 367.21
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:24:00.438Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/66/7c/2b2d54_3e20_cover@2x-dzialka-siedliskowa-gorzowski-chwalecice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2713756",
+    "source": "adresowo",
+    "sourceId": "2713756",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-jasien-wicina-5-300-m2-u8e1c0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wicina",
+    "voivodeship": "lubuskie",
+    "county": "zarski",
+    "city": "Wicina",
+    "coordinates": {
+      "lat": 51.62752598392815,
+      "lng": 15.138481124185082
+    },
+    "isNearBorder": true,
+    "areaM2": 5300,
+    "currentPrice": 104000,
+    "currentPricePerM2": 19.62,
+    "initialPrice": 104000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 104000,
+        "pricePerM2": 19.62
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:24:00.438Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/60/70/29689c_3d6a_cover@2x-dzialka-rolno-budowlana-zarski-wicina.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2628590",
+    "source": "adresowo",
+    "sourceId": "2628590",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-tuplice-jaglowice-6-138-m2-h4a2b0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jagłowice",
+    "voivodeship": "lubuskie",
+    "county": "zarski",
+    "city": "Jagłowice",
+    "coordinates": {
+      "lat": 51.63735058014497,
+      "lng": 15.124289090314038
+    },
+    "isNearBorder": true,
+    "areaM2": 6138,
+    "currentPrice": 215000,
+    "currentPricePerM2": 35.03,
+    "initialPrice": 215000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 215000,
+        "pricePerM2": 35.03
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:24:00.438Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2a/19/281bee_a2be_cover@2x-dzialka-siedliskowa-zarski-jaglowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2513058",
+    "source": "adresowo",
+    "sourceId": "2513058",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-rzepin-lubiechnia-wielka-9-ha-y6j0h7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Lubiechnia Wielka",
+    "voivodeship": "lubuskie",
+    "county": "slubicki",
+    "city": "Lubiechnia Wielka",
+    "coordinates": {
+      "lat": 52.35140764899783,
+      "lng": 14.560967063309866
+    },
+    "isNearBorder": true,
+    "areaM2": 95000,
+    "currentPrice": 900000,
+    "currentPricePerM2": 9.47,
+    "initialPrice": 900000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 900000,
+        "pricePerM2": 9.47
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:24:00.438Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6e/47/2658a2_a8e5_cover@2x-dzialka-rolna-slubicki-lubiechnia-wielka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1498507",
+    "source": "adresowo",
+    "sourceId": "1498507",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-skape-olobok-ul-krosnienska-l2s7c9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ołobok, ul. Krośnieńska",
+    "voivodeship": "lubuskie",
+    "county": "swiebodzinski",
+    "city": "Ołobok",
+    "street": "ul. Krośnieńska",
+    "coordinates": {
+      "lat": 52.249670776652174,
+      "lng": 15.527875506549739
+    },
+    "isNearBorder": false,
+    "areaM2": 25000,
+    "currentPrice": 1680000,
+    "currentPricePerM2": 67.2,
+    "initialPrice": 1680000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1680000,
+        "pricePerM2": 67.2
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:24:02.779Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/21/11/16dd8b_3731_cover@2x-dzialka-rolno-budowlana-swiebodzinski-olobok.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1259211",
+    "source": "adresowo",
+    "sourceId": "1259211",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-nowogrod-bobrzanski-lagoda-3-ha-v6a4n9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Łagoda",
+    "voivodeship": "lubuskie",
+    "county": "zielonogorski",
+    "city": "Łagoda",
+    "coordinates": {
+      "lat": 51.938797703899226,
+      "lng": 15.514879362159627
+    },
+    "isNearBorder": false,
+    "areaM2": 37800,
+    "currentPrice": 264600,
+    "currentPricePerM2": 7,
+    "initialPrice": 264600,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 264600,
+        "pricePerM2": 7
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:24:02.779Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1c/71/1336cb_b327_cover@2x-dzialka-siedliskowa-zielonogorski-lagoda.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4273066",
+    "source": "adresowo",
+    "sourceId": "4273066",
+    "sourceUrl": "https://adresowo.pl/o/dom-bledzew-gorunsko-130-m2-z4d6o4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Goruńsko",
+    "voivodeship": "lubuskie",
+    "county": "miedzyrzecki",
+    "city": "Goruńsko",
+    "coordinates": {
+      "lat": 52.440743740990214,
+      "lng": 15.576549155404855
+    },
+    "isNearBorder": false,
+    "areaM2": 130,
+    "currentPrice": 900000,
+    "currentPricePerM2": 6923.08,
+    "initialPrice": 900000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-25",
+        "price": 900000,
+        "pricePerM2": 6923.08
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-25T09:29:42.813Z",
+    "lastSeenAt": "2026-09-25T09:31:46.527Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/54/3b/4133aa_6a78_cover@2x-dom-miedzyrzecki-gorunsko.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-96839638700067",
+    "source": "otodom",
+    "sourceId": "96839638700067",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-w-zabudowie-zagrodowej-zielomysl-k-pszczewa-ID4CZ1x",
+    "propertyType": "habitat",
+    "title": "Dom w zabudowie zagrodowej , Zielomyśl k. Pszczewa",
+    "voivodeship": "lubuskie",
+    "county": "międzyrzecki",
+    "city": "Zielomyśl",
+    "coordinates": {
+      "lat": 52.44610020563835,
+      "lng": 15.588510173265616
+    },
+    "isNearBorder": false,
+    "areaM2": 116,
+    "plotAreaM2": 2200,
+    "currentPrice": 420000,
+    "currentPricePerM2": 3620.69,
+    "initialPrice": 420000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "1999-02-28",
+        "price": 420000,
+        "pricePerM2": 3620.69
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "1999-02-28T23:00:01.000Z",
+    "lastSeenAt": "2026-09-24T20:24:02.974Z",
     "isDirectOwner": false
   },
   {
@@ -347,1334 +1711,5 @@
     "lastSeenAt": "2026-09-24T20:24:02.974Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE2cG5zZG0zaGJ2dTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PMsEOm_o0xOW4kjzqZFr3rDCbWTN3ASosbYXqykfqJY/image;s=655x491;q=80",
     "isDirectOwner": false
-  },
-  {
-    "id": "adresowo-4226830",
-    "source": "adresowo",
-    "sourceId": "4226830",
-    "sourceUrl": "https://adresowo.pl/o/dom-szlichtyngowa-jedrzychowice-420-m2-n5m9c2",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Jędrzychowice",
-    "voivodeship": "lubuskie",
-    "county": "wschowski",
-    "city": "Jędrzychowice",
-    "coordinates": {
-      "lat": 51.803771654363636,
-      "lng": 16.30579553168832
-    },
-    "isNearBorder": false,
-    "areaM2": 420,
-    "currentPrice": 529000,
-    "currentPricePerM2": 1259.52,
-    "initialPrice": 529000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 529000,
-        "pricePerM2": 1259.52
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:21:57.738Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/2c/52/407f0e_bbef_cover@2x-dom-wschowski-jedrzychowice.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4177706",
-    "source": "adresowo",
-    "sourceId": "4177706",
-    "sourceUrl": "https://adresowo.pl/o/dom-drezdenko-trzebicz-mlyn-235-m2-p2o8c2",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Trzebicz-Młyn",
-    "voivodeship": "lubuskie",
-    "county": "drezdenecki",
-    "city": "Trzebicz-Młyn",
-    "coordinates": {
-      "lat": 52.83568278323766,
-      "lng": 15.600995224201117
-    },
-    "isNearBorder": false,
-    "areaM2": 235,
-    "currentPrice": 500000,
-    "currentPricePerM2": 2127.66,
-    "initialPrice": 500000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 500000,
-        "pricePerM2": 2127.66
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:21:59.967Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5e/16/3fbf2a_3975_cover@2x-dom-strzelecko-drezdenecki-trzebicz-mlyn.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4091768",
-    "source": "adresowo",
-    "sourceId": "4091768",
-    "sourceUrl": "https://adresowo.pl/o/dom-siedlisko-bielawy-108-m2-p4m3r0",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Bielawy",
-    "voivodeship": "lubuskie",
-    "county": "nowosolski",
-    "city": "Bielawy",
-    "coordinates": {
-      "lat": 51.79484021080216,
-      "lng": 15.718547887537678
-    },
-    "isNearBorder": false,
-    "areaM2": 108,
-    "currentPrice": 289000,
-    "currentPricePerM2": 2675.93,
-    "initialPrice": 289000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 289000,
-        "pricePerM2": 2675.93
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:21:59.967Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/66/68/3e6f78_7988_cover@2x-dom-nowosolski-bielawy.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4010732",
-    "source": "adresowo",
-    "sourceId": "4010732",
-    "sourceUrl": "https://adresowo.pl/o/dom-jasien-guzow-110-m2-l6m5z1",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Guzów",
-    "voivodeship": "lubuskie",
-    "county": "zarski",
-    "city": "Guzów",
-    "coordinates": {
-      "lat": 51.639002123888076,
-      "lng": 15.12394044781034
-    },
-    "isNearBorder": true,
-    "areaM2": 110,
-    "currentPrice": 340000,
-    "currentPricePerM2": 3090.91,
-    "initialPrice": 340000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 340000,
-        "pricePerM2": 3090.91
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:22:02.414Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/24/20/3d32ec_5799_cover@2x-dom-zarski-guzow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3962704",
-    "source": "adresowo",
-    "sourceId": "3962704",
-    "sourceUrl": "https://adresowo.pl/o/dom-gubin-gubinek-81-m2-g3r1g1",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Gubinek",
-    "voivodeship": "lubuskie",
-    "county": "krosnienski",
-    "city": "Gubinek",
-    "coordinates": {
-      "lat": 49.69580437221354,
-      "lng": 21.76999527124119
-    },
-    "isNearBorder": true,
-    "areaM2": 81,
-    "currentPrice": 680000,
-    "currentPricePerM2": 8395.06,
-    "initialPrice": 680000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 680000,
-        "pricePerM2": 8395.06
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:22:02.414Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/74/7b/3c7750_9f5b_cover@2x-dom-krosnienski-gubinek.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3805370",
-    "source": "adresowo",
-    "sourceId": "3805370",
-    "sourceUrl": "https://adresowo.pl/o/dom-maszewo-siedlisko-75-m2-n6u2t3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Siedlisko",
-    "voivodeship": "lubuskie",
-    "county": "krosnienski",
-    "city": "Siedlisko",
-    "coordinates": {
-      "lat": 49.69393378152779,
-      "lng": 21.776637417128754
-    },
-    "isNearBorder": true,
-    "areaM2": 75,
-    "currentPrice": 350000,
-    "currentPricePerM2": 4666.67,
-    "initialPrice": 350000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 350000,
-        "pricePerM2": 4666.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:22:04.149Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6d/7d/3a10ba_d201_cover@2x-dom-krosnienski-siedlisko.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3782348",
-    "source": "adresowo",
-    "sourceId": "3782348",
-    "sourceUrl": "https://adresowo.pl/o/dom-kolsko-jesiona-150-m2-h5o0b0",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Jesiona",
-    "voivodeship": "lubuskie",
-    "county": "nowosolski",
-    "city": "Jesiona",
-    "coordinates": {
-      "lat": 51.806486084795054,
-      "lng": 15.71911074656875
-    },
-    "isNearBorder": false,
-    "areaM2": 150,
-    "currentPrice": 550000,
-    "currentPricePerM2": 3666.67,
-    "initialPrice": 550000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 550000,
-        "pricePerM2": 3666.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:22:04.149Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/12/23/39b6cc_ba3d_cover@2x-dom-nowosolski-jesiona.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68358912",
-    "source": "otodom",
-    "sourceId": "68358912",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-wydane-wz-boruszyn-ID4CPh6",
-    "propertyType": "habitat",
-    "title": "Działka siedliskowa wydane WZ Boruszyn",
-    "voivodeship": "lubuskie",
-    "county": "żarski",
-    "city": "Boruszyn",
-    "coordinates": {
-      "lat": 51.631593223708975,
-      "lng": 15.129598050913234
-    },
-    "isNearBorder": true,
-    "areaM2": 100017,
-    "currentPrice": 750000,
-    "currentPricePerM2": 7.5,
-    "initialPrice": 750000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-08-28",
-        "price": 750000,
-        "pricePerM2": 7.5
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-28T10:50:48.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imtqbml2bjdvMWxrejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.M59jjxt5b_FhcGfD_we0IJ8GEXebvsRyB3zUK8Mrh8w/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67447015",
-    "source": "otodom",
-    "sourceId": "67447015",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-z-wz-zabudowa-zagrodowa-lasy-blisko-zjazd-a2-w-trzcielu-ID4z035",
-    "propertyType": "habitat",
-    "title": "Działka z WZ zabudowa zagrodowa, lasy, blisko zjazd A2 w Trzcielu",
-    "voivodeship": "lubuskie",
-    "county": "międzyrzecki",
-    "city": "Rybojady",
-    "coordinates": {
-      "lat": 52.44496037904845,
-      "lng": 15.570823240205446
-    },
-    "isNearBorder": false,
-    "areaM2": 6800,
-    "currentPrice": 136000,
-    "currentPricePerM2": 20,
-    "initialPrice": 136000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-08-24",
-        "price": 136000,
-        "pricePerM2": 20
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-24T17:32:32.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVxNmNjMGI1ZGQ4azEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.580ozJ_MttVLIh8a5hpCiJqdkhFtPKTzoSwP7tuI-ho/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-61335251",
-    "source": "otodom",
-    "sourceId": "61335251",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-agroturystyczne-lowisko-ryb-staw-hodowlany-ID49m6f",
-    "propertyType": "habitat",
-    "title": "Gospodarstwo agroturystyczne / Łowisko Ryb/ Staw hodowlany",
-    "voivodeship": "lubuskie",
-    "county": "krośnieński",
-    "city": "Drzeńsk Wielki",
-    "coordinates": {
-      "lat": 49.68778253309565,
-      "lng": 21.775373554566706
-    },
-    "isNearBorder": true,
-    "areaM2": 30500,
-    "currentPrice": 1000000,
-    "currentPricePerM2": 32.79,
-    "initialPrice": 1000000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-08-06",
-        "price": 1000000,
-        "pricePerM2": 32.79
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-06T12:53:06.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlsY3k3OW80N3VwMTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.29KkC0LXsfA_c4gham-4T9iUA0tz0c-KjOrjuSH-HHg/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-66816252",
-    "source": "otodom",
-    "sourceId": "66816252",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwa-dzialka-siedliskowa-przy-parku-krajobrazowym-ujscie-warty-ID4vlXu",
-    "propertyType": "habitat",
-    "title": "Urokliwa działka siedliskowa przy Parku Krajobrazowym „Ujście Warty”",
-    "voivodeship": "lubuskie",
-    "county": "sulęciński",
-    "city": "Krępiny",
-    "coordinates": {
-      "lat": 52.45044619888346,
-      "lng": 15.122173487761422
-    },
-    "isNearBorder": true,
-    "areaM2": 3012,
-    "currentPrice": 99000,
-    "currentPricePerM2": 32.87,
-    "initialPrice": 99000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-07-31",
-        "price": 99000,
-        "pricePerM2": 32.87
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-31T18:31:41.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjI4bnI3MmYwZGM4azMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5ucsCvrItIAswNwHDkKxuAQABe8PJawaQrGDg4cWssA/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68105367",
-    "source": "otodom",
-    "sourceId": "68105367",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/spokoj-natura-jezioradzialka-zagrodowa-dormowo-ID4BLjF",
-    "propertyType": "habitat",
-    "title": "Spokój, natura, jeziora–działka zagrodowa Dormowo",
-    "voivodeship": "lubuskie",
-    "county": "międzychodzki",
-    "city": "Dormowo",
-    "coordinates": {
-      "lat": 52.60069467175428,
-      "lng": 15.884713238082574
-    },
-    "isNearBorder": false,
-    "areaM2": 4800,
-    "currentPrice": 385000,
-    "currentPricePerM2": 80.21,
-    "initialPrice": 385000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-07-08",
-        "price": 385000,
-        "pricePerM2": 80.21
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-08T07:55:11.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ5MGExcjRmeWFzbTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.y-adq_OJvcqiJJieJvlUmPGIuMMe6rlezOPDRwNXxUY/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67713863",
-    "source": "otodom",
-    "sourceId": "67713863",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/roztoki-dom-gospodarstwo-i-dzialka-budowlana-razem-0-63-ha-ID4A7t5",
-    "propertyType": "habitat",
-    "title": "Roztoki - dom/gospodarstwo i działka budowlana, razem 0.63 ha",
-    "voivodeship": "lubuskie",
-    "county": "żarski",
-    "city": "Roztoki",
-    "coordinates": {
-      "lat": 51.62684478732129,
-      "lng": 15.132805384383001
-    },
-    "isNearBorder": true,
-    "areaM2": 6300,
-    "currentPrice": 350000,
-    "currentPricePerM2": 55.56,
-    "initialPrice": 350000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-06-23",
-        "price": 350000,
-        "pricePerM2": 55.56
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-06-23T08:30:04.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBscjl4ZnB2NHExYS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.qsjTKI0jVz1I_ui7J3s3XuygArZvQT9x8kdFljXrOhc/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67726896",
-    "source": "otodom",
-    "sourceId": "67726896",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-na-sprzedaz-ID4AaRi",
-    "propertyType": "habitat",
-    "title": "Gospodarstwo rolne na sprzedaż",
-    "voivodeship": "lubuskie",
-    "county": "zielonogórski",
-    "city": "Gębice",
-    "coordinates": {
-      "lat": 51.934121004212386,
-      "lng": 15.505074073069178
-    },
-    "isNearBorder": false,
-    "areaM2": 113283,
-    "currentPrice": 995000,
-    "currentPricePerM2": 8.78,
-    "initialPrice": 995000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-02-18",
-        "price": 995000,
-        "pricePerM2": 8.78
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-02-18T18:26:47.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFnOHozaTh1ZmN1ZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.4Lpi5TWRip1dT_sPvBEfUPtAH1lQjns5i5ajatOy3HQ/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67593558",
-    "source": "otodom",
-    "sourceId": "67593558",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-3648m2-radomia-orzewo-ID4zCaG",
-    "propertyType": "habitat",
-    "title": "Działka siedliskowa 3648m2 - Radomia-Orzewo",
-    "voivodeship": "lubuskie",
-    "county": "zielonogórski",
-    "city": "Orzewo",
-    "street": "ul. Radomia",
-    "coordinates": {
-      "lat": 50.84025768397265,
-      "lng": 16.49709000702641
-    },
-    "isNearBorder": false,
-    "areaM2": 1200,
-    "currentPrice": 180000,
-    "currentPricePerM2": 150,
-    "initialPrice": 180000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-01-09",
-        "price": 180000,
-        "pricePerM2": 150
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-01-09T11:06:14.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjcwbXYxeGZ5Z3ViYzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.EWhGCQhKT_i1sHaC26Ve46zrE-q_fnwhsJuhrDQ6C-M/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-66893135",
-    "source": "otodom",
-    "sourceId": "66893135",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dwie-dzialki-atrakcyjne-polozone-warunki-zabudowy-zagrodowej-glinsk-ID4vFXx",
-    "propertyType": "habitat",
-    "title": "Dwie działki atrakcyjne położone| Warunki zabudowy zagrodowej | Glińsk",
-    "voivodeship": "lubuskie",
-    "county": "świebodziński",
-    "city": "Glińsk",
-    "coordinates": {
-      "lat": 52.251004776955284,
-      "lng": 15.537699102221358
-    },
-    "isNearBorder": false,
-    "areaM2": 1752,
-    "currentPrice": 87000,
-    "currentPricePerM2": 49.66,
-    "initialPrice": 87000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2025-06-03",
-        "price": 87000,
-        "pricePerM2": 49.66
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-06-03T08:11:25.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJjdXB0MnY0bWJ4cC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.5TnvorsMaJClfujIK3poDP8jWMPHpUeLuuqKUFO0g7c/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-66736611",
-    "source": "otodom",
-    "sourceId": "66736611",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-w-otoczeniu-lasu-ID4v1eX",
-    "propertyType": "habitat",
-    "title": "Działka siedliskowa w otoczeniu lasu",
-    "voivodeship": "lubuskie",
-    "county": "nowotomyski",
-    "city": "Pąchy",
-    "coordinates": {
-      "lat": 52.3173955872895,
-      "lng": 16.128923847524494
-    },
-    "isNearBorder": false,
-    "areaM2": 3398,
-    "currentPrice": 250000,
-    "currentPricePerM2": 73.57,
-    "initialPrice": 250000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2025-04-18",
-        "price": 250000,
-        "pricePerM2": 73.57
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-04-18T06:13:57.000Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1seTNvdGR6YW83eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tOoLuhMKlQPPqTtZyXF6zWXyYBZRS5Jssvfxy_zjDW8/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "adresowo-4222128",
-    "source": "adresowo",
-    "sourceId": "4222128",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-slawa-kuznica-glogowska-1-000-m2-c9p8z9",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Kuźnica Głogowska, Myszyniec",
-    "voivodeship": "lubuskie",
-    "county": "wschowski",
-    "city": "Kuźnica Głogowska",
-    "street": "Myszyniec",
-    "coordinates": {
-      "lat": 51.801132238015995,
-      "lng": 16.3237175578265
-    },
-    "isNearBorder": false,
-    "areaM2": 1000,
-    "currentPrice": 269000,
-    "currentPricePerM2": 269,
-    "initialPrice": 269000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 269000,
-        "pricePerM2": 269
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:38.279Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/4f/19/406cb0_d4d7_cover@2x-dzialka-siedliskowa-wschowski-kuznica-glogowska.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4248306",
-    "source": "adresowo",
-    "sourceId": "4248306",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-zary-lubomysl-2-000-m2-o9y6j3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Lubomyśl",
-    "voivodeship": "lubuskie",
-    "county": "zarski",
-    "city": "Lubomyśl",
-    "coordinates": {
-      "lat": 51.636815028836416,
-      "lng": 15.128439589201273
-    },
-    "isNearBorder": true,
-    "areaM2": 2000,
-    "currentPrice": 190000,
-    "currentPricePerM2": 95,
-    "initialPrice": 190000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 190000,
-        "pricePerM2": 95
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:38.279Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/46/6f/40d2f2_ecfb_cover@2x-dzialka-siedliskowa-zarski-lubomysl.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4249958",
-    "source": "adresowo",
-    "sourceId": "4249958",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-krosno-odrzanskie-radnica-34-ha-m7o3f7",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Radnica",
-    "voivodeship": "lubuskie",
-    "county": "krosnienski",
-    "city": "Radnica",
-    "coordinates": {
-      "lat": 49.68886494951548,
-      "lng": 21.777395773090362
-    },
-    "isNearBorder": true,
-    "areaM2": 340000,
-    "currentPrice": 1700000,
-    "currentPricePerM2": 5,
-    "initialPrice": 1700000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 1700000,
-        "pricePerM2": 5
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:38.279Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/63/79/40d966_ffd9_cover@2x-dzialka-inwestycyjna-krosnienski-radnica.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4240024",
-    "source": "adresowo",
-    "sourceId": "4240024",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-bytnica-3-500-m2-s9w3g5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Bytnica",
-    "voivodeship": "lubuskie",
-    "county": "krosnienski",
-    "city": "Bytnica",
-    "coordinates": {
-      "lat": 49.68609493133265,
-      "lng": 21.767372820363896
-    },
-    "isNearBorder": true,
-    "areaM2": 3500,
-    "currentPrice": 490000,
-    "currentPricePerM2": 140,
-    "initialPrice": 490000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 490000,
-        "pricePerM2": 140
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:38.279Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5d/75/40b298_3dc4_cover@2x-dzialka-inwestycyjna-krosnienski-bytnica.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4228890",
-    "source": "adresowo",
-    "sourceId": "4228890",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-lesna-siedlisko-15-ha-y0h9f3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Siedlisko",
-    "voivodeship": "lubuskie",
-    "county": "nowosolski",
-    "city": "Siedlisko",
-    "coordinates": {
-      "lat": 51.794354004791195,
-      "lng": 15.711495893247593
-    },
-    "isNearBorder": false,
-    "areaM2": 151000,
-    "currentPrice": 1500000,
-    "currentPricePerM2": 9.93,
-    "initialPrice": 1500000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 1500000,
-        "pricePerM2": 9.93
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:40.520Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/31/43/40871a_6d43_cover@2x-dzialka-lesna-nowosolski-siedlisko.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4138440",
-    "source": "adresowo",
-    "sourceId": "4138440",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-siedlisko-bielawy-1-ha-u5g7u0",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Bielawy",
-    "voivodeship": "lubuskie",
-    "county": "nowosolski",
-    "city": "Bielawy",
-    "coordinates": {
-      "lat": 51.80208565466411,
-      "lng": 15.718606268760487
-    },
-    "isNearBorder": false,
-    "areaM2": 16100,
-    "currentPrice": 590000,
-    "currentPricePerM2": 36.65,
-    "initialPrice": 590000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 590000,
-        "pricePerM2": 36.65
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:44.645Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1c/71/3f25c8_fcff_cover@2x-dzialka-rolno-budowlana-nowosolski-bielawy.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4082762",
-    "source": "adresowo",
-    "sourceId": "4082762",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-kozuchow-studzieniec-1-ha-j0v7d2",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Studzieniec",
-    "voivodeship": "lubuskie",
-    "county": "nowosolski",
-    "city": "Studzieniec",
-    "coordinates": {
-      "lat": 51.80060742571869,
-      "lng": 15.711342617585847
-    },
-    "isNearBorder": false,
-    "areaM2": 14000,
-    "currentPrice": 110000,
-    "currentPricePerM2": 7.86,
-    "initialPrice": 110000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 110000,
-        "pricePerM2": 7.86
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:44.645Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3d/46/3e4c4a_646a_cover@2x-dzialka-rolno-budowlana-nowosolski-studzieniec.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4049610",
-    "source": "adresowo",
-    "sourceId": "4049610",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-siedlisko-borowiec-1-400-m2-m3u8q6",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Borowiec",
-    "voivodeship": "lubuskie",
-    "county": "nowosolski",
-    "city": "Borowiec",
-    "coordinates": {
-      "lat": 52.27904056920052,
-      "lng": 17.039936323234624
-    },
-    "isNearBorder": false,
-    "areaM2": 1400,
-    "currentPrice": 65000,
-    "currentPricePerM2": 46.43,
-    "initialPrice": 65000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 65000,
-        "pricePerM2": 46.43
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:46.416Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5c/1b/3dcaca_868a_cover@2x-dzialka-budowlana-nowosolski-borowiec.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4030164",
-    "source": "adresowo",
-    "sourceId": "4030164",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-witnica-bialcz-1-000-m2-q6q6n3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Białcz",
-    "voivodeship": "lubuskie",
-    "county": "gorzowski",
-    "city": "Białcz",
-    "coordinates": {
-      "lat": 52.74028564280542,
-      "lng": 15.234098752731182
-    },
-    "isNearBorder": true,
-    "areaM2": 1000,
-    "currentPrice": 75000,
-    "currentPricePerM2": 75,
-    "initialPrice": 75000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 75000,
-        "pricePerM2": 75
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:46.416Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/4f/67/3d7ed4_bf40_cover@2x-dzialka-budowlana-gorzowski-bialcz.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3854806",
-    "source": "adresowo",
-    "sourceId": "3854806",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-santok-ludzislawice-1-ha-o8h7w3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Ludzisławice",
-    "voivodeship": "lubuskie",
-    "county": "gorzowski",
-    "city": "Ludzisławice",
-    "coordinates": {
-      "lat": 52.73595184605846,
-      "lng": 15.238531890360656
-    },
-    "isNearBorder": true,
-    "areaM2": 11700,
-    "currentPrice": 58000,
-    "currentPricePerM2": 4.96,
-    "initialPrice": 58000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 58000,
-        "pricePerM2": 4.96
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:51.238Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/60/61/3ad1d6_78aa_cover@2x-dzialka-rolna-gorzowski-ludzislawice.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3821458",
-    "source": "adresowo",
-    "sourceId": "3821458",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-witnica-dabroszyn-1-100-m2-r6h8o0",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Dąbroszyn",
-    "voivodeship": "lubuskie",
-    "county": "gorzowski",
-    "city": "Dąbroszyn",
-    "coordinates": {
-      "lat": 52.736700252587404,
-      "lng": 15.223837395325676
-    },
-    "isNearBorder": true,
-    "areaM2": 1100,
-    "currentPrice": 40000,
-    "currentPricePerM2": 36.36,
-    "initialPrice": 40000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 40000,
-        "pricePerM2": 36.36
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:51.238Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/18/5e/3a4f92_ec59_cover@2x-dzialka-rolna-gorzowski-dabroszyn.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3743766",
-    "source": "adresowo",
-    "sourceId": "3743766",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-trzciel-zydowo-2-896-m2-w3x7g0",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Żydowo",
-    "voivodeship": "lubuskie",
-    "county": "miedzyrzecki",
-    "city": "Żydowo",
-    "coordinates": {
-      "lat": 52.44704416006471,
-      "lng": 15.575515110530562
-    },
-    "isNearBorder": false,
-    "areaM2": 2896,
-    "currentPrice": 286704,
-    "currentPricePerM2": 99,
-    "initialPrice": 286704,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 286704,
-        "pricePerM2": 99
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:51.238Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/50/11/392016_dfef_cover@2x-dzialka-siedliskowa-miedzyrzecki-zydowo.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3751352",
-    "source": "adresowo",
-    "sourceId": "3751352",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-kozuchow-studzieniec-7-ha-t0h5a3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Studzieniec",
-    "voivodeship": "lubuskie",
-    "county": "nowosolski",
-    "city": "Studzieniec",
-    "coordinates": {
-      "lat": 51.80620118272328,
-      "lng": 15.717513305271908
-    },
-    "isNearBorder": false,
-    "areaM2": 79400,
-    "currentPrice": 750000,
-    "currentPricePerM2": 9.45,
-    "initialPrice": 750000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 750000,
-        "pricePerM2": 9.45
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:51.238Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/56/2a/393db8_842a_cover@2x-dzialka-rolna-nowosolski-studzieniec.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3688776",
-    "source": "adresowo",
-    "sourceId": "3688776",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-jasien-roztoki-4-ha-d6c1d4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Roztoki",
-    "voivodeship": "lubuskie",
-    "county": "zarski",
-    "city": "Roztoki",
-    "coordinates": {
-      "lat": 51.634767369432424,
-      "lng": 15.123505985939945
-    },
-    "isNearBorder": true,
-    "areaM2": 43000,
-    "currentPrice": 430000,
-    "currentPricePerM2": 10,
-    "initialPrice": 430000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 430000,
-        "pricePerM2": 10
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:52.871Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1b/5c/384948_61fa_cover@2x-dzialka-siedliskowa-zarski-roztoki.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3646742",
-    "source": "adresowo",
-    "sourceId": "3646742",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-trzciel-swidwowiec-8-400-m2-r3t2f3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Świdwowiec",
-    "voivodeship": "lubuskie",
-    "county": "miedzyrzecki",
-    "city": "Świdwowiec",
-    "coordinates": {
-      "lat": 52.441302089243315,
-      "lng": 15.587481042373803
-    },
-    "isNearBorder": false,
-    "areaM2": 8400,
-    "currentPrice": 411600,
-    "currentPricePerM2": 49,
-    "initialPrice": 411600,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 411600,
-        "pricePerM2": 49
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:52.871Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/76/22/37a516_f5ee_cover@2x-dzialka-budowlana-miedzyrzecki-swidwowiec.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3585264",
-    "source": "adresowo",
-    "sourceId": "3585264",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-czerwiensk-sudol-6-ha-g2v2o8",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Sudoł",
-    "voivodeship": "lubuskie",
-    "county": "zielonogorski",
-    "city": "Sudoł",
-    "coordinates": {
-      "lat": 51.93946477031871,
-      "lng": 15.502767502610999
-    },
-    "isNearBorder": false,
-    "areaM2": 63000,
-    "currentPrice": 945000,
-    "currentPricePerM2": 15,
-    "initialPrice": 945000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 945000,
-        "pricePerM2": 15
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:23:52.871Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/49/2b/36b4f0_f64e_cover@2x-dzialka-siedliskowa-zielonogorski-sudol.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-2829652",
-    "source": "adresowo",
-    "sourceId": "2829652",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-klodawa-chwalecice-2-696-m2-c7r3e3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Chwalęcice",
-    "voivodeship": "lubuskie",
-    "county": "gorzowski",
-    "city": "Chwalęcice",
-    "coordinates": {
-      "lat": 52.73413989108001,
-      "lng": 15.237389547631999
-    },
-    "isNearBorder": true,
-    "areaM2": 2696,
-    "currentPrice": 990000,
-    "currentPricePerM2": 367.21,
-    "initialPrice": 990000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 990000,
-        "pricePerM2": 367.21
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:24:00.438Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/66/7c/2b2d54_3e20_cover@2x-dzialka-siedliskowa-gorzowski-chwalecice.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-2713756",
-    "source": "adresowo",
-    "sourceId": "2713756",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-jasien-wicina-5-300-m2-u8e1c0",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Wicina",
-    "voivodeship": "lubuskie",
-    "county": "zarski",
-    "city": "Wicina",
-    "coordinates": {
-      "lat": 51.62752598392815,
-      "lng": 15.138481124185082
-    },
-    "isNearBorder": true,
-    "areaM2": 5300,
-    "currentPrice": 104000,
-    "currentPricePerM2": 19.62,
-    "initialPrice": 104000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 104000,
-        "pricePerM2": 19.62
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:24:00.438Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/60/70/29689c_3d6a_cover@2x-dzialka-rolno-budowlana-zarski-wicina.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-2628590",
-    "source": "adresowo",
-    "sourceId": "2628590",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-tuplice-jaglowice-6-138-m2-h4a2b0",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Jagłowice",
-    "voivodeship": "lubuskie",
-    "county": "zarski",
-    "city": "Jagłowice",
-    "coordinates": {
-      "lat": 51.63735058014497,
-      "lng": 15.124289090314038
-    },
-    "isNearBorder": true,
-    "areaM2": 6138,
-    "currentPrice": 215000,
-    "currentPricePerM2": 35.03,
-    "initialPrice": 215000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 215000,
-        "pricePerM2": 35.03
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:24:00.438Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/2a/19/281bee_a2be_cover@2x-dzialka-siedliskowa-zarski-jaglowice.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-2513058",
-    "source": "adresowo",
-    "sourceId": "2513058",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-rzepin-lubiechnia-wielka-9-ha-y6j0h7",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Lubiechnia Wielka",
-    "voivodeship": "lubuskie",
-    "county": "slubicki",
-    "city": "Lubiechnia Wielka",
-    "coordinates": {
-      "lat": 52.35140764899783,
-      "lng": 14.560967063309866
-    },
-    "isNearBorder": true,
-    "areaM2": 95000,
-    "currentPrice": 900000,
-    "currentPricePerM2": 9.47,
-    "initialPrice": 900000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 900000,
-        "pricePerM2": 9.47
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:24:00.438Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6e/47/2658a2_a8e5_cover@2x-dzialka-rolna-slubicki-lubiechnia-wielka.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-1498507",
-    "source": "adresowo",
-    "sourceId": "1498507",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-skape-olobok-ul-krosnienska-l2s7c9",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Ołobok, ul. Krośnieńska",
-    "voivodeship": "lubuskie",
-    "county": "swiebodzinski",
-    "city": "Ołobok",
-    "street": "ul. Krośnieńska",
-    "coordinates": {
-      "lat": 52.249670776652174,
-      "lng": 15.527875506549739
-    },
-    "isNearBorder": false,
-    "areaM2": 25000,
-    "currentPrice": 1680000,
-    "currentPricePerM2": 67.2,
-    "initialPrice": 1680000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 1680000,
-        "pricePerM2": 67.2
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:24:02.779Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/21/11/16dd8b_3731_cover@2x-dzialka-rolno-budowlana-swiebodzinski-olobok.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-1259211",
-    "source": "adresowo",
-    "sourceId": "1259211",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-nowogrod-bobrzanski-lagoda-3-ha-v6a4n9",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Łagoda",
-    "voivodeship": "lubuskie",
-    "county": "zielonogorski",
-    "city": "Łagoda",
-    "coordinates": {
-      "lat": 51.938797703899226,
-      "lng": 15.514879362159627
-    },
-    "isNearBorder": false,
-    "areaM2": 37800,
-    "currentPrice": 264600,
-    "currentPricePerM2": 7,
-    "initialPrice": 264600,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 264600,
-        "pricePerM2": 7
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:24:02.779Z",
-    "lastSeenAt": "2026-09-24T20:24:02.974Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1c/71/1336cb_b327_cover@2x-dzialka-siedliskowa-zielonogorski-lagoda.webp",
-    "isDirectOwner": true
   }
 ]

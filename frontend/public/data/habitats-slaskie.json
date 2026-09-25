@@ -30,7 +30,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-23T22:25:20.000Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5mNDVmN2dobmh5aDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kyYN9A0WdR1J9Cea1tTLaSo7mqnjuBNhcNAWXNf5aa0/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -66,7 +66,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-21T16:59:05.000Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImphNnFreTF2aHdxZDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RfDvPSmJp5bCal0UGDeFRo1ZflC0aGmSPBQ2xpIBNjk/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -102,8 +102,2049 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-19T09:38:17.000Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNpOWdyNmhqc25pdy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.hK1MVmIE6xZXXAz5vHR4oNyKZvh42uM1GEgZhESP5RQ/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4251856",
+    "source": "adresowo",
+    "sourceId": "4251856",
+    "sourceUrl": "https://adresowo.pl/o/dom-debowiec-ogrodzona-45-m2-u6o2f9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ogrodzona",
+    "voivodeship": "slaskie",
+    "county": "cieszynski",
+    "city": "Ogrodzona",
+    "coordinates": {
+      "lat": 49.74558745149824,
+      "lng": 18.62439047589057
+    },
+    "isNearBorder": true,
+    "areaM2": 45,
+    "currentPrice": 890000,
+    "currentPricePerM2": 19777.78,
+    "initialPrice": 890000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 890000,
+        "pricePerM2": 19777.78
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:04:39.021Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7f/74/40e0d0_9673_cover@2x-dom-cieszynski-ogrodzona.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4239880",
+    "source": "adresowo",
+    "sourceId": "4239880",
+    "sourceUrl": "https://adresowo.pl/o/dom-myszkow-ul-kozieglowska-e6c6r3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Myszków Nowa Wieś Żarecka, ul. Koziegłowska",
+    "voivodeship": "slaskie",
+    "county": "myszkowski",
+    "city": "Myszków Nowa Wieś Żarecka",
+    "street": "ul. Koziegłowska",
+    "coordinates": {
+      "lat": 50.58258991600636,
+      "lng": 19.318072602999877
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "currentPrice": 399000,
+    "currentPricePerM2": 3990,
+    "initialPrice": 399000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 399000,
+        "pricePerM2": 3990
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:04:41.773Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4b/15/40b208_c429_cover@2x-dom-myszkowski-myszkow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4233732",
+    "source": "adresowo",
+    "sourceId": "4233732",
+    "sourceUrl": "https://adresowo.pl/o/dom-ogrodzieniec-281-m2-e3j8u5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ogrodzieniec",
+    "voivodeship": "slaskie",
+    "county": "zawiercianski",
+    "city": "Ogrodzieniec",
+    "coordinates": {
+      "lat": 50.490443491054755,
+      "lng": 19.422006475253824
+    },
+    "isNearBorder": false,
+    "areaM2": 281,
+    "currentPrice": 1495000,
+    "currentPricePerM2": 5320.28,
+    "initialPrice": 1495000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1495000,
+        "pricePerM2": 5320.28
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:04:41.773Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1f/11/409a04_308a_cover@2x-dom-zawiercianski-ogrodzieniec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4202904",
+    "source": "adresowo",
+    "sourceId": "4202904",
+    "sourceUrl": "https://adresowo.pl/o/dom-niegowa-trzebniow-ul-podgajowa-d1e7n8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Trzebniów Podgaj, ul. Podgajowa",
+    "voivodeship": "slaskie",
+    "county": "myszkowski",
+    "city": "Trzebniów Podgaj",
+    "street": "ul. Podgajowa",
+    "coordinates": {
+      "lat": 50.579579143441656,
+      "lng": 19.33005269440436
+    },
+    "isNearBorder": false,
+    "areaM2": 190,
+    "currentPrice": 955000,
+    "currentPricePerM2": 5026.32,
+    "initialPrice": 955000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 955000,
+        "pricePerM2": 5026.32
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:04:43.819Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/11/39/402198_8f7c_cover@2x-dom-myszkowski-trzebniow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4131348",
+    "source": "adresowo",
+    "sourceId": "4131348",
+    "sourceUrl": "https://adresowo.pl/o/dom-szczekociny-goleniowy-ul-tadeusza-kosciuszki-k9c5s6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Goleniowy, ul. Tadeusza Kościuszki",
+    "voivodeship": "slaskie",
+    "county": "zawiercianski",
+    "city": "Goleniowy",
+    "street": "ul. Tadeusza Kościuszki",
+    "coordinates": {
+      "lat": 50.48884412547416,
+      "lng": 19.414639177375076
+    },
+    "isNearBorder": false,
+    "areaM2": 80,
+    "plotAreaM2": 2800,
+    "currentPrice": 295000,
+    "currentPricePerM2": 3687.5,
+    "initialPrice": 295000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 295000,
+        "pricePerM2": 3687.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:04:48.004Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1b/72/3f0a14_4f6e_cover@2x-dom-zawiercianski-goleniowy.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3978316",
+    "source": "adresowo",
+    "sourceId": "3978316",
+    "sourceUrl": "https://adresowo.pl/o/dom-wreczyca-wielka-kalej-ul-glowna-o6y4v4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kalej, ul. Główna",
+    "voivodeship": "slaskie",
+    "county": "klobucki",
+    "city": "Kalej",
+    "street": "ul. Główna",
+    "coordinates": {
+      "lat": 50.90183939563656,
+      "lng": 18.940899747126846
+    },
+    "isNearBorder": false,
+    "areaM2": 275,
+    "plotAreaM2": 4200,
+    "currentPrice": 549000,
+    "currentPricePerM2": 1996.36,
+    "initialPrice": 549000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 549000,
+        "pricePerM2": 1996.36
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:04:52.570Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6e/46/3cb44c_ccdd_cover@2x-dom-klobucki-kalej.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3962176",
+    "source": "adresowo",
+    "sourceId": "3962176",
+    "sourceUrl": "https://adresowo.pl/o/dom-klomnice-janaszow-560-m2-l0l2a1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Janaszów",
+    "voivodeship": "slaskie",
+    "county": "czestochowski",
+    "city": "Janaszów",
+    "coordinates": {
+      "lat": 50.81510188699558,
+      "lng": 19.129335902038246
+    },
+    "isNearBorder": false,
+    "areaM2": 560,
+    "plotAreaM2": 33800,
+    "currentPrice": 1290000,
+    "currentPricePerM2": 2303.57,
+    "initialPrice": 1290000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1290000,
+        "pricePerM2": 2303.57
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:04:52.570Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/47/34/3c7540_3800_cover@2x-dom-czestochowski-janaszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3835082",
+    "source": "adresowo",
+    "sourceId": "3835082",
+    "sourceUrl": "https://adresowo.pl/o/dom-szczekociny-siedliska-72-m2-o5s6c9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedliska",
+    "voivodeship": "slaskie",
+    "county": "zawiercianski",
+    "city": "Siedliska",
+    "coordinates": {
+      "lat": 49.96022332699134,
+      "lng": 21.949207858893672
+    },
+    "isNearBorder": false,
+    "areaM2": 72,
+    "plotAreaM2": 2800,
+    "currentPrice": 369000,
+    "currentPricePerM2": 5125,
+    "initialPrice": 369000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 369000,
+        "pricePerM2": 5125
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:04:54.113Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/40/32/3a84ca_3456_cover@2x-dom-zawiercianski-siedliska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3730002",
+    "source": "adresowo",
+    "sourceId": "3730002",
+    "sourceUrl": "https://adresowo.pl/o/dom-imielin-ul-ks-pawla-pospiecha-g8s1p4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Imielin, ul. ks. Pawła Pośpiecha",
+    "voivodeship": "slaskie",
+    "county": "ledzinski",
+    "city": "Imielin",
+    "street": "ul. ks. Pawła Pośpiecha",
+    "coordinates": {
+      "lat": 50.08362502163048,
+      "lng": 19.096507971896617
+    },
+    "isNearBorder": false,
+    "areaM2": 250,
+    "currentPrice": 840000,
+    "currentPricePerM2": 3360,
+    "initialPrice": 840000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 840000,
+        "pricePerM2": 3360
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:04:54.113Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6d/68/38ea52_e481_cover@2x-dom-bierunsko-ledzinski-imielin.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2984500",
+    "source": "adresowo",
+    "sourceId": "2984500",
+    "sourceUrl": "https://adresowo.pl/o/dom-zbroslawice-lubki-500-m2-g0p5q5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Łubki",
+    "voivodeship": "slaskie",
+    "county": "tarnogorski",
+    "city": "Łubki",
+    "coordinates": {
+      "lat": 50.43828019061645,
+      "lng": 18.85800066319262
+    },
+    "isNearBorder": false,
+    "areaM2": 500,
+    "currentPrice": 2500000,
+    "currentPricePerM2": 5000,
+    "initialPrice": 2500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 2500000,
+        "pricePerM2": 5000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:04:59.038Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/25/53/2d8a34_66a1_cover@2x-dom-tarnogorski-lubki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2956124",
+    "source": "adresowo",
+    "sourceId": "2956124",
+    "sourceUrl": "https://adresowo.pl/o/dom-pszczyna-rudoltowice-ul-wincentego-witosa-k9z3g5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Rudołtowice, ul. Wincentego Witosa",
+    "voivodeship": "slaskie",
+    "county": "pszczynski",
+    "city": "Rudołtowice",
+    "street": "ul. Wincentego Witosa",
+    "coordinates": {
+      "lat": 49.973190185051415,
+      "lng": 18.935264469910983
+    },
+    "isNearBorder": false,
+    "areaM2": 220,
+    "currentPrice": 678000,
+    "currentPricePerM2": 3081.82,
+    "initialPrice": 678000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 678000,
+        "pricePerM2": 3081.82
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:04:59.038Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/67/1e/2d1b5c_a9af_cover@2x-dom-pszczynski-rudoltowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1629603",
+    "source": "adresowo",
+    "sourceId": "1629603",
+    "sourceUrl": "https://adresowo.pl/o/dom-zbroslawice-lubki-ul-wiejska-n3v6u3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Łubki, ul. Wiejska",
+    "voivodeship": "slaskie",
+    "county": "tarnogorski",
+    "city": "Łubki",
+    "street": "ul. Wiejska",
+    "coordinates": {
+      "lat": 50.44466872854573,
+      "lng": 18.852326865538505
+    },
+    "isNearBorder": false,
+    "areaM2": 490,
+    "currentPrice": 2500000,
+    "currentPricePerM2": 5102.04,
+    "initialPrice": 2500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 2500000,
+        "pricePerM2": 5102.04
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:05:01.240Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4c/7b/18dda3_b785_cover@2x-dom-tarnogorski-lubki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67732766",
+    "source": "otodom",
+    "sourceId": "67732766",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-byla-lesniczowka-lasow-panstwowych-bez-sasiedztwa-2007-m2-ID4AcnY",
+    "propertyType": "habitat",
+    "title": "Siedlisko, była leśniczówka Lasów Państwowych bez sąsiedztwa, 2007 m2",
+    "voivodeship": "slaskie",
+    "county": "mikołowski",
+    "city": "Gostyń",
+    "street": "ul. Macierzanki",
+    "coordinates": {
+      "lat": 51.871519023465574,
+      "lng": 17.00780680506286
+    },
+    "isNearBorder": false,
+    "areaM2": 2007,
+    "currentPrice": 895000,
+    "currentPricePerM2": 445.94,
+    "initialPrice": 895000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 895000,
+        "pricePerM2": 445.94
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T13:34:58.000Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFhZTg2eWszY2R5czEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.u6OxKhcWHW9zCxnpKg-QUAfRAnT0sL7lPOGi5bu_vbI/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68364103",
+    "source": "otodom",
+    "sourceId": "68364103",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/sielskie-siedlisko-w-beskidach-leszna-gorna-goleszow-ustron-5-5ha-ID4CQCP",
+    "propertyType": "habitat",
+    "title": "Sielskie siedlisko w Beskidach, Leszna Górna, Goleszów, Ustroń 5,5ha",
+    "voivodeship": "slaskie",
+    "county": "cieszyński",
+    "city": "Leszna Górna",
+    "coordinates": {
+      "lat": 49.75556009485439,
+      "lng": 18.642911481605196
+    },
+    "isNearBorder": true,
+    "areaM2": 55141,
+    "currentPrice": 1199999,
+    "currentPricePerM2": 21.76,
+    "initialPrice": 1199999,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 1199999,
+        "pricePerM2": 21.76
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T21:17:12.000Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhlcjBlbWJlaXJwZTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VuCtPoHdEYmvo7EfkdqvJySbGuyefrgrQ52F035dbEI/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68415771",
+    "source": "otodom",
+    "sourceId": "68415771",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwe-siedlisko-w-sercu-jury-krakowsko-czestoch-ID4D44b",
+    "propertyType": "habitat",
+    "title": "Urokliwe siedlisko w sercu Jury Krakowsko-Częstoch",
+    "voivodeship": "slaskie",
+    "county": "zawierciański",
+    "city": "Siedliska",
+    "coordinates": {
+      "lat": 49.94824037117218,
+      "lng": 21.942933645020236
+    },
+    "isNearBorder": false,
+    "areaM2": 13000,
+    "currentPrice": 428999,
+    "currentPricePerM2": 33,
+    "initialPrice": 428999,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-14",
+        "price": 428999,
+        "pricePerM2": 33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-14T10:10:57.000Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFtajF3c2NoZno1ZDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HnDHO37oJBkkIH_aFSQ-z2RucmMabAYJ9iBsg04-168/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4271584",
+    "source": "adresowo",
+    "sourceId": "4271584",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-gilowice-ul-wierzbowa-y3u1b2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Gilowice, ul. Wierzbowa",
+    "voivodeship": "slaskie",
+    "county": "zywiecki",
+    "city": "Gilowice",
+    "street": "ul. Wierzbowa",
+    "coordinates": {
+      "lat": 49.68695735106706,
+      "lng": 19.193985528183855
+    },
+    "isNearBorder": true,
+    "areaM2": 1147,
+    "currentPrice": 110000,
+    "currentPricePerM2": 95.9,
+    "initialPrice": 110000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 110000,
+        "pricePerM2": 95.9
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:15.214Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7e/7c/412de0_fe6b_cover@2x-dzialka-budowlana-zywiecki-gilowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4009206",
+    "source": "adresowo",
+    "sourceId": "4009206",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lyski-pstrazna-7-ha-w8i9q4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Pstrążna",
+    "voivodeship": "slaskie",
+    "county": "rybnicki",
+    "city": "Pstrążna",
+    "coordinates": {
+      "lat": 50.1009983821464,
+      "lng": 18.542434830737626
+    },
+    "isNearBorder": false,
+    "areaM2": 70000,
+    "currentPrice": 2000000,
+    "currentPricePerM2": 28.57,
+    "initialPrice": 2000000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 2000000,
+        "pricePerM2": 28.57
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:19.761Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7b/23/3d2cf6_4b93_cover@2x-dzialka-siedliskowa-rybnicki-pstrazna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3728114",
+    "source": "adresowo",
+    "sourceId": "3728114",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-ozarowice-ul-tarnogorska-i2f7x7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Ożarowice, ul. Tarnogórska",
+    "voivodeship": "slaskie",
+    "county": "tarnogorski",
+    "city": "Ożarowice",
+    "street": "ul. Tarnogórska",
+    "coordinates": {
+      "lat": 50.443030525659545,
+      "lng": 18.857397352224098
+    },
+    "isNearBorder": false,
+    "areaM2": 1226,
+    "currentPrice": 159000,
+    "currentPricePerM2": 129.69,
+    "initialPrice": 159000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 159000,
+        "pricePerM2": 129.69
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:19.761Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/75/4e/38e2f2_6d73_cover@2x-dzialka-budowlana-tarnogorski-ozarowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3672960",
+    "source": "adresowo",
+    "sourceId": "3672960",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-swinna-trzebinia-1045-m2-p6d2v5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Trzebinia",
+    "voivodeship": "slaskie",
+    "county": "zywiecki",
+    "city": "Trzebinia",
+    "coordinates": {
+      "lat": 50.15857920490095,
+      "lng": 19.479714603498262
+    },
+    "isNearBorder": true,
+    "areaM2": 1045,
+    "currentPrice": 120000,
+    "currentPricePerM2": 114.83,
+    "initialPrice": 120000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 120000,
+        "pricePerM2": 114.83
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:21.563Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5b/7f/380b80_73bd_cover@2x-dzialka-siedliskowa-zywiecki-trzebinia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4231020",
+    "source": "adresowo",
+    "sourceId": "4231020",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-jaworze-8-500-m2-q4l2c7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jaworze",
+    "voivodeship": "slaskie",
+    "county": "bielski",
+    "city": "Jaworze",
+    "coordinates": {
+      "lat": 52.76355887829492,
+      "lng": 23.196207170581598
+    },
+    "isNearBorder": false,
+    "areaM2": 8500,
+    "currentPrice": 650000,
+    "currentPricePerM2": 76.47,
+    "initialPrice": 650000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 650000,
+        "pricePerM2": 76.47
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:21.563Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/77/55/408f6c_eee9_cover@2x-dzialka-rolno-budowlana-bielski-jaworze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4224092",
+    "source": "adresowo",
+    "sourceId": "4224092",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-wreczyca-wielka-pila-druga-1-012-m2-t6t2e9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Piła Druga",
+    "voivodeship": "slaskie",
+    "county": "klobucki",
+    "city": "Piła Druga",
+    "coordinates": {
+      "lat": 50.90030094846432,
+      "lng": 18.94289615156068
+    },
+    "isNearBorder": false,
+    "areaM2": 1012,
+    "currentPrice": 90000,
+    "currentPricePerM2": 88.93,
+    "initialPrice": 90000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 90000,
+        "pricePerM2": 88.93
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:24.266Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/70/74/40745c_3cea_cover@2x-dzialka-budowlana-klobucki-pila-druga.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4216804",
+    "source": "adresowo",
+    "sourceId": "4216804",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-skoczow-5-551-m2-p3t0f6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Skoczów",
+    "voivodeship": "slaskie",
+    "county": "cieszynski",
+    "city": "Skoczów",
+    "coordinates": {
+      "lat": 49.75304312012213,
+      "lng": 18.639373197830555
+    },
+    "isNearBorder": true,
+    "areaM2": 5551,
+    "currentPrice": 1290000,
+    "currentPricePerM2": 232.39,
+    "initialPrice": 1290000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1290000,
+        "pricePerM2": 232.39
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:24.266Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/55/29/4057e4_d251_cover@2x-dzialka-budowlana-cieszynski-skoczow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4216566",
+    "source": "adresowo",
+    "sourceId": "4216566",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-jaworzno-ul-29-listopada-i6g9s1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jaworzno Ciężkowice, ul. 29 Listopada",
+    "voivodeship": "slaskie",
+    "county": "jaworznicki",
+    "city": "Jaworzno Ciężkowice",
+    "street": "ul. 29 Listopada",
+    "coordinates": {
+      "lat": 51.05761864671583,
+      "lng": 16.19047881111664
+    },
+    "isNearBorder": false,
+    "areaM2": 34700,
+    "currentPrice": 1299000,
+    "currentPricePerM2": 37.44,
+    "initialPrice": 1299000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1299000,
+        "pricePerM2": 37.44
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:24.266Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/34/5d/4056f6_e133_cover@2x-dzialka-rolno-budowlana-jaworzno.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4205540",
+    "source": "adresowo",
+    "sourceId": "4205540",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-janow-zloty-potok-1-ha-y8x4z3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Złoty Potok",
+    "voivodeship": "slaskie",
+    "county": "czestochowski",
+    "city": "Złoty Potok",
+    "coordinates": {
+      "lat": 50.812585902123715,
+      "lng": 19.111826635899135
+    },
+    "isNearBorder": false,
+    "areaM2": 16200,
+    "currentPrice": 249000,
+    "currentPricePerM2": 15.37,
+    "initialPrice": 249000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 249000,
+        "pricePerM2": 15.37
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:25.724Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/53/48/402be4_e146_cover@2x-dzialka-siedliskowa-czestochowski-zloty-potok.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4192632",
+    "source": "adresowo",
+    "sourceId": "4192632",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-lazy-niegowoniczki-7-452-m2-z8d1x5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Niegowoniczki",
+    "voivodeship": "slaskie",
+    "county": "zawiercianski",
+    "city": "Niegowoniczki",
+    "coordinates": {
+      "lat": 50.4934654973156,
+      "lng": 19.408734260357598
+    },
+    "isNearBorder": false,
+    "areaM2": 7452,
+    "currentPrice": 355000,
+    "currentPricePerM2": 47.64,
+    "initialPrice": 355000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 355000,
+        "pricePerM2": 47.64
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:25.724Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3d/1b/3ff978_37e0_cover@2x-dzialka-rolna-zawiercianski-niegowoniczki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4160378",
+    "source": "adresowo",
+    "sourceId": "4160378",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lyski-pstrazna-ul-podlesna-h7j8t4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Pstrążna, ul. Podleśna",
+    "voivodeship": "slaskie",
+    "county": "rybnicki",
+    "city": "Pstrążna",
+    "street": "ul. Podleśna",
+    "coordinates": {
+      "lat": 50.09473792573629,
+      "lng": 18.539246698329787
+    },
+    "isNearBorder": false,
+    "areaM2": 67000,
+    "currentPrice": 1742000,
+    "currentPricePerM2": 26,
+    "initialPrice": 1742000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1742000,
+        "pricePerM2": 26
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:29.199Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/70/35/3f7b7a_2f40_cover@2x-dzialka-siedliskowa-rybnicki-pstrazna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4155130",
+    "source": "adresowo",
+    "sourceId": "4155130",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-goleszow-3-900-m2-r7w2s0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Goleszów, Równia",
+    "voivodeship": "slaskie",
+    "county": "cieszynski",
+    "city": "Goleszów",
+    "street": "Równia",
+    "coordinates": {
+      "lat": 49.75836088936025,
+      "lng": 18.62365834974966
+    },
+    "isNearBorder": true,
+    "areaM2": 3900,
+    "currentPrice": 300000,
+    "currentPricePerM2": 76.92,
+    "initialPrice": 300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 300000,
+        "pricePerM2": 76.92
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:29.199Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/34/6f/3f66fa_6811_cover@2x-dzialka-siedliskowa-cieszynski-goleszow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4104490",
+    "source": "adresowo",
+    "sourceId": "4104490",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-zebrzydowice-marklowice-gorne-ul-ustronna-b0p2z3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Marklowice Górne, ul. Ustronna",
+    "voivodeship": "slaskie",
+    "county": "cieszynski",
+    "city": "Marklowice Górne",
+    "street": "ul. Ustronna",
+    "coordinates": {
+      "lat": 49.75425820712094,
+      "lng": 18.628373050704077
+    },
+    "isNearBorder": true,
+    "areaM2": 5004,
+    "currentPrice": 230000,
+    "currentPricePerM2": 45.96,
+    "initialPrice": 230000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 230000,
+        "pricePerM2": 45.96
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:33.440Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/26/5b/3ea12a_388d_cover@2x-dzialka-rolno-budowlana-cieszynski-marklowice-gorne.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4104326",
+    "source": "adresowo",
+    "sourceId": "4104326",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-koniecpol-ul-gorna-a9v0e4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Koniecpol, ul. Górna",
+    "voivodeship": "slaskie",
+    "county": "czestochowski",
+    "city": "Koniecpol",
+    "street": "ul. Górna",
+    "coordinates": {
+      "lat": 50.80756676402602,
+      "lng": 19.11432939159272
+    },
+    "isNearBorder": false,
+    "areaM2": 3356,
+    "currentPrice": 195000,
+    "currentPricePerM2": 58.1,
+    "initialPrice": 195000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 195000,
+        "pricePerM2": 58.1
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:33.440Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7a/4b/3ea086_cb4a_cover@2x-dzialka-siedliskowa-czestochowski-koniecpol.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3976456",
+    "source": "adresowo",
+    "sourceId": "3976456",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-przyrow-sierakow-7-ha-h2t1l8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Sieraków",
+    "voivodeship": "slaskie",
+    "county": "czestochowski",
+    "city": "Sieraków",
+    "coordinates": {
+      "lat": 52.65738624646439,
+      "lng": 16.088918278682847
+    },
+    "isNearBorder": false,
+    "areaM2": 72500,
+    "currentPrice": 794000,
+    "currentPricePerM2": 10.95,
+    "initialPrice": 794000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 794000,
+        "pricePerM2": 10.95
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:38.948Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1d/48/3cad08_e1f6_cover@2x-dzialka-siedliskowa-czestochowski-sierakow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3920126",
+    "source": "adresowo",
+    "sourceId": "3920126",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-tarnowskie-gory-ul-miedziana-a1u8b1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Tarnowskie Góry, ul. Miedziana",
+    "voivodeship": "slaskie",
+    "county": "tarnogorski",
+    "city": "Tarnowskie Góry",
+    "street": "ul. Miedziana",
+    "coordinates": {
+      "lat": 50.43833357988296,
+      "lng": 18.84640549815631
+    },
+    "isNearBorder": false,
+    "areaM2": 3447,
+    "currentPrice": 344700,
+    "currentPricePerM2": 100,
+    "initialPrice": 344700,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 344700,
+        "pricePerM2": 100
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:41.222Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1c/10/3bd0fe_8c43_cover@2x-dzialka-rolna-tarnogorski-tarnowskie-gory.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3880314",
+    "source": "adresowo",
+    "sourceId": "3880314",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-zarki-przybynow-ul-lakowa-v8b6d1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Przybynów, ul. Łąkowa",
+    "voivodeship": "slaskie",
+    "county": "myszkowski",
+    "city": "Przybynów",
+    "street": "ul. Łąkowa",
+    "coordinates": {
+      "lat": 50.58157373670622,
+      "lng": 19.33298529057993
+    },
+    "isNearBorder": false,
+    "areaM2": 3260,
+    "currentPrice": 211900,
+    "currentPricePerM2": 65,
+    "initialPrice": 211900,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 211900,
+        "pricePerM2": 65
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:43.677Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/26/54/3b357a_a84b_cover@2x-dzialka-budowlana-myszkowski-przybynow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3876612",
+    "source": "adresowo",
+    "sourceId": "3876612",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-jaworzno-ul-kazimierza-stoleckiego-k0h6p2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jaworzno Skałka, ul. Kazimierza Stoleckiego",
+    "voivodeship": "slaskie",
+    "county": "jaworznicki",
+    "city": "Jaworzno Skałka",
+    "street": "ul. Kazimierza Stoleckiego",
+    "coordinates": {
+      "lat": 51.04488700346925,
+      "lng": 16.18761995912926
+    },
+    "isNearBorder": false,
+    "areaM2": 14500,
+    "currentPrice": 2399600,
+    "currentPricePerM2": 165.49,
+    "initialPrice": 2399600,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 2399600,
+        "pricePerM2": 165.49
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:43.677Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/41/24/3b2704_ea79_cover@2x-dzialka-siedliskowa-jaworzno.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3787884",
+    "source": "adresowo",
+    "sourceId": "3787884",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-porabka-ul-piechurow-i0f6a1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Porąbka, ul. Piechurów",
+    "voivodeship": "slaskie",
+    "county": "bielski",
+    "city": "Porąbka",
+    "street": "ul. Piechurów",
+    "coordinates": {
+      "lat": 52.7650080287146,
+      "lng": 23.18345195124898
+    },
+    "isNearBorder": false,
+    "areaM2": 20000,
+    "currentPrice": 4000000,
+    "currentPricePerM2": 200,
+    "initialPrice": 4000000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 4000000,
+        "pricePerM2": 200
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:46.023Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/40/2e/39cc6c_67c1_cover@2x-dzialka-siedliskowa-bielski-porabka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3749360",
+    "source": "adresowo",
+    "sourceId": "3749360",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kozieglowy-siedlec-duzy-ul-jana-pawla-ii-x2p3e7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedlec Duży, ul. Jana Pawła II",
+    "voivodeship": "slaskie",
+    "county": "myszkowski",
+    "city": "Siedlec Duży",
+    "street": "ul. Jana Pawła II",
+    "coordinates": {
+      "lat": 50.57556837951743,
+      "lng": 19.316887093806127
+    },
+    "isNearBorder": false,
+    "areaM2": 1200,
+    "currentPrice": 40000,
+    "currentPricePerM2": 33.33,
+    "initialPrice": 40000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 40000,
+        "pricePerM2": 33.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:48.777Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/46/5d/3935f0_ed25_cover@2x-dzialka-siedliskowa-myszkowski-siedlec-duzy.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3740528",
+    "source": "adresowo",
+    "sourceId": "3740528",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-bobrowniki-dobieszowice-ul-podlesna-h2i1m2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Dobieszowice, ul. Podleśna",
+    "voivodeship": "slaskie",
+    "county": "bedzinski",
+    "city": "Dobieszowice",
+    "street": "ul. Podleśna",
+    "coordinates": {
+      "lat": 50.33166611510968,
+      "lng": 19.130314140823327
+    },
+    "isNearBorder": false,
+    "areaM2": 12200,
+    "currentPrice": 600000,
+    "currentPricePerM2": 49.18,
+    "initialPrice": 600000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 600000,
+        "pricePerM2": 49.18
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:48.777Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/50/20/391370_9477_cover@2x-dzialka-inwestycyjna-bedzinski-dobieszowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3689544",
+    "source": "adresowo",
+    "sourceId": "3689544",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-nedza-ul-konarskiego-o0j5y3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Nędza, ul. Konarskiego",
+    "voivodeship": "slaskie",
+    "county": "raciborski",
+    "city": "Nędza",
+    "street": "ul. Konarskiego",
+    "coordinates": {
+      "lat": 50.09857687374678,
+      "lng": 18.218370964750733
+    },
+    "isNearBorder": true,
+    "areaM2": 10500,
+    "currentPrice": 130000,
+    "currentPricePerM2": 12.38,
+    "initialPrice": 130000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 130000,
+        "pricePerM2": 12.38
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:50.393Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/65/35/384c48_4b02_cover@2x-dzialka-siedliskowa-raciborski-nedza.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3660828",
+    "source": "adresowo",
+    "sourceId": "3660828",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-porabka-czaniec-ul-zarzecze-a0p1r0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Czaniec Zagłębocze, ul. Zarzecze",
+    "voivodeship": "slaskie",
+    "county": "bielski",
+    "city": "Czaniec Zagłębocze",
+    "street": "ul. Zarzecze",
+    "coordinates": {
+      "lat": 52.77264206013028,
+      "lng": 23.187346128755216
+    },
+    "isNearBorder": false,
+    "areaM2": 4628,
+    "currentPrice": 350000,
+    "currentPricePerM2": 75.63,
+    "initialPrice": 350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 350000,
+        "pricePerM2": 75.63
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:50.393Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/40/62/37dc1c_db12_cover@2x-dzialka-rolna-bielski-czaniec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3649764",
+    "source": "adresowo",
+    "sourceId": "3649764",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-kamienica-polska-kolonia-klepaczka-6-401-m2-n0g4l4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kolonia Klepaczka",
+    "voivodeship": "slaskie",
+    "county": "czestochowski",
+    "city": "Kolonia Klepaczka",
+    "coordinates": {
+      "lat": 50.809914778051635,
+      "lng": 19.11244252200087
+    },
+    "isNearBorder": false,
+    "areaM2": 6401,
+    "currentPrice": 270000,
+    "currentPricePerM2": 42.18,
+    "initialPrice": 270000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 270000,
+        "pricePerM2": 42.18
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:50.393Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/72/69/37b0e4_fac0_cover@2x-dzialka-rolno-budowlana-czestochowski-kolonia-klepaczka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3623452",
+    "source": "adresowo",
+    "sourceId": "3623452",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-skoczow-piersciec-ul-winogradzka-b3b7v7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Pierściec, ul. Winogradzka",
+    "voivodeship": "slaskie",
+    "county": "cieszynski",
+    "city": "Pierściec",
+    "street": "ul. Winogradzka",
+    "coordinates": {
+      "lat": 49.7579928542492,
+      "lng": 18.63851079208353
+    },
+    "isNearBorder": true,
+    "areaM2": 12100,
+    "currentPrice": 550000,
+    "currentPricePerM2": 45.45,
+    "initialPrice": 550000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 550000,
+        "pricePerM2": 45.45
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:52.776Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1f/14/374a1c_39fa_cover@2x-dzialka-siedliskowa-cieszynski-piersciec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3555332",
+    "source": "adresowo",
+    "sourceId": "3555332",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-goleszow-leszna-gorna-ul-glowna-g5u5l5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Leszna Górna, ul. Główna",
+    "voivodeship": "slaskie",
+    "county": "cieszynski",
+    "city": "Leszna Górna",
+    "street": "ul. Główna",
+    "coordinates": {
+      "lat": 49.75797204436326,
+      "lng": 18.64080375922813
+    },
+    "isNearBorder": true,
+    "areaM2": 2361,
+    "currentPrice": 120000,
+    "currentPricePerM2": 50.83,
+    "initialPrice": 120000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 120000,
+        "pricePerM2": 50.83
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:52.776Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1f/7e/364004_5c30_cover@2x-dzialka-siedliskowa-cieszynski-leszna-gorna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3549816",
+    "source": "adresowo",
+    "sourceId": "3549816",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-niegowa-brzeziny-3-405-m2-i8t1c7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Brzeziny",
+    "voivodeship": "slaskie",
+    "county": "myszkowski",
+    "city": "Brzeziny",
+    "coordinates": {
+      "lat": 51.60176663544137,
+      "lng": 18.26066164520397
+    },
+    "isNearBorder": false,
+    "areaM2": 3405,
+    "currentPrice": 179000,
+    "currentPricePerM2": 52.57,
+    "initialPrice": 179000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 179000,
+        "pricePerM2": 52.57
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:54.785Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/41/45/362a78_bf17_cover@2x-dzialka-siedliskowa-myszkowski-brzeziny.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3469664",
+    "source": "adresowo",
+    "sourceId": "3469664",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-skoczow-3-ha-w7z4t4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Skoczów",
+    "voivodeship": "slaskie",
+    "county": "cieszynski",
+    "city": "Skoczów",
+    "coordinates": {
+      "lat": 49.750354214378206,
+      "lng": 18.640416648935425
+    },
+    "isNearBorder": true,
+    "areaM2": 32000,
+    "currentPrice": 1800000,
+    "currentPricePerM2": 56.25,
+    "initialPrice": 1800000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1800000,
+        "pricePerM2": 56.25
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:54.785Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/74/5b/34f160_6944_cover@2x-dzialka-budowlana-cieszynski-skoczow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3463580",
+    "source": "adresowo",
+    "sourceId": "3463580",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-swinna-pewel-slemienska-5-547-m2-f3i4y4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Pewel Ślemieńska",
+    "voivodeship": "slaskie",
+    "county": "zywiecki",
+    "city": "Pewel Ślemieńska",
+    "coordinates": {
+      "lat": 49.693678361818456,
+      "lng": 19.189691076314023
+    },
+    "isNearBorder": true,
+    "areaM2": 5547,
+    "currentPrice": 459000,
+    "currentPricePerM2": 82.75,
+    "initialPrice": 459000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 459000,
+        "pricePerM2": 82.75
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:54.785Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/63/3e/34d99c_33e3_cover@2x-dzialka-budowlana-zywiecki-pewel-slemienska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3406510",
+    "source": "adresowo",
+    "sourceId": "3406510",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-rudnik-1-879-m2-w5o7d3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Rudnik",
+    "voivodeship": "slaskie",
+    "county": "raciborski",
+    "city": "Rudnik",
+    "coordinates": {
+      "lat": 50.086344357576685,
+      "lng": 18.212786756756003
+    },
+    "isNearBorder": true,
+    "areaM2": 1879,
+    "currentPrice": 30000,
+    "currentPricePerM2": 15.97,
+    "initialPrice": 30000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 30000,
+        "pricePerM2": 15.97
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:56.640Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/60/1d/33faae_2e11_cover@2x-dzialka-rolna-raciborski-rudnik.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3296814",
+    "source": "adresowo",
+    "sourceId": "3296814",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-przyrow-sygontka-ul-fabryczna-r1j8s5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Sygontka, ul. Fabryczna",
+    "voivodeship": "slaskie",
+    "county": "czestochowski",
+    "city": "Sygontka",
+    "street": "ul. Fabryczna",
+    "coordinates": {
+      "lat": 50.81077672579604,
+      "lng": 19.112746470280328
+    },
+    "isNearBorder": false,
+    "areaM2": 2900,
+    "currentPrice": 116000,
+    "currentPricePerM2": 40,
+    "initialPrice": 116000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 116000,
+        "pricePerM2": 40
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:59.177Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7e/13/324e2e_fa30_cover@2x-dzialka-siedliskowa-czestochowski-sygontka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3231818",
+    "source": "adresowo",
+    "sourceId": "3231818",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-skoczow-1-ha-s9r7z8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Skoczów",
+    "voivodeship": "slaskie",
+    "county": "cieszynski",
+    "city": "Skoczów",
+    "coordinates": {
+      "lat": 49.75447218612163,
+      "lng": 18.623446407792027
+    },
+    "isNearBorder": true,
+    "areaM2": 16000,
+    "currentPrice": 1300000,
+    "currentPricePerM2": 81.25,
+    "initialPrice": 1300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 1300000,
+        "pricePerM2": 81.25
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:59.177Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5d/1d/31504a_e859_cover@2x-dzialka-siedliskowa-cieszynski-skoczow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3231806",
+    "source": "adresowo",
+    "sourceId": "3231806",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-skoczow-1-ha-d6b3y7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Skoczów",
+    "voivodeship": "slaskie",
+    "county": "cieszynski",
+    "city": "Skoczów",
+    "coordinates": {
+      "lat": 49.753022355885534,
+      "lng": 18.637846754496493
+    },
+    "isNearBorder": true,
+    "areaM2": 15700,
+    "currentPrice": 800000,
+    "currentPricePerM2": 50.96,
+    "initialPrice": 800000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 800000,
+        "pricePerM2": 50.96
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:59.177Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7a/1b/31503e_8a7c_cover@2x-dzialka-budowlana-cieszynski-skoczow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3171036",
+    "source": "adresowo",
+    "sourceId": "3171036",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-poreba-ul-wolnosci-o9v4h4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Poręba, ul. Wolności",
+    "voivodeship": "slaskie",
+    "county": "zawiercianski",
+    "city": "Poręba",
+    "street": "ul. Wolności",
+    "coordinates": {
+      "lat": 50.48464556137486,
+      "lng": 19.426118312910923
+    },
+    "isNearBorder": false,
+    "areaM2": 225,
+    "currentPrice": 50000,
+    "currentPricePerM2": 222.22,
+    "initialPrice": 50000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 50000,
+        "pricePerM2": 222.22
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:59.177Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1b/1e/3062dc_37d9_cover@2x-dzialka-rolno-budowlana-zawiercianski-poreba.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3170974",
+    "source": "adresowo",
+    "sourceId": "3170974",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-zawiercie-ul-oswiatowa-d2z1v5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zawiercie Borowe Pole, ul. Oświatowa",
+    "voivodeship": "slaskie",
+    "county": "zawiercianski",
+    "city": "Zawiercie Borowe Pole",
+    "street": "ul. Oświatowa",
+    "coordinates": {
+      "lat": 50.485105919024534,
+      "lng": 19.413471745616715
+    },
+    "isNearBorder": false,
+    "areaM2": 1530,
+    "currentPrice": 340000,
+    "currentPricePerM2": 222.22,
+    "initialPrice": 340000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 340000,
+        "pricePerM2": 222.22
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:07:59.177Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7f/25/30629e_bad0_cover@2x-dzialka-rolno-budowlana-zawiercianski-zawiercie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3123076",
+    "source": "adresowo",
+    "sourceId": "3123076",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-strumien-pruchna-1-ha-q9k6j6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Pruchna",
+    "voivodeship": "slaskie",
+    "county": "cieszynski",
+    "city": "Pruchna",
+    "coordinates": {
+      "lat": 49.75271017773386,
+      "lng": 18.639519169074315
+    },
+    "isNearBorder": true,
+    "areaM2": 12800,
+    "currentPrice": 360000,
+    "currentPricePerM2": 28.13,
+    "initialPrice": 360000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 360000,
+        "pricePerM2": 28.13
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:08:01.736Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2f/26/2fa784_6e13_cover@2x-dzialka-siedliskowa-cieszynski-pruchna.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2872074",
+    "source": "adresowo",
+    "sourceId": "2872074",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-przystajn-kaminsko-4-ha-w4f3t4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kamińsko",
+    "voivodeship": "slaskie",
+    "county": "klobucki",
+    "city": "Kamińsko",
+    "coordinates": {
+      "lat": 50.90131045757516,
+      "lng": 18.93950531333116
+    },
+    "isNearBorder": false,
+    "areaM2": 45000,
+    "currentPrice": 590000,
+    "currentPricePerM2": 13.11,
+    "initialPrice": 590000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 590000,
+        "pricePerM2": 13.11
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:08:03.711Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4c/3c/2bd30a_d2b7_cover@2x-dzialka-siedliskowa-klobucki-kaminsko.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2608978",
+    "source": "adresowo",
+    "sourceId": "2608978",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-skoczow-1-ha-i1u7g9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Skoczów",
+    "voivodeship": "slaskie",
+    "county": "cieszynski",
+    "city": "Skoczów",
+    "coordinates": {
+      "lat": 49.74694300328601,
+      "lng": 18.637630963852803
+    },
+    "isNearBorder": true,
+    "areaM2": 11500,
+    "currentPrice": 300000,
+    "currentPricePerM2": 26.09,
+    "initialPrice": 300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 300000,
+        "pricePerM2": 26.09
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:08:06.155Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/43/25/27cf52_46ca_cover@2x-dzialka-siedliskowa-cieszynski-skoczow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2543980",
+    "source": "adresowo",
+    "sourceId": "2543980",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-kroczyce-pradla-ul-wyzwolenia-r5p3n3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Pradła, ul. Wyzwolenia",
+    "voivodeship": "slaskie",
+    "county": "zawiercianski",
+    "city": "Pradła",
+    "street": "ul. Wyzwolenia",
+    "coordinates": {
+      "lat": 50.492780630132046,
+      "lng": 19.42498085613998
+    },
+    "isNearBorder": false,
+    "areaM2": 8000,
+    "currentPrice": 300000,
+    "currentPricePerM2": 37.5,
+    "initialPrice": 300000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 300000,
+        "pricePerM2": 37.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:08:06.155Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/62/2d/26d16c_301b_cover@2x-dzialka-inwestycyjna-zawiercianski-pradla.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2263954",
+    "source": "adresowo",
+    "sourceId": "2263954",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-janow-siedlec-2-ha-n9x2n5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Siedlec",
+    "voivodeship": "slaskie",
+    "county": "czestochowski",
+    "city": "Siedlec",
+    "coordinates": {
+      "lat": 50.8142713893613,
+      "lng": 19.11765335724605
+    },
+    "isNearBorder": false,
+    "areaM2": 28000,
+    "currentPrice": 270000,
+    "currentPricePerM2": 9.64,
+    "initialPrice": 270000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 270000,
+        "pricePerM2": 9.64
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:08:07.884Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/7b/47/228b92_cee7_cover@2x-dzialka-rolna-czestochowski-siedlec.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2172502",
+    "source": "adresowo",
+    "sourceId": "2172502",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lazy-chruszczobrod-piaski-2-ha-i4f9h4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Chruszczobród-Piaski",
+    "voivodeship": "slaskie",
+    "county": "zawiercianski",
+    "city": "Chruszczobród-Piaski",
+    "coordinates": {
+      "lat": 50.484597513825,
+      "lng": 19.415098220586138
+    },
+    "isNearBorder": false,
+    "areaM2": 25000,
+    "currentPrice": 650000,
+    "currentPricePerM2": 26,
+    "initialPrice": 650000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 650000,
+        "pricePerM2": 26
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:08:07.884Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/42/14/212656_7a34_cover@2x-dzialka-siedliskowa-zawiercianski-chruszczobrod-piaski.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1667663",
+    "source": "adresowo",
+    "sourceId": "1667663",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-poreba-6-654-m2-z7e5r4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Poręba, Niwki",
+    "voivodeship": "slaskie",
+    "county": "zawiercianski",
+    "city": "Poręba",
+    "street": "Niwki",
+    "coordinates": {
+      "lat": 50.49388211235381,
+      "lng": 19.419499517612987
+    },
+    "isNearBorder": false,
+    "areaM2": 6654,
+    "currentPrice": 69000,
+    "currentPricePerM2": 10.37,
+    "initialPrice": 69000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 69000,
+        "pricePerM2": 10.37
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:08:07.884Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/21/6b/19724f_d1d7_cover@2x-dzialka-rolna-zawiercianski-poreba.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1636793",
+    "source": "adresowo",
+    "sourceId": "1636793",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-lazy-grabowa-ul-piaski-u8m0m5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Grabowa Piaski, ul. Piaski",
+    "voivodeship": "slaskie",
+    "county": "zawiercianski",
+    "city": "Grabowa Piaski",
+    "street": "ul. Piaski",
+    "coordinates": {
+      "lat": 50.481605517373815,
+      "lng": 19.42074527594331
+    },
+    "isNearBorder": false,
+    "areaM2": 1052,
+    "currentPrice": 57000,
+    "currentPricePerM2": 54.18,
+    "initialPrice": 57000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 57000,
+        "pricePerM2": 54.18
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:08:07.884Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6b/7d/18f9b9_ab05_cover@2x-dzialka-rolna-zawiercianski-grabowa.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-1619113",
+    "source": "adresowo",
+    "sourceId": "1619113",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kozieglowy-myslow-3-068-m2-j5t0q7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Mysłów",
+    "voivodeship": "slaskie",
+    "county": "myszkowski",
+    "city": "Mysłów",
+    "coordinates": {
+      "lat": 50.569585066479746,
+      "lng": 19.31795420424078
+    },
+    "isNearBorder": false,
+    "areaM2": 3068,
+    "currentPrice": 250000,
+    "currentPricePerM2": 81.49,
+    "initialPrice": 250000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 250000,
+        "pricePerM2": 81.49
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T21:08:07.884Z",
+    "lastSeenAt": "2026-09-25T10:04:51.161Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/78/12/18b4a9_6e93_cover@2x-dzialka-siedliskowa-myszkowski-myslow.webp",
     "isDirectOwner": true
   },
   {
@@ -392,494 +2433,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "adresowo-4251856",
-    "source": "adresowo",
-    "sourceId": "4251856",
-    "sourceUrl": "https://adresowo.pl/o/dom-debowiec-ogrodzona-45-m2-u6o2f9",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Ogrodzona",
-    "voivodeship": "slaskie",
-    "county": "cieszynski",
-    "city": "Ogrodzona",
-    "coordinates": {
-      "lat": 49.74558745149824,
-      "lng": 18.62439047589057
-    },
-    "isNearBorder": true,
-    "areaM2": 45,
-    "currentPrice": 890000,
-    "currentPricePerM2": 19777.78,
-    "initialPrice": 890000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 890000,
-        "pricePerM2": 19777.78
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:04:39.021Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7f/74/40e0d0_9673_cover@2x-dom-cieszynski-ogrodzona.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4239880",
-    "source": "adresowo",
-    "sourceId": "4239880",
-    "sourceUrl": "https://adresowo.pl/o/dom-myszkow-ul-kozieglowska-e6c6r3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Myszków Nowa Wieś Żarecka, ul. Koziegłowska",
-    "voivodeship": "slaskie",
-    "county": "myszkowski",
-    "city": "Myszków Nowa Wieś Żarecka",
-    "street": "ul. Koziegłowska",
-    "coordinates": {
-      "lat": 50.58258991600636,
-      "lng": 19.318072602999877
-    },
-    "isNearBorder": false,
-    "areaM2": 100,
-    "currentPrice": 399000,
-    "currentPricePerM2": 3990,
-    "initialPrice": 399000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 399000,
-        "pricePerM2": 3990
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:04:41.773Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/4b/15/40b208_c429_cover@2x-dom-myszkowski-myszkow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4233732",
-    "source": "adresowo",
-    "sourceId": "4233732",
-    "sourceUrl": "https://adresowo.pl/o/dom-ogrodzieniec-281-m2-e3j8u5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Ogrodzieniec",
-    "voivodeship": "slaskie",
-    "county": "zawiercianski",
-    "city": "Ogrodzieniec",
-    "coordinates": {
-      "lat": 50.490443491054755,
-      "lng": 19.422006475253824
-    },
-    "isNearBorder": false,
-    "areaM2": 281,
-    "currentPrice": 1495000,
-    "currentPricePerM2": 5320.28,
-    "initialPrice": 1495000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 1495000,
-        "pricePerM2": 5320.28
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:04:41.773Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1f/11/409a04_308a_cover@2x-dom-zawiercianski-ogrodzieniec.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4202904",
-    "source": "adresowo",
-    "sourceId": "4202904",
-    "sourceUrl": "https://adresowo.pl/o/dom-niegowa-trzebniow-ul-podgajowa-d1e7n8",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Trzebniów Podgaj, ul. Podgajowa",
-    "voivodeship": "slaskie",
-    "county": "myszkowski",
-    "city": "Trzebniów Podgaj",
-    "street": "ul. Podgajowa",
-    "coordinates": {
-      "lat": 50.579579143441656,
-      "lng": 19.33005269440436
-    },
-    "isNearBorder": false,
-    "areaM2": 190,
-    "currentPrice": 955000,
-    "currentPricePerM2": 5026.32,
-    "initialPrice": 955000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 955000,
-        "pricePerM2": 5026.32
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:04:43.819Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/11/39/402198_8f7c_cover@2x-dom-myszkowski-trzebniow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4131348",
-    "source": "adresowo",
-    "sourceId": "4131348",
-    "sourceUrl": "https://adresowo.pl/o/dom-szczekociny-goleniowy-ul-tadeusza-kosciuszki-k9c5s6",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Goleniowy, ul. Tadeusza Kościuszki",
-    "voivodeship": "slaskie",
-    "county": "zawiercianski",
-    "city": "Goleniowy",
-    "street": "ul. Tadeusza Kościuszki",
-    "coordinates": {
-      "lat": 50.48884412547416,
-      "lng": 19.414639177375076
-    },
-    "isNearBorder": false,
-    "areaM2": 80,
-    "plotAreaM2": 2800,
-    "currentPrice": 295000,
-    "currentPricePerM2": 3687.5,
-    "initialPrice": 295000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 295000,
-        "pricePerM2": 3687.5
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:04:48.004Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1b/72/3f0a14_4f6e_cover@2x-dom-zawiercianski-goleniowy.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3978316",
-    "source": "adresowo",
-    "sourceId": "3978316",
-    "sourceUrl": "https://adresowo.pl/o/dom-wreczyca-wielka-kalej-ul-glowna-o6y4v4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Kalej, ul. Główna",
-    "voivodeship": "slaskie",
-    "county": "klobucki",
-    "city": "Kalej",
-    "street": "ul. Główna",
-    "coordinates": {
-      "lat": 50.90183939563656,
-      "lng": 18.940899747126846
-    },
-    "isNearBorder": false,
-    "areaM2": 275,
-    "plotAreaM2": 4200,
-    "currentPrice": 549000,
-    "currentPricePerM2": 1996.36,
-    "initialPrice": 549000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 549000,
-        "pricePerM2": 1996.36
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:04:52.570Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6e/46/3cb44c_ccdd_cover@2x-dom-klobucki-kalej.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3962176",
-    "source": "adresowo",
-    "sourceId": "3962176",
-    "sourceUrl": "https://adresowo.pl/o/dom-klomnice-janaszow-560-m2-l0l2a1",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Janaszów",
-    "voivodeship": "slaskie",
-    "county": "czestochowski",
-    "city": "Janaszów",
-    "coordinates": {
-      "lat": 50.81510188699558,
-      "lng": 19.129335902038246
-    },
-    "isNearBorder": false,
-    "areaM2": 560,
-    "plotAreaM2": 33800,
-    "currentPrice": 1290000,
-    "currentPricePerM2": 2303.57,
-    "initialPrice": 1290000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 1290000,
-        "pricePerM2": 2303.57
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:04:52.570Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/47/34/3c7540_3800_cover@2x-dom-czestochowski-janaszow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3835082",
-    "source": "adresowo",
-    "sourceId": "3835082",
-    "sourceUrl": "https://adresowo.pl/o/dom-szczekociny-siedliska-72-m2-o5s6c9",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Siedliska",
-    "voivodeship": "slaskie",
-    "county": "zawiercianski",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.96022332699134,
-      "lng": 21.949207858893672
-    },
-    "isNearBorder": false,
-    "areaM2": 72,
-    "plotAreaM2": 2800,
-    "currentPrice": 369000,
-    "currentPricePerM2": 5125,
-    "initialPrice": 369000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 369000,
-        "pricePerM2": 5125
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:04:54.113Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/40/32/3a84ca_3456_cover@2x-dom-zawiercianski-siedliska.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3730002",
-    "source": "adresowo",
-    "sourceId": "3730002",
-    "sourceUrl": "https://adresowo.pl/o/dom-imielin-ul-ks-pawla-pospiecha-g8s1p4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Imielin, ul. ks. Pawła Pośpiecha",
-    "voivodeship": "slaskie",
-    "county": "ledzinski",
-    "city": "Imielin",
-    "street": "ul. ks. Pawła Pośpiecha",
-    "coordinates": {
-      "lat": 50.08362502163048,
-      "lng": 19.096507971896617
-    },
-    "isNearBorder": false,
-    "areaM2": 250,
-    "currentPrice": 840000,
-    "currentPricePerM2": 3360,
-    "initialPrice": 840000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 840000,
-        "pricePerM2": 3360
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:04:54.113Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6d/68/38ea52_e481_cover@2x-dom-bierunsko-ledzinski-imielin.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-2984500",
-    "source": "adresowo",
-    "sourceId": "2984500",
-    "sourceUrl": "https://adresowo.pl/o/dom-zbroslawice-lubki-500-m2-g0p5q5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Łubki",
-    "voivodeship": "slaskie",
-    "county": "tarnogorski",
-    "city": "Łubki",
-    "coordinates": {
-      "lat": 50.43828019061645,
-      "lng": 18.85800066319262
-    },
-    "isNearBorder": false,
-    "areaM2": 500,
-    "currentPrice": 2500000,
-    "currentPricePerM2": 5000,
-    "initialPrice": 2500000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 2500000,
-        "pricePerM2": 5000
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:04:59.038Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/25/53/2d8a34_66a1_cover@2x-dom-tarnogorski-lubki.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-2956124",
-    "source": "adresowo",
-    "sourceId": "2956124",
-    "sourceUrl": "https://adresowo.pl/o/dom-pszczyna-rudoltowice-ul-wincentego-witosa-k9z3g5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Rudołtowice, ul. Wincentego Witosa",
-    "voivodeship": "slaskie",
-    "county": "pszczynski",
-    "city": "Rudołtowice",
-    "street": "ul. Wincentego Witosa",
-    "coordinates": {
-      "lat": 49.973190185051415,
-      "lng": 18.935264469910983
-    },
-    "isNearBorder": false,
-    "areaM2": 220,
-    "currentPrice": 678000,
-    "currentPricePerM2": 3081.82,
-    "initialPrice": 678000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 678000,
-        "pricePerM2": 3081.82
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:04:59.038Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/67/1e/2d1b5c_a9af_cover@2x-dom-pszczynski-rudoltowice.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-1629603",
-    "source": "adresowo",
-    "sourceId": "1629603",
-    "sourceUrl": "https://adresowo.pl/o/dom-zbroslawice-lubki-ul-wiejska-n3v6u3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Łubki, ul. Wiejska",
-    "voivodeship": "slaskie",
-    "county": "tarnogorski",
-    "city": "Łubki",
-    "street": "ul. Wiejska",
-    "coordinates": {
-      "lat": 50.44466872854573,
-      "lng": 18.852326865538505
-    },
-    "isNearBorder": false,
-    "areaM2": 490,
-    "currentPrice": 2500000,
-    "currentPricePerM2": 5102.04,
-    "initialPrice": 2500000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 2500000,
-        "pricePerM2": 5102.04
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:05:01.240Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/4c/7b/18dda3_b785_cover@2x-dom-tarnogorski-lubki.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-67732766",
-    "source": "otodom",
-    "sourceId": "67732766",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-byla-lesniczowka-lasow-panstwowych-bez-sasiedztwa-2007-m2-ID4AcnY",
-    "propertyType": "habitat",
-    "title": "Siedlisko, była leśniczówka Lasów Państwowych bez sąsiedztwa, 2007 m2",
-    "voivodeship": "slaskie",
-    "county": "mikołowski",
-    "city": "Gostyń",
-    "street": "ul. Macierzanki",
-    "coordinates": {
-      "lat": 51.871519023465574,
-      "lng": 17.00780680506286
-    },
-    "isNearBorder": false,
-    "areaM2": 2007,
-    "currentPrice": 895000,
-    "currentPricePerM2": 445.94,
-    "initialPrice": 895000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 895000,
-        "pricePerM2": 445.94
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T13:34:58.000Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFhZTg2eWszY2R5czEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.u6OxKhcWHW9zCxnpKg-QUAfRAnT0sL7lPOGi5bu_vbI/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68364103",
-    "source": "otodom",
-    "sourceId": "68364103",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/sielskie-siedlisko-w-beskidach-leszna-gorna-goleszow-ustron-5-5ha-ID4CQCP",
-    "propertyType": "habitat",
-    "title": "Sielskie siedlisko w Beskidach, Leszna Górna, Goleszów, Ustroń 5,5ha",
-    "voivodeship": "slaskie",
-    "county": "cieszyński",
-    "city": "Leszna Górna",
-    "coordinates": {
-      "lat": 49.75556009485439,
-      "lng": 18.642911481605196
-    },
-    "isNearBorder": true,
-    "areaM2": 55141,
-    "currentPrice": 1199999,
-    "currentPricePerM2": 21.76,
-    "initialPrice": 1199999,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 1199999,
-        "pricePerM2": 21.76
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T21:17:12.000Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhlcjBlbWJlaXJwZTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VuCtPoHdEYmvo7EfkdqvJySbGuyefrgrQ52F035dbEI/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-96836410300067",
     "source": "otodom",
     "sourceId": "96836410300067",
@@ -910,40 +2463,6 @@
     "status": "active",
     "firstSeenAt": "1999-02-28T23:00:01.000Z",
     "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68415771",
-    "source": "otodom",
-    "sourceId": "68415771",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/urokliwe-siedlisko-w-sercu-jury-krakowsko-czestoch-ID4D44b",
-    "propertyType": "habitat",
-    "title": "Urokliwe siedlisko w sercu Jury Krakowsko-Częstoch",
-    "voivodeship": "slaskie",
-    "county": "zawierciański",
-    "city": "Siedliska",
-    "coordinates": {
-      "lat": 49.94824037117218,
-      "lng": 21.942933645020236
-    },
-    "isNearBorder": false,
-    "areaM2": 13000,
-    "currentPrice": 428999,
-    "currentPricePerM2": 33,
-    "initialPrice": 428999,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-14",
-        "price": 428999,
-        "pricePerM2": 33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-14T10:10:57.000Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFtajF3c2NoZno1ZDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HnDHO37oJBkkIH_aFSQ-z2RucmMabAYJ9iBsg04-168/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -1048,1524 +2567,5 @@
     "lastSeenAt": "2026-09-24T21:08:10.470Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw4YXplb2hyNzhxbS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.JVvgXTf2GjcA4GK1gPFXX6_tidUi4xxT6pC4j7m7x58/image;s=655x491;q=80",
     "isDirectOwner": false
-  },
-  {
-    "id": "adresowo-4271584",
-    "source": "adresowo",
-    "sourceId": "4271584",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-gilowice-ul-wierzbowa-y3u1b2",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Gilowice, ul. Wierzbowa",
-    "voivodeship": "slaskie",
-    "county": "zywiecki",
-    "city": "Gilowice",
-    "street": "ul. Wierzbowa",
-    "coordinates": {
-      "lat": 49.68695735106706,
-      "lng": 19.193985528183855
-    },
-    "isNearBorder": true,
-    "areaM2": 1147,
-    "currentPrice": 110000,
-    "currentPricePerM2": 95.9,
-    "initialPrice": 110000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 110000,
-        "pricePerM2": 95.9
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:15.214Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7e/7c/412de0_fe6b_cover@2x-dzialka-budowlana-zywiecki-gilowice.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4009206",
-    "source": "adresowo",
-    "sourceId": "4009206",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lyski-pstrazna-7-ha-w8i9q4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Pstrążna",
-    "voivodeship": "slaskie",
-    "county": "rybnicki",
-    "city": "Pstrążna",
-    "coordinates": {
-      "lat": 50.1009983821464,
-      "lng": 18.542434830737626
-    },
-    "isNearBorder": false,
-    "areaM2": 70000,
-    "currentPrice": 2000000,
-    "currentPricePerM2": 28.57,
-    "initialPrice": 2000000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 2000000,
-        "pricePerM2": 28.57
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:19.761Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7b/23/3d2cf6_4b93_cover@2x-dzialka-siedliskowa-rybnicki-pstrazna.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3728114",
-    "source": "adresowo",
-    "sourceId": "3728114",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-ozarowice-ul-tarnogorska-i2f7x7",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Ożarowice, ul. Tarnogórska",
-    "voivodeship": "slaskie",
-    "county": "tarnogorski",
-    "city": "Ożarowice",
-    "street": "ul. Tarnogórska",
-    "coordinates": {
-      "lat": 50.443030525659545,
-      "lng": 18.857397352224098
-    },
-    "isNearBorder": false,
-    "areaM2": 1226,
-    "currentPrice": 159000,
-    "currentPricePerM2": 129.69,
-    "initialPrice": 159000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 159000,
-        "pricePerM2": 129.69
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:19.761Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/75/4e/38e2f2_6d73_cover@2x-dzialka-budowlana-tarnogorski-ozarowice.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3672960",
-    "source": "adresowo",
-    "sourceId": "3672960",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-swinna-trzebinia-1045-m2-p6d2v5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Trzebinia",
-    "voivodeship": "slaskie",
-    "county": "zywiecki",
-    "city": "Trzebinia",
-    "coordinates": {
-      "lat": 50.15857920490095,
-      "lng": 19.479714603498262
-    },
-    "isNearBorder": true,
-    "areaM2": 1045,
-    "currentPrice": 120000,
-    "currentPricePerM2": 114.83,
-    "initialPrice": 120000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 120000,
-        "pricePerM2": 114.83
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:21.563Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5b/7f/380b80_73bd_cover@2x-dzialka-siedliskowa-zywiecki-trzebinia.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4231020",
-    "source": "adresowo",
-    "sourceId": "4231020",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-jaworze-8-500-m2-q4l2c7",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Jaworze",
-    "voivodeship": "slaskie",
-    "county": "bielski",
-    "city": "Jaworze",
-    "coordinates": {
-      "lat": 52.76355887829492,
-      "lng": 23.196207170581598
-    },
-    "isNearBorder": false,
-    "areaM2": 8500,
-    "currentPrice": 650000,
-    "currentPricePerM2": 76.47,
-    "initialPrice": 650000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 650000,
-        "pricePerM2": 76.47
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:21.563Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/77/55/408f6c_eee9_cover@2x-dzialka-rolno-budowlana-bielski-jaworze.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4224092",
-    "source": "adresowo",
-    "sourceId": "4224092",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-wreczyca-wielka-pila-druga-1-012-m2-t6t2e9",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Piła Druga",
-    "voivodeship": "slaskie",
-    "county": "klobucki",
-    "city": "Piła Druga",
-    "coordinates": {
-      "lat": 50.90030094846432,
-      "lng": 18.94289615156068
-    },
-    "isNearBorder": false,
-    "areaM2": 1012,
-    "currentPrice": 90000,
-    "currentPricePerM2": 88.93,
-    "initialPrice": 90000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 90000,
-        "pricePerM2": 88.93
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:24.266Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/70/74/40745c_3cea_cover@2x-dzialka-budowlana-klobucki-pila-druga.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4216804",
-    "source": "adresowo",
-    "sourceId": "4216804",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-skoczow-5-551-m2-p3t0f6",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Skoczów",
-    "voivodeship": "slaskie",
-    "county": "cieszynski",
-    "city": "Skoczów",
-    "coordinates": {
-      "lat": 49.75304312012213,
-      "lng": 18.639373197830555
-    },
-    "isNearBorder": true,
-    "areaM2": 5551,
-    "currentPrice": 1290000,
-    "currentPricePerM2": 232.39,
-    "initialPrice": 1290000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 1290000,
-        "pricePerM2": 232.39
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:24.266Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/55/29/4057e4_d251_cover@2x-dzialka-budowlana-cieszynski-skoczow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4216566",
-    "source": "adresowo",
-    "sourceId": "4216566",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-jaworzno-ul-29-listopada-i6g9s1",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Jaworzno Ciężkowice, ul. 29 Listopada",
-    "voivodeship": "slaskie",
-    "county": "jaworznicki",
-    "city": "Jaworzno Ciężkowice",
-    "street": "ul. 29 Listopada",
-    "coordinates": {
-      "lat": 51.05761864671583,
-      "lng": 16.19047881111664
-    },
-    "isNearBorder": false,
-    "areaM2": 34700,
-    "currentPrice": 1299000,
-    "currentPricePerM2": 37.44,
-    "initialPrice": 1299000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 1299000,
-        "pricePerM2": 37.44
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:24.266Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/34/5d/4056f6_e133_cover@2x-dzialka-rolno-budowlana-jaworzno.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4205540",
-    "source": "adresowo",
-    "sourceId": "4205540",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-janow-zloty-potok-1-ha-y8x4z3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Złoty Potok",
-    "voivodeship": "slaskie",
-    "county": "czestochowski",
-    "city": "Złoty Potok",
-    "coordinates": {
-      "lat": 50.812585902123715,
-      "lng": 19.111826635899135
-    },
-    "isNearBorder": false,
-    "areaM2": 16200,
-    "currentPrice": 249000,
-    "currentPricePerM2": 15.37,
-    "initialPrice": 249000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 249000,
-        "pricePerM2": 15.37
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:25.724Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/53/48/402be4_e146_cover@2x-dzialka-siedliskowa-czestochowski-zloty-potok.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4192632",
-    "source": "adresowo",
-    "sourceId": "4192632",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-lazy-niegowoniczki-7-452-m2-z8d1x5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Niegowoniczki",
-    "voivodeship": "slaskie",
-    "county": "zawiercianski",
-    "city": "Niegowoniczki",
-    "coordinates": {
-      "lat": 50.4934654973156,
-      "lng": 19.408734260357598
-    },
-    "isNearBorder": false,
-    "areaM2": 7452,
-    "currentPrice": 355000,
-    "currentPricePerM2": 47.64,
-    "initialPrice": 355000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 355000,
-        "pricePerM2": 47.64
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:25.724Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3d/1b/3ff978_37e0_cover@2x-dzialka-rolna-zawiercianski-niegowoniczki.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4160378",
-    "source": "adresowo",
-    "sourceId": "4160378",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lyski-pstrazna-ul-podlesna-h7j8t4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Pstrążna, ul. Podleśna",
-    "voivodeship": "slaskie",
-    "county": "rybnicki",
-    "city": "Pstrążna",
-    "street": "ul. Podleśna",
-    "coordinates": {
-      "lat": 50.09473792573629,
-      "lng": 18.539246698329787
-    },
-    "isNearBorder": false,
-    "areaM2": 67000,
-    "currentPrice": 1742000,
-    "currentPricePerM2": 26,
-    "initialPrice": 1742000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 1742000,
-        "pricePerM2": 26
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:29.199Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/70/35/3f7b7a_2f40_cover@2x-dzialka-siedliskowa-rybnicki-pstrazna.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4155130",
-    "source": "adresowo",
-    "sourceId": "4155130",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-goleszow-3-900-m2-r7w2s0",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Goleszów, Równia",
-    "voivodeship": "slaskie",
-    "county": "cieszynski",
-    "city": "Goleszów",
-    "street": "Równia",
-    "coordinates": {
-      "lat": 49.75836088936025,
-      "lng": 18.62365834974966
-    },
-    "isNearBorder": true,
-    "areaM2": 3900,
-    "currentPrice": 300000,
-    "currentPricePerM2": 76.92,
-    "initialPrice": 300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 300000,
-        "pricePerM2": 76.92
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:29.199Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/34/6f/3f66fa_6811_cover@2x-dzialka-siedliskowa-cieszynski-goleszow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4104490",
-    "source": "adresowo",
-    "sourceId": "4104490",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-zebrzydowice-marklowice-gorne-ul-ustronna-b0p2z3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Marklowice Górne, ul. Ustronna",
-    "voivodeship": "slaskie",
-    "county": "cieszynski",
-    "city": "Marklowice Górne",
-    "street": "ul. Ustronna",
-    "coordinates": {
-      "lat": 49.75425820712094,
-      "lng": 18.628373050704077
-    },
-    "isNearBorder": true,
-    "areaM2": 5004,
-    "currentPrice": 230000,
-    "currentPricePerM2": 45.96,
-    "initialPrice": 230000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 230000,
-        "pricePerM2": 45.96
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:33.440Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/26/5b/3ea12a_388d_cover@2x-dzialka-rolno-budowlana-cieszynski-marklowice-gorne.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4104326",
-    "source": "adresowo",
-    "sourceId": "4104326",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-koniecpol-ul-gorna-a9v0e4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Koniecpol, ul. Górna",
-    "voivodeship": "slaskie",
-    "county": "czestochowski",
-    "city": "Koniecpol",
-    "street": "ul. Górna",
-    "coordinates": {
-      "lat": 50.80756676402602,
-      "lng": 19.11432939159272
-    },
-    "isNearBorder": false,
-    "areaM2": 3356,
-    "currentPrice": 195000,
-    "currentPricePerM2": 58.1,
-    "initialPrice": 195000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 195000,
-        "pricePerM2": 58.1
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:33.440Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7a/4b/3ea086_cb4a_cover@2x-dzialka-siedliskowa-czestochowski-koniecpol.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3976456",
-    "source": "adresowo",
-    "sourceId": "3976456",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-przyrow-sierakow-7-ha-h2t1l8",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Sieraków",
-    "voivodeship": "slaskie",
-    "county": "czestochowski",
-    "city": "Sieraków",
-    "coordinates": {
-      "lat": 52.65738624646439,
-      "lng": 16.088918278682847
-    },
-    "isNearBorder": false,
-    "areaM2": 72500,
-    "currentPrice": 794000,
-    "currentPricePerM2": 10.95,
-    "initialPrice": 794000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 794000,
-        "pricePerM2": 10.95
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:38.948Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1d/48/3cad08_e1f6_cover@2x-dzialka-siedliskowa-czestochowski-sierakow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3920126",
-    "source": "adresowo",
-    "sourceId": "3920126",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-tarnowskie-gory-ul-miedziana-a1u8b1",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Tarnowskie Góry, ul. Miedziana",
-    "voivodeship": "slaskie",
-    "county": "tarnogorski",
-    "city": "Tarnowskie Góry",
-    "street": "ul. Miedziana",
-    "coordinates": {
-      "lat": 50.43833357988296,
-      "lng": 18.84640549815631
-    },
-    "isNearBorder": false,
-    "areaM2": 3447,
-    "currentPrice": 344700,
-    "currentPricePerM2": 100,
-    "initialPrice": 344700,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 344700,
-        "pricePerM2": 100
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:41.222Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1c/10/3bd0fe_8c43_cover@2x-dzialka-rolna-tarnogorski-tarnowskie-gory.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3880314",
-    "source": "adresowo",
-    "sourceId": "3880314",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-zarki-przybynow-ul-lakowa-v8b6d1",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Przybynów, ul. Łąkowa",
-    "voivodeship": "slaskie",
-    "county": "myszkowski",
-    "city": "Przybynów",
-    "street": "ul. Łąkowa",
-    "coordinates": {
-      "lat": 50.58157373670622,
-      "lng": 19.33298529057993
-    },
-    "isNearBorder": false,
-    "areaM2": 3260,
-    "currentPrice": 211900,
-    "currentPricePerM2": 65,
-    "initialPrice": 211900,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 211900,
-        "pricePerM2": 65
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:43.677Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/26/54/3b357a_a84b_cover@2x-dzialka-budowlana-myszkowski-przybynow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3876612",
-    "source": "adresowo",
-    "sourceId": "3876612",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-jaworzno-ul-kazimierza-stoleckiego-k0h6p2",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Jaworzno Skałka, ul. Kazimierza Stoleckiego",
-    "voivodeship": "slaskie",
-    "county": "jaworznicki",
-    "city": "Jaworzno Skałka",
-    "street": "ul. Kazimierza Stoleckiego",
-    "coordinates": {
-      "lat": 51.04488700346925,
-      "lng": 16.18761995912926
-    },
-    "isNearBorder": false,
-    "areaM2": 14500,
-    "currentPrice": 2399600,
-    "currentPricePerM2": 165.49,
-    "initialPrice": 2399600,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 2399600,
-        "pricePerM2": 165.49
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:43.677Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/41/24/3b2704_ea79_cover@2x-dzialka-siedliskowa-jaworzno.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3787884",
-    "source": "adresowo",
-    "sourceId": "3787884",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-porabka-ul-piechurow-i0f6a1",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Porąbka, ul. Piechurów",
-    "voivodeship": "slaskie",
-    "county": "bielski",
-    "city": "Porąbka",
-    "street": "ul. Piechurów",
-    "coordinates": {
-      "lat": 52.7650080287146,
-      "lng": 23.18345195124898
-    },
-    "isNearBorder": false,
-    "areaM2": 20000,
-    "currentPrice": 4000000,
-    "currentPricePerM2": 200,
-    "initialPrice": 4000000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 4000000,
-        "pricePerM2": 200
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:46.023Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/40/2e/39cc6c_67c1_cover@2x-dzialka-siedliskowa-bielski-porabka.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3749360",
-    "source": "adresowo",
-    "sourceId": "3749360",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kozieglowy-siedlec-duzy-ul-jana-pawla-ii-x2p3e7",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Siedlec Duży, ul. Jana Pawła II",
-    "voivodeship": "slaskie",
-    "county": "myszkowski",
-    "city": "Siedlec Duży",
-    "street": "ul. Jana Pawła II",
-    "coordinates": {
-      "lat": 50.57556837951743,
-      "lng": 19.316887093806127
-    },
-    "isNearBorder": false,
-    "areaM2": 1200,
-    "currentPrice": 40000,
-    "currentPricePerM2": 33.33,
-    "initialPrice": 40000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 40000,
-        "pricePerM2": 33.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:48.777Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/46/5d/3935f0_ed25_cover@2x-dzialka-siedliskowa-myszkowski-siedlec-duzy.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3740528",
-    "source": "adresowo",
-    "sourceId": "3740528",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-bobrowniki-dobieszowice-ul-podlesna-h2i1m2",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Dobieszowice, ul. Podleśna",
-    "voivodeship": "slaskie",
-    "county": "bedzinski",
-    "city": "Dobieszowice",
-    "street": "ul. Podleśna",
-    "coordinates": {
-      "lat": 50.33166611510968,
-      "lng": 19.130314140823327
-    },
-    "isNearBorder": false,
-    "areaM2": 12200,
-    "currentPrice": 600000,
-    "currentPricePerM2": 49.18,
-    "initialPrice": 600000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 600000,
-        "pricePerM2": 49.18
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:48.777Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/50/20/391370_9477_cover@2x-dzialka-inwestycyjna-bedzinski-dobieszowice.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3689544",
-    "source": "adresowo",
-    "sourceId": "3689544",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-nedza-ul-konarskiego-o0j5y3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Nędza, ul. Konarskiego",
-    "voivodeship": "slaskie",
-    "county": "raciborski",
-    "city": "Nędza",
-    "street": "ul. Konarskiego",
-    "coordinates": {
-      "lat": 50.09857687374678,
-      "lng": 18.218370964750733
-    },
-    "isNearBorder": true,
-    "areaM2": 10500,
-    "currentPrice": 130000,
-    "currentPricePerM2": 12.38,
-    "initialPrice": 130000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 130000,
-        "pricePerM2": 12.38
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:50.393Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/65/35/384c48_4b02_cover@2x-dzialka-siedliskowa-raciborski-nedza.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3660828",
-    "source": "adresowo",
-    "sourceId": "3660828",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-porabka-czaniec-ul-zarzecze-a0p1r0",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Czaniec Zagłębocze, ul. Zarzecze",
-    "voivodeship": "slaskie",
-    "county": "bielski",
-    "city": "Czaniec Zagłębocze",
-    "street": "ul. Zarzecze",
-    "coordinates": {
-      "lat": 52.77264206013028,
-      "lng": 23.187346128755216
-    },
-    "isNearBorder": false,
-    "areaM2": 4628,
-    "currentPrice": 350000,
-    "currentPricePerM2": 75.63,
-    "initialPrice": 350000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 350000,
-        "pricePerM2": 75.63
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:50.393Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/40/62/37dc1c_db12_cover@2x-dzialka-rolna-bielski-czaniec.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3649764",
-    "source": "adresowo",
-    "sourceId": "3649764",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-kamienica-polska-kolonia-klepaczka-6-401-m2-n0g4l4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Kolonia Klepaczka",
-    "voivodeship": "slaskie",
-    "county": "czestochowski",
-    "city": "Kolonia Klepaczka",
-    "coordinates": {
-      "lat": 50.809914778051635,
-      "lng": 19.11244252200087
-    },
-    "isNearBorder": false,
-    "areaM2": 6401,
-    "currentPrice": 270000,
-    "currentPricePerM2": 42.18,
-    "initialPrice": 270000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 270000,
-        "pricePerM2": 42.18
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:50.393Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/72/69/37b0e4_fac0_cover@2x-dzialka-rolno-budowlana-czestochowski-kolonia-klepaczka.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3623452",
-    "source": "adresowo",
-    "sourceId": "3623452",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-skoczow-piersciec-ul-winogradzka-b3b7v7",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Pierściec, ul. Winogradzka",
-    "voivodeship": "slaskie",
-    "county": "cieszynski",
-    "city": "Pierściec",
-    "street": "ul. Winogradzka",
-    "coordinates": {
-      "lat": 49.7579928542492,
-      "lng": 18.63851079208353
-    },
-    "isNearBorder": true,
-    "areaM2": 12100,
-    "currentPrice": 550000,
-    "currentPricePerM2": 45.45,
-    "initialPrice": 550000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 550000,
-        "pricePerM2": 45.45
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:52.776Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1f/14/374a1c_39fa_cover@2x-dzialka-siedliskowa-cieszynski-piersciec.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3555332",
-    "source": "adresowo",
-    "sourceId": "3555332",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-goleszow-leszna-gorna-ul-glowna-g5u5l5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Leszna Górna, ul. Główna",
-    "voivodeship": "slaskie",
-    "county": "cieszynski",
-    "city": "Leszna Górna",
-    "street": "ul. Główna",
-    "coordinates": {
-      "lat": 49.75797204436326,
-      "lng": 18.64080375922813
-    },
-    "isNearBorder": true,
-    "areaM2": 2361,
-    "currentPrice": 120000,
-    "currentPricePerM2": 50.83,
-    "initialPrice": 120000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 120000,
-        "pricePerM2": 50.83
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:52.776Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1f/7e/364004_5c30_cover@2x-dzialka-siedliskowa-cieszynski-leszna-gorna.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3549816",
-    "source": "adresowo",
-    "sourceId": "3549816",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-niegowa-brzeziny-3-405-m2-i8t1c7",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Brzeziny",
-    "voivodeship": "slaskie",
-    "county": "myszkowski",
-    "city": "Brzeziny",
-    "coordinates": {
-      "lat": 51.60176663544137,
-      "lng": 18.26066164520397
-    },
-    "isNearBorder": false,
-    "areaM2": 3405,
-    "currentPrice": 179000,
-    "currentPricePerM2": 52.57,
-    "initialPrice": 179000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 179000,
-        "pricePerM2": 52.57
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:54.785Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/41/45/362a78_bf17_cover@2x-dzialka-siedliskowa-myszkowski-brzeziny.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3469664",
-    "source": "adresowo",
-    "sourceId": "3469664",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-skoczow-3-ha-w7z4t4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Skoczów",
-    "voivodeship": "slaskie",
-    "county": "cieszynski",
-    "city": "Skoczów",
-    "coordinates": {
-      "lat": 49.750354214378206,
-      "lng": 18.640416648935425
-    },
-    "isNearBorder": true,
-    "areaM2": 32000,
-    "currentPrice": 1800000,
-    "currentPricePerM2": 56.25,
-    "initialPrice": 1800000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 1800000,
-        "pricePerM2": 56.25
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:54.785Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/74/5b/34f160_6944_cover@2x-dzialka-budowlana-cieszynski-skoczow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3463580",
-    "source": "adresowo",
-    "sourceId": "3463580",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-swinna-pewel-slemienska-5-547-m2-f3i4y4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Pewel Ślemieńska",
-    "voivodeship": "slaskie",
-    "county": "zywiecki",
-    "city": "Pewel Ślemieńska",
-    "coordinates": {
-      "lat": 49.693678361818456,
-      "lng": 19.189691076314023
-    },
-    "isNearBorder": true,
-    "areaM2": 5547,
-    "currentPrice": 459000,
-    "currentPricePerM2": 82.75,
-    "initialPrice": 459000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 459000,
-        "pricePerM2": 82.75
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:54.785Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/63/3e/34d99c_33e3_cover@2x-dzialka-budowlana-zywiecki-pewel-slemienska.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3406510",
-    "source": "adresowo",
-    "sourceId": "3406510",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-rudnik-1-879-m2-w5o7d3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Rudnik",
-    "voivodeship": "slaskie",
-    "county": "raciborski",
-    "city": "Rudnik",
-    "coordinates": {
-      "lat": 50.086344357576685,
-      "lng": 18.212786756756003
-    },
-    "isNearBorder": true,
-    "areaM2": 1879,
-    "currentPrice": 30000,
-    "currentPricePerM2": 15.97,
-    "initialPrice": 30000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 30000,
-        "pricePerM2": 15.97
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:56.640Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/60/1d/33faae_2e11_cover@2x-dzialka-rolna-raciborski-rudnik.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3296814",
-    "source": "adresowo",
-    "sourceId": "3296814",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-przyrow-sygontka-ul-fabryczna-r1j8s5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Sygontka, ul. Fabryczna",
-    "voivodeship": "slaskie",
-    "county": "czestochowski",
-    "city": "Sygontka",
-    "street": "ul. Fabryczna",
-    "coordinates": {
-      "lat": 50.81077672579604,
-      "lng": 19.112746470280328
-    },
-    "isNearBorder": false,
-    "areaM2": 2900,
-    "currentPrice": 116000,
-    "currentPricePerM2": 40,
-    "initialPrice": 116000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 116000,
-        "pricePerM2": 40
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:59.177Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7e/13/324e2e_fa30_cover@2x-dzialka-siedliskowa-czestochowski-sygontka.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3231818",
-    "source": "adresowo",
-    "sourceId": "3231818",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-skoczow-1-ha-s9r7z8",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Skoczów",
-    "voivodeship": "slaskie",
-    "county": "cieszynski",
-    "city": "Skoczów",
-    "coordinates": {
-      "lat": 49.75447218612163,
-      "lng": 18.623446407792027
-    },
-    "isNearBorder": true,
-    "areaM2": 16000,
-    "currentPrice": 1300000,
-    "currentPricePerM2": 81.25,
-    "initialPrice": 1300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 1300000,
-        "pricePerM2": 81.25
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:59.177Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5d/1d/31504a_e859_cover@2x-dzialka-siedliskowa-cieszynski-skoczow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3231806",
-    "source": "adresowo",
-    "sourceId": "3231806",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-skoczow-1-ha-d6b3y7",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Skoczów",
-    "voivodeship": "slaskie",
-    "county": "cieszynski",
-    "city": "Skoczów",
-    "coordinates": {
-      "lat": 49.753022355885534,
-      "lng": 18.637846754496493
-    },
-    "isNearBorder": true,
-    "areaM2": 15700,
-    "currentPrice": 800000,
-    "currentPricePerM2": 50.96,
-    "initialPrice": 800000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 800000,
-        "pricePerM2": 50.96
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:59.177Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7a/1b/31503e_8a7c_cover@2x-dzialka-budowlana-cieszynski-skoczow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3171036",
-    "source": "adresowo",
-    "sourceId": "3171036",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-poreba-ul-wolnosci-o9v4h4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Poręba, ul. Wolności",
-    "voivodeship": "slaskie",
-    "county": "zawiercianski",
-    "city": "Poręba",
-    "street": "ul. Wolności",
-    "coordinates": {
-      "lat": 50.48464556137486,
-      "lng": 19.426118312910923
-    },
-    "isNearBorder": false,
-    "areaM2": 225,
-    "currentPrice": 50000,
-    "currentPricePerM2": 222.22,
-    "initialPrice": 50000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 50000,
-        "pricePerM2": 222.22
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:59.177Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1b/1e/3062dc_37d9_cover@2x-dzialka-rolno-budowlana-zawiercianski-poreba.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3170974",
-    "source": "adresowo",
-    "sourceId": "3170974",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-zawiercie-ul-oswiatowa-d2z1v5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Zawiercie Borowe Pole, ul. Oświatowa",
-    "voivodeship": "slaskie",
-    "county": "zawiercianski",
-    "city": "Zawiercie Borowe Pole",
-    "street": "ul. Oświatowa",
-    "coordinates": {
-      "lat": 50.485105919024534,
-      "lng": 19.413471745616715
-    },
-    "isNearBorder": false,
-    "areaM2": 1530,
-    "currentPrice": 340000,
-    "currentPricePerM2": 222.22,
-    "initialPrice": 340000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 340000,
-        "pricePerM2": 222.22
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:07:59.177Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7f/25/30629e_bad0_cover@2x-dzialka-rolno-budowlana-zawiercianski-zawiercie.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3123076",
-    "source": "adresowo",
-    "sourceId": "3123076",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-strumien-pruchna-1-ha-q9k6j6",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Pruchna",
-    "voivodeship": "slaskie",
-    "county": "cieszynski",
-    "city": "Pruchna",
-    "coordinates": {
-      "lat": 49.75271017773386,
-      "lng": 18.639519169074315
-    },
-    "isNearBorder": true,
-    "areaM2": 12800,
-    "currentPrice": 360000,
-    "currentPricePerM2": 28.13,
-    "initialPrice": 360000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 360000,
-        "pricePerM2": 28.13
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:08:01.736Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/2f/26/2fa784_6e13_cover@2x-dzialka-siedliskowa-cieszynski-pruchna.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-2872074",
-    "source": "adresowo",
-    "sourceId": "2872074",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-przystajn-kaminsko-4-ha-w4f3t4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Kamińsko",
-    "voivodeship": "slaskie",
-    "county": "klobucki",
-    "city": "Kamińsko",
-    "coordinates": {
-      "lat": 50.90131045757516,
-      "lng": 18.93950531333116
-    },
-    "isNearBorder": false,
-    "areaM2": 45000,
-    "currentPrice": 590000,
-    "currentPricePerM2": 13.11,
-    "initialPrice": 590000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 590000,
-        "pricePerM2": 13.11
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:08:03.711Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/4c/3c/2bd30a_d2b7_cover@2x-dzialka-siedliskowa-klobucki-kaminsko.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-2608978",
-    "source": "adresowo",
-    "sourceId": "2608978",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-skoczow-1-ha-i1u7g9",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Skoczów",
-    "voivodeship": "slaskie",
-    "county": "cieszynski",
-    "city": "Skoczów",
-    "coordinates": {
-      "lat": 49.74694300328601,
-      "lng": 18.637630963852803
-    },
-    "isNearBorder": true,
-    "areaM2": 11500,
-    "currentPrice": 300000,
-    "currentPricePerM2": 26.09,
-    "initialPrice": 300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 300000,
-        "pricePerM2": 26.09
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:08:06.155Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/43/25/27cf52_46ca_cover@2x-dzialka-siedliskowa-cieszynski-skoczow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-2543980",
-    "source": "adresowo",
-    "sourceId": "2543980",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-kroczyce-pradla-ul-wyzwolenia-r5p3n3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Pradła, ul. Wyzwolenia",
-    "voivodeship": "slaskie",
-    "county": "zawiercianski",
-    "city": "Pradła",
-    "street": "ul. Wyzwolenia",
-    "coordinates": {
-      "lat": 50.492780630132046,
-      "lng": 19.42498085613998
-    },
-    "isNearBorder": false,
-    "areaM2": 8000,
-    "currentPrice": 300000,
-    "currentPricePerM2": 37.5,
-    "initialPrice": 300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 300000,
-        "pricePerM2": 37.5
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:08:06.155Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/62/2d/26d16c_301b_cover@2x-dzialka-inwestycyjna-zawiercianski-pradla.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-2263954",
-    "source": "adresowo",
-    "sourceId": "2263954",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-janow-siedlec-2-ha-n9x2n5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Siedlec",
-    "voivodeship": "slaskie",
-    "county": "czestochowski",
-    "city": "Siedlec",
-    "coordinates": {
-      "lat": 50.8142713893613,
-      "lng": 19.11765335724605
-    },
-    "isNearBorder": false,
-    "areaM2": 28000,
-    "currentPrice": 270000,
-    "currentPricePerM2": 9.64,
-    "initialPrice": 270000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 270000,
-        "pricePerM2": 9.64
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:08:07.884Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/7b/47/228b92_cee7_cover@2x-dzialka-rolna-czestochowski-siedlec.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-2172502",
-    "source": "adresowo",
-    "sourceId": "2172502",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-lazy-chruszczobrod-piaski-2-ha-i4f9h4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Chruszczobród-Piaski",
-    "voivodeship": "slaskie",
-    "county": "zawiercianski",
-    "city": "Chruszczobród-Piaski",
-    "coordinates": {
-      "lat": 50.484597513825,
-      "lng": 19.415098220586138
-    },
-    "isNearBorder": false,
-    "areaM2": 25000,
-    "currentPrice": 650000,
-    "currentPricePerM2": 26,
-    "initialPrice": 650000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 650000,
-        "pricePerM2": 26
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:08:07.884Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/42/14/212656_7a34_cover@2x-dzialka-siedliskowa-zawiercianski-chruszczobrod-piaski.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-1667663",
-    "source": "adresowo",
-    "sourceId": "1667663",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-poreba-6-654-m2-z7e5r4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Poręba, Niwki",
-    "voivodeship": "slaskie",
-    "county": "zawiercianski",
-    "city": "Poręba",
-    "street": "Niwki",
-    "coordinates": {
-      "lat": 50.49388211235381,
-      "lng": 19.419499517612987
-    },
-    "isNearBorder": false,
-    "areaM2": 6654,
-    "currentPrice": 69000,
-    "currentPricePerM2": 10.37,
-    "initialPrice": 69000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 69000,
-        "pricePerM2": 10.37
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:08:07.884Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/21/6b/19724f_d1d7_cover@2x-dzialka-rolna-zawiercianski-poreba.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-1636793",
-    "source": "adresowo",
-    "sourceId": "1636793",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-lazy-grabowa-ul-piaski-u8m0m5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Grabowa Piaski, ul. Piaski",
-    "voivodeship": "slaskie",
-    "county": "zawiercianski",
-    "city": "Grabowa Piaski",
-    "street": "ul. Piaski",
-    "coordinates": {
-      "lat": 50.481605517373815,
-      "lng": 19.42074527594331
-    },
-    "isNearBorder": false,
-    "areaM2": 1052,
-    "currentPrice": 57000,
-    "currentPricePerM2": 54.18,
-    "initialPrice": 57000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 57000,
-        "pricePerM2": 54.18
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:08:07.884Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6b/7d/18f9b9_ab05_cover@2x-dzialka-rolna-zawiercianski-grabowa.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-1619113",
-    "source": "adresowo",
-    "sourceId": "1619113",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kozieglowy-myslow-3-068-m2-j5t0q7",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Mysłów",
-    "voivodeship": "slaskie",
-    "county": "myszkowski",
-    "city": "Mysłów",
-    "coordinates": {
-      "lat": 50.569585066479746,
-      "lng": 19.31795420424078
-    },
-    "isNearBorder": false,
-    "areaM2": 3068,
-    "currentPrice": 250000,
-    "currentPricePerM2": 81.49,
-    "initialPrice": 250000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 250000,
-        "pricePerM2": 81.49
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T21:08:07.884Z",
-    "lastSeenAt": "2026-09-24T21:08:10.470Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/78/12/18b4a9_6e93_cover@2x-dzialka-siedliskowa-myszkowski-myslow.webp",
-    "isDirectOwner": true
   }
 ]
