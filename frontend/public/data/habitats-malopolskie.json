@@ -30,7 +30,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T15:42:03.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImliM3ZpMGpxeHhwcy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.7yZPqHLw75gQ3wr8QoQ3mNackFm8pBfy9A1KXpwC05Q/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -65,7 +65,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T08:37:57.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVoZWh4Z3ZoZDVodi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.YwN17ctXQkRGfV5TKB5XXBQRioayTI-7kCqluiPldj8/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -99,7 +99,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:42.022Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/10/2b/40c910_e4c0_cover@2x-dom-proszowicki-koszyce.webp",
     "isDirectOwner": true
   },
@@ -133,7 +133,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:43.899Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/36/14/40a716_4d17_cover@2x-dom-gorlicki-wojtowa.webp",
     "isDirectOwner": true
   },
@@ -167,7 +167,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:43.899Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/63/1c/4042da_8f98_cover@2x-dom-brzeski-biesiadki.webp",
     "isDirectOwner": true
   },
@@ -201,7 +201,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:45.598Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/1f/31/40222c_3a12_cover@2x-dom-suski-bienkowka.webp",
     "isDirectOwner": true
   },
@@ -235,7 +235,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:45.598Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/7e/4d/3fda28_4736_cover@2x-dom-oswiecimski-babice.webp",
     "isDirectOwner": true
   },
@@ -255,23 +255,29 @@
     },
     "isNearBorder": true,
     "areaM2": 45,
-    "currentPrice": 399999,
-    "currentPricePerM2": 8888.87,
+    "currentPrice": 340000,
+    "currentPricePerM2": 7555.56,
     "initialPrice": 399999,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
+    "priceChangeAmount": -59999,
+    "priceChangePercent": -15,
     "priceHistory": [
       {
         "date": "2026-09-24",
         "price": 399999,
         "pricePerM2": 8888.87
+      },
+      {
+        "date": "2026-10-07",
+        "price": 340000,
+        "pricePerM2": 7555.56
       }
     ],
-    "status": "active",
+    "status": "price_drop",
     "firstSeenAt": "2026-09-24T20:32:47.817Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/7a/65/3f741c_c0d4_cover@2x-dom-gorlicki-brzana.webp",
-    "isDirectOwner": true
+    "isDirectOwner": true,
+    "previousPrice": 399999
   },
   {
     "id": "adresowo-4154700",
@@ -303,7 +309,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:47.817Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/26/74/3f654c_d34f_cover@2x-dom-limanowski-lukowica.webp",
     "isDirectOwner": true
   },
@@ -337,7 +343,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:49.327Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/31/4d/3f29dc_2b50_cover@2x-dom-tarnowski-siedliska.webp",
     "isDirectOwner": true
   },
@@ -372,7 +378,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:49.327Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/1f/7e/3f0eaa_d419_cover@2x-dom-tarnowski-stare-zukowice.webp",
     "isDirectOwner": true
   },
@@ -406,7 +412,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:49.327Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/79/52/3f08b8_b0ea_cover@2x-dom-proszowicki-piekary.webp",
     "isDirectOwner": true
   },
@@ -440,7 +446,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:49.327Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/58/39/3f0454_36fa_cover@2x-dom-brzeski-iwkowa.webp",
     "isDirectOwner": true
   },
@@ -474,7 +480,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:49.327Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/20/3f/3f144a_46ca_cover@2x-dom-myslenicki-myslenice.webp",
     "isDirectOwner": true
   },
@@ -508,7 +514,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:49.327Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/41/26/3efa7e_4ff5_cover@2x-dom-dabrowski-leka-zabiecka.webp",
     "isDirectOwner": true
   },
@@ -542,7 +548,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:49.327Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/51/72/3f02fc_8481_cover@2x-dom-myslenicki-bienkowice.webp",
     "isDirectOwner": true
   },
@@ -576,7 +582,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:49.327Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/17/29/3ec40a_f6d9_cover@2x-dom-nowotarski-rdzawka.webp",
     "isDirectOwner": true
   },
@@ -611,7 +617,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:50.968Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/11/25/3e2710_5e45_cover@2x-dom-tarnowski-ryglice.webp",
     "isDirectOwner": true
   },
@@ -645,7 +651,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:52.534Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/10/30/3e2f9c_50dc_cover@2x-dom-wadowicki-marcyporeba.webp",
     "isDirectOwner": true
   },
@@ -680,7 +686,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:52.534Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/10/3d/3e1b4e_897a_cover@2x-dom-suski-zawoja.webp",
     "isDirectOwner": true
   },
@@ -715,7 +721,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:56.146Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/52/66/38d73c_6214_cover@2x-dom-brzeski-szczurowa.webp",
     "isDirectOwner": true
   },
@@ -749,7 +755,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:56.146Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/68/61/3bc696_4657_cover@2x-dom-suski-budzow.webp",
     "isDirectOwner": true
   },
@@ -783,7 +789,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:56.146Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/45/42/3b80b6_cf8a_cover@2x-dom-tarnowski-olpiny.webp",
     "isDirectOwner": true
   },
@@ -817,7 +823,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:58.667Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/16/1d/3b53a0_55f4_cover@2x-dom-gorlicki-siary.webp",
     "isDirectOwner": true
   },
@@ -852,7 +858,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:58.667Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/5e/50/3b2d56_6856_cover@2x-dom-proszowicki-biskupice.webp",
     "isDirectOwner": true
   },
@@ -887,7 +893,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:58.667Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/46/52/3a837a_3315_cover@2x-dom-tarnowski-szerzyny.webp",
     "isDirectOwner": true
   },
@@ -922,7 +928,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:58.667Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/13/3d/3a0b56_63ec_cover@2x-dom-wadowicki-bachowice.webp",
     "isDirectOwner": true
   },
@@ -957,7 +963,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:32:58.667Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/24/63/39efb8_f98e_cover@2x-dom-gorlicki-zagorzany.webp",
     "isDirectOwner": true
   },
@@ -992,7 +998,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:33:01.275Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/30/6e/39a230_d800_cover@2x-dom-oswiecimski-brzeszcze.webp",
     "isDirectOwner": true
   },
@@ -1027,7 +1033,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:33:03.141Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/51/23/33e09a_8e09_cover@2x-dom-olkuski-podlesice-drugie.webp",
     "isDirectOwner": true
   },
@@ -1061,7 +1067,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:33:05.228Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/18/63/2e8ccc_95cf_cover@2x-dom-bochenski-grabie.webp",
     "isDirectOwner": true
   },
@@ -1096,7 +1102,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:33:05.228Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/41/13/26c192_41f7_cover@2x-dom-nowotarski-krosnica.webp",
     "isDirectOwner": true
   },
@@ -1131,7 +1137,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:33:05.228Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/27/35/245d26_9112_cover@2x-dom-bochenski-chronow.webp",
     "isDirectOwner": true
   },
@@ -1165,7 +1171,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:33:05.228Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/3d/10/245372_9577_cover@2x-dom-proszowicki-siedliska.webp",
     "isDirectOwner": true
   },
@@ -1199,7 +1205,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-23T18:16:57.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZraXE4dmh4cDZieS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1SqQd6gjv7EUIVUw-9_xCgMhizX6luFbxZAJ8X_4I60/image;s=655x491;q=80",
     "isDirectOwner": true
   },
@@ -1233,7 +1239,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-17T08:20:48.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjcwdDlibGhtYm5zazEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1faAtK1GDylNL0TinDrp1NJAaptXba__ULPlvUsM-as/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -1272,7 +1278,7 @@
     ],
     "status": "price_drop",
     "firstSeenAt": "2026-09-10T08:37:47.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InplNTBudWptcjgwYjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RhAV9BUaypi-ywMlJo4Bw_-mwZf9lcdZIJ7cD1LkKgA/image;s=655x491;q=80",
     "isDirectOwner": false,
     "previousPrice": 400000
@@ -1307,7 +1313,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:27.947Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/6c/12/412ba4_49f8_cover@2x-dzialka-siedliskowa-tarnowski-nowodworze.webp",
     "isDirectOwner": true
   },
@@ -1341,7 +1347,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:29.805Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/5d/19/409054_c132_cover@2x-dzialka-siedliskowa-gorlicki-lipinki.webp",
     "isDirectOwner": true
   },
@@ -1375,7 +1381,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:29.805Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/38/32/408c44_940c_cover@2x-dzialka-rolno-budowlana-tarnowski-szynwald.webp",
     "isDirectOwner": true
   },
@@ -1409,7 +1415,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:29.805Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/5f/21/407f92_81c0_cover@2x-dzialka-siedliskowa-krakowski-rybna.webp",
     "isDirectOwner": true
   },
@@ -1443,7 +1449,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:29.805Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/3b/7e/410a82_b5bf_cover@2x-dzialka-rolno-budowlana-krakowski-przeginia.webp",
     "isDirectOwner": true
   },
@@ -1477,7 +1483,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:29.805Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/1a/3f/410560_7f2d_cover@2x-dzialka-budowlana-suski-kurow.webp",
     "isDirectOwner": true
   },
@@ -1511,7 +1517,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:29.805Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/22/5d/406418_a3fd_cover@2x-dzialka-budowlana-limanowski-nowe-rybie.webp",
     "isDirectOwner": true
   },
@@ -1546,7 +1552,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:29.805Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/75/7b/4100f0_dc32_cover@2x-dzialka-siedliskowa-krakowski-goszcza.webp",
     "isDirectOwner": true
   },
@@ -1581,7 +1587,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:31.634Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/4e/79/40f10a_8288_cover@2x-dzialka-siedliskowa-krakowski-cianowice.webp",
     "isDirectOwner": true
   },
@@ -1615,7 +1621,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:31.634Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/4e/40/4026ea_91b3_cover@2x-dzialka-siedliskowa-wielicki-pawlikowice.webp",
     "isDirectOwner": true
   },
@@ -1649,7 +1655,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:34.243Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/36/19/3fd3ae_b5d9_cover@2x-dzialka-budowlana-krakowski-olszowice.webp",
     "isDirectOwner": true
   },
@@ -1683,7 +1689,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:34.243Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/33/2f/40c6ea_9f4a_cover@2x-dzialka-budowlana-tarnowski-wierzchoslawice.webp",
     "isDirectOwner": true
   },
@@ -1717,7 +1723,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:36.472Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/1a/3c/3f7602_c0ab_cover@2x-dzialka-siedliskowa-krakowski-przeginia-narodowa.webp",
     "isDirectOwner": true
   },
@@ -1752,7 +1758,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:38.413Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/7d/28/3ec93c_550d_cover@2x-dzialka-siedliskowa-krakowski-libertow.webp",
     "isDirectOwner": true
   },
@@ -1786,7 +1792,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:38.413Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/39/21/4077ec_59d5_cover@2x-dzialka-inna-nowosadecki-piorunka.webp",
     "isDirectOwner": true
   },
@@ -1820,7 +1826,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:38.413Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/15/3e/3e8e70_5403_cover@2x-dzialka-budowlana-suski-jordanow.webp",
     "isDirectOwner": true
   },
@@ -1854,7 +1860,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:40.589Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/2b/5f/3df47e_eb5f_cover@2x-dzialka-siedliskowa-brzeski-popedzyna.webp",
     "isDirectOwner": true
   },
@@ -1888,7 +1894,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:40.589Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/40/71/3df47c_cb98_cover@2x-dzialka-brzeski-popedzyna.webp",
     "isDirectOwner": true
   },
@@ -1923,7 +1929,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:40.589Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/41/4a/4040ee_d84b_cover@2x-dzialka-siedliskowa-krakowski-trojanowice.webp",
     "isDirectOwner": true
   },
@@ -1958,7 +1964,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:40.589Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/3e/14/4029ec_ff06_cover@2x-dzialka-rolno-budowlana-suski-zawoja.webp",
     "isDirectOwner": true
   },
@@ -1992,7 +1998,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:40.589Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/22/53/40297e_ef11_cover@2x-dzialka-budowlana-limanowski-stare-rybie.webp",
     "isDirectOwner": true
   },
@@ -2027,7 +2033,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:40.589Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/2d/4e/401d16_6a50_cover@2x-dzialka-siedliskowa-bochenski-gierczyce.webp",
     "isDirectOwner": true
   },
@@ -2062,7 +2068,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:42.539Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/28/30/3cdda0_92f6_cover@2x-dzialka-budowlana-myslenicki-czechowka.webp",
     "isDirectOwner": true
   },
@@ -2096,7 +2102,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:42.539Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/1c/42/3cd94e_66fa_cover@2x-dzialka-budowlana-wadowicki-marcyporeba.webp",
     "isDirectOwner": true
   },
@@ -2130,7 +2136,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:42.539Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/73/52/3cca34_e416_cover@2x-dzialka-budowlana-gorlicki-mecina-wielka.webp",
     "isDirectOwner": true
   },
@@ -2164,7 +2170,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:42.539Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/30/2b/3ca410_d773_cover@2x-dzialka-siedliskowa-nowosadecki-oblazy-ryterskie.webp",
     "isDirectOwner": true
   },
@@ -2198,7 +2204,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:42.539Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "isDirectOwner": true
   },
   {
@@ -2231,7 +2237,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:44.764Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/66/4c/3fb2b8_37fd_cover@2x-dzialka-rolna-nowosadecki-skrzetla-rojowka.webp",
     "isDirectOwner": true
   },
@@ -2266,7 +2272,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:47.052Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/7a/75/3f8754_dda4_cover@2x-dzialka-budowlana-krakowski-swiatniki-gorne.webp",
     "isDirectOwner": true
   },
@@ -2301,7 +2307,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:47.052Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/59/52/3f85d6_c0a6_cover@2x-dzialka-rolno-budowlana-oswiecimski-osiek.webp",
     "isDirectOwner": true
   },
@@ -2335,7 +2341,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:47.052Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/4a/7d/383d34_6472_cover@2x-dzialka-rolno-budowlana-proszowicki-czuszow.webp",
     "isDirectOwner": true
   },
@@ -2369,7 +2375,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:49.221Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/79/1a/36146e_349f_cover@2x-dzialka-budowlana-myslenicki-glogoczow.webp",
     "isDirectOwner": true
   },
@@ -2404,7 +2410,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:49.221Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/6a/58/3529ce_b7d1_cover@2x-dzialka-siedliskowa-chrzanowski-plaza.webp",
     "isDirectOwner": true
   },
@@ -2438,7 +2444,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:49.221Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/15/33/33e608_ab09_cover@2x-dzialka-rolno-budowlana-gorlicki-gorlice.webp",
     "isDirectOwner": true
   },
@@ -2472,7 +2478,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:49.221Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/5c/7a/3f4406_3238_cover@2x-dzialka-siedliskowa-bochenski-lipnica-dolna.webp",
     "isDirectOwner": true
   },
@@ -2506,7 +2512,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:49.221Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/5e/38/3f2bc4_9ebc_cover@2x-dzialka-siedliskowa-gorlicki-wolowiec.webp",
     "isDirectOwner": true
   },
@@ -2540,7 +2546,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:51.402Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/20/42/313e4e_d3b6_cover@2x-dzialka-rolno-budowlana-proszowicki-opatkowice.webp",
     "isDirectOwner": true
   },
@@ -2574,7 +2580,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:51.402Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/49/2e/30d03e_475e_cover@2x-dzialka-siedliskowa-myslenicki-borzeta.webp",
     "isDirectOwner": true
   },
@@ -2608,7 +2614,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:53.777Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/16/57/3ec410_9c01_cover@2x-dzialka-budowlana-brzeski-gosprzydowa.webp",
     "isDirectOwner": true
   },
@@ -2643,7 +2649,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:53.777Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/3d/21/3ebd0e_61f0_cover@2x-dzialka-rolno-budowlana-olkuski-kwasniow-dolny.webp",
     "isDirectOwner": true
   },
@@ -2677,7 +2683,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:53.777Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/7b/1c/3eb448_829a_cover@2x-dzialka-budowlana-nowosadecki-zagorzyn.webp",
     "isDirectOwner": true
   },
@@ -2712,7 +2718,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:53.777Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/20/3c/3e94d4_dcba_cover@2x-dzialka-budowlana-oswiecimski-smolice.webp",
     "isDirectOwner": true
   },
@@ -2746,7 +2752,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:53.777Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/65/70/3e9462_9a15_cover@2x-dzialka-rolna-bochenski-ispnia.webp",
     "isDirectOwner": true
   },
@@ -2780,7 +2786,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:53.777Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/40/7f/3e92f8_7387_cover@2x-dzialka-siedliskowa-krakowski-raczna.webp",
     "isDirectOwner": true
   },
@@ -2814,7 +2820,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:56.363Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/40/1a/3e7a28_b95c_cover@2x-dzialka-siedliskowa-krakowski-szczodrkowice.webp",
     "isDirectOwner": true
   },
@@ -2849,7 +2855,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:56.363Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/1b/11/3e6dd0_3304_cover@2x-dzialka-siedliskowa-olkuski-wierzchowisko.webp",
     "isDirectOwner": true
   },
@@ -2883,7 +2889,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:56.363Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/69/30/3e538a_b098_cover@2x-dzialka-inna-nowosadecki-jazowsko.webp",
     "isDirectOwner": true
   },
@@ -2917,7 +2923,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:56.363Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/74/66/3e2020_7692_cover@2x-dzialka-budowlana-miechowski-charsznica.webp",
     "isDirectOwner": true
   },
@@ -2951,7 +2957,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:56.363Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/26/10/3e1ba8_3243_cover@2x-dzialka-siedliskowa-krakowski-zofipole.webp",
     "isDirectOwner": true
   },
@@ -2985,7 +2991,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:56.363Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/14/36/3e0974_57fe_cover@2x-dzialka-rolna-olkuski-strzegowa.webp",
     "isDirectOwner": true
   },
@@ -3019,7 +3025,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:56.363Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/56/22/3e0860_494d_cover@2x-dzialka-siedliskowa-nowosadecki-ptaszkowa.webp",
     "isDirectOwner": true
   },
@@ -3053,7 +3059,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:58.033Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/25/43/3df452_71db_cover@2x-dzialka-rolna-bochenski-lipnica-dolna.webp",
     "isDirectOwner": true
   },
@@ -3088,7 +3094,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:58.033Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/1c/1a/3de344_de0d_cover@2x-dzialka-inna-limanowski-laskowa.webp",
     "isDirectOwner": true
   },
@@ -3122,7 +3128,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:35:59.902Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/26/55/3d3396_cd89_cover@2x-dzialka-budowlana-tarnowski-siedliska.webp",
     "isDirectOwner": true
   },
@@ -3156,7 +3162,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:02.173Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/2d/60/3ce2ce_f343_cover@2x-dzialka-budowlana-myslenicki-kornatka.webp",
     "isDirectOwner": true
   },
@@ -3190,7 +3196,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:02.173Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/3a/17/3ce272_dfc7_cover@2x-dzialka-rolno-budowlana-olkuski-osiek.webp",
     "isDirectOwner": true
   },
@@ -3225,7 +3231,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:02.173Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/78/5e/3cd4ca_be57_cover@2x-dzialka-siedliskowa-krakowski-niebyla.webp",
     "isDirectOwner": true
   },
@@ -3259,7 +3265,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:02.173Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/27/5d/3c647e_e83c_cover@2x-dzialka-rolno-budowlana-oswiecimski-witkowice.webp",
     "isDirectOwner": true
   },
@@ -3294,7 +3300,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:04.446Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/7e/6c/3c0d80_c598_cover@2x-dzialka-siedliskowa-nowotarski-lapsze-nizne.webp",
     "isDirectOwner": true
   },
@@ -3329,7 +3335,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:04.446Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/5c/2c/3c040c_c2ee_cover@2x-dzialka-budowlana-nowotarski-kluszkowce.webp",
     "isDirectOwner": true
   },
@@ -3363,7 +3369,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:04.446Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/59/47/3bd902_6097_cover@2x-dzialka-rolna-gorlicki-szymbark.webp",
     "isDirectOwner": true
   },
@@ -3398,7 +3404,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:06.703Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/40/10/3bb7f4_5327_cover@2x-dzialka-rolno-budowlana-krakowski-igolomia.webp",
     "isDirectOwner": true
   },
@@ -3432,7 +3438,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:06.703Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/6a/4d/3bb9f2_957b_cover@2x-dzialka-rolna-gorlicki-raclawice.webp",
     "isDirectOwner": true
   },
@@ -3466,7 +3472,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:06.703Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/28/6e/3b160e_fa95_cover@2x-dzialka-budowlana-miechowski-antolka.webp",
     "isDirectOwner": true
   },
@@ -3500,7 +3506,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:06.703Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/55/79/3b0024_ecd3_cover@2x-dzialka-rolno-budowlana-proszowicki-palecznica.webp",
     "isDirectOwner": true
   },
@@ -3534,7 +3540,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:09.283Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/56/51/3af836_ceca_cover@2x-dzialka-rolno-budowlana-nowosadecki-bilsko.webp",
     "isDirectOwner": true
   },
@@ -3569,7 +3575,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:09.283Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/43/10/3a65f6_fb34_cover@2x-dzialka-rolno-budowlana-krakowski-zdzieslawice.webp",
     "isDirectOwner": true
   },
@@ -3603,7 +3609,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:09.283Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/17/6b/3a5a32_f0da_cover@2x-dzialka-rolna-suski-grzechynia.webp",
     "isDirectOwner": true
   },
@@ -3637,7 +3643,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:09.283Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/55/68/3a5a28_c65c_cover@2x-dzialka-budowlana-suski-zembrzyce.webp",
     "isDirectOwner": true
   },
@@ -3671,7 +3677,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:09.283Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/2c/1f/3a5a20_eae4_cover@2x-dzialka-rolna-suski-grzechynia.webp",
     "isDirectOwner": true
   },
@@ -3705,7 +3711,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:09.283Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/3d/5c/3a5a1c_351f_cover@2x-dzialka-lesna-suski-grzechynia.webp",
     "isDirectOwner": true
   },
@@ -3739,7 +3745,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:09.283Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/3d/31/3a5a1a_9da7_cover@2x-dzialka-lesna-suski-grzechynia.webp",
     "isDirectOwner": true
   },
@@ -3774,7 +3780,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:09.283Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/28/5e/3a4e8c_d334_cover@2x-dzialka-inwestycyjna-oswiecimski-oswiecim.webp",
     "isDirectOwner": true
   },
@@ -3808,7 +3814,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:10.966Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/69/71/3a3bca_aef3_cover@2x-dzialka-siedliskowa-krakowski-minoga.webp",
     "isDirectOwner": true
   },
@@ -3843,7 +3849,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:10.966Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/2f/28/39b636_a431_cover@2x-dzialka-siedliskowa-nowosadecki-trzetrzewina.webp",
     "isDirectOwner": true
   },
@@ -3877,7 +3883,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:10.966Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/17/77/3990ea_5f0f_cover@2x-dzialka-siedliskowa-miechowski-widnica.webp",
     "isDirectOwner": true
   },
@@ -3911,7 +3917,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:12.583Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/35/42/392e96_63cd_cover@2x-dzialka-rolna-krakowski-januszowice.webp",
     "isDirectOwner": true
   },
@@ -3946,7 +3952,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:12.583Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/4a/66/390486_8e78_cover@2x-dzialka-siedliskowa-brzeski-okocim.webp",
     "isDirectOwner": true
   },
@@ -3980,7 +3986,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:12.583Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/45/43/38cf26_6d49_cover@2x-dzialka-siedliskowa-krakowski-rzeplin.webp",
     "isDirectOwner": true
   },
@@ -4015,7 +4021,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:12.583Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/62/1e/384856_8a71_cover@2x-dzialka-budowlana-oswiecimski-poreba-wielka.webp",
     "isDirectOwner": true
   },
@@ -4049,7 +4055,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:12.583Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/4a/75/383ef4_6f2d_cover@2x-dzialka-rolna-krakowski-michalowice.webp",
     "isDirectOwner": true
   },
@@ -4084,7 +4090,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:15.132Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/6d/63/37bd08_44b5_cover@2x-dzialka-rolna-nowosadecki-chodorowa.webp",
     "isDirectOwner": true
   },
@@ -4118,7 +4124,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:15.132Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/67/6b/37553a_df89_cover@2x-dzialka-budowlana-gorlicki-hanczowa.webp",
     "isDirectOwner": true
   },
@@ -4152,7 +4158,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:15.132Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/55/22/372814_6873_cover@2x-dzialka-budowlana-wadowicki-jaszczurowa.webp",
     "isDirectOwner": true
   },
@@ -4186,7 +4192,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:17.624Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/24/17/36889e_6858_cover@2x-dzialka-siedliskowa-suski-targoszow.webp",
     "isDirectOwner": true
   },
@@ -4220,7 +4226,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:17.624Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/36/6f/3618a4_3313_cover@2x-dzialka-siedliskowa-tarnowski-sieradza.webp",
     "isDirectOwner": true
   },
@@ -4254,7 +4260,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:19.659Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/3a/72/357d70_5e75_cover@2x-dzialka-siedliskowa-krakowski-minoga.webp",
     "isDirectOwner": true
   },
@@ -4289,7 +4295,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:19.659Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/34/10/3525cc_90ea_cover@2x-dzialka-siedliskowa-krakowski-maszkow.webp",
     "isDirectOwner": true
   },
@@ -4323,7 +4329,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:19.659Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/6c/21/34fca0_370d_cover@2x-dzialka-siedliskowa-miechowski-rogow.webp",
     "isDirectOwner": true
   },
@@ -4358,7 +4364,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:19.659Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/62/35/34ea68_9332_cover@2x-dzialka-rolno-budowlana-wadowicki-ryczow.webp",
     "isDirectOwner": true
   },
@@ -4392,7 +4398,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:19.659Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/78/54/34cbc6_43ab_cover@2x-dzialka-siedliskowa-wadowicki-lencze.webp",
     "isDirectOwner": true
   },
@@ -4427,7 +4433,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:22.231Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/1b/3c/340072_8b2b_cover@2x-dzialka-budowlana-krakowski-giebultow.webp",
     "isDirectOwner": true
   },
@@ -4461,7 +4467,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:22.231Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/12/47/33e07c_e720_cover@2x-dzialka-siedliskowa-krakowski-wrzasowice.webp",
     "isDirectOwner": true
   },
@@ -4495,7 +4501,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:22.231Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/23/50/332cbc_92f8_cover@2x-dzialka-budowlana-tarnowski-siedliska.webp",
     "isDirectOwner": true
   },
@@ -4529,7 +4535,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:22.231Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/5b/32/33271e_92e9_cover@2x-dzialka-budowlana-tarnowski-jodlowka-tuchowska.webp",
     "isDirectOwner": true
   },
@@ -4563,7 +4569,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:22.231Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/2a/72/32f8ec_29e8_cover@2x-dzialka-rolno-budowlana-wielicki-jaroszowka.webp",
     "isDirectOwner": true
   },
@@ -4597,7 +4603,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:22.231Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/7e/47/328dee_3df5_cover@2x-dzialka-siedliskowa-krakowski-grzegorzowice-wielkie.webp",
     "isDirectOwner": true
   },
@@ -4632,7 +4638,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:23.676Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/66/6c/316446_f845_cover@2x-dzialka-siedliskowa-suski-hucisko.webp",
     "isDirectOwner": true
   },
@@ -4666,7 +4672,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:23.676Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/20/76/3065c8_85a4_cover@2x-dzialka-siedliskowa-krakowski-rawalowice.webp",
     "isDirectOwner": true
   },
@@ -4701,7 +4707,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:23.676Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/5c/4e/30013e_a0ee_cover@2x-dzialka-rolno-budowlana-suski-zawoja.webp",
     "isDirectOwner": true
   },
@@ -4735,7 +4741,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:25.651Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/4f/69/2fae7e_cc97_cover@2x-dzialka-budowlana-nowosadecki-chodorowa.webp",
     "isDirectOwner": true
   },
@@ -4769,7 +4775,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:25.651Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/40/65/2f62d8_c5f4_cover@2x-dzialka-siedliskowa-brzeski-gnojnik.webp",
     "isDirectOwner": true
   },
@@ -4804,7 +4810,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:25.651Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/12/24/2d796c_920f_cover@2x-dzialka-budowlana-krakowski-miekinia.webp",
     "isDirectOwner": true
   },
@@ -4839,7 +4845,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:27.698Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/12/12/2cdf5c_e19b_cover@2x-dzialka-rolno-budowlana-krakowski-gorna-wies.webp",
     "isDirectOwner": true
   },
@@ -4874,7 +4880,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:27.698Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/12/66/2c080c_b47f_cover@2x-dzialka-budowlana-krakowski-niedzwiedz.webp",
     "isDirectOwner": true
   },
@@ -4909,7 +4915,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:27.698Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/42/57/2b0260_6564_cover@2x-dzialka-budowlana-tarnowski-szynwald.webp",
     "isDirectOwner": true
   },
@@ -4943,7 +4949,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:27.698Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/51/47/2aeb3e_80fc_cover@2x-dzialka-rolna-wadowicki-wysoka.webp",
     "isDirectOwner": true
   },
@@ -4977,7 +4983,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:27.698Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/70/11/2abc06_cae9_cover@2x-dzialka-inna-proszowicki-polekarcice.webp",
     "isDirectOwner": true
   },
@@ -5011,7 +5017,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:29.274Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/70/6b/281e36_f2aa_cover@2x-dzialka-budowlana-tarnowski-jodlowka-tuchowska.webp",
     "isDirectOwner": true
   },
@@ -5045,7 +5051,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:29.274Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/2d/3b/27f810_e2fd_cover@2x-dzialka-rolno-budowlana-proszowicki-klimontow.webp",
     "isDirectOwner": true
   },
@@ -5079,7 +5085,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-08-26T09:06:51.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InYyMGU4Z3A0cjdmaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.NYEoagJgdELscgs3EX-V3JTN92cqkwNq8TpveG-uOOc/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -5113,7 +5119,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-28T10:46:26.290Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/48/51/414036_7619_cover@2x-dzialka-siedliskowa-proszowicki-piekary.webp",
     "isDirectOwner": true
   },
@@ -5147,7 +5153,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-28T10:46:26.290Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/12/7f/413eda_b367_cover@2x-dzialka-rolna-bochenski-kamyk.webp",
     "isDirectOwner": true
   },
@@ -5182,7 +5188,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-28T15:55:18.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im81NWtmOGhnOGY1by1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1h6iYgY5wXl2pr45luV5yBvNUCyTOFUqifIA6VGerco/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -5217,7 +5223,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-29T10:43:24.048Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/73/58/4141f6_cebc_cover@2x-dzialka-rolna-tarnowski-jastrzebia.webp",
     "isDirectOwner": true
   },
@@ -5251,7 +5257,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:31.060Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/26/1f/24bfec_7e1a_cover@2x-dzialka-siedliskowa-tarnowski-wesolow.webp",
     "isDirectOwner": true
   },
@@ -5285,7 +5291,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-29T16:19:22.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZndGFnZHVhanpsYjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.w6ppjP1BH1rufanTjmk1B9-fCl0qnm7pWGLkfrHo144/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -5319,7 +5325,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-30T10:34:26.863Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "isDirectOwner": true,
     "imageUrl": "https://s2.adresowa.pl/oi/21/70/415150_619c_cover@2x-dzialka-siedliskowa-wadowicki-bachowice.webp",
     "county": "wadowicki"
@@ -5354,7 +5360,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-30T10:34:26.863Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/2b/69/414acc_c148_cover@2x-dzialka-rolno-budowlana-tarnowski-wieckowice.webp",
     "isDirectOwner": true
   },
@@ -5389,7 +5395,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-15T13:24:11.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFpbnlhc2ZkN25hMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.lya6akj9uo6YxuN7jiAlasEbGCcougNqL_BLqtqI2Tg/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -5423,7 +5429,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:31.060Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/5e/36/238542_f033_cover@2x-dzialka-rolno-budowlana-nowosadecki-skrzetla-rojowka.webp",
     "isDirectOwner": true
   },
@@ -5457,7 +5463,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:31.060Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/6a/2d/23183e_6ca9_cover@2x-dzialka-budowlana-gorlicki-zdynia.webp",
     "isDirectOwner": true
   },
@@ -5491,42 +5497,8 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:36:31.060Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/5c/5d/22ae04_b830_cover@2x-dzialka-budowlana-wadowicki-zakrzow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-2124966",
-    "source": "adresowo",
-    "sourceId": "2124966",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kety-witkowice-3-260-m2-v3m1i1",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Witkowice",
-    "voivodeship": "malopolskie",
-    "county": "oswiecimski",
-    "city": "Witkowice",
-    "coordinates": {
-      "lat": 50.02918901714916,
-      "lng": 19.24551789842964
-    },
-    "isNearBorder": false,
-    "areaM2": 3260,
-    "currentPrice": 180000,
-    "currentPricePerM2": 55.21,
-    "initialPrice": 180000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-24",
-        "price": 180000,
-        "pricePerM2": 55.21
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-24T20:36:31.060Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/4b/69/206ca6_be80_cover@2x-dzialka-siedliskowa-oswiecimski-witkowice.webp",
     "isDirectOwner": true
   },
   {
@@ -5560,7 +5532,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-10-01T09:31:53.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNmMjhkcTluMG9vdTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PiRpSvUh9vvmrCdAY6B6ixbUXnCOCKk-mANPLNHz5sU/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -5594,7 +5566,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2025-09-03T11:41:37.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhkaXZ3OTNoZHJ6OTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.2ZpFVsI6es_NGNSxH6MRBfh20rEHYtxkZU-Q_M9RI-M/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -5628,7 +5600,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-30T13:16:12.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ3Y3NpdjdxNG5pazItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.j2ItZqrDk3ew9VasgB_regjZ-Ho0YwdjYo6moGl10PQ/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -5663,7 +5635,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-22T06:11:26.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpkdnoxdnllMHBrbDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ALFZMrIw2pgj0o4MsR_fS4f_mwUMotyUtSV1d2zTEzQ/image;s=655x491;q=80",
     "isDirectOwner": true
   },
@@ -5697,7 +5669,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-10-05T08:21:45.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjF4YWVud2phdmpmNC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.wgFw8qGXyLaDK-m-aEkzzm60FLHQwsO2Lg6Qv2wJuCI/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -5731,7 +5703,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-10-05T11:26:49.580Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/29/2d/416b0c_dfa9_cover@2x-dom-tarnowski-siedliska.webp",
     "isDirectOwner": true
   },
@@ -5765,7 +5737,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-10-05T11:26:49.580Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/48/57/416a4c_c1bc_cover@2x-dom-tarnowski-szczepanowice.webp",
     "isDirectOwner": true
   },
@@ -5799,7 +5771,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2025-09-15T08:49:03.000Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjcyY3JhY3R4NW84YzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.CVlbiubXZsoRHrU-Ukup9SB5KxbTGkjTI5KBUDhIfV0/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -5834,7 +5806,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-10-06T11:22:06.659Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/14/12/4171a6_329b_cover@2x-dzialka-budowlana-bochenski-chronow.webp",
     "isDirectOwner": true
   },
@@ -5868,8 +5840,144 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-10-06T11:22:06.659Z",
-    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
     "imageUrl": "https://s2.adresowa.pl/oi/35/4f/417084_f06d_cover@2x-dzialka-rolno-budowlana-nowosadecki-posadowa-mogilska.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-96845427600067",
+    "source": "otodom",
+    "sourceId": "96845427600067",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-3-500-m-ID4De5e",
+    "propertyType": "habitat",
+    "title": "Działka siedliskowa 3 500 m²",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Nowodworze",
+    "coordinates": {
+      "lat": 50.01066079138185,
+      "lng": 20.993924348623857
+    },
+    "isNearBorder": false,
+    "areaM2": 3500,
+    "currentPrice": 140000,
+    "currentPricePerM2": 40,
+    "initialPrice": 140000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "1999-03-01",
+        "price": 140000,
+        "pricePerM2": 40
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "1999-03-01T00:00:01.000Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68499109",
+    "source": "otodom",
+    "sourceId": "68499109",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-ID4DpKl",
+    "propertyType": "habitat",
+    "title": "Gospodarstwo rolne",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Kraków",
+    "street": "ul. Wiązowa",
+    "coordinates": {
+      "lat": 50.06969926260075,
+      "lng": 19.95313766589602
+    },
+    "isNearBorder": false,
+    "areaM2": 170,
+    "currentPrice": 2900000,
+    "currentPricePerM2": 17058.82,
+    "initialPrice": 2900000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-06",
+        "price": 2900000,
+        "pricePerM2": 17058.82
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-06T16:21:05.000Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVvZXEwM3JxZXp6MDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.tnGkR0Rqm_coNrAI9g9m3hXGfJpbZJKfCyd6vpB8Byk/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4289578",
+    "source": "adresowo",
+    "sourceId": "4289578",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-lukowica-stronie-4-100-m2-z8r0n2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Stronie",
+    "voivodeship": "malopolskie",
+    "county": "limanowski",
+    "city": "Stronie",
+    "coordinates": {
+      "lat": 49.70590386053978,
+      "lng": 20.41472727413581
+    },
+    "isNearBorder": false,
+    "areaM2": 4100,
+    "currentPrice": 255000,
+    "currentPricePerM2": 62.2,
+    "initialPrice": 255000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-07",
+        "price": 255000,
+        "pricePerM2": 62.2
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-07T11:10:27.394Z",
+    "lastSeenAt": "2026-10-07T11:11:44.203Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6d/66/41742a_5dbd_cover@2x-dzialka-rolno-budowlana-limanowski-stronie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-2124966",
+    "source": "adresowo",
+    "sourceId": "2124966",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-kety-witkowice-3-260-m2-v3m1i1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Witkowice",
+    "voivodeship": "malopolskie",
+    "county": "oswiecimski",
+    "city": "Witkowice",
+    "coordinates": {
+      "lat": 50.02918901714916,
+      "lng": 19.24551789842964
+    },
+    "isNearBorder": false,
+    "areaM2": 3260,
+    "currentPrice": 180000,
+    "currentPricePerM2": 55.21,
+    "initialPrice": 180000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-24",
+        "price": 180000,
+        "pricePerM2": 55.21
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-24T20:36:31.060Z",
+    "lastSeenAt": "2026-10-06T11:23:22.660Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4b/69/206ca6_be80_cover@2x-dzialka-siedliskowa-oswiecimski-witkowice.webp",
     "isDirectOwner": true
   },
   {
@@ -6143,11 +6251,12 @@
         "pricePerM2": 3965.25
       }
     ],
-    "status": "active",
+    "status": "removed",
     "firstSeenAt": "2026-09-22T10:30:03.000Z",
     "lastSeenAt": "2026-09-30T10:35:37.102Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF3MTUwa3d5anBucTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8gNKPS0_pIfKk_G5Vr6_JGENH1srWtHn3Y2dpHsa22c/image;s=655x491;q=80",
-    "isDirectOwner": false
+    "isDirectOwner": false,
+    "removedAt": "2026-10-07T11:11:44.203Z"
   },
   {
     "id": "otodom-67777137",
@@ -6178,11 +6287,12 @@
         "pricePerM2": 7497.5
       }
     ],
-    "status": "active",
+    "status": "removed",
     "firstSeenAt": "2026-09-21T09:57:24.000Z",
     "lastSeenAt": "2026-09-30T10:35:37.102Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRlcG82N25ua3VwYjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.A86H0_tCxK-YDt82IF_nWLbr9EQDVf44UC3155IHkoY/image;s=655x491;q=80",
-    "isDirectOwner": false
+    "isDirectOwner": false,
+    "removedAt": "2026-10-07T11:11:44.203Z"
   },
   {
     "id": "adresowo-4138992",
@@ -6212,11 +6322,12 @@
         "pricePerM2": 43.33
       }
     ],
-    "status": "active",
+    "status": "removed",
     "firstSeenAt": "2026-09-24T20:35:51.402Z",
     "lastSeenAt": "2026-09-30T10:35:37.102Z",
     "imageUrl": "https://s2.adresowa.pl/oi/46/67/3f27f0_c004_cover@2x-dzialka-rolno-budowlana-miechowski-lazy.webp",
-    "isDirectOwner": true
+    "isDirectOwner": true,
+    "removedAt": "2026-10-07T11:11:44.203Z"
   },
   {
     "id": "adresowo-3823568",
@@ -6247,11 +6358,12 @@
         "pricePerM2": 237.53
       }
     ],
-    "status": "active",
+    "status": "removed",
     "firstSeenAt": "2026-09-24T20:36:09.283Z",
     "lastSeenAt": "2026-09-30T10:35:37.102Z",
     "imageUrl": "https://s2.adresowa.pl/oi/6b/31/3a57d0_ab77_cover@2x-dzialka-rolno-budowlana-nowotarski-szczawnica.webp",
-    "isDirectOwner": true
+    "isDirectOwner": true,
+    "removedAt": "2026-10-07T11:11:44.203Z"
   },
   {
     "id": "otodom-96845383900067",
@@ -6285,40 +6397,6 @@
     "firstSeenAt": "1999-03-01T00:00:01.000Z",
     "lastSeenAt": "2026-09-29T10:44:39.219Z",
     "isDirectOwner": false,
-    "removedAt": "2026-10-06T11:23:22.660Z"
-  },
-  {
-    "id": "otodom-96845427600067",
-    "source": "otodom",
-    "sourceId": "96845427600067",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-siedliskowa-3-500-m-ID4De5e",
-    "propertyType": "habitat",
-    "title": "Działka siedliskowa 3 500 m²",
-    "voivodeship": "malopolskie",
-    "county": "tarnowski",
-    "city": "Nowodworze",
-    "coordinates": {
-      "lat": 50.01066079138185,
-      "lng": 20.993924348623857
-    },
-    "isNearBorder": false,
-    "areaM2": 3500,
-    "currentPrice": 140000,
-    "currentPricePerM2": 40,
-    "initialPrice": 140000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "1999-03-01",
-        "price": 140000,
-        "pricePerM2": 40
-      }
-    ],
-    "status": "removed",
-    "firstSeenAt": "1999-03-01T00:00:01.000Z",
-    "lastSeenAt": "2026-09-29T10:44:39.219Z",
-    "isDirectOwner": true,
     "removedAt": "2026-10-06T11:23:22.660Z"
   },
   {

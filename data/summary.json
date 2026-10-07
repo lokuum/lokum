@@ -1,12 +1,12 @@
 {
-  "totalHouses": 45138,
-  "totalPlots": 66622,
-  "totalHabitats": 3765,
-  "totalPriceDrops": 3555,
-  "avgHousePricePerM2": 7170,
-  "avgPlotPricePerM2": 241,
-  "avgHabitatPricePerM2": 2072,
-  "lastUpdated": "2026-10-06T12:02:58.826Z",
+  "totalHouses": 44950,
+  "totalPlots": 66389,
+  "totalHabitats": 3741,
+  "totalPriceDrops": 3960,
+  "avgHousePricePerM2": 7174,
+  "avgPlotPricePerM2": 242,
+  "avgHabitatPricePerM2": 2074,
+  "lastUpdated": "2026-10-07T11:51:07.679Z",
   "topPriceDrops": [
     {
       "id": "otodom-68062608",
@@ -43,7 +43,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-03T17:35:32.000Z",
-      "lastSeenAt": "2026-10-06T11:35:19.408Z",
+      "lastSeenAt": "2026-10-07T11:23:27.249Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZzaDBvcXc4Z203ajEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.BuzkQ9VxD2ZkTmdN36V7LhefGkwMjUJarnHaMWb26RY/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 1990000
@@ -84,10 +84,51 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-26T12:09:48.000Z",
-      "lastSeenAt": "2026-10-06T11:59:55.645Z",
+      "lastSeenAt": "2026-10-07T11:47:58.789Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims2ajBnZTZqNWkxYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wqT53kSc4lZeorRzIGZWNkI3s-yBz_ourBp53PKVi5Q/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 995000000
+    },
+    {
+      "id": "adresowo-4147944",
+      "source": "adresowo",
+      "sourceId": "4147944",
+      "sourceUrl": "https://adresowo.pl/o/dom-biala-piska-zabielne-175-m2-r5y7m7",
+      "propertyType": "house",
+      "title": "Dom — Zabielne",
+      "voivodeship": "warminsko-mazurskie",
+      "county": "piski",
+      "city": "Zabielne",
+      "coordinates": {
+        "lat": 53.62724404264576,
+        "lng": 21.820163721447724
+      },
+      "isNearBorder": false,
+      "areaM2": 175,
+      "plotAreaM2": 2000,
+      "currentPrice": 99900,
+      "currentPricePerM2": 570.86,
+      "initialPrice": 1250000,
+      "priceChangeAmount": -1150100,
+      "priceChangePercent": -92,
+      "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1250000,
+          "pricePerM2": 7142.86
+        },
+        {
+          "date": "2026-10-07",
+          "price": 99900,
+          "pricePerM2": 570.86
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-24T21:13:25.206Z",
+      "lastSeenAt": "2026-10-07T11:43:30.463Z",
+      "imageUrl": "https://s2.adresowa.pl/oi/16/75/3f4ae8_7881_cover@2x-dom-piski-zabielne.webp",
+      "isDirectOwner": true,
+      "previousPrice": 1250000
     },
     {
       "id": "adresowo-4143232",
@@ -124,50 +165,10 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:07:49.692Z",
-      "lastSeenAt": "2026-10-06T11:02:05.198Z",
+      "lastSeenAt": "2026-10-07T10:50:23.031Z",
       "imageUrl": "https://s2.adresowa.pl/oi/48/7f/3f3880_853b_cover@2x-dzialka-budowlana-wolowski-bukowice.webp",
       "isDirectOwner": true,
       "previousPrice": 176000
-    },
-    {
-      "id": "adresowo-4056066",
-      "source": "adresowo",
-      "sourceId": "4056066",
-      "sourceUrl": "https://adresowo.pl/o/dom-lesna-swiecie-270-m2-i7w6q9",
-      "propertyType": "house",
-      "title": "Dom — Świecie",
-      "voivodeship": "dolnoslaskie",
-      "county": "lubanski",
-      "city": "Świecie",
-      "coordinates": {
-        "lat": 53.414386905823456,
-        "lng": 18.454547626078526
-      },
-      "isNearBorder": true,
-      "areaM2": 270,
-      "currentPrice": 89000,
-      "currentPricePerM2": 329.63,
-      "initialPrice": 890000,
-      "priceChangeAmount": -801000,
-      "priceChangePercent": -90,
-      "priceHistory": [
-        {
-          "date": "2026-09-24",
-          "price": 890000,
-          "pricePerM2": 3296.3
-        },
-        {
-          "date": "2026-10-06",
-          "price": 89000,
-          "pricePerM2": 329.63
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "2026-09-24T20:04:55.217Z",
-      "lastSeenAt": "2026-10-06T11:02:05.098Z",
-      "imageUrl": "https://s2.adresowa.pl/oi/27/6d/3de402_b45a_cover@2x-dom-lubanski-swiecie.webp",
-      "isDirectOwner": true,
-      "previousPrice": 890000
     },
     {
       "id": "adresowo-3946570",
@@ -203,7 +204,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:12:18.827Z",
-      "lastSeenAt": "2026-10-06T11:10:57.614Z",
+      "lastSeenAt": "2026-10-07T10:59:04.779Z",
       "imageUrl": "https://s2.adresowa.pl/oi/3b/24/3c384a_a4ec_cover@2x-dzialka-budowlana-lubelski-motycz.webp",
       "isDirectOwner": true,
       "county": "lubelski",
@@ -244,7 +245,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:17:41.977Z",
-      "lastSeenAt": "2026-10-06T11:39:00.457Z",
+      "lastSeenAt": "2026-10-07T11:27:15.882Z",
       "imageUrl": "https://s2.adresowa.pl/oi/4c/4e/1b2410_f146_cover@2x-dzialka-budowlana-bielski-augustowo.webp",
       "isDirectOwner": true,
       "county": "bielski",
@@ -287,7 +288,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-14T09:50:24.000Z",
-      "lastSeenAt": "2026-10-06T11:35:19.325Z",
+      "lastSeenAt": "2026-10-07T11:23:27.182Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZpOXpqazJkbDh4bzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xPF97f-oWQGyMAg-UnbzEvZXjNs0__gHQDJqgouQ5Ew/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 880000
@@ -369,7 +370,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-11T13:37:14.000Z",
-      "lastSeenAt": "2026-10-06T12:02:55.047Z",
+      "lastSeenAt": "2026-10-07T11:51:04.184Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InI1MzJ4ZWEwcWpjMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.OXUL50rn9gkIXDrf4XembPbnZJaYtXJE9-Psdgk-RGA/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 650000
@@ -451,7 +452,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:28:34.318Z",
-      "lastSeenAt": "2026-10-06T12:02:55.047Z",
+      "lastSeenAt": "2026-10-07T11:51:04.184Z",
       "imageUrl": "https://s2.adresowa.pl/oi/6f/38/3f92b2_2e76_cover@2x-dzialka-budowlana-policki-pilchowo.webp",
       "isDirectOwner": true,
       "previousPrice": 980000
@@ -492,7 +493,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T13:07:31.000Z",
-      "lastSeenAt": "2026-10-06T11:10:57.614Z",
+      "lastSeenAt": "2026-10-07T10:59:04.779Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjI0cXl1eXN6cGY0NS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.PkuqP1OClaf3CpuM40pBXCMpb8RBSIy86Q6iLfFefqg/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 1300000
@@ -531,7 +532,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:12:01.151Z",
-      "lastSeenAt": "2026-10-06T11:10:57.614Z",
+      "lastSeenAt": "2026-10-07T10:59:04.779Z",
       "imageUrl": "https://s2.adresowa.pl/oi/43/79/409776_bb0e_cover@2x-dzialka-budowlana-lubelski-tomaszowice-kolonia.webp",
       "isDirectOwner": true,
       "county": "lubelski",
@@ -571,7 +572,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:22:49.874Z",
-      "lastSeenAt": "2026-10-06T11:35:19.408Z",
+      "lastSeenAt": "2026-10-07T11:23:27.249Z",
       "imageUrl": "https://s2.adresowa.pl/oi/39/2f/3f37bc_cc41_cover@2x-dzialka-budowlana-jaroslawski-wiazownica.webp",
       "isDirectOwner": true,
       "county": "jaroslawski",
@@ -613,7 +614,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-25T09:16:34.833Z",
-      "lastSeenAt": "2026-10-06T11:02:05.098Z",
+      "lastSeenAt": "2026-10-07T10:50:22.948Z",
       "imageUrl": "https://s2.adresowa.pl/oi/73/6f/4135ba_9cd3_cover@2x-dom-strzelinski-strzelin.webp",
       "isDirectOwner": true,
       "previousPrice": 155000
@@ -694,7 +695,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:22:44.813Z",
-      "lastSeenAt": "2026-10-06T11:35:19.408Z",
+      "lastSeenAt": "2026-10-07T11:23:27.249Z",
       "imageUrl": "https://s2.adresowa.pl/oi/14/52/3fc4ee_bafe_cover@2x-dzialka-budowlana-jaroslawski-mokra.webp",
       "isDirectOwner": true,
       "county": "jaroslawski",
@@ -742,10 +743,51 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-18T22:46:29.000Z",
-      "lastSeenAt": "2026-10-06T11:43:27.531Z",
+      "lastSeenAt": "2026-10-07T11:31:39.985Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImoyOHdsdmRna2MwNzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.d8HGFhpXc4W6JA5iTAQvgDYC1oGSfREYOOZtgS5kTkk/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 499000
+    },
+    {
+      "id": "otodom-68428159",
+      "source": "otodom",
+      "sourceId": "68428159",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-3000-m-jakubowice-koninskie-kolonia-ID4D7hZ",
+      "propertyType": "plot",
+      "title": "Działka budowlana 3000 m²  – Jakubowice Konińskie Kolonia",
+      "voivodeship": "lubelskie",
+      "county": "lubelski",
+      "city": "Jakubowice Konińskie-Kolonia",
+      "street": "ul. Jarzębinowa",
+      "coordinates": {
+        "lat": 51.33041652131199,
+        "lng": 22.538075146548017
+      },
+      "isNearBorder": false,
+      "areaM2": 3000,
+      "currentPrice": 350000,
+      "currentPricePerM2": 350,
+      "initialPrice": 990000,
+      "priceChangeAmount": -640000,
+      "priceChangePercent": -64.6,
+      "priceHistory": [
+        {
+          "date": "2026-09-17",
+          "price": 990000,
+          "pricePerM2": 330
+        },
+        {
+          "date": "2026-10-07",
+          "price": 350000,
+          "pricePerM2": 350
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-16T19:08:11.000Z",
+      "lastSeenAt": "2026-10-07T10:59:04.779Z",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjB1dWsxa2doMWIxdDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.h8A4fVuQkbyyrjNhjwGV1qb2BhDfiIRIIsmKp7kq6_U/image;s=655x491;q=80",
+      "isDirectOwner": true,
+      "previousPrice": 990000
     },
     {
       "id": "adresowo-3401038",
@@ -782,7 +824,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:08:19.828Z",
-      "lastSeenAt": "2026-10-06T11:02:05.198Z",
+      "lastSeenAt": "2026-10-07T10:50:23.031Z",
       "imageUrl": "https://s2.adresowa.pl/oi/27/65/33e54e_cf27_cover@2x-dzialka-inwestycyjna-sredzki-gloska.webp",
       "isDirectOwner": true,
       "previousPrice": 1440000
@@ -822,7 +864,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:22.555Z",
-      "lastSeenAt": "2026-10-06T11:28:39.761Z",
+      "lastSeenAt": "2026-10-07T11:17:02.768Z",
       "imageUrl": "https://s2.adresowa.pl/oi/2c/26/408f2e_520c_cover@2x-dzialka-budowlana-wolominski-nowe-reczaje.webp",
       "isDirectOwner": true,
       "previousPrice": 780000
@@ -863,7 +905,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-08-20T20:18:16.000Z",
-      "lastSeenAt": "2026-10-06T11:39:00.457Z",
+      "lastSeenAt": "2026-10-07T11:27:15.882Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNiaWNka3EyczNlMy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.IxH_Yokb4lG4VCAqdV7_EpbUBUB_TLjSIArEduwcBlc/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 148500
@@ -903,7 +945,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-18T04:01:07.000Z",
-      "lastSeenAt": "2026-10-06T11:55:26.292Z",
+      "lastSeenAt": "2026-10-07T11:43:30.531Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imo4dXlxdTQxeXRzcC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.DXN-wm9C3GcmJGCV8tLIvsUFFebceGanXYhNwuIs2MA/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 250000
@@ -943,7 +985,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:16:27.629Z",
-      "lastSeenAt": "2026-10-06T11:55:26.292Z",
+      "lastSeenAt": "2026-10-07T11:43:30.531Z",
       "imageUrl": "https://s2.adresowa.pl/oi/70/10/3995c2_3ef8_cover@2x-dzialka-inwestycyjna-ostrodzki-komorowo.webp",
       "isDirectOwner": true,
       "previousPrice": 950000
@@ -984,10 +1026,52 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-05-30T10:40:45.000Z",
-      "lastSeenAt": "2026-10-06T11:35:19.408Z",
+      "lastSeenAt": "2026-10-07T11:23:27.249Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImsxNHlkcXhvZTJ5eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zZafY1w5i_nnQhQYDf4yY--sFEhlQ_o--TyoY61dD4c/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 90000
+    },
+    {
+      "id": "otodom-68410545",
+      "source": "otodom",
+      "sourceId": "68410545",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-wyjatkowy-wolnostojacy-dom-jednorodzinny-z-2022-ul-szkolna48-ID4D2HT",
+      "propertyType": "house",
+      "title": "Sprzedam wyjątkowy, wolnostojący dom jednorodzinny z 2022 ul Szkolna48",
+      "voivodeship": "slaskie",
+      "county": "tyski",
+      "city": "Tychy",
+      "street": "ul. Szkolna",
+      "coordinates": {
+        "lat": 50.140556614368585,
+        "lng": 18.969349979772968
+      },
+      "isNearBorder": false,
+      "areaM2": 216,
+      "plotAreaM2": 1073,
+      "currentPrice": 850000,
+      "currentPricePerM2": 6343.28,
+      "initialPrice": 1850000,
+      "priceChangeAmount": -1000000,
+      "priceChangePercent": -54.1,
+      "priceHistory": [
+        {
+          "date": "2026-09-23",
+          "price": 1850000,
+          "pricePerM2": 8564.81
+        },
+        {
+          "date": "2026-10-07",
+          "price": 850000,
+          "pricePerM2": 6343.28
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-23T19:24:48.000Z",
+      "lastSeenAt": "2026-10-07T11:35:56.315Z",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVxd2Rva2kxNnV1di1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.7p8E1St0F_VuKapt5HtPAw9vpTmsksd-4sDQQrXf-F8/image;s=655x491;q=80",
+      "isDirectOwner": true,
+      "previousPrice": 1850000
     },
     {
       "id": "adresowo-3767368",
@@ -1024,7 +1108,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:01:57.598Z",
-      "lastSeenAt": "2026-10-06T11:43:27.625Z",
+      "lastSeenAt": "2026-10-07T11:31:40.062Z",
       "imageUrl": "https://s2.adresowa.pl/oi/31/68/397c48_34cc_cover@2x-dzialka-rod-malborski-nowa-wies-malborska.webp",
       "isDirectOwner": true,
       "previousPrice": 13000
@@ -1065,10 +1149,50 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-19T14:49:20.000Z",
-      "lastSeenAt": "2026-10-06T11:23:22.558Z",
+      "lastSeenAt": "2026-10-07T11:11:44.134Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZpdDlsM2pvaTZiODItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ggep3-UQMImR5sC-cgPN8oLyYYuAcfnh4Syf9IlO1VM/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 1380000
+    },
+    {
+      "id": "adresowo-4265282",
+      "source": "adresowo",
+      "sourceId": "4265282",
+      "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-przywidz-sucha-huta-2-997-m2-e7r3j1",
+      "propertyType": "plot",
+      "title": "Działka — Sucha Huta",
+      "voivodeship": "pomorskie",
+      "county": "gdanski",
+      "city": "Sucha Huta",
+      "coordinates": {
+        "lat": 54.257499426338,
+        "lng": 18.646486367668647
+      },
+      "isNearBorder": false,
+      "areaM2": 2997,
+      "currentPrice": 126000,
+      "currentPricePerM2": 90,
+      "initialPrice": 269000,
+      "priceChangeAmount": -143000,
+      "priceChangePercent": -53.2,
+      "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 269000,
+          "pricePerM2": 89.76
+        },
+        {
+          "date": "2026-09-28",
+          "price": 126000,
+          "pricePerM2": 90
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-24T21:01:21.601Z",
+      "lastSeenAt": "2026-10-07T11:31:40.062Z",
+      "imageUrl": "https://s2.adresowa.pl/oi/78/2a/411542_6240_cover@2x-dzialka-budowlana-gdanski-sucha-huta.webp",
+      "isDirectOwner": true,
+      "previousPrice": 269000
     },
     {
       "id": "otodom-68442693",
@@ -1111,46 +1235,6 @@
       "previousPrice": 269000
     },
     {
-      "id": "adresowo-4265282",
-      "source": "adresowo",
-      "sourceId": "4265282",
-      "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-przywidz-sucha-huta-2-997-m2-e7r3j1",
-      "propertyType": "plot",
-      "title": "Działka — Sucha Huta",
-      "voivodeship": "pomorskie",
-      "county": "gdanski",
-      "city": "Sucha Huta",
-      "coordinates": {
-        "lat": 54.257499426338,
-        "lng": 18.646486367668647
-      },
-      "isNearBorder": false,
-      "areaM2": 2997,
-      "currentPrice": 126000,
-      "currentPricePerM2": 90,
-      "initialPrice": 269000,
-      "priceChangeAmount": -143000,
-      "priceChangePercent": -53.2,
-      "priceHistory": [
-        {
-          "date": "2026-09-24",
-          "price": 269000,
-          "pricePerM2": 89.76
-        },
-        {
-          "date": "2026-09-28",
-          "price": 126000,
-          "pricePerM2": 90
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "2026-09-24T21:01:21.601Z",
-      "lastSeenAt": "2026-10-06T11:43:27.625Z",
-      "imageUrl": "https://s2.adresowa.pl/oi/78/2a/411542_6240_cover@2x-dzialka-budowlana-gdanski-sucha-huta.webp",
-      "isDirectOwner": true,
-      "previousPrice": 269000
-    },
-    {
       "id": "otodom-68395953",
       "source": "otodom",
       "sourceId": "68395953",
@@ -1185,7 +1269,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-15T12:20:37.000Z",
-      "lastSeenAt": "2026-10-06T11:10:57.614Z",
+      "lastSeenAt": "2026-10-07T10:59:04.779Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImgzbTA2YTFlc3g5ai1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.cgq_agSXiq15OqPxWvW84hg4gW3O3-t1148obJZFhHE/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 390000
@@ -1225,7 +1309,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-23T09:17:18.970Z",
-      "lastSeenAt": "2026-10-06T11:59:55.758Z",
+      "lastSeenAt": "2026-10-07T11:47:58.873Z",
       "imageUrl": "https://s2.adresowa.pl/oi/56/1b/3aaf6a_63b4_cover@2x-dzialka-rolna-slupecki-myszakow.webp",
       "isDirectOwner": true,
       "previousPrice": 610000
@@ -1265,7 +1349,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:29:06.438Z",
-      "lastSeenAt": "2026-10-06T12:02:55.047Z",
+      "lastSeenAt": "2026-10-07T11:51:04.184Z",
       "imageUrl": "https://s2.adresowa.pl/oi/5b/15/37e0a0_ae70_cover@2x-dzialka-budowlana-kamienski-sulomino.webp",
       "isDirectOwner": true,
       "previousPrice": 368000
@@ -1305,7 +1389,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:07:54.511Z",
-      "lastSeenAt": "2026-10-06T11:02:05.301Z",
+      "lastSeenAt": "2026-10-07T10:50:23.109Z",
       "imageUrl": "https://s2.adresowa.pl/oi/7c/6f/3e8b3c_37c3_cover@2x-dzialka-rolna-wroclawski-bogdaszowice.webp",
       "isDirectOwner": true,
       "previousPrice": 182450
@@ -1345,7 +1429,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:16:17.198Z",
-      "lastSeenAt": "2026-10-06T11:55:26.292Z",
+      "lastSeenAt": "2026-10-07T11:43:30.531Z",
       "imageUrl": "https://s2.adresowa.pl/oi/1e/32/3e7b2e_2782_cover@2x-dzialka-rekreacyjna-szczycienski-elganowo.webp",
       "isDirectOwner": true,
       "previousPrice": 120000
@@ -1386,10 +1470,91 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-15T16:05:14.000Z",
-      "lastSeenAt": "2026-10-06T11:35:19.408Z",
+      "lastSeenAt": "2026-10-07T11:23:27.249Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNhdG4zbjN0cmRwbS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.CCnqfNA6QflujV56OwEMys2EDbrZa42mqg06iE4Je0s/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 259920
+    },
+    {
+      "id": "otodom-68461878",
+      "source": "otodom",
+      "sourceId": "68461878",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/2-domy-jednorodzinne-6-km-od-polnocnej-granicy-wroclawia-duza-dzialka-ID4Dg3Q",
+      "propertyType": "house",
+      "title": "2 domy jednorodzinne 6 km od północnej granicy Wrocławia, duża działka",
+      "voivodeship": "dolnoslaskie",
+      "county": "trzebnicki",
+      "city": "Ozorowice",
+      "coordinates": {
+        "lat": 51.306231555888175,
+        "lng": 17.069593482973083
+      },
+      "isNearBorder": false,
+      "areaM2": 145,
+      "plotAreaM2": 3000,
+      "currentPrice": 1200000,
+      "currentPricePerM2": 8275.86,
+      "initialPrice": 2400000,
+      "priceChangeAmount": -1200000,
+      "priceChangePercent": -50,
+      "priceHistory": [
+        {
+          "date": "2026-09-25",
+          "price": 2400000,
+          "pricePerM2": 16551.72
+        },
+        {
+          "date": "2026-10-07",
+          "price": 1200000,
+          "pricePerM2": 8275.86
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-25T17:28:01.000Z",
+      "lastSeenAt": "2026-10-07T10:50:22.948Z",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijg0a243ZXJrb3FkMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HWpmpaNYnKrqP1mGgLglS-8if4-N1EYSC5PZufrdqto/image;s=655x491;q=80",
+      "isDirectOwner": true,
+      "previousPrice": 2400000
+    },
+    {
+      "id": "adresowo-4278616",
+      "source": "adresowo",
+      "sourceId": "4278616",
+      "sourceUrl": "https://adresowo.pl/o/dom-wisznia-mala-ozorowice-290-m2-m0z3i0",
+      "propertyType": "house",
+      "title": "Dom — Ozorowice",
+      "voivodeship": "dolnoslaskie",
+      "county": "trzebnicki",
+      "city": "Ozorowice",
+      "coordinates": {
+        "lat": 51.31015095618234,
+        "lng": 17.0546289766941
+      },
+      "isNearBorder": false,
+      "areaM2": 290,
+      "currentPrice": 1200000,
+      "currentPricePerM2": 8275.86,
+      "initialPrice": 2400000,
+      "priceChangeAmount": -1200000,
+      "priceChangePercent": -50,
+      "priceHistory": [
+        {
+          "date": "2026-09-30",
+          "price": 2400000,
+          "pricePerM2": 8275.86
+        },
+        {
+          "date": "2026-10-07",
+          "price": 1200000,
+          "pricePerM2": 8275.86
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-30T10:11:35.273Z",
+      "lastSeenAt": "2026-10-07T10:50:22.948Z",
+      "imageUrl": "https://s2.adresowa.pl/oi/28/2f/414958_6ccd_cover@2x-dom-trzebnicki-ozorowice.webp",
+      "isDirectOwner": true,
+      "previousPrice": 2400000
     },
     {
       "id": "adresowo-3749072",
@@ -1425,7 +1590,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:12:29.943Z",
-      "lastSeenAt": "2026-10-06T11:10:57.614Z",
+      "lastSeenAt": "2026-10-07T10:59:04.779Z",
       "imageUrl": "https://s2.adresowa.pl/oi/58/6a/3934d0_7cdf_cover@2x-dzialka-budowlana-zamojski-chomeciska-duze.webp",
       "isDirectOwner": true,
       "county": "zamojski",
@@ -1466,7 +1631,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-18T19:05:04.000Z",
-      "lastSeenAt": "2026-10-06T11:23:22.558Z",
+      "lastSeenAt": "2026-10-07T11:11:44.134Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ing3eWJyaWpleXZmcDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.b4Cqq05hZnyP86l4okLCTL3gSxhX8hCukIe9JIfoSrs/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 550000
@@ -1506,7 +1671,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:36:09.283Z",
-      "lastSeenAt": "2026-10-06T11:23:22.558Z",
+      "lastSeenAt": "2026-10-07T11:11:44.134Z",
       "imageUrl": "https://s2.adresowa.pl/oi/5d/2a/3ad498_5319_cover@2x-dzialka-budowlana-bochenski-lakta-gorna.webp",
       "isDirectOwner": true,
       "previousPrice": 1499000
@@ -1545,7 +1710,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:17:16.341Z",
-      "lastSeenAt": "2026-10-06T11:39:00.457Z",
+      "lastSeenAt": "2026-10-07T11:27:15.882Z",
       "imageUrl": "https://s2.adresowa.pl/oi/1e/61/3f7a56_54d6_cover@2x-dzialka-rolna-sokolski-skindzierz.webp",
       "isDirectOwner": true,
       "county": "sokolski",
@@ -1587,7 +1752,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:07:50.393Z",
-      "lastSeenAt": "2026-10-06T11:47:55.913Z",
+      "lastSeenAt": "2026-10-07T11:35:56.417Z",
       "imageUrl": "https://s2.adresowa.pl/oi/73/27/3807c4_a972_cover@2x-dzialka-budowlana-rybnicki-jankowice.webp",
       "isDirectOwner": true,
       "previousPrice": 220000
@@ -1627,7 +1792,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:28:38.493Z",
-      "lastSeenAt": "2026-10-06T12:02:55.047Z",
+      "lastSeenAt": "2026-10-07T11:51:04.184Z",
       "imageUrl": "https://s2.adresowa.pl/oi/45/1e/404d88_f903_cover@2x-dzialka-rolno-budowlana-gryfinski-rynica.webp",
       "isDirectOwner": true,
       "previousPrice": 180000
@@ -1667,7 +1832,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:14:31.058Z",
-      "lastSeenAt": "2026-10-06T11:06:25.876Z",
+      "lastSeenAt": "2026-10-07T10:54:30.222Z",
       "imageUrl": "https://s2.adresowa.pl/oi/47/53/3afb1_47d2_cover@2x-dzialka-rolna-torunski-grzywna.webp",
       "isDirectOwner": true,
       "previousPrice": 515000
@@ -1707,7 +1872,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-22T21:50:05.000Z",
-      "lastSeenAt": "2026-10-06T11:43:27.625Z",
+      "lastSeenAt": "2026-10-07T11:31:40.062Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN4eGtjZmJ1YjZvOTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3iRrwvDDNBU6cRApjVkSN7BtG2YeaKeHigFx44Pv_RI/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 1950000
@@ -1748,7 +1913,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-22T17:06:30.000Z",
-      "lastSeenAt": "2026-10-06T11:02:05.198Z",
+      "lastSeenAt": "2026-10-07T10:50:23.031Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InI3cHNiZmZ1NWNxNzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.BAiRH_QN_HnblbndlAAYdvlGOfqM248kyiDt8CDcTUA/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 1450000
@@ -1828,7 +1993,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:09:11.407Z",
-      "lastSeenAt": "2026-10-06T11:10:57.541Z",
+      "lastSeenAt": "2026-10-07T10:59:04.718Z",
       "imageUrl": "https://s2.adresowa.pl/oi/13/21/3f739a_bd1c_cover@2x-dom-chelm.webp",
       "isDirectOwner": true,
       "county": "chełmski",
@@ -1869,176 +2034,10 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:29:25.528Z",
-      "lastSeenAt": "2026-10-06T12:02:55.047Z",
+      "lastSeenAt": "2026-10-07T11:51:04.184Z",
       "imageUrl": "https://s2.adresowa.pl/oi/50/66/1ecf32_87fc_cover@2x-dzialka-rekreacyjna-drawski-smoldzecino.webp",
       "isDirectOwner": true,
       "previousPrice": 167700
-    },
-    {
-      "id": "adresowo-4229662",
-      "source": "adresowo",
-      "sourceId": "4229662",
-      "sourceUrl": "https://adresowo.pl/o/dom-kramsk-kramsk-pole-101-m2-g3x6b7",
-      "propertyType": "house",
-      "title": "Dom — Kramsk-Pole",
-      "voivodeship": "wielkopolskie",
-      "county": "koninski",
-      "city": "Kramsk-Pole",
-      "coordinates": {
-        "lat": 52.22849648213536,
-        "lng": 18.25356176275441
-      },
-      "isNearBorder": false,
-      "areaM2": 101,
-      "currentPrice": 365000,
-      "currentPricePerM2": 3613.86,
-      "initialPrice": 690000,
-      "priceChangeAmount": -325000,
-      "priceChangePercent": -47.1,
-      "priceHistory": [
-        {
-          "date": "2026-09-22",
-          "price": 690000,
-          "pricePerM2": 6831.68
-        },
-        {
-          "date": "2026-09-28",
-          "price": 365000,
-          "pricePerM2": 3613.86
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "2026-09-22T20:40:10.623Z",
-      "lastSeenAt": "2026-10-06T11:59:55.645Z",
-      "imageUrl": "https://s2.adresowa.pl/oi/53/47/408a1e_cee0_cover@2x-dom-koninski-kramsk-pole.webp",
-      "isDirectOwner": true,
-      "previousPrice": 690000
-    },
-    {
-      "id": "otodom-66492476",
-      "source": "otodom",
-      "sourceId": "66492476",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-zagrodowo-blisko-milejowa-ID4uZJi",
-      "propertyType": "habitat",
-      "title": "Działka zagrodowo blisko Milejowa",
-      "voivodeship": "lubelskie",
-      "county": "łęczyński",
-      "city": "Antoniów-Kolonia",
-      "coordinates": {
-        "lat": 51.298313175847156,
-        "lng": 22.874015145410713
-      },
-      "isNearBorder": false,
-      "areaM2": 9548,
-      "currentPrice": 75000,
-      "currentPricePerM2": 7.86,
-      "initialPrice": 139000,
-      "priceChangeAmount": -64000,
-      "priceChangePercent": -46,
-      "priceHistory": [
-        {
-          "date": "2026-09-17",
-          "price": 139000,
-          "pricePerM2": 14.56
-        },
-        {
-          "date": "2026-09-30",
-          "price": 75000,
-          "pricePerM2": 7.86
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "2026-08-20T07:33:53.000Z",
-      "lastSeenAt": "2026-10-06T11:10:57.726Z",
-      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhsdnFpenRlaXhqZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PDkPI9cS8o1Q5s3HwE9V3Ztj9XFAlz_XiQn-b5-ehqI/image;s=655x491;q=80",
-      "isDirectOwner": false,
-      "previousPrice": 139000
-    },
-    {
-      "id": "otodom-68412767",
-      "source": "otodom",
-      "sourceId": "68412767",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-dzialke-rolna-634-m2-dodatkowa-dzialka-516-1-rolna-2110-m2-ID4D3hJ",
-      "propertyType": "plot",
-      "title": "Sprzedam działkę rolna 634 m2.(dodatkowa działka 516/1 rolna 2110 m2)",
-      "voivodeship": "malopolskie",
-      "county": "krakowski",
-      "city": "Czajowice",
-      "coordinates": {
-        "lat": 50.05770125909548,
-        "lng": 19.953424411236245
-      },
-      "isNearBorder": false,
-      "areaM2": 634,
-      "currentPrice": 63400,
-      "currentPricePerM2": 100,
-      "initialPrice": 115000,
-      "priceChangeAmount": -51600,
-      "priceChangePercent": -44.9,
-      "priceHistory": [
-        {
-          "date": "2026-09-13",
-          "price": 115000,
-          "pricePerM2": 181.39
-        },
-        {
-          "date": "2026-09-30",
-          "price": 110000,
-          "pricePerM2": 173.5
-        },
-        {
-          "date": "2026-10-01",
-          "price": 63400,
-          "pricePerM2": 100
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "2026-09-13T10:41:07.000Z",
-      "lastSeenAt": "2026-10-02T10:38:56.529Z",
-      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijl5ZmJ5dmppdml5ZS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.GTuXyWX7idrnHTefvAlthCbU0k-hf8WhpJkdzuIAtEI/image;s=655x491;q=80",
-      "isDirectOwner": true,
-      "previousPrice": 110000
-    },
-    {
-      "id": "otodom-68101258",
-      "source": "otodom",
-      "sourceId": "68101258",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/piekna-zalesiona-dzialka-gaba-prowizja-od-kupujacego-0-nowa-cena-ID4BKfo",
-      "propertyType": "plot",
-      "title": "Piękna zalesiona działka Gąba, prowizja od kupującego 0%  nowa cena",
-      "voivodeship": "lodzkie",
-      "county": "żyrardowski",
-      "city": "Gąba",
-      "street": "Główna",
-      "coordinates": {
-        "lat": 52.06183238929572,
-        "lng": 20.438424648997366
-      },
-      "isNearBorder": false,
-      "areaM2": 3600,
-      "currentPrice": 162000,
-      "currentPricePerM2": 90,
-      "initialPrice": 293000,
-      "priceChangeAmount": -131000,
-      "priceChangePercent": -44.7,
-      "priceHistory": [
-        {
-          "date": "2026-06-12",
-          "price": 293000,
-          "pricePerM2": 81.39
-        },
-        {
-          "date": "2026-10-03",
-          "price": 162000,
-          "pricePerM2": 90
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "2026-06-12T11:42:13.000Z",
-      "lastSeenAt": "2026-10-05T11:25:21.322Z",
-      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhuMDdmdnFtNXA0eTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2euNL-K-Ig-wMJXK1FUqSJw6NPpQ7q58Wyb8JVRmUns/image;s=655x491;q=80",
-      "isDirectOwner": false,
-      "previousPrice": 293000
     }
   ]
 }
