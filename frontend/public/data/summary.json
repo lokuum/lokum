@@ -1,12 +1,12 @@
 {
-  "totalHouses": 42433,
-  "totalPlots": 65260,
-  "totalHabitats": 3725,
-  "totalPriceDrops": 6927,
+  "totalHouses": 41870,
+  "totalPlots": 64788,
+  "totalHabitats": 3710,
+  "totalPriceDrops": 7069,
   "avgHousePricePerM2": 7361,
-  "avgPlotPricePerM2": 236,
-  "avgHabitatPricePerM2": 1973,
-  "lastUpdated": "2026-10-18T09:34:45.548Z",
+  "avgPlotPricePerM2": 247,
+  "avgHabitatPricePerM2": 1964,
+  "lastUpdated": "2026-10-19T10:35:22.738Z",
   "topPriceDrops": [
     {
       "id": "otodom-68062608",
@@ -43,10 +43,50 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-03T17:35:32.000Z",
-      "lastSeenAt": "2026-10-18T09:06:09.502Z",
+      "lastSeenAt": "2026-10-19T10:06:36.350Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZzaDBvcXc4Z203ajEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.BuzkQ9VxD2ZkTmdN36V7LhefGkwMjUJarnHaMWb26RY/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 1990000
+    },
+    {
+      "id": "otodom-9000062236",
+      "source": "otodom",
+      "sourceId": "9000062236",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-dzialka-o-powierzchni-1475-m-polozona-w-jablonnie-w-rej-ID4DAP8",
+      "propertyType": "plot",
+      "title": "Na sprzedaż działka o powierzchni 1475 m², położona w Jabłonnie, w rej",
+      "voivodeship": "mazowieckie",
+      "county": "legionowski",
+      "city": "Jabłonna",
+      "street": "Zacisze",
+      "coordinates": {
+        "lat": 52.402588958486206,
+        "lng": 20.92617629375214
+      },
+      "isNearBorder": false,
+      "areaM2": 1475,
+      "currentPrice": 850000,
+      "currentPricePerM2": 1020.41,
+      "initialPrice": 1180000000,
+      "priceChangeAmount": -1179150000,
+      "priceChangePercent": -99.9,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 1180000000,
+          "pricePerM2": 800000
+        },
+        {
+          "date": "2026-10-19",
+          "price": 850000,
+          "pricePerM2": 1020.41
+        }
+      ],
+      "status": "price_increase",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-19T09:59:51.881Z",
+      "isDirectOwner": false,
+      "previousPrice": 150000
     },
     {
       "id": "otodom-68463451",
@@ -84,7 +124,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-26T12:09:48.000Z",
-      "lastSeenAt": "2026-10-18T09:30:36.630Z",
+      "lastSeenAt": "2026-10-19T10:31:24.789Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims2ajBnZTZqNWkxYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wqT53kSc4lZeorRzIGZWNkI3s-yBz_ourBp53PKVi5Q/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 995000000
@@ -164,7 +204,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-21T13:29:00.000Z",
-      "lastSeenAt": "2026-10-18T08:58:57.642Z",
+      "lastSeenAt": "2026-10-19T09:59:51.881Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im52MW0xNXM2ZHB6Zy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.H6reSYRSv4eBetnlq1dzszwf6FCt_daMR4-u8HclMtY/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 300000
@@ -207,6 +247,45 @@
       "lastSeenAt": "2026-10-15T09:43:37.476Z",
       "isDirectOwner": true,
       "previousPrice": 75000
+    },
+    {
+      "id": "otodom-9000062236",
+      "source": "otodom",
+      "sourceId": "9000062236",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/4772m2-siedlisko-z-linia-brzegowa-jezioro-dauby-ID4BMQC",
+      "propertyType": "habitat",
+      "title": "4772m2, siedlisko z linią brzegową, jezioro Dauby",
+      "voivodeship": "warminsko-mazurskie",
+      "county": "iławski",
+      "city": "Mozgowo",
+      "coordinates": {
+        "lat": 53.59532593977193,
+        "lng": 19.563719250276975
+      },
+      "isNearBorder": false,
+      "areaM2": 250,
+      "currentPrice": 129000,
+      "currentPricePerM2": 806.25,
+      "initialPrice": 6700000,
+      "priceChangeAmount": -6571000,
+      "priceChangePercent": -98.1,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 6700000,
+          "pricePerM2": 26800
+        },
+        {
+          "date": "2026-10-19",
+          "price": 129000,
+          "pricePerM2": 806.25
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-19T10:26:49.946Z",
+      "isDirectOwner": false,
+      "previousPrice": 499000
     },
     {
       "id": "otodom-9000062227",
@@ -406,6 +485,45 @@
       "previousPrice": 149000
     },
     {
+      "id": "otodom-9000062236",
+      "source": "otodom",
+      "sourceId": "9000062236",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-dzialki-w-zaborowie-gm-gorzno-12-30ha-mozliwosc-budowy-ID4C3ar",
+      "propertyType": "plot",
+      "title": "Na sprzedaż działki w Zaborowie, Gm. Górzno, 12,30ha możliwość budowy",
+      "voivodeship": "kujawsko-pomorskie",
+      "county": "brodnicki",
+      "city": "Zaborowo",
+      "coordinates": {
+        "lat": 53.25596657793535,
+        "lng": 19.388135620655788
+      },
+      "isNearBorder": false,
+      "areaM2": 123000,
+      "currentPrice": 78180,
+      "currentPricePerM2": 60,
+      "initialPrice": 1100000,
+      "priceChangeAmount": -1021820,
+      "priceChangePercent": -92.9,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 1100000,
+          "pricePerM2": 8.94
+        },
+        {
+          "date": "2026-10-19",
+          "price": 78180,
+          "pricePerM2": 60
+        }
+      ],
+      "status": "price_increase",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-19T09:37:55.361Z",
+      "isDirectOwner": true,
+      "previousPrice": 77000
+    },
+    {
       "id": "otodom-9000062233",
       "source": "otodom",
       "sourceId": "9000062233",
@@ -443,47 +561,6 @@
       "lastSeenAt": "2026-10-18T08:32:20.795Z",
       "isDirectOwner": false,
       "previousPrice": 1490000
-    },
-    {
-      "id": "adresowo-4147944",
-      "source": "adresowo",
-      "sourceId": "4147944",
-      "sourceUrl": "https://adresowo.pl/o/dom-biala-piska-zabielne-175-m2-r5y7m7",
-      "propertyType": "house",
-      "title": "Dom — Zabielne",
-      "voivodeship": "warminsko-mazurskie",
-      "county": "piski",
-      "city": "Zabielne",
-      "coordinates": {
-        "lat": 53.62724404264576,
-        "lng": 21.820163721447724
-      },
-      "isNearBorder": false,
-      "areaM2": 175,
-      "plotAreaM2": 2000,
-      "currentPrice": 99900,
-      "currentPricePerM2": 570.86,
-      "initialPrice": 1250000,
-      "priceChangeAmount": -1150100,
-      "priceChangePercent": -92,
-      "priceHistory": [
-        {
-          "date": "2026-09-24",
-          "price": 1250000,
-          "pricePerM2": 7142.86
-        },
-        {
-          "date": "2026-10-07",
-          "price": 99900,
-          "pricePerM2": 570.86
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "2026-09-24T21:13:25.206Z",
-      "lastSeenAt": "2026-10-18T09:26:01.272Z",
-      "imageUrl": "https://s2.adresowa.pl/oi/16/75/3f4ae8_7881_cover@2x-dom-piski-zabielne.webp",
-      "isDirectOwner": true,
-      "previousPrice": 1250000
     },
     {
       "id": "otodom-9000062233",
@@ -677,7 +754,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:07:49.692Z",
-      "lastSeenAt": "2026-10-18T08:32:20.892Z",
+      "lastSeenAt": "2026-10-19T09:33:47.755Z",
       "imageUrl": "https://s2.adresowa.pl/oi/48/7f/3f3880_853b_cover@2x-dzialka-budowlana-wolowski-bukowice.webp",
       "isDirectOwner": true,
       "previousPrice": 176000
@@ -834,7 +911,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:12:18.827Z",
-      "lastSeenAt": "2026-10-18T08:41:10.477Z",
+      "lastSeenAt": "2026-10-19T09:42:28.894Z",
       "imageUrl": "https://s2.adresowa.pl/oi/3b/24/3c384a_a4ec_cover@2x-dzialka-budowlana-lubelski-motycz.webp",
       "isDirectOwner": true,
       "county": "lubelski",
@@ -875,7 +952,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-09T07:51:37.000Z",
-      "lastSeenAt": "2026-10-18T09:09:44.727Z",
+      "lastSeenAt": "2026-10-19T10:10:14.014Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhrZXhiOTJnZGFtbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.aZgFAInh0YeFnbFOs6dU4yAcB4bXUArxEDjCwq14F1A/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 10500000
@@ -960,7 +1037,7 @@
       ],
       "status": "price_increase",
       "firstSeenAt": "2026-09-17T22:17:41.977Z",
-      "lastSeenAt": "2026-10-18T09:09:44.668Z",
+      "lastSeenAt": "2026-10-19T10:10:13.959Z",
       "imageUrl": "https://s2.adresowa.pl/oi/4c/4e/1b2410_f146_cover@2x-dzialka-budowlana-bielski-augustowo.webp",
       "isDirectOwner": true,
       "county": "bielski",
@@ -1042,10 +1119,49 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-11T17:18:24.000Z",
-      "lastSeenAt": "2026-10-18T08:53:50.372Z",
+      "lastSeenAt": "2026-10-19T09:54:44.353Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImYxNGxtbG9tNmkzNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7j-z7ur-BLa28p_HOBmliWiVNBgmjbGUQiB84U-mv2g/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 560000
+    },
+    {
+      "id": "otodom-9000062236",
+      "source": "otodom",
+      "sourceId": "9000062236",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/nowoczesny-komfortowy-dom-wolnostojacy-siedlisko-nad-stawem-ID4DzAM",
+      "propertyType": "habitat",
+      "title": "Nowoczesny komfortowy dom wolnostojący siedlisko nad stawem",
+      "voivodeship": "swietokrzyskie",
+      "county": "konecki",
+      "city": "Kołoniec",
+      "coordinates": {
+        "lat": 51.1877879787264,
+        "lng": 20.417287818553007
+      },
+      "isNearBorder": false,
+      "areaM2": 75,
+      "currentPrice": 59000,
+      "currentPricePerM2": 13.68,
+      "initialPrice": 490000,
+      "priceChangeAmount": -431000,
+      "priceChangePercent": -88,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 490000,
+          "pricePerM2": 6533.33
+        },
+        {
+          "date": "2026-10-19",
+          "price": 59000,
+          "pricePerM2": 13.68
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-19T10:22:17.560Z",
+      "isDirectOwner": true,
+      "previousPrice": 220000
     },
     {
       "id": "otodom-9000062224",
@@ -1279,7 +1395,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:54.592Z",
-      "lastSeenAt": "2026-10-18T08:58:57.642Z",
+      "lastSeenAt": "2026-10-19T09:59:51.881Z",
       "imageUrl": "https://s2.adresowa.pl/oi/52/19/3eb548_e2eb_cover@2x-dzialka-budowlana-grojecki-warka.webp",
       "isDirectOwner": true,
       "previousPrice": 1995000
@@ -1440,7 +1556,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-11T13:37:14.000Z",
-      "lastSeenAt": "2026-10-18T09:34:41.580Z",
+      "lastSeenAt": "2026-10-19T10:35:18.686Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InI1MzJ4ZWEwcWpjMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.OXUL50rn9gkIXDrf4XembPbnZJaYtXJE9-Psdgk-RGA/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 650000
@@ -1520,7 +1636,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:36.907Z",
-      "lastSeenAt": "2026-10-18T08:58:57.642Z",
+      "lastSeenAt": "2026-10-19T09:59:51.881Z",
       "imageUrl": "https://s2.adresowa.pl/oi/5f/58/401832_ff4f_cover@2x-dzialka-inwestycyjna-przasnyski-przasnysz.webp",
       "isDirectOwner": true,
       "previousPrice": 1260000
@@ -1560,7 +1676,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-20T10:27:44.000Z",
-      "lastSeenAt": "2026-10-18T09:26:01.332Z",
+      "lastSeenAt": "2026-10-19T10:26:49.864Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVnM3p5d25rMWR0MzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vAbHT5FX-PwnSMSiCvn0ROJOAXkEDBXaFihFiLcEk5k/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 629000
@@ -1725,10 +1841,49 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:11:01.541Z",
-      "lastSeenAt": "2026-10-18T09:21:51.002Z",
+      "lastSeenAt": "2026-10-19T10:22:17.519Z",
       "imageUrl": "https://s2.adresowa.pl/oi/1e/5f/371f30_47ef_cover@2x-dzialka-rolno-budowlana-starachowicki-starachowice.webp",
       "isDirectOwner": true,
       "previousPrice": 450000
+    },
+    {
+      "id": "otodom-9000062236",
+      "source": "otodom",
+      "sourceId": "9000062236",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/prywatna-enklawa-w-gorach-swietokrzyskich-ID4CjuO",
+      "propertyType": "house",
+      "title": "Prywatna enklawa w Górach Świętokrzyskich",
+      "voivodeship": "swietokrzyskie",
+      "county": "starachowicki",
+      "city": "Bronkowice",
+      "coordinates": {
+        "lat": 51.47264748333281,
+        "lng": 17.655911261908184
+      },
+      "isNearBorder": false,
+      "areaM2": 162,
+      "currentPrice": 521250,
+      "currentPricePerM2": 4714.21,
+      "initialPrice": 2340000,
+      "priceChangeAmount": -1818750,
+      "priceChangePercent": -77.7,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 2340000,
+          "pricePerM2": 14444.44
+        },
+        {
+          "date": "2026-10-19",
+          "price": 521250,
+          "pricePerM2": 4714.21
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-19T10:22:17.462Z",
+      "isDirectOwner": false,
+      "previousPrice": 1750000
     },
     {
       "id": "otodom-9000062218",
@@ -1810,202 +1965,43 @@
       "previousPrice": 11561000
     },
     {
-      "id": "otodom-9000062218",
+      "id": "otodom-9000062236",
       "source": "otodom",
-      "sourceId": "9000062218",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/nieruchomosc-zabudowana-domem-oraz-warsztatem-lagiewniki-ID4CwyA",
-      "propertyType": "house",
-      "title": "Nieruchomość zabudowana domem oraz warsztatem Łagiewniki",
-      "voivodeship": "swietokrzyskie",
-      "county": "buski",
-      "city": "Łagiewniki",
+      "sourceId": "9000062236",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-rekreacyjna-z-domkiem-letniskowym-nad-jeziorem-dejguny-ID4DAOM",
+      "propertyType": "plot",
+      "title": "Działka rekreacyjna z domkiem letniskowym nad jeziorem Dejguny",
+      "voivodeship": "warminsko-mazurskie",
+      "county": "giżycki",
+      "city": "Sterławki Małe",
       "coordinates": {
-        "lat": 50.46455290011823,
-        "lng": 20.727559609192255
+        "lat": 54.04137853873087,
+        "lng": 21.76797643478933
       },
       "isNearBorder": false,
-      "areaM2": 134,
-      "currentPrice": 400000,
-      "currentPricePerM2": 3686.64,
-      "initialPrice": 1618048,
-      "priceChangeAmount": -1218048,
-      "priceChangePercent": -75.3,
+      "areaM2": 908,
+      "currentPrice": 109000,
+      "currentPricePerM2": 49.55,
+      "initialPrice": 450000,
+      "priceChangeAmount": -341000,
+      "priceChangePercent": -75.8,
       "priceHistory": [
         {
           "date": "1999-03-01",
-          "price": 1618048,
-          "pricePerM2": 12074.99
+          "price": 450000,
+          "pricePerM2": 495.59
         },
         {
-          "date": "2026-10-13",
-          "price": 400000,
-          "pricePerM2": 3686.64
+          "date": "2026-10-19",
+          "price": 109000,
+          "pricePerM2": 49.55
         }
       ],
       "status": "price_drop",
       "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-13T12:12:19.068Z",
-      "isDirectOwner": true,
-      "previousPrice": 415000
-    },
-    {
-      "id": "otodom-9000062218",
-      "source": "otodom",
-      "sourceId": "9000062218",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-atrakcyjna-dzialke-budowlana-ID4DwPV",
-      "propertyType": "plot",
-      "title": "Sprzedam atrakcyjną działkę budowlaną",
-      "voivodeship": "swietokrzyskie",
-      "county": "kielecki",
-      "city": "Bilcza",
-      "street": "Wiosenna",
-      "coordinates": {
-        "lat": 50.86043625412703,
-        "lng": 20.631245318121387
-      },
-      "isNearBorder": false,
-      "areaM2": 1093,
-      "currentPrice": 137500,
-      "currentPricePerM2": 110,
-      "initialPrice": 546500,
-      "priceChangeAmount": -409000,
-      "priceChangePercent": -74.8,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 546500,
-          "pricePerM2": 500
-        },
-        {
-          "date": "2026-10-13",
-          "price": 137500,
-          "pricePerM2": 110
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-13T12:12:19.133Z",
-      "isDirectOwner": true,
-      "previousPrice": 12000
-    },
-    {
-      "id": "otodom-9000062221",
-      "source": "otodom",
-      "sourceId": "9000062221",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/piekna-dzialka-z-bezposrednim-dostepem-do-jeziora-krajnik-lubniewice-ID4BkpT",
-      "propertyType": "plot",
-      "title": "Piękna działka z bezpośrednim dostępem do jeziora Krajnik | Lubniewice",
-      "voivodeship": "lubuskie",
-      "county": "sulęciński",
-      "city": "Lubniewice",
-      "street": "ul. Strzelecka",
-      "coordinates": {
-        "lat": 52.43712797845198,
-        "lng": 15.108358237253919
-      },
-      "isNearBorder": true,
-      "areaM2": 2245,
-      "currentPrice": 149000,
-      "currentPricePerM2": 102.48,
-      "initialPrice": 590000,
-      "priceChangeAmount": -441000,
-      "priceChangePercent": -74.7,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 590000,
-          "pricePerM2": 262.81
-        },
-        {
-          "date": "2026-10-14",
-          "price": 149000,
-          "pricePerM2": 102.48
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-14T09:27:15.672Z",
-      "isDirectOwner": true,
-      "previousPrice": 100100
-    },
-    {
-      "id": "otodom-9000062227",
-      "source": "otodom",
-      "sourceId": "9000062227",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/nowoczesny-dom-do-wykonczenia-ID4Atrl",
-      "propertyType": "house",
-      "title": "Nowoczesny dom do wykończenia",
-      "voivodeship": "swietokrzyskie",
-      "county": "jędrzejowski",
-      "city": "Czekaj",
-      "coordinates": {
-        "lat": 50.63218639856918,
-        "lng": 20.312369885566568
-      },
-      "isNearBorder": false,
-      "areaM2": 260,
-      "currentPrice": 270000,
-      "currentPricePerM2": 3857.14,
-      "initialPrice": 1050000,
-      "priceChangeAmount": -780000,
-      "priceChangePercent": -74.3,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 1050000,
-          "pricePerM2": 4038.46
-        },
-        {
-          "date": "2026-10-16",
-          "price": 270000,
-          "pricePerM2": 3857.14
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-16T09:33:25.366Z",
+      "lastSeenAt": "2026-10-19T10:26:49.864Z",
       "isDirectOwner": false,
-      "previousPrice": 410000
-    },
-    {
-      "id": "otodom-9000062230",
-      "source": "otodom",
-      "sourceId": "9000062230",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-na-sprzedaz-swietna-lokalizacja-w-przemyslu-ID3Fy5e",
-      "propertyType": "plot",
-      "title": "Działka budowlana na sprzedaż-świetna lokalizacja w Przemyślu",
-      "voivodeship": "podkarpackie",
-      "county": "przemyski",
-      "city": "Przemyśl",
-      "street": "ul.Paderewskiego",
-      "coordinates": {
-        "lat": 49.78462661734871,
-        "lng": 22.759473275236363
-      },
-      "isNearBorder": true,
-      "areaM2": 2697,
-      "currentPrice": 129900,
-      "currentPricePerM2": 86.6,
-      "initialPrice": 499000,
-      "priceChangeAmount": -369100,
-      "priceChangePercent": -74,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 499000,
-          "pricePerM2": 185.02
-        },
-        {
-          "date": "2026-10-17",
-          "price": 129900,
-          "pricePerM2": 86.6
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-17T08:48:34.529Z",
-      "isDirectOwner": true,
-      "previousPrice": 550000
+      "previousPrice": 158000
     }
   ]
 }
