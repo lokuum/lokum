@@ -1,52 +1,53 @@
 {
-  "totalHouses": 41870,
-  "totalPlots": 64788,
-  "totalHabitats": 3710,
-  "totalPriceDrops": 7069,
-  "avgHousePricePerM2": 7361,
-  "avgPlotPricePerM2": 247,
-  "avgHabitatPricePerM2": 1964,
-  "lastUpdated": "2026-10-19T10:35:22.738Z",
+  "totalHouses": 41534,
+  "totalPlots": 64242,
+  "totalHabitats": 3704,
+  "totalPriceDrops": 7335,
+  "avgHousePricePerM2": 7363,
+  "avgPlotPricePerM2": 235,
+  "avgHabitatPricePerM2": 1961,
+  "lastUpdated": "2026-10-20T10:04:35.713Z",
   "topPriceDrops": [
     {
-      "id": "otodom-68062608",
+      "id": "otodom-68541690",
       "source": "otodom",
-      "sourceId": "68062608",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-deweloperska-przy-granicy-rzeszowa-ID4BAc0",
+      "sourceId": "68541690",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-dzialka-o-powierzchni-1475-m-polozona-w-jablonnie-w-rej-ID4DAP8",
       "propertyType": "plot",
-      "title": "DZIAŁKA DEWELOPERSKA PRZY GRANICY RZESZOWA",
-      "voivodeship": "podkarpackie",
-      "county": "rzeszowski",
-      "city": "Kielanówka",
+      "title": "Na sprzedaż działka o powierzchni 1475 m², położona w Jabłonnie, w rej",
+      "voivodeship": "mazowieckie",
+      "county": "legionowski",
+      "city": "Jabłonna",
+      "street": "Zacisze",
       "coordinates": {
-        "lat": 50.017514754850644,
-        "lng": 21.92677974718433
+        "lat": 52.392701676191855,
+        "lng": 20.943090174613914
       },
       "isNearBorder": false,
-      "areaM2": 4487,
-      "currentPrice": 500,
-      "currentPricePerM2": 0.11,
-      "initialPrice": 1990000,
-      "priceChangeAmount": -1989500,
-      "priceChangePercent": -100,
+      "areaM2": 1475,
+      "currentPrice": 1180000,
+      "currentPricePerM2": 800,
+      "initialPrice": 1180000000,
+      "priceChangeAmount": -1178820000,
+      "priceChangePercent": -99.9,
       "priceHistory": [
         {
-          "date": "2026-10-03",
-          "price": 1990000,
-          "pricePerM2": 443.5
+          "date": "2026-10-19",
+          "price": 1180000000,
+          "pricePerM2": 800000
         },
         {
-          "date": "2026-10-05",
-          "price": 500,
-          "pricePerM2": 0.11
+          "date": "2026-10-20",
+          "price": 1180000,
+          "pricePerM2": 800
         }
       ],
       "status": "price_drop",
-      "firstSeenAt": "2026-10-03T17:35:32.000Z",
-      "lastSeenAt": "2026-10-19T10:06:36.350Z",
-      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZzaDBvcXc4Z203ajEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.BuzkQ9VxD2ZkTmdN36V7LhefGkwMjUJarnHaMWb26RY/image;s=655x491;q=80",
-      "isDirectOwner": true,
-      "previousPrice": 1990000
+      "firstSeenAt": "2026-10-19T09:56:00.000Z",
+      "lastSeenAt": "2026-10-20T09:31:40.343Z",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjY5cnBxZmlpZzY2bDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Usz7oAV_Jwf7HOpp2CL6VpnTgkO-iQ1Yb91Fl-UJvYA/image;s=655x491;q=80",
+      "isDirectOwner": false,
+      "previousPrice": 1180000000
     },
     {
       "id": "otodom-9000062236",
@@ -124,7 +125,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-26T12:09:48.000Z",
-      "lastSeenAt": "2026-10-19T10:31:24.789Z",
+      "lastSeenAt": "2026-10-20T10:00:52.346Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims2ajBnZTZqNWkxYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wqT53kSc4lZeorRzIGZWNkI3s-yBz_ourBp53PKVi5Q/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 995000000
@@ -169,47 +170,6 @@
       "previousPrice": 50000
     },
     {
-      "id": "otodom-66876023",
-      "source": "otodom",
-      "sourceId": "66876023",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-marylka-1000-lub-500-m2-dom-ID4vBwx",
-      "propertyType": "plot",
-      "title": "Działka Marylka 1000 lub 500 m2 + dom",
-      "voivodeship": "mazowieckie",
-      "county": "piaseczyński",
-      "city": "Marylka",
-      "street": "słowicza",
-      "coordinates": {
-        "lat": 52.06958726722225,
-        "lng": 21.03134366120305
-      },
-      "isNearBorder": false,
-      "areaM2": 1000,
-      "currentPrice": 2400,
-      "currentPricePerM2": 3,
-      "initialPrice": 300000,
-      "priceChangeAmount": -297600,
-      "priceChangePercent": -99.2,
-      "priceHistory": [
-        {
-          "date": "2026-09-21",
-          "price": 300000,
-          "pricePerM2": 300
-        },
-        {
-          "date": "2026-10-18",
-          "price": 2400,
-          "pricePerM2": 3
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "2026-09-21T13:29:00.000Z",
-      "lastSeenAt": "2026-10-19T09:59:51.881Z",
-      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im52MW0xNXM2ZHB6Zy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.H6reSYRSv4eBetnlq1dzszwf6FCt_daMR4-u8HclMtY/image;s=655x491;q=80",
-      "isDirectOwner": true,
-      "previousPrice": 300000
-    },
-    {
       "id": "otodom-9000062224",
       "source": "otodom",
       "sourceId": "9000062224",
@@ -247,6 +207,46 @@
       "lastSeenAt": "2026-10-15T09:43:37.476Z",
       "isDirectOwner": true,
       "previousPrice": 75000
+    },
+    {
+      "id": "otodom-9000062239",
+      "source": "otodom",
+      "sourceId": "9000062239",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-inwestycyjna-wz-na-zabudowe-wielorodzinna-5-800-m-pum-ID4yt5K",
+      "propertyType": "plot",
+      "title": "Działka inwestycyjna – WZ na zabudowę wielorodzinną ~5 800 m² PUM",
+      "voivodeship": "swietokrzyskie",
+      "county": "jędrzejowski",
+      "city": "Jędrzejów",
+      "street": "ul. Władysława Stanisława Reymonta",
+      "coordinates": {
+        "lat": 50.64147889723316,
+        "lng": 20.31347055675267
+      },
+      "isNearBorder": false,
+      "areaM2": 7224,
+      "currentPrice": 52000,
+      "currentPricePerM2": 65,
+      "initialPrice": 3900000,
+      "priceChangeAmount": -3848000,
+      "priceChangePercent": -98.7,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 3900000,
+          "pricePerM2": 539.87
+        },
+        {
+          "date": "2026-10-20",
+          "price": 52000,
+          "pricePerM2": 65
+        }
+      ],
+      "status": "price_increase",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-20T09:52:32.299Z",
+      "isDirectOwner": true,
+      "previousPrice": 21000
     },
     {
       "id": "otodom-9000062236",
@@ -404,6 +404,46 @@
       "lastSeenAt": "2026-10-14T09:31:28.675Z",
       "isDirectOwner": false,
       "previousPrice": 52900
+    },
+    {
+      "id": "otodom-9000062239",
+      "source": "otodom",
+      "sourceId": "9000062239",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/3-pokojowy-dom-66m2-ogrodek-bezposrednio-ID4x6EN",
+      "propertyType": "house",
+      "title": "3-pokojowy dom 66m2 + ogródek Bezpośrednio",
+      "voivodeship": "malopolskie",
+      "county": "tatrzański",
+      "city": "Kościelisko",
+      "street": "ul. Mocarni",
+      "coordinates": {
+        "lat": 49.29580662384385,
+        "lng": 19.959072008413813
+      },
+      "isNearBorder": true,
+      "areaM2": 66.87,
+      "currentPrice": 59000,
+      "currentPricePerM2": 2360,
+      "initialPrice": 1584819,
+      "priceChangeAmount": -1525819,
+      "priceChangePercent": -96.3,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 1584819,
+          "pricePerM2": 23700
+        },
+        {
+          "date": "2026-10-20",
+          "price": 59000,
+          "pricePerM2": 2360
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-20T09:26:48.308Z",
+      "isDirectOwner": false,
+      "previousPrice": 1950000
     },
     {
       "id": "otodom-9000062227",
@@ -754,7 +794,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:07:49.692Z",
-      "lastSeenAt": "2026-10-19T09:33:47.755Z",
+      "lastSeenAt": "2026-10-20T09:06:50.252Z",
       "imageUrl": "https://s2.adresowa.pl/oi/48/7f/3f3880_853b_cover@2x-dzialka-budowlana-wolowski-bukowice.webp",
       "isDirectOwner": true,
       "previousPrice": 176000
@@ -911,7 +951,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:12:18.827Z",
-      "lastSeenAt": "2026-10-19T09:42:28.894Z",
+      "lastSeenAt": "2026-10-20T09:15:03.576Z",
       "imageUrl": "https://s2.adresowa.pl/oi/3b/24/3c384a_a4ec_cover@2x-dzialka-budowlana-lubelski-motycz.webp",
       "isDirectOwner": true,
       "county": "lubelski",
@@ -952,7 +992,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-09T07:51:37.000Z",
-      "lastSeenAt": "2026-10-19T10:10:14.014Z",
+      "lastSeenAt": "2026-10-20T09:41:22.466Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhrZXhiOTJnZGFtbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.aZgFAInh0YeFnbFOs6dU4yAcB4bXUArxEDjCwq14F1A/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 10500000
@@ -1037,7 +1077,7 @@
       ],
       "status": "price_increase",
       "firstSeenAt": "2026-09-17T22:17:41.977Z",
-      "lastSeenAt": "2026-10-19T10:10:13.959Z",
+      "lastSeenAt": "2026-10-20T09:41:22.400Z",
       "imageUrl": "https://s2.adresowa.pl/oi/4c/4e/1b2410_f146_cover@2x-dzialka-budowlana-bielski-augustowo.webp",
       "isDirectOwner": true,
       "county": "bielski",
@@ -1119,7 +1159,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-11T17:18:24.000Z",
-      "lastSeenAt": "2026-10-19T09:54:44.353Z",
+      "lastSeenAt": "2026-10-20T09:26:48.426Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImYxNGxtbG9tNmkzNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7j-z7ur-BLa28p_HOBmliWiVNBgmjbGUQiB84U-mv2g/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 560000
@@ -1282,6 +1322,45 @@
       "previousPrice": 167000
     },
     {
+      "id": "otodom-9000062239",
+      "source": "otodom",
+      "sourceId": "9000062239",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-w-otoczeniu-lasow-i-jezior-duzy-potencjal-inwestycyjny-wz-ID4DC06",
+      "propertyType": "plot",
+      "title": "DZIAŁKA W OTOCZENIU LASÓW I JEZIOR | DUŻY POTENCJAŁ INWESTYCYJNY | WZ",
+      "voivodeship": "wielkopolskie",
+      "county": "leszczyński",
+      "city": "Osieczna",
+      "coordinates": {
+        "lat": 51.91485026472889,
+        "lng": 16.68360893024309
+      },
+      "isNearBorder": false,
+      "areaM2": 4000,
+      "currentPrice": 130000,
+      "currentPricePerM2": 130,
+      "initialPrice": 1000000,
+      "priceChangeAmount": -870000,
+      "priceChangePercent": -87,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 1000000,
+          "pricePerM2": 250
+        },
+        {
+          "date": "2026-10-20",
+          "price": 130000,
+          "pricePerM2": 130
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-20T10:00:52.451Z",
+      "isDirectOwner": false,
+      "previousPrice": 199000
+    },
+    {
       "id": "otodom-9000062221",
       "source": "otodom",
       "sourceId": "9000062221",
@@ -1395,7 +1474,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:54.592Z",
-      "lastSeenAt": "2026-10-19T09:59:51.881Z",
+      "lastSeenAt": "2026-10-20T09:31:40.343Z",
       "imageUrl": "https://s2.adresowa.pl/oi/52/19/3eb548_e2eb_cover@2x-dzialka-budowlana-grojecki-warka.webp",
       "isDirectOwner": true,
       "previousPrice": 1995000
@@ -1438,6 +1517,46 @@
       "lastSeenAt": "2026-10-15T09:52:35.452Z",
       "isDirectOwner": true,
       "previousPrice": 963200
+    },
+    {
+      "id": "otodom-9000062239",
+      "source": "otodom",
+      "sourceId": "9000062239",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/piekna-dzialka-z-bezposrednim-dostepem-do-jeziora-krajnik-lubniewice-ID4BkpT",
+      "propertyType": "plot",
+      "title": "Piękna działka z bezpośrednim dostępem do jeziora Krajnik | Lubniewice",
+      "voivodeship": "lubuskie",
+      "county": "sulęciński",
+      "city": "Lubniewice",
+      "street": "ul. Strzelecka",
+      "coordinates": {
+        "lat": 52.449040821099494,
+        "lng": 15.122392340665384
+      },
+      "isNearBorder": true,
+      "areaM2": 2245,
+      "currentPrice": 99000,
+      "currentPricePerM2": 123.75,
+      "initialPrice": 590000,
+      "priceChangeAmount": -491000,
+      "priceChangePercent": -83.2,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 590000,
+          "pricePerM2": 262.81
+        },
+        {
+          "date": "2026-10-20",
+          "price": 99000,
+          "pricePerM2": 123.75
+        }
+      ],
+      "status": "price_increase",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-20T09:18:22.042Z",
+      "isDirectOwner": true,
+      "previousPrice": 90090
     },
     {
       "id": "otodom-68415651",
@@ -1556,7 +1675,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-11T13:37:14.000Z",
-      "lastSeenAt": "2026-10-19T10:35:18.686Z",
+      "lastSeenAt": "2026-10-20T10:04:32.763Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InI1MzJ4ZWEwcWpjMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.OXUL50rn9gkIXDrf4XembPbnZJaYtXJE9-Psdgk-RGA/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 650000
@@ -1636,7 +1755,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:36.907Z",
-      "lastSeenAt": "2026-10-19T09:59:51.881Z",
+      "lastSeenAt": "2026-10-20T09:31:40.343Z",
       "imageUrl": "https://s2.adresowa.pl/oi/5f/58/401832_ff4f_cover@2x-dzialka-inwestycyjna-przasnyski-przasnysz.webp",
       "isDirectOwner": true,
       "previousPrice": 1260000
@@ -1676,7 +1795,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-20T10:27:44.000Z",
-      "lastSeenAt": "2026-10-19T10:26:49.864Z",
+      "lastSeenAt": "2026-10-20T09:56:33.263Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVnM3p5d25rMWR0MzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vAbHT5FX-PwnSMSiCvn0ROJOAXkEDBXaFihFiLcEk5k/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 629000
@@ -1841,7 +1960,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:11:01.541Z",
-      "lastSeenAt": "2026-10-19T10:22:17.519Z",
+      "lastSeenAt": "2026-10-20T09:52:32.299Z",
       "imageUrl": "https://s2.adresowa.pl/oi/1e/5f/371f30_47ef_cover@2x-dzialka-rolno-budowlana-starachowicki-starachowice.webp",
       "isDirectOwner": true,
       "previousPrice": 450000
@@ -1884,124 +2003,6 @@
       "lastSeenAt": "2026-10-19T10:22:17.462Z",
       "isDirectOwner": false,
       "previousPrice": 1750000
-    },
-    {
-      "id": "otodom-9000062218",
-      "source": "otodom",
-      "sourceId": "9000062218",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-inwestycyjna-jasienica-10-900-5-m-ID4DwSB",
-      "propertyType": "plot",
-      "title": "Działka Inwestycyjna Jasienica 10 900,5 m²",
-      "voivodeship": "slaskie",
-      "county": "bielski",
-      "city": "Międzyrzecze Dolne",
-      "coordinates": {
-        "lat": 52.769332649888035,
-        "lng": 23.202750008330167
-      },
-      "isNearBorder": false,
-      "areaM2": 10900.5,
-      "currentPrice": 640000,
-      "currentPricePerM2": 49.79,
-      "initialPrice": 2834130,
-      "priceChangeAmount": -2194130,
-      "priceChangePercent": -77.4,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 2834130,
-          "pricePerM2": 260
-        },
-        {
-          "date": "2026-10-13",
-          "price": 640000,
-          "pricePerM2": 49.79
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-13T12:09:01.209Z",
-      "isDirectOwner": false,
-      "previousPrice": 195000
-    },
-    {
-      "id": "otodom-9000062227",
-      "source": "otodom",
-      "sourceId": "9000062227",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/spektakularna-dzialka-budowlana-w-szczawnicy-ID4DyLu",
-      "propertyType": "plot",
-      "title": "Spektakularna działka budowlana w Szczawnicy",
-      "voivodeship": "malopolskie",
-      "county": "nowotarski",
-      "city": "Jaworki",
-      "street": "Pod Homolami",
-      "coordinates": {
-        "lat": 49.48737530215858,
-        "lng": 20.04153099080246
-      },
-      "isNearBorder": true,
-      "areaM2": 8424,
-      "currentPrice": 725000,
-      "currentPricePerM2": 250,
-      "initialPrice": 2999999,
-      "priceChangeAmount": -2274999,
-      "priceChangePercent": -75.8,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 2999999,
-          "pricePerM2": 356.13
-        },
-        {
-          "date": "2026-10-16",
-          "price": 725000,
-          "pricePerM2": 250
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-16T09:05:17.995Z",
-      "isDirectOwner": false,
-      "previousPrice": 11561000
-    },
-    {
-      "id": "otodom-9000062236",
-      "source": "otodom",
-      "sourceId": "9000062236",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-rekreacyjna-z-domkiem-letniskowym-nad-jeziorem-dejguny-ID4DAOM",
-      "propertyType": "plot",
-      "title": "Działka rekreacyjna z domkiem letniskowym nad jeziorem Dejguny",
-      "voivodeship": "warminsko-mazurskie",
-      "county": "giżycki",
-      "city": "Sterławki Małe",
-      "coordinates": {
-        "lat": 54.04137853873087,
-        "lng": 21.76797643478933
-      },
-      "isNearBorder": false,
-      "areaM2": 908,
-      "currentPrice": 109000,
-      "currentPricePerM2": 49.55,
-      "initialPrice": 450000,
-      "priceChangeAmount": -341000,
-      "priceChangePercent": -75.8,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 450000,
-          "pricePerM2": 495.59
-        },
-        {
-          "date": "2026-10-19",
-          "price": 109000,
-          "pricePerM2": 49.55
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-19T10:26:49.864Z",
-      "isDirectOwner": false,
-      "previousPrice": 158000
     }
   ]
 }
