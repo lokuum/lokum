@@ -1,12 +1,12 @@
 {
-  "totalHouses": 41534,
-  "totalPlots": 64242,
-  "totalHabitats": 3704,
-  "totalPriceDrops": 7335,
-  "avgHousePricePerM2": 7363,
-  "avgPlotPricePerM2": 235,
-  "avgHabitatPricePerM2": 1961,
-  "lastUpdated": "2026-10-20T10:04:35.713Z",
+  "totalHouses": 41779,
+  "totalPlots": 64357,
+  "totalHabitats": 3717,
+  "totalPriceDrops": 7693,
+  "avgHousePricePerM2": 7362,
+  "avgPlotPricePerM2": 241,
+  "avgHabitatPricePerM2": 1959,
+  "lastUpdated": "2026-10-21T10:07:29.578Z",
   "topPriceDrops": [
     {
       "id": "otodom-68541690",
@@ -44,7 +44,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-19T09:56:00.000Z",
-      "lastSeenAt": "2026-10-20T09:31:40.343Z",
+      "lastSeenAt": "2026-10-21T09:33:07.148Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjY5cnBxZmlpZzY2bDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Usz7oAV_Jwf7HOpp2CL6VpnTgkO-iQ1Yb91Fl-UJvYA/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 1180000000
@@ -125,7 +125,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-26T12:09:48.000Z",
-      "lastSeenAt": "2026-10-20T10:00:52.346Z",
+      "lastSeenAt": "2026-10-21T10:03:23.288Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims2ajBnZTZqNWkxYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wqT53kSc4lZeorRzIGZWNkI3s-yBz_ourBp53PKVi5Q/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 995000000
@@ -366,6 +366,45 @@
       "previousPrice": 2812420
     },
     {
+      "id": "otodom-9000062242",
+      "source": "otodom",
+      "sourceId": "9000062242",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/teren-inwestycyjny-przy-obiektach-mcdonalds-i-orlen-ID4DCVA",
+      "propertyType": "plot",
+      "title": "Teren inwestycyjny przy obiektach McDonald's i Orlen",
+      "voivodeship": "kujawsko-pomorskie",
+      "county": "mogileński",
+      "city": "Goryszewo",
+      "coordinates": {
+        "lat": 52.654973387370035,
+        "lng": 17.94475871341517
+      },
+      "isNearBorder": false,
+      "areaM2": 9040,
+      "currentPrice": 70000,
+      "currentPricePerM2": 37.74,
+      "initialPrice": 2350400,
+      "priceChangeAmount": -2280400,
+      "priceChangePercent": -97,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 2350400,
+          "pricePerM2": 260
+        },
+        {
+          "date": "2026-10-21",
+          "price": 70000,
+          "pricePerM2": 37.74
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-21T09:10:47.295Z",
+      "isDirectOwner": true,
+      "previousPrice": 266000
+    },
+    {
       "id": "otodom-9000062221",
       "source": "otodom",
       "sourceId": "9000062221",
@@ -562,6 +601,46 @@
       "lastSeenAt": "2026-10-19T09:37:55.361Z",
       "isDirectOwner": true,
       "previousPrice": 77000
+    },
+    {
+      "id": "otodom-9000062242",
+      "source": "otodom",
+      "sourceId": "9000062242",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-pod-uslugi-w-dobrej-lokalizacji-ID4DD1I",
+      "propertyType": "plot",
+      "title": "Działka pod usługi w dobrej lokalizacji",
+      "voivodeship": "mazowieckie",
+      "county": "warszawski zachodni",
+      "city": "Warszawa",
+      "street": "Teofila Piecyka 14B",
+      "coordinates": {
+        "lat": 52.23119929607167,
+        "lng": 21.007553646308672
+      },
+      "isNearBorder": false,
+      "areaM2": 2986,
+      "currentPrice": 270000,
+      "currentPricePerM2": 180,
+      "initialPrice": 3600000,
+      "priceChangeAmount": -3330000,
+      "priceChangePercent": -92.5,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 3600000,
+          "pricePerM2": 1205.63
+        },
+        {
+          "date": "2026-10-21",
+          "price": 270000,
+          "pricePerM2": 180
+        }
+      ],
+      "status": "price_increase",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-21T09:33:07.148Z",
+      "isDirectOwner": false,
+      "previousPrice": 195000
     },
     {
       "id": "otodom-9000062233",
@@ -794,7 +873,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:07:49.692Z",
-      "lastSeenAt": "2026-10-20T09:06:50.252Z",
+      "lastSeenAt": "2026-10-21T09:06:40.193Z",
       "imageUrl": "https://s2.adresowa.pl/oi/48/7f/3f3880_853b_cover@2x-dzialka-budowlana-wolowski-bukowice.webp",
       "isDirectOwner": true,
       "previousPrice": 176000
@@ -951,11 +1030,52 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:12:18.827Z",
-      "lastSeenAt": "2026-10-20T09:15:03.576Z",
+      "lastSeenAt": "2026-10-21T09:15:14.524Z",
       "imageUrl": "https://s2.adresowa.pl/oi/3b/24/3c384a_a4ec_cover@2x-dzialka-budowlana-lubelski-motycz.webp",
       "isDirectOwner": true,
       "county": "lubelski",
       "previousPrice": 1650000
+    },
+    {
+      "id": "otodom-68536261",
+      "source": "otodom",
+      "sourceId": "68536261",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-87-arow-sulkow-kolo-krakowa-mpzp-ID4Dzpz",
+      "propertyType": "plot",
+      "title": "DZIAŁKA BUDOWLANA 87 ARÓW – SUŁKÓW KOŁO KRAKOWA | MPZP |",
+      "voivodeship": "malopolskie",
+      "county": "wielicki",
+      "city": "Sułków",
+      "street": "ul.Golfowa",
+      "coordinates": {
+        "lat": 49.98995179605773,
+        "lng": 20.058891435403243
+      },
+      "isNearBorder": false,
+      "areaM2": 8700,
+      "currentPrice": 2875000,
+      "currentPricePerM2": 330.46,
+      "initialPrice": 28750000,
+      "priceChangeAmount": -25875000,
+      "priceChangePercent": -90,
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "price": 28750000,
+          "pricePerM2": 3304.6
+        },
+        {
+          "date": "2026-10-21",
+          "price": 2875000,
+          "pricePerM2": 330.46
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-10-16T16:11:02.000Z",
+      "lastSeenAt": "2026-10-21T09:27:56.824Z",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im02bHVuMW4yY2JoNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8WbapaIGU-GwLdubMzLnUGqkaypuEi-r0jGwVfWs7cc/image;s=655x491;q=80",
+      "isDirectOwner": true,
+      "previousPrice": 28750000
     },
     {
       "id": "otodom-68508978",
@@ -992,7 +1112,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-09T07:51:37.000Z",
-      "lastSeenAt": "2026-10-20T09:41:22.466Z",
+      "lastSeenAt": "2026-10-21T09:43:25.686Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhrZXhiOTJnZGFtbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.aZgFAInh0YeFnbFOs6dU4yAcB4bXUArxEDjCwq14F1A/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 10500000
@@ -1077,11 +1197,52 @@
       ],
       "status": "price_increase",
       "firstSeenAt": "2026-09-17T22:17:41.977Z",
-      "lastSeenAt": "2026-10-20T09:41:22.400Z",
+      "lastSeenAt": "2026-10-21T09:43:25.624Z",
       "imageUrl": "https://s2.adresowa.pl/oi/4c/4e/1b2410_f146_cover@2x-dzialka-budowlana-bielski-augustowo.webp",
       "isDirectOwner": true,
       "county": "bielski",
       "previousPrice": 72560
+    },
+    {
+      "id": "otodom-68541718",
+      "source": "otodom",
+      "sourceId": "68541718",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/wolnostojacy-dom-jednorodzinny-ID4DAPA",
+      "propertyType": "house",
+      "title": "Wolnostojący dom jednorodzinny",
+      "voivodeship": "zachodniopomorskie",
+      "county": "policki",
+      "city": "Szczecin",
+      "street": "ul. Sierakowska",
+      "coordinates": {
+        "lat": 53.430763154326776,
+        "lng": 14.557979661284822
+      },
+      "isNearBorder": true,
+      "areaM2": 150,
+      "currentPrice": 1799000,
+      "currentPricePerM2": 11993.33,
+      "initialPrice": 17499000,
+      "priceChangeAmount": -15700000,
+      "priceChangePercent": -89.7,
+      "priceHistory": [
+        {
+          "date": "2026-10-19",
+          "price": 17499000,
+          "pricePerM2": 116660
+        },
+        {
+          "date": "2026-10-21",
+          "price": 1799000,
+          "pricePerM2": 11993.33
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-10-19T10:00:04.000Z",
+      "lastSeenAt": "2026-10-21T10:07:25.167Z",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRmcWl5dWJwZ2w3MDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zhAYbWjYpZR2xzEYbzbCcCm20n8ktopFmfR-N8p1JhU/image;s=655x491;q=80",
+      "isDirectOwner": false,
+      "previousPrice": 17499000
     },
     {
       "id": "otodom-9000062221",
@@ -1159,7 +1320,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-11T17:18:24.000Z",
-      "lastSeenAt": "2026-10-20T09:26:48.426Z",
+      "lastSeenAt": "2026-10-21T09:27:56.824Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImYxNGxtbG9tNmkzNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7j-z7ur-BLa28p_HOBmliWiVNBgmjbGUQiB84U-mv2g/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 560000
@@ -1322,6 +1483,46 @@
       "previousPrice": 167000
     },
     {
+      "id": "otodom-9000062242",
+      "source": "otodom",
+      "sourceId": "9000062242",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-inwestycyjna-1204-m-mpzp-jedrzejow-ul-przemyslowa-ID4wHbr",
+      "propertyType": "plot",
+      "title": "Działka inwestycyjna 1204 m² MPZP – Jędrzejów ul. Przemysłowa",
+      "voivodeship": "swietokrzyskie",
+      "county": "jędrzejowski",
+      "city": "Jędrzejów",
+      "street": "ul. Przemysłowa",
+      "coordinates": {
+        "lat": 50.637251338962166,
+        "lng": 20.309037412302462
+      },
+      "isNearBorder": false,
+      "areaM2": 1204,
+      "currentPrice": 99000,
+      "currentPricePerM2": 34.14,
+      "initialPrice": 762600,
+      "priceChangeAmount": -663600,
+      "priceChangePercent": -87,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 762600,
+          "pricePerM2": 633.39
+        },
+        {
+          "date": "2026-10-21",
+          "price": 99000,
+          "pricePerM2": 34.14
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-21T09:55:36.524Z",
+      "isDirectOwner": false,
+      "previousPrice": 640000
+    },
+    {
       "id": "otodom-9000062239",
       "source": "otodom",
       "sourceId": "9000062239",
@@ -1474,7 +1675,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:54.592Z",
-      "lastSeenAt": "2026-10-20T09:31:40.343Z",
+      "lastSeenAt": "2026-10-21T09:33:07.148Z",
       "imageUrl": "https://s2.adresowa.pl/oi/52/19/3eb548_e2eb_cover@2x-dzialka-budowlana-grojecki-warka.webp",
       "isDirectOwner": true,
       "previousPrice": 1995000
@@ -1675,7 +1876,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-11T13:37:14.000Z",
-      "lastSeenAt": "2026-10-20T10:04:32.763Z",
+      "lastSeenAt": "2026-10-21T10:07:25.246Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InI1MzJ4ZWEwcWpjMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.OXUL50rn9gkIXDrf4XembPbnZJaYtXJE9-Psdgk-RGA/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 650000
@@ -1755,7 +1956,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:36.907Z",
-      "lastSeenAt": "2026-10-20T09:31:40.343Z",
+      "lastSeenAt": "2026-10-21T09:33:07.148Z",
       "imageUrl": "https://s2.adresowa.pl/oi/5f/58/401832_ff4f_cover@2x-dzialka-inwestycyjna-przasnyski-przasnysz.webp",
       "isDirectOwner": true,
       "previousPrice": 1260000
@@ -1799,210 +2000,6 @@
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVnM3p5d25rMWR0MzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vAbHT5FX-PwnSMSiCvn0ROJOAXkEDBXaFihFiLcEk5k/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 629000
-    },
-    {
-      "id": "otodom-9000062221",
-      "source": "otodom",
-      "sourceId": "9000062221",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/unikatowa-inwestycja-z-potencjalem-noclegi-sala-wiata-bez-posrednikow-ID4udLH",
-      "propertyType": "house",
-      "title": "Unikatowa inwestycja z potencjałem–noclegi,sala,wiata BEZ POŚREDNIKÓW!",
-      "voivodeship": "lubuskie",
-      "county": "zielonogórski",
-      "city": "Zielona Góra",
-      "street": "ul.Św.Huberta",
-      "coordinates": {
-        "lat": 51.92845732635927,
-        "lng": 15.507525471186982
-      },
-      "isNearBorder": false,
-      "areaM2": 490,
-      "currentPrice": 535000,
-      "currentPricePerM2": 5691.49,
-      "initialPrice": 2699000,
-      "priceChangeAmount": -2164000,
-      "priceChangePercent": -80.2,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 2699000,
-          "pricePerM2": 5508.16
-        },
-        {
-          "date": "2026-10-14",
-          "price": 535000,
-          "pricePerM2": 5691.49
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-14T09:27:15.612Z",
-      "isDirectOwner": true,
-      "previousPrice": 1099000
-    },
-    {
-      "id": "otodom-9000062230",
-      "source": "otodom",
-      "sourceId": "9000062230",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-z-wlasna-linia-brzegowa-jeziora-mala-kalwa-w-pasymiu-ID4BtJf",
-      "propertyType": "plot",
-      "title": "Działka budowlana z własną linią brzegową jeziora Mała Kalwa w Pasymiu",
-      "voivodeship": "warminsko-mazurskie",
-      "county": "szczycieński",
-      "city": "Pasym",
-      "street": "ul. Ostrów",
-      "coordinates": {
-        "lat": 53.557019612551045,
-        "lng": 20.9888263561297
-      },
-      "isNearBorder": false,
-      "areaM2": 2000,
-      "currentPrice": 109000,
-      "currentPricePerM2": 49.55,
-      "initialPrice": 550000,
-      "priceChangeAmount": -441000,
-      "priceChangePercent": -80.2,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 550000,
-          "pricePerM2": 275
-        },
-        {
-          "date": "2026-10-17",
-          "price": 109000,
-          "pricePerM2": 49.55
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-17T09:08:21.267Z",
-      "isDirectOwner": true,
-      "previousPrice": 252000
-    },
-    {
-      "id": "otodom-9000062218",
-      "source": "otodom",
-      "sourceId": "9000062218",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-na-sprzedaz-1925-m-zambrow-dlugoborz-ID4BY2Q",
-      "propertyType": "plot",
-      "title": "Działka na sprzedaż, 1925 m², Zambrów Długobórz",
-      "voivodeship": "podlaskie",
-      "county": "zambrowski",
-      "city": "Długobórz",
-      "coordinates": {
-        "lat": 52.981031834613184,
-        "lng": 22.24262684860516
-      },
-      "isNearBorder": false,
-      "areaM2": 1925,
-      "currentPrice": 120000,
-      "currentPricePerM2": 40,
-      "initialPrice": 599000,
-      "priceChangeAmount": -479000,
-      "priceChangePercent": -80,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 599000,
-          "pricePerM2": 311.17
-        },
-        {
-          "date": "2026-10-13",
-          "price": 120000,
-          "pricePerM2": 40
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-13T12:00:24.801Z",
-      "isDirectOwner": false,
-      "previousPrice": 295000
-    },
-    {
-      "id": "adresowo-3612464",
-      "source": "adresowo",
-      "sourceId": "3612464",
-      "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-starachowice-ul-nowowiejska-q9a1s3",
-      "propertyType": "plot",
-      "title": "Działka — Starachowice Górniki, ul. Nowowiejska",
-      "voivodeship": "swietokrzyskie",
-      "county": "starachowicki",
-      "city": "Starachowice Górniki",
-      "street": "ul. Nowowiejska",
-      "coordinates": {
-        "lat": 51.04257919000217,
-        "lng": 21.062417095816066
-      },
-      "isNearBorder": false,
-      "areaM2": 5290,
-      "currentPrice": 100000,
-      "currentPricePerM2": 111.11,
-      "initialPrice": 500000,
-      "priceChangeAmount": -400000,
-      "priceChangePercent": -80,
-      "priceHistory": [
-        {
-          "date": "2026-09-24",
-          "price": 500000,
-          "pricePerM2": 94.52
-        },
-        {
-          "date": "2026-10-04",
-          "price": 450000,
-          "pricePerM2": 85.07
-        },
-        {
-          "date": "2026-10-14",
-          "price": 100000,
-          "pricePerM2": 111.11
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "2026-09-24T21:11:01.541Z",
-      "lastSeenAt": "2026-10-20T09:52:32.299Z",
-      "imageUrl": "https://s2.adresowa.pl/oi/1e/5f/371f30_47ef_cover@2x-dzialka-rolno-budowlana-starachowicki-starachowice.webp",
-      "isDirectOwner": true,
-      "previousPrice": 450000
-    },
-    {
-      "id": "otodom-9000062236",
-      "source": "otodom",
-      "sourceId": "9000062236",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/prywatna-enklawa-w-gorach-swietokrzyskich-ID4CjuO",
-      "propertyType": "house",
-      "title": "Prywatna enklawa w Górach Świętokrzyskich",
-      "voivodeship": "swietokrzyskie",
-      "county": "starachowicki",
-      "city": "Bronkowice",
-      "coordinates": {
-        "lat": 51.47264748333281,
-        "lng": 17.655911261908184
-      },
-      "isNearBorder": false,
-      "areaM2": 162,
-      "currentPrice": 521250,
-      "currentPricePerM2": 4714.21,
-      "initialPrice": 2340000,
-      "priceChangeAmount": -1818750,
-      "priceChangePercent": -77.7,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 2340000,
-          "pricePerM2": 14444.44
-        },
-        {
-          "date": "2026-10-19",
-          "price": 521250,
-          "pricePerM2": 4714.21
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-19T10:22:17.462Z",
-      "isDirectOwner": false,
-      "previousPrice": 1750000
     }
   ]
 }

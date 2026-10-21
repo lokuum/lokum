@@ -29,7 +29,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-22T20:40:08.189Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
     "imageUrl": "https://s2.adresowa.pl/oi/53/29/40f6aa_3709_cover@2x-dom-pilski-jeziorki-kosztowskie.webp",
     "isDirectOwner": true
   },
@@ -63,7 +63,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-22T20:40:08.189Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
     "imageUrl": "https://s2.adresowa.pl/oi/14/68/40e29e_ba4d_cover@2x-dom-gnieznienski-kapiel.webp",
     "isDirectOwner": true
   },
@@ -108,7 +108,7 @@
     ],
     "status": "price_drop",
     "firstSeenAt": "2026-09-22T20:40:08.189Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
     "imageUrl": "https://s2.adresowa.pl/oi/2a/14/40dbee_c558_cover@2x-dom-kaliski-sobieseki-pierwsze.webp",
     "isDirectOwner": true,
     "previousPrice": 1125000
@@ -143,7 +143,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-22T08:39:28.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ2Ymk1YnZ5OHB5cTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.h6DRf--Lp8psBegrMy8c42dpnI16V5-SJ058HzAans0/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -164,22 +164,1741 @@
     },
     "isNearBorder": false,
     "areaM2": 6200,
-    "currentPrice": 300000,
-    "currentPricePerM2": 48.39,
+    "currentPrice": 299000,
+    "currentPricePerM2": 48.23,
     "initialPrice": 300000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
+    "priceChangeAmount": -1000,
+    "priceChangePercent": -0.3,
     "priceHistory": [
       {
         "date": "2026-09-22",
         "price": 300000,
         "pricePerM2": 48.39
+      },
+      {
+        "date": "2026-10-21",
+        "price": 299000,
+        "pricePerM2": 48.23
+      }
+    ],
+    "status": "price_drop",
+    "firstSeenAt": "2026-09-22T20:40:20.918Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/59/32/40e222_abbe_cover@2x-dzialka-siedliskowa-koninski-cegielnia-rudki.webp",
+    "isDirectOwner": true,
+    "previousPrice": 300000
+  },
+  {
+    "id": "adresowo-4249388",
+    "source": "adresowo",
+    "sourceId": "4249388",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-kwilcz-kurnatowice-1-025-m2-c9f9w9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kurnatowice",
+    "voivodeship": "wielkopolskie",
+    "county": "miedzychodzki",
+    "city": "Kurnatowice",
+    "coordinates": {
+      "lat": 52.55986015727564,
+      "lng": 16.027202398233992
+    },
+    "isNearBorder": false,
+    "areaM2": 1025,
+    "currentPrice": 87000,
+    "currentPricePerM2": 84.88,
+    "initialPrice": 87000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-22",
+        "price": 87000,
+        "pricePerM2": 84.88
       }
     ],
     "status": "active",
-    "firstSeenAt": "2026-09-22T20:40:20.918Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/59/32/40e222_abbe_cover@2x-dzialka-siedliskowa-koninski-cegielnia-rudki.webp",
+    "firstSeenAt": "2026-09-22T20:40:23.489Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/79/39/40d72c_df09_cover@2x-dzialka-budowlana-miedzychodzki-kurnatowice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4214234",
+    "source": "adresowo",
+    "sourceId": "4214234",
+    "sourceUrl": "https://adresowo.pl/o/dom-dabie-kupinin-260-m2-b7g2z8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kupinin",
+    "voivodeship": "wielkopolskie",
+    "county": "kolski",
+    "city": "Kupinin",
+    "coordinates": {
+      "lat": 52.1990666860187,
+      "lng": 18.64130586183108
+    },
+    "isNearBorder": false,
+    "areaM2": 260,
+    "currentPrice": 1600000,
+    "currentPricePerM2": 6153.85,
+    "initialPrice": 1699999,
+    "priceChangeAmount": -99999,
+    "priceChangePercent": -5.9,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 1699999,
+        "pricePerM2": 6538.46
+      },
+      {
+        "date": "2026-10-19",
+        "price": 1600000,
+        "pricePerM2": 6153.85
+      }
+    ],
+    "status": "price_drop",
+    "firstSeenAt": "2026-09-23T09:14:20.904Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/18/29/404dda_af07_cover@2x-dom-kolski-kupinin.webp",
+    "isDirectOwner": true,
+    "previousPrice": 1699999
+  },
+  {
+    "id": "adresowo-4211170",
+    "source": "adresowo",
+    "sourceId": "4211170",
+    "sourceUrl": "https://adresowo.pl/o/dom-trzemeszno-wymyslowo-210-m2-g8d6z5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Wymysłowo",
+    "voivodeship": "wielkopolskie",
+    "county": "gnieznienski",
+    "city": "Wymysłowo",
+    "coordinates": {
+      "lat": 52.54469013340455,
+      "lng": 17.76470257151661
+    },
+    "isNearBorder": false,
+    "areaM2": 210,
+    "currentPrice": 1290000,
+    "currentPricePerM2": 6142.86,
+    "initialPrice": 1290000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 1290000,
+        "pricePerM2": 6142.86
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:20.904Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/39/22/4041e2_e5d2_cover@2x-dom-gnieznienski-wymyslowo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4194908",
+    "source": "adresowo",
+    "sourceId": "4194908",
+    "sourceUrl": "https://adresowo.pl/o/dom-obrzycko-kozmin-86-m2-i3g7c6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Koźmin",
+    "voivodeship": "wielkopolskie",
+    "county": "szamotulski",
+    "city": "Koźmin",
+    "coordinates": {
+      "lat": 51.83997303618477,
+      "lng": 17.447257118214925
+    },
+    "isNearBorder": false,
+    "areaM2": 86,
+    "currentPrice": 1850000,
+    "currentPricePerM2": 21511.63,
+    "initialPrice": 1850000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 1850000,
+        "pricePerM2": 21511.63
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:23.132Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/16/44/40025c_8a98_cover@2x-dom-szamotulski-kozmin.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3870728",
+    "source": "adresowo",
+    "sourceId": "3870728",
+    "sourceUrl": "https://adresowo.pl/o/dom-grodziec-biskupice-103-m2-o2m2t2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Biskupice",
+    "voivodeship": "wielkopolskie",
+    "county": "koninski",
+    "city": "Biskupice",
+    "coordinates": {
+      "lat": 52.225574983287764,
+      "lng": 18.24803880001886
+    },
+    "isNearBorder": false,
+    "areaM2": 103,
+    "currentPrice": 249000,
+    "currentPricePerM2": 2417.48,
+    "initialPrice": 249000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 249000,
+        "pricePerM2": 2417.48
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:23.132Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/37/5f/3b1008_a4f9_cover@2x-dom-koninski-biskupice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4136550",
+    "source": "adresowo",
+    "sourceId": "4136550",
+    "sourceUrl": "https://adresowo.pl/o/dom-brudzew-janow-90-m2-b0g0t1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Janów",
+    "voivodeship": "wielkopolskie",
+    "county": "turecki",
+    "city": "Janów",
+    "coordinates": {
+      "lat": 52.02168569973954,
+      "lng": 18.49821798899479
+    },
+    "isNearBorder": false,
+    "areaM2": 90,
+    "currentPrice": 369000,
+    "currentPricePerM2": 4100,
+    "initialPrice": 369000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 369000,
+        "pricePerM2": 4100
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:27.893Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1d/53/3f1e66_89bd_cover@2x-dom-turecki-janow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4114642",
+    "source": "adresowo",
+    "sourceId": "4114642",
+    "sourceUrl": "https://adresowo.pl/o/dom-niechanowo-miroszka-200-m2-j0d8m5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Miroszka",
+    "voivodeship": "wielkopolskie",
+    "county": "gnieznienski",
+    "city": "Miroszka",
+    "coordinates": {
+      "lat": 52.54080379505448,
+      "lng": 17.576397888332195
+    },
+    "isNearBorder": false,
+    "areaM2": 200,
+    "currentPrice": 1650000,
+    "currentPricePerM2": 8250,
+    "initialPrice": 1850000,
+    "priceChangeAmount": -200000,
+    "priceChangePercent": -10.8,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 1850000,
+        "pricePerM2": 9250
+      },
+      {
+        "date": "2026-10-07",
+        "price": 1650000,
+        "pricePerM2": 8250
+      }
+    ],
+    "status": "price_drop",
+    "firstSeenAt": "2026-09-23T09:14:27.893Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/51/13/3ec8d2_694d_cover@2x-dom-gnieznienski-miroszka.webp",
+    "isDirectOwner": true,
+    "previousPrice": 1850000
+  },
+  {
+    "id": "adresowo-4021696",
+    "source": "adresowo",
+    "sourceId": "4021696",
+    "sourceUrl": "https://adresowo.pl/o/dom-dolsk-ksieginki-220-m2-o1p7v2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Księginki",
+    "voivodeship": "wielkopolskie",
+    "county": "sremski",
+    "city": "Księginki",
+    "coordinates": {
+      "lat": 52.09361912945038,
+      "lng": 17.006647738005547
+    },
+    "isNearBorder": false,
+    "areaM2": 220,
+    "currentPrice": 3500000,
+    "currentPricePerM2": 15909.09,
+    "initialPrice": 3500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 3500000,
+        "pricePerM2": 15909.09
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:32.976Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/14/3b/3d5dc0_de7e_cover@2x-dom-sremski-ksieginki.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4015732",
+    "source": "adresowo",
+    "sourceId": "4015732",
+    "sourceUrl": "https://adresowo.pl/o/dom-olszowka-krzewata-237-m2-d4q1q4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Krzewata",
+    "voivodeship": "wielkopolskie",
+    "county": "kolski",
+    "city": "Krzewata",
+    "coordinates": {
+      "lat": 52.193725891030205,
+      "lng": 18.64594806955338
+    },
+    "isNearBorder": false,
+    "areaM2": 237,
+    "currentPrice": 1550000,
+    "currentPricePerM2": 6540.08,
+    "initialPrice": 1550000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 1550000,
+        "pricePerM2": 6540.08
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:32.976Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/55/1a/3d4674_75cc_cover@2x-dom-kolski-krzewata.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3994320",
+    "source": "adresowo",
+    "sourceId": "3994320",
+    "sourceUrl": "https://adresowo.pl/o/dom-dominowo-rusiborek-220-m2-h4o4m7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Rusiborek",
+    "voivodeship": "wielkopolskie",
+    "county": "sredzki",
+    "city": "Rusiborek",
+    "coordinates": {
+      "lat": 52.22300860978101,
+      "lng": 17.28056857767585
+    },
+    "isNearBorder": false,
+    "areaM2": 220,
+    "currentPrice": 650000,
+    "currentPricePerM2": 2954.55,
+    "initialPrice": 650000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 650000,
+        "pricePerM2": 2954.55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:32.976Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/36/63/3cf2d0_45fd_cover@2x-dom-sredzki-rusiborek.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3937208",
+    "source": "adresowo",
+    "sourceId": "3937208",
+    "sourceUrl": "https://adresowo.pl/o/dom-zlotow-zalesie-310-m2-f6j7k0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Zalesie, Pieczynek",
+    "voivodeship": "wielkopolskie",
+    "county": "zlotowski",
+    "city": "Zalesie",
+    "street": "Pieczynek",
+    "coordinates": {
+      "lat": 52.04067061799209,
+      "lng": 23.358203231349165
+    },
+    "isNearBorder": false,
+    "areaM2": 310,
+    "plotAreaM2": 7000,
+    "currentPrice": 650000,
+    "currentPricePerM2": 2096.77,
+    "initialPrice": 650000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 650000,
+        "pricePerM2": 2096.77
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:35.489Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6c/70/3c13b8_db37_cover@2x-dom-zlotowski-zalesie.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3897442",
+    "source": "adresowo",
+    "sourceId": "3897442",
+    "sourceUrl": "https://adresowo.pl/o/dom-miedzichowo-pradowka-120-m2-y2f8n9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Prądówka",
+    "voivodeship": "wielkopolskie",
+    "county": "nowotomyski",
+    "city": "Prądówka",
+    "coordinates": {
+      "lat": 52.3184259241448,
+      "lng": 16.137783353420186
+    },
+    "isNearBorder": false,
+    "areaM2": 120,
+    "currentPrice": 650000,
+    "currentPricePerM2": 5416.67,
+    "initialPrice": 650000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 650000,
+        "pricePerM2": 5416.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:35.489Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/30/72/3b7862_b8f5_cover@2x-dom-nowotomyski-pradowka.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3795144",
+    "source": "adresowo",
+    "sourceId": "3795144",
+    "sourceUrl": "https://adresowo.pl/o/dom-kwilcz-mechnacz-210-m2-x7y9w4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Mechnacz",
+    "voivodeship": "wielkopolskie",
+    "county": "miedzychodzki",
+    "city": "Mechnacz",
+    "coordinates": {
+      "lat": 52.606367761475454,
+      "lng": 15.894339015188923
+    },
+    "isNearBorder": false,
+    "areaM2": 210,
+    "currentPrice": 4500000,
+    "currentPricePerM2": 21428.57,
+    "initialPrice": 4500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 4500000,
+        "pricePerM2": 21428.57
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:37.760Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/42/2c/39e8c8_e2e1_cover@2x-dom-miedzychodzki-mechnacz.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3775258",
+    "source": "adresowo",
+    "sourceId": "3775258",
+    "sourceUrl": "https://adresowo.pl/o/dom-krzymow-brzezno-85-m2-v0c3t6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Brzeźno",
+    "voivodeship": "wielkopolskie",
+    "county": "koninski",
+    "city": "Brzeźno",
+    "coordinates": {
+      "lat": 52.219062794602145,
+      "lng": 18.244137983782377
+    },
+    "isNearBorder": false,
+    "areaM2": 85,
+    "currentPrice": 485000,
+    "currentPricePerM2": 5705.88,
+    "initialPrice": 485000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 485000,
+        "pricePerM2": 5705.88
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:37.760Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/11/4f/399b1a_80a8_cover@2x-dom-koninski-brzezno.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3737176",
+    "source": "adresowo",
+    "sourceId": "3737176",
+    "sourceUrl": "https://adresowo.pl/o/dom-skoki-grzybowo-150-m2-l8g7c0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Grzybowo",
+    "voivodeship": "wielkopolskie",
+    "county": "wagrowiecki",
+    "city": "Grzybowo",
+    "coordinates": {
+      "lat": 52.80351935412585,
+      "lng": 17.20354826575435
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "currentPrice": 990000,
+    "currentPricePerM2": 6600,
+    "initialPrice": 990000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 990000,
+        "pricePerM2": 6600
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:37.760Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/60/3a/390658_d94a_cover@2x-dom-wagrowiecki-grzybowo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3580854",
+    "source": "adresowo",
+    "sourceId": "3580854",
+    "sourceUrl": "https://adresowo.pl/o/dom-miescisko-jaroszewo-pierwsze-170-m2-z2u1u3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Jaroszewo Pierwsze",
+    "voivodeship": "wielkopolskie",
+    "county": "wagrowiecki",
+    "city": "Jaroszewo Pierwsze",
+    "coordinates": {
+      "lat": 52.81296829756428,
+      "lng": 17.190576897363243
+    },
+    "isNearBorder": false,
+    "areaM2": 170,
+    "plotAreaM2": 1300,
+    "currentPrice": 850000,
+    "currentPricePerM2": 5000,
+    "initialPrice": 850000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 850000,
+        "pricePerM2": 5000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:39.722Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/66/28/36a3b6_caf0_cover@2x-dom-wagrowiecki-jaroszewo-pierwsze.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3562886",
+    "source": "adresowo",
+    "sourceId": "3562886",
+    "sourceUrl": "https://adresowo.pl/o/dom-krobia-ul-adama-mickiewicza-v0e3s4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Krobia, ul. Adama Mickiewicza",
+    "voivodeship": "wielkopolskie",
+    "county": "gostynski",
+    "city": "Krobia",
+    "street": "ul. Adama Mickiewicza",
+    "coordinates": {
+      "lat": 51.784485572678854,
+      "lng": 16.980601110648212
+    },
+    "isNearBorder": false,
+    "areaM2": 270,
+    "currentPrice": 1350000,
+    "currentPricePerM2": 5000,
+    "initialPrice": 1350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 1350000,
+        "pricePerM2": 5000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:39.722Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/15/77/365d86_349b_cover@2x-dom-gostynski-krobia.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3517284",
+    "source": "adresowo",
+    "sourceId": "3517284",
+    "sourceUrl": "https://adresowo.pl/o/dom-krobia-domachowo-220-m2-y4l2z8",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Domachowo",
+    "voivodeship": "wielkopolskie",
+    "county": "gostynski",
+    "city": "Domachowo",
+    "coordinates": {
+      "lat": 51.88094336301119,
+      "lng": 17.014431725508267
+    },
+    "isNearBorder": false,
+    "areaM2": 220,
+    "currentPrice": 560000,
+    "currentPricePerM2": 2545.45,
+    "initialPrice": 560000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 560000,
+        "pricePerM2": 2545.45
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:39.722Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/68/5b/35ab64_92e5_cover@2x-dom-gostynski-domachowo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3481802",
+    "source": "adresowo",
+    "sourceId": "3481802",
+    "sourceUrl": "https://adresowo.pl/o/dom-mycielin-stropieszyn-150-m2-y9m7m7",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Stropieszyn",
+    "voivodeship": "wielkopolskie",
+    "county": "kaliski",
+    "city": "Stropieszyn",
+    "coordinates": {
+      "lat": 51.77096799507057,
+      "lng": 18.076843691660123
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "currentPrice": 429000,
+    "currentPricePerM2": 2860,
+    "initialPrice": 429000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 429000,
+        "pricePerM2": 2860
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:39.722Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5e/2f/3520ca_423a_cover@2x-dom-kaliski-stropieszyn.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3426010",
+    "source": "adresowo",
+    "sourceId": "3426010",
+    "sourceUrl": "https://adresowo.pl/o/dom-pogorzela-130-m2-h9k6w6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Pogorzela",
+    "voivodeship": "wielkopolskie",
+    "county": "gostynski",
+    "city": "Pogorzela",
+    "coordinates": {
+      "lat": 51.81715770674883,
+      "lng": 17.226254272496185
+    },
+    "isNearBorder": false,
+    "areaM2": 130,
+    "currentPrice": 3500000,
+    "currentPricePerM2": 26923.08,
+    "initialPrice": 3500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 3500000,
+        "pricePerM2": 26923.08
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:39.722Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/1b/1b/3446da_7be3_cover@2x-dom-gostynski-pogorzela.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3217440",
+    "source": "adresowo",
+    "sourceId": "3217440",
+    "sourceUrl": "https://adresowo.pl/o/dom-ryczywol-tlukawy-88-m2-c0n2x9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Tłukawy",
+    "voivodeship": "wielkopolskie",
+    "county": "obornicki",
+    "city": "Tłukawy",
+    "coordinates": {
+      "lat": 52.64219003285191,
+      "lng": 16.80724518579355
+    },
+    "isNearBorder": false,
+    "areaM2": 88,
+    "currentPrice": 295000,
+    "currentPricePerM2": 3352.27,
+    "initialPrice": 295000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 295000,
+        "pricePerM2": 3352.27
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:42.049Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6b/41/311820_eaee_cover@2x-dom-obornicki-tlukawy.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-3167406",
+    "source": "adresowo",
+    "sourceId": "3167406",
+    "sourceUrl": "https://adresowo.pl/o/dom-ostrow-wielkopolski-kwiatkow-900-m2-y0o1l6",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kwiatków",
+    "voivodeship": "wielkopolskie",
+    "county": "ostrowski",
+    "city": "Kwiatków",
+    "coordinates": {
+      "lat": 51.65802688108962,
+      "lng": 17.79877037386204
+    },
+    "isNearBorder": false,
+    "areaM2": 900,
+    "currentPrice": 2760000,
+    "currentPricePerM2": 3066.67,
+    "initialPrice": 2760000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-23",
+        "price": 2760000,
+        "pricePerM2": 3066.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-23T09:14:42.049Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/6c/28/3054ae_8969_cover@2x-dom-ostrowski-kwiatkow.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68480041",
+    "source": "otodom",
+    "sourceId": "68480041",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-potencjalemdzialka-3777m2swiniary-ID4DkMN",
+    "propertyType": "habitat",
+    "title": "Siedlisko z potencjałem|Działka 3777m2|Świniary",
+    "voivodeship": "wielkopolskie",
+    "county": "gnieźnieński",
+    "city": "Świniary",
+    "coordinates": {
+      "lat": 52.540997636491184,
+      "lng": 17.5889520113995
+    },
+    "isNearBorder": false,
+    "areaM2": 3777,
+    "currentPrice": 355000,
+    "currentPricePerM2": 93.99,
+    "initialPrice": 355000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-01",
+        "price": 355000,
+        "pricePerM2": 93.99
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-01T10:25:11.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1tNGVwczhxNGZwYjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ORjZMt1AE0zuh3FamctdVJ-R8WR9eb4m4LKpri3CASk/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67385725",
+    "source": "otodom",
+    "sourceId": "67385725",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/przeurocze-siedlisko-wsrod-lasow-i-pol-ze-stawem-blisko-drogi-dk-nr-24-ID4yK6x",
+    "propertyType": "habitat",
+    "title": "Przeurocze Siedlisko wśród lasów i pól ze stawem blisko drogi DK nr 24",
+    "voivodeship": "wielkopolskie",
+    "county": "międzychodzki",
+    "city": "Urbanówko",
+    "street": "ul. Liliowa",
+    "coordinates": {
+      "lat": 52.556164514792314,
+      "lng": 16.087686731087306
+    },
+    "isNearBorder": false,
+    "areaM2": 70000,
+    "currentPrice": 2200000,
+    "currentPricePerM2": 31.43,
+    "initialPrice": 2200000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-02",
+        "price": 2200000,
+        "pricePerM2": 31.43
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-02T11:55:47.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdlMXZlOGl4YWhzaDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.p0fSfDJsMRF9RJBzvfUfSwSD6PTQ8Hehxq2VrogIyDQ/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4287114",
+    "source": "adresowo",
+    "sourceId": "4287114",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-murowana-goslina-boduszewo-3-040-m2-y2w9g9",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Boduszewo",
+    "voivodeship": "wielkopolskie",
+    "county": "poznanski",
+    "city": "Boduszewo",
+    "coordinates": {
+      "lat": 52.407868109032854,
+      "lng": 16.9260266166909
+    },
+    "isNearBorder": false,
+    "areaM2": 3040,
+    "currentPrice": 390000,
+    "currentPricePerM2": 128.29,
+    "initialPrice": 390000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-05",
+        "price": 390000,
+        "pricePerM2": 128.29
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-05T12:05:09.421Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/57/16/416a8a_a964_cover@2x-dzialka-budowlana-poznanski-boduszewo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-67010616",
+    "source": "otodom",
+    "sourceId": "67010616",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-dzialka-4181m2-z-linia-brzegowa-ostrowite-prymasowskie-ID4xavo",
+    "propertyType": "habitat",
+    "title": "Siedlisko, działka 4181m2 z linią brzegową Ostrowite Prymasowskie",
+    "voivodeship": "wielkopolskie",
+    "county": "gnieźnieński",
+    "city": "Ostrowite Prymasowskie",
+    "coordinates": {
+      "lat": 52.436345461248614,
+      "lng": 17.75749864114119
+    },
+    "isNearBorder": false,
+    "areaM2": 4181,
+    "currentPrice": 1000000,
+    "currentPricePerM2": 239.18,
+    "initialPrice": 1000000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2025-07-07",
+        "price": 1000000,
+        "pricePerM2": 239.18
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2025-07-07T15:37:03.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJtNDJ6dGxtY2pteS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.E2pUZW6nXa8SFnBcBrsLBRvh0xlmPPInFruABRJ0vo0/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4289632",
+    "source": "adresowo",
+    "sourceId": "4289632",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-miloslaw-biechowo-4-ha-r2i9r1",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Biechowo",
+    "voivodeship": "wielkopolskie",
+    "county": "wrzesinski",
+    "city": "Biechowo",
+    "coordinates": {
+      "lat": 52.321257463106264,
+      "lng": 17.559801418282525
+    },
+    "isNearBorder": false,
+    "areaM2": 40000,
+    "currentPrice": 349000,
+    "currentPricePerM2": 8.73,
+    "initialPrice": 399000,
+    "priceChangeAmount": -50000,
+    "priceChangePercent": -12.5,
+    "priceHistory": [
+      {
+        "date": "2026-10-07",
+        "price": 399000,
+        "pricePerM2": 9.98
+      },
+      {
+        "date": "2026-10-21",
+        "price": 349000,
+        "pricePerM2": 8.73
+      }
+    ],
+    "status": "price_drop",
+    "firstSeenAt": "2026-10-07T11:46:42.239Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/3b/5b/417460_70c9_cover@2x-dzialka-rolna-wrzesinski-biechowo.webp",
+    "isDirectOwner": true,
+    "previousPrice": 399000
+  },
+  {
+    "id": "adresowo-4290704",
+    "source": "adresowo",
+    "sourceId": "4290704",
+    "sourceUrl": "https://adresowo.pl/o/dom-kozmin-wielkopolski-nowa-obra-150-m2-r0c0a5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Nowa Obra",
+    "voivodeship": "wielkopolskie",
+    "county": "krotoszynski",
+    "city": "Nowa Obra",
+    "coordinates": {
+      "lat": 51.70015884503124,
+      "lng": 17.43694580358275
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "currentPrice": 600000,
+    "currentPricePerM2": 4000,
+    "initialPrice": 600000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-08",
+        "price": 600000,
+        "pricePerM2": 4000
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-08T12:02:47.389Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/51/5f/417890_6863_cover@2x-dom-krotoszynski-nowa-obra.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4292104",
+    "source": "adresowo",
+    "sourceId": "4292104",
+    "sourceUrl": "https://adresowo.pl/o/dom-babiak-krukowo-150-m2-y6r9i4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Krukowo",
+    "voivodeship": "wielkopolskie",
+    "county": "kolski",
+    "city": "Krukowo",
+    "coordinates": {
+      "lat": 52.20704459541287,
+      "lng": 18.644127013028996
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "currentPrice": 950000,
+    "currentPricePerM2": 6333.33,
+    "initialPrice": 980000,
+    "priceChangeAmount": -30000,
+    "priceChangePercent": -3.1,
+    "priceHistory": [
+      {
+        "date": "2026-10-08",
+        "price": 980000,
+        "pricePerM2": 6533.33
+      },
+      {
+        "date": "2026-10-13",
+        "price": 950000,
+        "pricePerM2": 6333.33
+      }
+    ],
+    "status": "price_drop",
+    "firstSeenAt": "2026-10-08T12:02:47.389Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/4d/31/417e08_e346_cover@2x-dom-kolski-krukowo.webp",
+    "isDirectOwner": true,
+    "previousPrice": 980000
+  },
+  {
+    "id": "otodom-68333267",
+    "source": "otodom",
+    "sourceId": "68333267",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/syndyk-sprzeda-3-16-cz-w-nieruchomosci-rolnej-zabudowanej-siedliskiem-ID4CIBt",
+    "propertyType": "habitat",
+    "title": "Syndyk sprzeda 3/16 cz. w nieruchomości rolnej zabudowanej siedliskiem",
+    "voivodeship": "wielkopolskie",
+    "county": "wągrowiecki",
+    "city": "Panigródz",
+    "coordinates": {
+      "lat": 52.804411844687515,
+      "lng": 17.203765387662173
+    },
+    "isNearBorder": false,
+    "areaM2": 12710,
+    "currentPrice": 133425,
+    "currentPricePerM2": 10.5,
+    "initialPrice": 133425,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-08-20",
+        "price": 133425,
+        "pricePerM2": 10.5
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-08-20T12:40:58.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4291244",
+    "source": "adresowo",
+    "sourceId": "4291244",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-miedzychod-lewice-8-900-m2-a8u6c0",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Lewice",
+    "voivodeship": "wielkopolskie",
+    "county": "miedzychodzki",
+    "city": "Lewice",
+    "coordinates": {
+      "lat": 52.59945074792929,
+      "lng": 15.892137573684703
+    },
+    "isNearBorder": false,
+    "areaM2": 8900,
+    "currentPrice": 199000,
+    "currentPricePerM2": 22.36,
+    "initialPrice": 199000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-08",
+        "price": 199000,
+        "pricePerM2": 22.36
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-08T12:04:42.394Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2e/4e/417aac_8b6c_cover@2x-dzialka-siedliskowa-miedzychodzki-lewice.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68510818",
+    "source": "otodom",
+    "sourceId": "68510818",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-weglewie-2-domy-budynek-gospodarczy-na-dzialce-2644-m-ID4DsNc",
+    "propertyType": "habitat",
+    "title": "SIEDLISKO W WĘGLEWIE– 2 domy, budynek gospodarczy na działce 2644 m²",
+    "voivodeship": "wielkopolskie",
+    "county": "poznański",
+    "city": "Węglewo",
+    "coordinates": {
+      "lat": 52.48836688131396,
+      "lng": 17.277446916308897
+    },
+    "isNearBorder": false,
+    "areaM2": 156,
+    "currentPrice": 1550000,
+    "currentPricePerM2": 9935.9,
+    "initialPrice": 1550000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-09",
+        "price": 1550000,
+        "pricePerM2": 9935.9
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-09T12:58:16.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBqMTRjb3R3anM0NDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9F2j4BvWNuVFHcmv8SGncC5xF_6kEnK7F6awE-e3ILQ/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68206578",
+    "source": "otodom",
+    "sourceId": "68206578",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-z-gospodarstwem-i-4-81-ha-ziemi-ID4CbE6",
+    "propertyType": "habitat",
+    "title": "Dom z gospodarstwem i 4,81 ha ziemi",
+    "voivodeship": "wielkopolskie",
+    "county": "koniński",
+    "city": "Kryszkowice",
+    "street": "Kryszkowice",
+    "coordinates": {
+      "lat": 52.43155784402741,
+      "lng": 18.528180871002697
+    },
+    "isNearBorder": false,
+    "areaM2": 48100,
+    "currentPrice": 750000,
+    "currentPricePerM2": 15.59,
+    "initialPrice": 750000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-07-13",
+        "price": 750000,
+        "pricePerM2": 15.59
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-07-13T12:31:55.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRneGhpN3VmaHAydzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Jcxor2fP4Wz40ou28tOMC9Wy9tur0JRezjIZ5mCcmL0/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68521843",
+    "source": "otodom",
+    "sourceId": "68521843",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-gospodarstwo-3-ha-gm-wierzbinek-ID4DwF1",
+    "propertyType": "habitat",
+    "title": "Na sprzedaż gospodarstwo 3 HA gm .Wierzbinek",
+    "voivodeship": "wielkopolskie",
+    "county": "koniński",
+    "city": "Marcjanki",
+    "coordinates": {
+      "lat": 52.38753775302822,
+      "lng": 18.50742459798756
+    },
+    "isNearBorder": false,
+    "areaM2": 144,
+    "currentPrice": 399000,
+    "currentPricePerM2": 2770.83,
+    "initialPrice": 399000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-13",
+        "price": 399000,
+        "pricePerM2": 2770.83
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-13T10:00:22.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijc1eWlzOTlkZmd1bzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.GZTW08rercwsdtABUWnNZp3au3NVwC716E_V5uaA73A/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68523481",
+    "source": "otodom",
+    "sourceId": "68523481",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-nad-stawem-pow-gruntow-3030-m2-dom-ID4Dv5r",
+    "propertyType": "habitat",
+    "title": "Siedlisko nad stawem! Pow. gruntów 3030 m2, dom!",
+    "voivodeship": "wielkopolskie",
+    "county": "pilski",
+    "city": "Róża Wielka",
+    "coordinates": {
+      "lat": 53.147019194683125,
+      "lng": 16.729326253623306
+    },
+    "isNearBorder": false,
+    "areaM2": 160,
+    "currentPrice": 427000,
+    "currentPricePerM2": 2668.75,
+    "initialPrice": 427000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-13",
+        "price": 427000,
+        "pricePerM2": 2668.75
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-13T14:14:01.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InQzY3c5aGNyNnRvbS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.yxF1_jE0Hg6F6r-fYGCqgr8B2KJ8NR-giM6FKBQMlcU/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68525763",
+    "source": "otodom",
+    "sourceId": "68525763",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-gospodarstwo-ID4DvGf",
+    "propertyType": "habitat",
+    "title": "SPRZEDAM GOSPODARSTWO",
+    "voivodeship": "wielkopolskie",
+    "county": "gnieźnieński",
+    "city": "Turostowo",
+    "coordinates": {
+      "lat": 52.541929329872275,
+      "lng": 17.578482208276142
+    },
+    "isNearBorder": false,
+    "areaM2": 92200,
+    "currentPrice": 2500000,
+    "currentPricePerM2": 27.11,
+    "initialPrice": 2500000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-14",
+        "price": 2500000,
+        "pricePerM2": 27.11
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-14T09:27:12.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IngwanM3aHRhcnJvNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.681VafmjyzsXglVB5jGH4B0uwlmAnKlR65Y5rJmctBg/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68526755",
+    "source": "otodom",
+    "sourceId": "68526755",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/27-000-m-zabudowa-zagrodowa-16-000-m-tereny-rolne-gmina-dopiewo-ID4DvVf",
+    "propertyType": "habitat",
+    "title": "27 000 m² ZABUDOWA ZAGRODOWA + 16 000 m² TERENY ROLNE | Gmina Dopiewo",
+    "voivodeship": "wielkopolskie",
+    "county": "poznański",
+    "city": "Joanka",
+    "coordinates": {
+      "lat": 52.35422900197848,
+      "lng": 16.668908091531748
+    },
+    "isNearBorder": false,
+    "areaM2": 43871,
+    "currentPrice": 1959000,
+    "currentPricePerM2": 44.65,
+    "initialPrice": 1959000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-14",
+        "price": 1959000,
+        "pricePerM2": 44.65
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-14T11:54:49.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBiZndsYXExdXlhdzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ipKKxZADYEu8I_cQSv3OgIIetrPc3UTIzBEyQDviKZw/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68492144",
+    "source": "otodom",
+    "sourceId": "68492144",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowe-siedlisko-w-stylu-japonskim-ID4DnV0",
+    "propertyType": "habitat",
+    "title": "WYJĄTKOWE SIEDLISKO W STYLU JAPOŃSKIM",
+    "voivodeship": "wielkopolskie",
+    "county": "kaliski",
+    "city": "Sobiesęki Pierwsze",
+    "coordinates": {
+      "lat": 51.68864611578389,
+      "lng": 18.304109460931162
+    },
+    "isNearBorder": false,
+    "areaM2": 220,
+    "plotAreaM2": 7700,
+    "currentPrice": 1095000,
+    "currentPricePerM2": 4977.27,
+    "initialPrice": 1125000,
+    "priceChangeAmount": -30000,
+    "priceChangePercent": -2.7,
+    "priceHistory": [
+      {
+        "date": "2026-10-05",
+        "price": 1125000,
+        "pricePerM2": 5113.64
+      },
+      {
+        "date": "2026-10-16",
+        "price": 1095000,
+        "pricePerM2": 4977.27
+      }
+    ],
+    "status": "price_drop",
+    "firstSeenAt": "2026-10-05T12:46:18.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imo4ZmxraTVocDVvNjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zMIpZl4Dl_0jYaXBO-WR47RheRwQQImhd5BoGBsTc4U/image;s=655x491;q=80",
+    "isDirectOwner": true,
+    "previousPrice": 1125000
+  },
+  {
+    "id": "otodom-68532909",
+    "source": "otodom",
+    "sourceId": "68532909",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-i-7-dzialek-ID4Dyxw",
+    "propertyType": "habitat",
+    "title": "Gospodarstwo rolne i 7 działek.",
+    "voivodeship": "wielkopolskie",
+    "county": "pleszewski",
+    "city": "Dobra Nadzieja",
+    "street": "Dobra Nadzieja 13",
+    "coordinates": {
+      "lat": 51.894944100226475,
+      "lng": 17.779075875838675
+    },
+    "isNearBorder": false,
+    "areaM2": 42852,
+    "currentPrice": 850000,
+    "currentPricePerM2": 19.84,
+    "initialPrice": 850000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-15",
+        "price": 850000,
+        "pricePerM2": 19.84
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-15T21:20:38.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBjaG9rdHQzemNzdDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.MyJpcSOTBeww8GazZXO750IXVPsyH9Z9HjLZ6AIw_JI/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68387921",
+    "source": "otodom",
+    "sourceId": "68387921",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-gospodarstwo-rolne-k-kalisza-6-5-ha-magazyn-ID4CVOZ",
+    "propertyType": "habitat",
+    "title": "DOM GOSPODARSTWO Rolne k. KALISZA 6,5 ha. Magazyn-",
+    "voivodeship": "wielkopolskie",
+    "county": "kaliski",
+    "city": "Stropieszyn",
+    "coordinates": {
+      "lat": 51.76793667632647,
+      "lng": 18.078535451922228
+    },
+    "isNearBorder": false,
+    "areaM2": 150,
+    "plotAreaM2": 5700,
+    "currentPrice": 449000,
+    "currentPricePerM2": 2993.33,
+    "initialPrice": 449000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-16",
+        "price": 449000,
+        "pricePerM2": 2993.33
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-16T16:19:44.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inl6Mm1laW45bGJsNTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zwZK6T4lU4VdsiWH4p7-3M_l9FeWaaXzBbq4fAdaNiM/image;s=655x491;q=80",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-68538696",
+    "source": "otodom",
+    "sourceId": "68538696",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-glebocku-gm-m-goslina-2ha-ID4DA2Q",
+    "propertyType": "habitat",
+    "title": "siedlisko w Głębocku gm. M. Goślina - 2ha",
+    "voivodeship": "wielkopolskie",
+    "county": "poznański",
+    "city": "Głębocko",
+    "coordinates": {
+      "lat": 52.57378991356479,
+      "lng": 17.006130247476637
+    },
+    "isNearBorder": false,
+    "areaM2": 85,
+    "currentPrice": 1050000,
+    "currentPricePerM2": 12352.94,
+    "initialPrice": 1050000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-18",
+        "price": 1050000,
+        "pricePerM2": 12352.94
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-18T06:49:23.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJmazV6MHU4NGsxbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.bD5ot5iAOpLk2qoTISMfku7sMVkLCyg3y8ZLoZsbSLQ/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68538699",
+    "source": "otodom",
+    "sourceId": "68538699",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/zabudowa-mieszkaniowa-pod-lasem-i-zagrodowa-ID4DA2T",
+    "propertyType": "habitat",
+    "title": "zabudowa mieszkaniowa pod lasem i zagrodowa",
+    "voivodeship": "wielkopolskie",
+    "county": "szamotulski",
+    "city": "Chojno-Błota Małe",
+    "coordinates": {
+      "lat": 52.71643395460569,
+      "lng": 16.383321896031845
+    },
+    "isNearBorder": false,
+    "areaM2": 19100,
+    "currentPrice": 680000,
+    "currentPricePerM2": 35.6,
+    "initialPrice": 680000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-18",
+        "price": 680000,
+        "pricePerM2": 35.6
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-18T06:51:31.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjlhdXRjdXpxYzVhNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.3Y8B8IgEK1dtN6DngZQ0u81ocPa4Ro1p0sI6_UZyzcA/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4286924",
+    "source": "adresowo",
+    "sourceId": "4286924",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wronki-chojno-blota-male-1-ha-e3j1g4",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Chojno-Błota Małe",
+    "voivodeship": "wielkopolskie",
+    "county": "szamotulski",
+    "city": "Chojno-Błota Małe",
+    "coordinates": {
+      "lat": 52.60935035478637,
+      "lng": 16.582534586877227
+    },
+    "isNearBorder": false,
+    "areaM2": 19100,
+    "currentPrice": 680000,
+    "currentPricePerM2": 35.6,
+    "initialPrice": 969000,
+    "priceChangeAmount": -289000,
+    "priceChangePercent": -29.8,
+    "priceHistory": [
+      {
+        "date": "2026-10-05",
+        "price": 969000,
+        "pricePerM2": 50.73
+      },
+      {
+        "date": "2026-10-19",
+        "price": 680000,
+        "pricePerM2": 35.6
+      }
+    ],
+    "status": "price_drop",
+    "firstSeenAt": "2026-10-05T12:05:09.421Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/21/1b/4169cc_3513_cover@2x-dzialka-siedliskowa-szamotulski-chojno-blota-male.webp",
+    "isDirectOwner": true,
+    "previousPrice": 969000
+  },
+  {
+    "id": "otodom-68471062",
+    "source": "otodom",
+    "sourceId": "68471062",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-idealna-lokalizacja-dla-twojego-domu-lub-firmy-ID4DirY",
+    "propertyType": "habitat",
+    "title": "Siedlisko z idealną lokalizacją dla Twojego domu lub firmy",
+    "voivodeship": "wielkopolskie",
+    "county": "koniński",
+    "city": "Żdżary",
+    "street": "Konińska",
+    "coordinates": {
+      "lat": 52.183231520716724,
+      "lng": 18.223463789194234
+    },
+    "isNearBorder": false,
+    "areaM2": 65,
+    "plotAreaM2": 11785,
+    "currentPrice": 595000,
+    "currentPricePerM2": 9153.85,
+    "initialPrice": 595000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-29",
+        "price": 595000,
+        "pricePerM2": 9153.85
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-29T10:01:55.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNnN2dqd29tcWNuMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.OC9vCXxSRLPtzIzXWa2ofsS_2BUcNBzKpWxYorlrOJM/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68340997",
+    "source": "otodom",
+    "sourceId": "68340997",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-piekne-siedlisko-dom-100-m2-i-budynki-staw-przedecz-ID4CKC9",
+    "propertyType": "habitat",
+    "title": "Sprzedam piękne siedlisko dom 100 m2 i budynki + staw - Przedecz",
+    "voivodeship": "wielkopolskie",
+    "county": "kolski",
+    "city": "Zbijewo-Kolonia",
+    "street": "Zbijewo Kolonia",
+    "coordinates": {
+      "lat": 52.195214891297766,
+      "lng": 18.642487559474905
+    },
+    "isNearBorder": false,
+    "areaM2": 100,
+    "plotAreaM2": 1812,
+    "currentPrice": 659000,
+    "currentPricePerM2": 6590,
+    "initialPrice": 659000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-21",
+        "price": 659000,
+        "pricePerM2": 6590
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-21T18:35:40.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFoOTd4dHVubG56LUVDT1NZU1RFTSIsInciOlt7ImZuIjoiZW52ZnFxZTFheTRrMS1BUEwiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.Zd4O9nI01pLEJu9HyeFM3_m5_D4rah6CVBct5G6NeFg/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4306526",
+    "source": "adresowo",
+    "sourceId": "4306526",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-slupca-kochowo-3-540-m2-t4l3t5",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Kochowo",
+    "voivodeship": "wielkopolskie",
+    "county": "slupecki",
+    "city": "Kochowo",
+    "coordinates": {
+      "lat": 52.28514908358071,
+      "lng": 17.864260346669216
+    },
+    "isNearBorder": false,
+    "areaM2": 3540,
+    "currentPrice": 350000,
+    "currentPricePerM2": 98.87,
+    "initialPrice": 350000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-19",
+        "price": 350000,
+        "pricePerM2": 98.87
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-19T10:30:08.627Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/72/61/41b65e_29fd_cover@2x-dzialka-siedliskowa-slupecki-kochowo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "otodom-9000062242",
+    "source": "otodom",
+    "sourceId": "9000062242",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/27-000-m-zabudowa-zagrodowa-16-000-m-tereny-rolne-gmina-dopiewo-ID4DvVf",
+    "propertyType": "habitat",
+    "title": "27 000 m² ZABUDOWA ZAGRODOWA + 16 000 m² TERENY ROLNE | Gmina Dopiewo",
+    "voivodeship": "wielkopolskie",
+    "county": "poznański",
+    "city": "Joanka",
+    "coordinates": {
+      "lat": 52.35228767271854,
+      "lng": 16.679464796070167
+    },
+    "isNearBorder": false,
+    "areaM2": 43871,
+    "currentPrice": 1959000,
+    "currentPricePerM2": 44.65,
+    "initialPrice": 1959000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "1999-03-01",
+        "price": 1959000,
+        "pricePerM2": 44.65
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "1999-03-01T00:00:01.000Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "isDirectOwner": false
+  },
+  {
+    "id": "adresowo-4311182",
+    "source": "adresowo",
+    "sourceId": "4311182",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-czempin-betkowo-2-156-m2-v6w2h3",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Betkowo",
+    "voivodeship": "wielkopolskie",
+    "county": "koscianski",
+    "city": "Betkowo",
+    "coordinates": {
+      "lat": 52.083644671835486,
+      "lng": 16.656917606661537
+    },
+    "isNearBorder": false,
+    "areaM2": 2156,
+    "currentPrice": 495000,
+    "currentPricePerM2": 229.59,
+    "initialPrice": 495000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-21",
+        "price": 495000,
+        "pricePerM2": 229.59
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-21T10:03:18.051Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/2d/15/41c88e_a910_cover@2x-dzialka-siedliskowa-koscianski-betkowo.webp",
+    "isDirectOwner": true
+  },
+  {
+    "id": "adresowo-4311130",
+    "source": "adresowo",
+    "sourceId": "4311130",
+    "sourceUrl": "https://adresowo.pl/o/dzialka-inwestycyjna-steszew-strykowo-1-200-m2-c3c0o2",
+    "propertyType": "habitat",
+    "title": "Siedlisko — Strykowo",
+    "voivodeship": "wielkopolskie",
+    "county": "poznanski",
+    "city": "Strykowo",
+    "coordinates": {
+      "lat": 52.40524223994052,
+      "lng": 16.926953354300945
+    },
+    "isNearBorder": false,
+    "areaM2": 1200,
+    "currentPrice": 800000,
+    "currentPricePerM2": 666.67,
+    "initialPrice": 800000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-21",
+        "price": 800000,
+        "pricePerM2": 666.67
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-21T10:03:18.051Z",
+    "lastSeenAt": "2026-10-21T10:03:23.477Z",
+    "imageUrl": "https://s2.adresowa.pl/oi/5b/50/41c85a_2bf3_cover@2x-dzialka-inwestycyjna-poznanski-strykowo.webp",
     "isDirectOwner": true
   },
   {
@@ -252,40 +1971,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "adresowo-4249388",
-    "source": "adresowo",
-    "sourceId": "4249388",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-kwilcz-kurnatowice-1-025-m2-c9f9w9",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Kurnatowice",
-    "voivodeship": "wielkopolskie",
-    "county": "miedzychodzki",
-    "city": "Kurnatowice",
-    "coordinates": {
-      "lat": 52.55986015727564,
-      "lng": 16.027202398233992
-    },
-    "isNearBorder": false,
-    "areaM2": 1025,
-    "currentPrice": 87000,
-    "currentPricePerM2": 84.88,
-    "initialPrice": 87000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-22",
-        "price": 87000,
-        "pricePerM2": 84.88
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-22T20:40:23.489Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/79/39/40d72c_df09_cover@2x-dzialka-budowlana-miedzychodzki-kurnatowice.webp",
-    "isDirectOwner": true
-  },
-  {
     "id": "adresowo-4255810",
     "source": "adresowo",
     "sourceId": "4255810",
@@ -317,736 +2002,6 @@
     "firstSeenAt": "2026-09-22T20:40:23.489Z",
     "lastSeenAt": "2026-10-20T10:00:52.552Z",
     "imageUrl": "https://s2.adresowa.pl/oi/7d/3c/40f042_646e_cover@2x-dzialka-siedliskowa-ostrowski-pawlow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4214234",
-    "source": "adresowo",
-    "sourceId": "4214234",
-    "sourceUrl": "https://adresowo.pl/o/dom-dabie-kupinin-260-m2-b7g2z8",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Kupinin",
-    "voivodeship": "wielkopolskie",
-    "county": "kolski",
-    "city": "Kupinin",
-    "coordinates": {
-      "lat": 52.1990666860187,
-      "lng": 18.64130586183108
-    },
-    "isNearBorder": false,
-    "areaM2": 260,
-    "currentPrice": 1600000,
-    "currentPricePerM2": 6153.85,
-    "initialPrice": 1699999,
-    "priceChangeAmount": -99999,
-    "priceChangePercent": -5.9,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 1699999,
-        "pricePerM2": 6538.46
-      },
-      {
-        "date": "2026-10-19",
-        "price": 1600000,
-        "pricePerM2": 6153.85
-      }
-    ],
-    "status": "price_drop",
-    "firstSeenAt": "2026-09-23T09:14:20.904Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/18/29/404dda_af07_cover@2x-dom-kolski-kupinin.webp",
-    "isDirectOwner": true,
-    "previousPrice": 1699999
-  },
-  {
-    "id": "adresowo-4211170",
-    "source": "adresowo",
-    "sourceId": "4211170",
-    "sourceUrl": "https://adresowo.pl/o/dom-trzemeszno-wymyslowo-210-m2-g8d6z5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Wymysłowo",
-    "voivodeship": "wielkopolskie",
-    "county": "gnieznienski",
-    "city": "Wymysłowo",
-    "coordinates": {
-      "lat": 52.54469013340455,
-      "lng": 17.76470257151661
-    },
-    "isNearBorder": false,
-    "areaM2": 210,
-    "currentPrice": 1290000,
-    "currentPricePerM2": 6142.86,
-    "initialPrice": 1290000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 1290000,
-        "pricePerM2": 6142.86
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:20.904Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/39/22/4041e2_e5d2_cover@2x-dom-gnieznienski-wymyslowo.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4194908",
-    "source": "adresowo",
-    "sourceId": "4194908",
-    "sourceUrl": "https://adresowo.pl/o/dom-obrzycko-kozmin-86-m2-i3g7c6",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Koźmin",
-    "voivodeship": "wielkopolskie",
-    "county": "szamotulski",
-    "city": "Koźmin",
-    "coordinates": {
-      "lat": 51.83997303618477,
-      "lng": 17.447257118214925
-    },
-    "isNearBorder": false,
-    "areaM2": 86,
-    "currentPrice": 1850000,
-    "currentPricePerM2": 21511.63,
-    "initialPrice": 1850000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 1850000,
-        "pricePerM2": 21511.63
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:23.132Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/16/44/40025c_8a98_cover@2x-dom-szamotulski-kozmin.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3870728",
-    "source": "adresowo",
-    "sourceId": "3870728",
-    "sourceUrl": "https://adresowo.pl/o/dom-grodziec-biskupice-103-m2-o2m2t2",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Biskupice",
-    "voivodeship": "wielkopolskie",
-    "county": "koninski",
-    "city": "Biskupice",
-    "coordinates": {
-      "lat": 52.225574983287764,
-      "lng": 18.24803880001886
-    },
-    "isNearBorder": false,
-    "areaM2": 103,
-    "currentPrice": 249000,
-    "currentPricePerM2": 2417.48,
-    "initialPrice": 249000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 249000,
-        "pricePerM2": 2417.48
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:23.132Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/37/5f/3b1008_a4f9_cover@2x-dom-koninski-biskupice.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4136550",
-    "source": "adresowo",
-    "sourceId": "4136550",
-    "sourceUrl": "https://adresowo.pl/o/dom-brudzew-janow-90-m2-b0g0t1",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Janów",
-    "voivodeship": "wielkopolskie",
-    "county": "turecki",
-    "city": "Janów",
-    "coordinates": {
-      "lat": 52.02168569973954,
-      "lng": 18.49821798899479
-    },
-    "isNearBorder": false,
-    "areaM2": 90,
-    "currentPrice": 369000,
-    "currentPricePerM2": 4100,
-    "initialPrice": 369000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 369000,
-        "pricePerM2": 4100
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:27.893Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1d/53/3f1e66_89bd_cover@2x-dom-turecki-janow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4114642",
-    "source": "adresowo",
-    "sourceId": "4114642",
-    "sourceUrl": "https://adresowo.pl/o/dom-niechanowo-miroszka-200-m2-j0d8m5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Miroszka",
-    "voivodeship": "wielkopolskie",
-    "county": "gnieznienski",
-    "city": "Miroszka",
-    "coordinates": {
-      "lat": 52.54080379505448,
-      "lng": 17.576397888332195
-    },
-    "isNearBorder": false,
-    "areaM2": 200,
-    "currentPrice": 1650000,
-    "currentPricePerM2": 8250,
-    "initialPrice": 1850000,
-    "priceChangeAmount": -200000,
-    "priceChangePercent": -10.8,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 1850000,
-        "pricePerM2": 9250
-      },
-      {
-        "date": "2026-10-07",
-        "price": 1650000,
-        "pricePerM2": 8250
-      }
-    ],
-    "status": "price_drop",
-    "firstSeenAt": "2026-09-23T09:14:27.893Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/51/13/3ec8d2_694d_cover@2x-dom-gnieznienski-miroszka.webp",
-    "isDirectOwner": true,
-    "previousPrice": 1850000
-  },
-  {
-    "id": "adresowo-4021696",
-    "source": "adresowo",
-    "sourceId": "4021696",
-    "sourceUrl": "https://adresowo.pl/o/dom-dolsk-ksieginki-220-m2-o1p7v2",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Księginki",
-    "voivodeship": "wielkopolskie",
-    "county": "sremski",
-    "city": "Księginki",
-    "coordinates": {
-      "lat": 52.09361912945038,
-      "lng": 17.006647738005547
-    },
-    "isNearBorder": false,
-    "areaM2": 220,
-    "currentPrice": 3500000,
-    "currentPricePerM2": 15909.09,
-    "initialPrice": 3500000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 3500000,
-        "pricePerM2": 15909.09
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:32.976Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/14/3b/3d5dc0_de7e_cover@2x-dom-sremski-ksieginki.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4015732",
-    "source": "adresowo",
-    "sourceId": "4015732",
-    "sourceUrl": "https://adresowo.pl/o/dom-olszowka-krzewata-237-m2-d4q1q4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Krzewata",
-    "voivodeship": "wielkopolskie",
-    "county": "kolski",
-    "city": "Krzewata",
-    "coordinates": {
-      "lat": 52.193725891030205,
-      "lng": 18.64594806955338
-    },
-    "isNearBorder": false,
-    "areaM2": 237,
-    "currentPrice": 1550000,
-    "currentPricePerM2": 6540.08,
-    "initialPrice": 1550000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 1550000,
-        "pricePerM2": 6540.08
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:32.976Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/55/1a/3d4674_75cc_cover@2x-dom-kolski-krzewata.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3994320",
-    "source": "adresowo",
-    "sourceId": "3994320",
-    "sourceUrl": "https://adresowo.pl/o/dom-dominowo-rusiborek-220-m2-h4o4m7",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Rusiborek",
-    "voivodeship": "wielkopolskie",
-    "county": "sredzki",
-    "city": "Rusiborek",
-    "coordinates": {
-      "lat": 52.22300860978101,
-      "lng": 17.28056857767585
-    },
-    "isNearBorder": false,
-    "areaM2": 220,
-    "currentPrice": 650000,
-    "currentPricePerM2": 2954.55,
-    "initialPrice": 650000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 650000,
-        "pricePerM2": 2954.55
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:32.976Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/36/63/3cf2d0_45fd_cover@2x-dom-sredzki-rusiborek.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3937208",
-    "source": "adresowo",
-    "sourceId": "3937208",
-    "sourceUrl": "https://adresowo.pl/o/dom-zlotow-zalesie-310-m2-f6j7k0",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Zalesie, Pieczynek",
-    "voivodeship": "wielkopolskie",
-    "county": "zlotowski",
-    "city": "Zalesie",
-    "street": "Pieczynek",
-    "coordinates": {
-      "lat": 52.04067061799209,
-      "lng": 23.358203231349165
-    },
-    "isNearBorder": false,
-    "areaM2": 310,
-    "plotAreaM2": 7000,
-    "currentPrice": 650000,
-    "currentPricePerM2": 2096.77,
-    "initialPrice": 650000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 650000,
-        "pricePerM2": 2096.77
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:35.489Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6c/70/3c13b8_db37_cover@2x-dom-zlotowski-zalesie.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3897442",
-    "source": "adresowo",
-    "sourceId": "3897442",
-    "sourceUrl": "https://adresowo.pl/o/dom-miedzichowo-pradowka-120-m2-y2f8n9",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Prądówka",
-    "voivodeship": "wielkopolskie",
-    "county": "nowotomyski",
-    "city": "Prądówka",
-    "coordinates": {
-      "lat": 52.3184259241448,
-      "lng": 16.137783353420186
-    },
-    "isNearBorder": false,
-    "areaM2": 120,
-    "currentPrice": 650000,
-    "currentPricePerM2": 5416.67,
-    "initialPrice": 650000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 650000,
-        "pricePerM2": 5416.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:35.489Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/30/72/3b7862_b8f5_cover@2x-dom-nowotomyski-pradowka.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3795144",
-    "source": "adresowo",
-    "sourceId": "3795144",
-    "sourceUrl": "https://adresowo.pl/o/dom-kwilcz-mechnacz-210-m2-x7y9w4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Mechnacz",
-    "voivodeship": "wielkopolskie",
-    "county": "miedzychodzki",
-    "city": "Mechnacz",
-    "coordinates": {
-      "lat": 52.606367761475454,
-      "lng": 15.894339015188923
-    },
-    "isNearBorder": false,
-    "areaM2": 210,
-    "currentPrice": 4500000,
-    "currentPricePerM2": 21428.57,
-    "initialPrice": 4500000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 4500000,
-        "pricePerM2": 21428.57
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:37.760Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/42/2c/39e8c8_e2e1_cover@2x-dom-miedzychodzki-mechnacz.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3775258",
-    "source": "adresowo",
-    "sourceId": "3775258",
-    "sourceUrl": "https://adresowo.pl/o/dom-krzymow-brzezno-85-m2-v0c3t6",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Brzeźno",
-    "voivodeship": "wielkopolskie",
-    "county": "koninski",
-    "city": "Brzeźno",
-    "coordinates": {
-      "lat": 52.219062794602145,
-      "lng": 18.244137983782377
-    },
-    "isNearBorder": false,
-    "areaM2": 85,
-    "currentPrice": 485000,
-    "currentPricePerM2": 5705.88,
-    "initialPrice": 485000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 485000,
-        "pricePerM2": 5705.88
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:37.760Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/11/4f/399b1a_80a8_cover@2x-dom-koninski-brzezno.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3737176",
-    "source": "adresowo",
-    "sourceId": "3737176",
-    "sourceUrl": "https://adresowo.pl/o/dom-skoki-grzybowo-150-m2-l8g7c0",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Grzybowo",
-    "voivodeship": "wielkopolskie",
-    "county": "wagrowiecki",
-    "city": "Grzybowo",
-    "coordinates": {
-      "lat": 52.80351935412585,
-      "lng": 17.20354826575435
-    },
-    "isNearBorder": false,
-    "areaM2": 150,
-    "currentPrice": 990000,
-    "currentPricePerM2": 6600,
-    "initialPrice": 990000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 990000,
-        "pricePerM2": 6600
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:37.760Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/60/3a/390658_d94a_cover@2x-dom-wagrowiecki-grzybowo.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3580854",
-    "source": "adresowo",
-    "sourceId": "3580854",
-    "sourceUrl": "https://adresowo.pl/o/dom-miescisko-jaroszewo-pierwsze-170-m2-z2u1u3",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Jaroszewo Pierwsze",
-    "voivodeship": "wielkopolskie",
-    "county": "wagrowiecki",
-    "city": "Jaroszewo Pierwsze",
-    "coordinates": {
-      "lat": 52.81296829756428,
-      "lng": 17.190576897363243
-    },
-    "isNearBorder": false,
-    "areaM2": 170,
-    "plotAreaM2": 1300,
-    "currentPrice": 850000,
-    "currentPricePerM2": 5000,
-    "initialPrice": 850000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 850000,
-        "pricePerM2": 5000
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:39.722Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/66/28/36a3b6_caf0_cover@2x-dom-wagrowiecki-jaroszewo-pierwsze.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3562886",
-    "source": "adresowo",
-    "sourceId": "3562886",
-    "sourceUrl": "https://adresowo.pl/o/dom-krobia-ul-adama-mickiewicza-v0e3s4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Krobia, ul. Adama Mickiewicza",
-    "voivodeship": "wielkopolskie",
-    "county": "gostynski",
-    "city": "Krobia",
-    "street": "ul. Adama Mickiewicza",
-    "coordinates": {
-      "lat": 51.784485572678854,
-      "lng": 16.980601110648212
-    },
-    "isNearBorder": false,
-    "areaM2": 270,
-    "currentPrice": 1350000,
-    "currentPricePerM2": 5000,
-    "initialPrice": 1350000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 1350000,
-        "pricePerM2": 5000
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:39.722Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/15/77/365d86_349b_cover@2x-dom-gostynski-krobia.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3517284",
-    "source": "adresowo",
-    "sourceId": "3517284",
-    "sourceUrl": "https://adresowo.pl/o/dom-krobia-domachowo-220-m2-y4l2z8",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Domachowo",
-    "voivodeship": "wielkopolskie",
-    "county": "gostynski",
-    "city": "Domachowo",
-    "coordinates": {
-      "lat": 51.88094336301119,
-      "lng": 17.014431725508267
-    },
-    "isNearBorder": false,
-    "areaM2": 220,
-    "currentPrice": 560000,
-    "currentPricePerM2": 2545.45,
-    "initialPrice": 560000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 560000,
-        "pricePerM2": 2545.45
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:39.722Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/68/5b/35ab64_92e5_cover@2x-dom-gostynski-domachowo.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3481802",
-    "source": "adresowo",
-    "sourceId": "3481802",
-    "sourceUrl": "https://adresowo.pl/o/dom-mycielin-stropieszyn-150-m2-y9m7m7",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Stropieszyn",
-    "voivodeship": "wielkopolskie",
-    "county": "kaliski",
-    "city": "Stropieszyn",
-    "coordinates": {
-      "lat": 51.77096799507057,
-      "lng": 18.076843691660123
-    },
-    "isNearBorder": false,
-    "areaM2": 150,
-    "currentPrice": 429000,
-    "currentPricePerM2": 2860,
-    "initialPrice": 429000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 429000,
-        "pricePerM2": 2860
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:39.722Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/5e/2f/3520ca_423a_cover@2x-dom-kaliski-stropieszyn.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3426010",
-    "source": "adresowo",
-    "sourceId": "3426010",
-    "sourceUrl": "https://adresowo.pl/o/dom-pogorzela-130-m2-h9k6w6",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Pogorzela",
-    "voivodeship": "wielkopolskie",
-    "county": "gostynski",
-    "city": "Pogorzela",
-    "coordinates": {
-      "lat": 51.81715770674883,
-      "lng": 17.226254272496185
-    },
-    "isNearBorder": false,
-    "areaM2": 130,
-    "currentPrice": 3500000,
-    "currentPricePerM2": 26923.08,
-    "initialPrice": 3500000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 3500000,
-        "pricePerM2": 26923.08
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:39.722Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/1b/1b/3446da_7be3_cover@2x-dom-gostynski-pogorzela.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3217440",
-    "source": "adresowo",
-    "sourceId": "3217440",
-    "sourceUrl": "https://adresowo.pl/o/dom-ryczywol-tlukawy-88-m2-c0n2x9",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Tłukawy",
-    "voivodeship": "wielkopolskie",
-    "county": "obornicki",
-    "city": "Tłukawy",
-    "coordinates": {
-      "lat": 52.64219003285191,
-      "lng": 16.80724518579355
-    },
-    "isNearBorder": false,
-    "areaM2": 88,
-    "currentPrice": 295000,
-    "currentPricePerM2": 3352.27,
-    "initialPrice": 295000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 295000,
-        "pricePerM2": 3352.27
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:42.049Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6b/41/311820_eaee_cover@2x-dom-obornicki-tlukawy.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-3167406",
-    "source": "adresowo",
-    "sourceId": "3167406",
-    "sourceUrl": "https://adresowo.pl/o/dom-ostrow-wielkopolski-kwiatkow-900-m2-y0o1l6",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Kwiatków",
-    "voivodeship": "wielkopolskie",
-    "county": "ostrowski",
-    "city": "Kwiatków",
-    "coordinates": {
-      "lat": 51.65802688108962,
-      "lng": 17.79877037386204
-    },
-    "isNearBorder": false,
-    "areaM2": 900,
-    "currentPrice": 2760000,
-    "currentPricePerM2": 3066.67,
-    "initialPrice": 2760000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-23",
-        "price": 2760000,
-        "pricePerM2": 3066.67
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-23T09:14:42.049Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/6c/28/3054ae_8969_cover@2x-dom-ostrowski-kwiatkow.webp",
     "isDirectOwner": true
   },
   {
@@ -3538,75 +4493,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "otodom-68480041",
-    "source": "otodom",
-    "sourceId": "68480041",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-potencjalemdzialka-3777m2swiniary-ID4DkMN",
-    "propertyType": "habitat",
-    "title": "Siedlisko z potencjałem|Działka 3777m2|Świniary",
-    "voivodeship": "wielkopolskie",
-    "county": "gnieźnieński",
-    "city": "Świniary",
-    "coordinates": {
-      "lat": 52.540997636491184,
-      "lng": 17.5889520113995
-    },
-    "isNearBorder": false,
-    "areaM2": 3777,
-    "currentPrice": 355000,
-    "currentPricePerM2": 93.99,
-    "initialPrice": 355000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-10-01",
-        "price": 355000,
-        "pricePerM2": 93.99
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-10-01T10:25:11.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1tNGVwczhxNGZwYjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ORjZMt1AE0zuh3FamctdVJ-R8WR9eb4m4LKpri3CASk/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-67385725",
-    "source": "otodom",
-    "sourceId": "67385725",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/przeurocze-siedlisko-wsrod-lasow-i-pol-ze-stawem-blisko-drogi-dk-nr-24-ID4yK6x",
-    "propertyType": "habitat",
-    "title": "Przeurocze Siedlisko wśród lasów i pól ze stawem blisko drogi DK nr 24",
-    "voivodeship": "wielkopolskie",
-    "county": "międzychodzki",
-    "city": "Urbanówko",
-    "street": "ul. Liliowa",
-    "coordinates": {
-      "lat": 52.556164514792314,
-      "lng": 16.087686731087306
-    },
-    "isNearBorder": false,
-    "areaM2": 70000,
-    "currentPrice": 2200000,
-    "currentPricePerM2": 31.43,
-    "initialPrice": 2200000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-08-02",
-        "price": 2200000,
-        "pricePerM2": 31.43
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-02T11:55:47.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdlMXZlOGl4YWhzaDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.p0fSfDJsMRF9RJBzvfUfSwSD6PTQ8Hehxq2VrogIyDQ/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
     "id": "adresowo-4284114",
     "source": "adresowo",
     "sourceId": "4284114",
@@ -3675,352 +4561,6 @@
     "isDirectOwner": true
   },
   {
-    "id": "adresowo-4287114",
-    "source": "adresowo",
-    "sourceId": "4287114",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-murowana-goslina-boduszewo-3-040-m2-y2w9g9",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Boduszewo",
-    "voivodeship": "wielkopolskie",
-    "county": "poznanski",
-    "city": "Boduszewo",
-    "coordinates": {
-      "lat": 52.407868109032854,
-      "lng": 16.9260266166909
-    },
-    "isNearBorder": false,
-    "areaM2": 3040,
-    "currentPrice": 390000,
-    "currentPricePerM2": 128.29,
-    "initialPrice": 390000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-10-05",
-        "price": 390000,
-        "pricePerM2": 128.29
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-10-05T12:05:09.421Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/57/16/416a8a_a964_cover@2x-dzialka-budowlana-poznanski-boduszewo.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-67010616",
-    "source": "otodom",
-    "sourceId": "67010616",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-dzialka-4181m2-z-linia-brzegowa-ostrowite-prymasowskie-ID4xavo",
-    "propertyType": "habitat",
-    "title": "Siedlisko, działka 4181m2 z linią brzegową Ostrowite Prymasowskie",
-    "voivodeship": "wielkopolskie",
-    "county": "gnieźnieński",
-    "city": "Ostrowite Prymasowskie",
-    "coordinates": {
-      "lat": 52.436345461248614,
-      "lng": 17.75749864114119
-    },
-    "isNearBorder": false,
-    "areaM2": 4181,
-    "currentPrice": 1000000,
-    "currentPricePerM2": 239.18,
-    "initialPrice": 1000000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2025-07-07",
-        "price": 1000000,
-        "pricePerM2": 239.18
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2025-07-07T15:37:03.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJtNDJ6dGxtY2pteS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.E2pUZW6nXa8SFnBcBrsLBRvh0xlmPPInFruABRJ0vo0/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4289632",
-    "source": "adresowo",
-    "sourceId": "4289632",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-miloslaw-biechowo-4-ha-r2i9r1",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Biechowo",
-    "voivodeship": "wielkopolskie",
-    "county": "wrzesinski",
-    "city": "Biechowo",
-    "coordinates": {
-      "lat": 52.321257463106264,
-      "lng": 17.559801418282525
-    },
-    "isNearBorder": false,
-    "areaM2": 40000,
-    "currentPrice": 399000,
-    "currentPricePerM2": 9.98,
-    "initialPrice": 399000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-10-07",
-        "price": 399000,
-        "pricePerM2": 9.98
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-10-07T11:46:42.239Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/3b/5b/417460_70c9_cover@2x-dzialka-rolna-wrzesinski-biechowo.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4290704",
-    "source": "adresowo",
-    "sourceId": "4290704",
-    "sourceUrl": "https://adresowo.pl/o/dom-kozmin-wielkopolski-nowa-obra-150-m2-r0c0a5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Nowa Obra",
-    "voivodeship": "wielkopolskie",
-    "county": "krotoszynski",
-    "city": "Nowa Obra",
-    "coordinates": {
-      "lat": 51.70015884503124,
-      "lng": 17.43694580358275
-    },
-    "isNearBorder": false,
-    "areaM2": 150,
-    "currentPrice": 600000,
-    "currentPricePerM2": 4000,
-    "initialPrice": 600000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-10-08",
-        "price": 600000,
-        "pricePerM2": 4000
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-10-08T12:02:47.389Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/51/5f/417890_6863_cover@2x-dom-krotoszynski-nowa-obra.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4292104",
-    "source": "adresowo",
-    "sourceId": "4292104",
-    "sourceUrl": "https://adresowo.pl/o/dom-babiak-krukowo-150-m2-y6r9i4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Krukowo",
-    "voivodeship": "wielkopolskie",
-    "county": "kolski",
-    "city": "Krukowo",
-    "coordinates": {
-      "lat": 52.20704459541287,
-      "lng": 18.644127013028996
-    },
-    "isNearBorder": false,
-    "areaM2": 150,
-    "currentPrice": 950000,
-    "currentPricePerM2": 6333.33,
-    "initialPrice": 980000,
-    "priceChangeAmount": -30000,
-    "priceChangePercent": -3.1,
-    "priceHistory": [
-      {
-        "date": "2026-10-08",
-        "price": 980000,
-        "pricePerM2": 6533.33
-      },
-      {
-        "date": "2026-10-13",
-        "price": 950000,
-        "pricePerM2": 6333.33
-      }
-    ],
-    "status": "price_drop",
-    "firstSeenAt": "2026-10-08T12:02:47.389Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/4d/31/417e08_e346_cover@2x-dom-kolski-krukowo.webp",
-    "isDirectOwner": true,
-    "previousPrice": 980000
-  },
-  {
-    "id": "otodom-68333267",
-    "source": "otodom",
-    "sourceId": "68333267",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/syndyk-sprzeda-3-16-cz-w-nieruchomosci-rolnej-zabudowanej-siedliskiem-ID4CIBt",
-    "propertyType": "habitat",
-    "title": "Syndyk sprzeda 3/16 cz. w nieruchomości rolnej zabudowanej siedliskiem",
-    "voivodeship": "wielkopolskie",
-    "county": "wągrowiecki",
-    "city": "Panigródz",
-    "coordinates": {
-      "lat": 52.804411844687515,
-      "lng": 17.203765387662173
-    },
-    "isNearBorder": false,
-    "areaM2": 12710,
-    "currentPrice": 133425,
-    "currentPricePerM2": 10.5,
-    "initialPrice": 133425,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-08-20",
-        "price": 133425,
-        "pricePerM2": 10.5
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-08-20T12:40:58.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "isDirectOwner": true
-  },
-  {
-    "id": "adresowo-4291244",
-    "source": "adresowo",
-    "sourceId": "4291244",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-miedzychod-lewice-8-900-m2-a8u6c0",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Lewice",
-    "voivodeship": "wielkopolskie",
-    "county": "miedzychodzki",
-    "city": "Lewice",
-    "coordinates": {
-      "lat": 52.59945074792929,
-      "lng": 15.892137573684703
-    },
-    "isNearBorder": false,
-    "areaM2": 8900,
-    "currentPrice": 199000,
-    "currentPricePerM2": 22.36,
-    "initialPrice": 199000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-10-08",
-        "price": 199000,
-        "pricePerM2": 22.36
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-10-08T12:04:42.394Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/2e/4e/417aac_8b6c_cover@2x-dzialka-siedliskowa-miedzychodzki-lewice.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68510818",
-    "source": "otodom",
-    "sourceId": "68510818",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-weglewie-2-domy-budynek-gospodarczy-na-dzialce-2644-m-ID4DsNc",
-    "propertyType": "habitat",
-    "title": "SIEDLISKO W WĘGLEWIE– 2 domy, budynek gospodarczy na działce 2644 m²",
-    "voivodeship": "wielkopolskie",
-    "county": "poznański",
-    "city": "Węglewo",
-    "coordinates": {
-      "lat": 52.48836688131396,
-      "lng": 17.277446916308897
-    },
-    "isNearBorder": false,
-    "areaM2": 156,
-    "currentPrice": 1550000,
-    "currentPricePerM2": 9935.9,
-    "initialPrice": 1550000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-10-09",
-        "price": 1550000,
-        "pricePerM2": 9935.9
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-10-09T12:58:16.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBqMTRjb3R3anM0NDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9F2j4BvWNuVFHcmv8SGncC5xF_6kEnK7F6awE-e3ILQ/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68206578",
-    "source": "otodom",
-    "sourceId": "68206578",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-z-gospodarstwem-i-4-81-ha-ziemi-ID4CbE6",
-    "propertyType": "habitat",
-    "title": "Dom z gospodarstwem i 4,81 ha ziemi",
-    "voivodeship": "wielkopolskie",
-    "county": "koniński",
-    "city": "Kryszkowice",
-    "street": "Kryszkowice",
-    "coordinates": {
-      "lat": 52.43155784402741,
-      "lng": 18.528180871002697
-    },
-    "isNearBorder": false,
-    "areaM2": 48100,
-    "currentPrice": 750000,
-    "currentPricePerM2": 15.59,
-    "initialPrice": 750000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-07-13",
-        "price": 750000,
-        "pricePerM2": 15.59
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-07-13T12:31:55.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRneGhpN3VmaHAydzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Jcxor2fP4Wz40ou28tOMC9Wy9tur0JRezjIZ5mCcmL0/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68521843",
-    "source": "otodom",
-    "sourceId": "68521843",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-gospodarstwo-3-ha-gm-wierzbinek-ID4DwF1",
-    "propertyType": "habitat",
-    "title": "Na sprzedaż gospodarstwo 3 HA gm .Wierzbinek",
-    "voivodeship": "wielkopolskie",
-    "county": "koniński",
-    "city": "Marcjanki",
-    "coordinates": {
-      "lat": 52.38753775302822,
-      "lng": 18.50742459798756
-    },
-    "isNearBorder": false,
-    "areaM2": 144,
-    "currentPrice": 399000,
-    "currentPricePerM2": 2770.83,
-    "initialPrice": 399000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-10-13",
-        "price": 399000,
-        "pricePerM2": 2770.83
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-10-13T10:00:22.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijc1eWlzOTlkZmd1bzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.GZTW08rercwsdtABUWnNZp3au3NVwC716E_V5uaA73A/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "adresowo-4298164",
     "source": "adresowo",
     "sourceId": "4298164",
@@ -4086,433 +4626,6 @@
     "firstSeenAt": "2026-09-24T21:22:56.624Z",
     "lastSeenAt": "2026-10-20T10:00:52.552Z",
     "imageUrl": "https://s2.adresowa.pl/oi/5d/57/2b5770_b688_cover@2x-dzialka-siedliskowa-kaliski-tykadlow.webp",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68523481",
-    "source": "otodom",
-    "sourceId": "68523481",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-nad-stawem-pow-gruntow-3030-m2-dom-ID4Dv5r",
-    "propertyType": "habitat",
-    "title": "Siedlisko nad stawem! Pow. gruntów 3030 m2, dom!",
-    "voivodeship": "wielkopolskie",
-    "county": "pilski",
-    "city": "Róża Wielka",
-    "coordinates": {
-      "lat": 53.147019194683125,
-      "lng": 16.729326253623306
-    },
-    "isNearBorder": false,
-    "areaM2": 160,
-    "currentPrice": 427000,
-    "currentPricePerM2": 2668.75,
-    "initialPrice": 427000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-10-13",
-        "price": 427000,
-        "pricePerM2": 2668.75
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-10-13T14:14:01.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InQzY3c5aGNyNnRvbS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.yxF1_jE0Hg6F6r-fYGCqgr8B2KJ8NR-giM6FKBQMlcU/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68525763",
-    "source": "otodom",
-    "sourceId": "68525763",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-gospodarstwo-ID4DvGf",
-    "propertyType": "habitat",
-    "title": "SPRZEDAM GOSPODARSTWO",
-    "voivodeship": "wielkopolskie",
-    "county": "gnieźnieński",
-    "city": "Turostowo",
-    "coordinates": {
-      "lat": 52.541929329872275,
-      "lng": 17.578482208276142
-    },
-    "isNearBorder": false,
-    "areaM2": 92200,
-    "currentPrice": 2500000,
-    "currentPricePerM2": 27.11,
-    "initialPrice": 2500000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-10-14",
-        "price": 2500000,
-        "pricePerM2": 27.11
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-10-14T09:27:12.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IngwanM3aHRhcnJvNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.681VafmjyzsXglVB5jGH4B0uwlmAnKlR65Y5rJmctBg/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68526755",
-    "source": "otodom",
-    "sourceId": "68526755",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/27-000-m-zabudowa-zagrodowa-16-000-m-tereny-rolne-gmina-dopiewo-ID4DvVf",
-    "propertyType": "habitat",
-    "title": "27 000 m² ZABUDOWA ZAGRODOWA + 16 000 m² TERENY ROLNE | Gmina Dopiewo",
-    "voivodeship": "wielkopolskie",
-    "county": "poznański",
-    "city": "Joanka",
-    "coordinates": {
-      "lat": 52.35422900197848,
-      "lng": 16.668908091531748
-    },
-    "isNearBorder": false,
-    "areaM2": 43871,
-    "currentPrice": 1959000,
-    "currentPricePerM2": 44.65,
-    "initialPrice": 1959000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-10-14",
-        "price": 1959000,
-        "pricePerM2": 44.65
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-10-14T11:54:49.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBiZndsYXExdXlhdzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ipKKxZADYEu8I_cQSv3OgIIetrPc3UTIzBEyQDviKZw/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68492144",
-    "source": "otodom",
-    "sourceId": "68492144",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowe-siedlisko-w-stylu-japonskim-ID4DnV0",
-    "propertyType": "habitat",
-    "title": "WYJĄTKOWE SIEDLISKO W STYLU JAPOŃSKIM",
-    "voivodeship": "wielkopolskie",
-    "county": "kaliski",
-    "city": "Sobiesęki Pierwsze",
-    "coordinates": {
-      "lat": 51.68864611578389,
-      "lng": 18.304109460931162
-    },
-    "isNearBorder": false,
-    "areaM2": 220,
-    "plotAreaM2": 7700,
-    "currentPrice": 1095000,
-    "currentPricePerM2": 4977.27,
-    "initialPrice": 1125000,
-    "priceChangeAmount": -30000,
-    "priceChangePercent": -2.7,
-    "priceHistory": [
-      {
-        "date": "2026-10-05",
-        "price": 1125000,
-        "pricePerM2": 5113.64
-      },
-      {
-        "date": "2026-10-16",
-        "price": 1095000,
-        "pricePerM2": 4977.27
-      }
-    ],
-    "status": "price_drop",
-    "firstSeenAt": "2026-10-05T12:46:18.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imo4ZmxraTVocDVvNjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zMIpZl4Dl_0jYaXBO-WR47RheRwQQImhd5BoGBsTc4U/image;s=655x491;q=80",
-    "isDirectOwner": true,
-    "previousPrice": 1125000
-  },
-  {
-    "id": "otodom-68532909",
-    "source": "otodom",
-    "sourceId": "68532909",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-i-7-dzialek-ID4Dyxw",
-    "propertyType": "habitat",
-    "title": "Gospodarstwo rolne i 7 działek.",
-    "voivodeship": "wielkopolskie",
-    "county": "pleszewski",
-    "city": "Dobra Nadzieja",
-    "street": "Dobra Nadzieja 13",
-    "coordinates": {
-      "lat": 51.894944100226475,
-      "lng": 17.779075875838675
-    },
-    "isNearBorder": false,
-    "areaM2": 42852,
-    "currentPrice": 850000,
-    "currentPricePerM2": 19.84,
-    "initialPrice": 850000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-10-15",
-        "price": 850000,
-        "pricePerM2": 19.84
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-10-15T21:20:38.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBjaG9rdHQzemNzdDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.MyJpcSOTBeww8GazZXO750IXVPsyH9Z9HjLZ6AIw_JI/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68387921",
-    "source": "otodom",
-    "sourceId": "68387921",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-gospodarstwo-rolne-k-kalisza-6-5-ha-magazyn-ID4CVOZ",
-    "propertyType": "habitat",
-    "title": "DOM GOSPODARSTWO Rolne k. KALISZA 6,5 ha. Magazyn-",
-    "voivodeship": "wielkopolskie",
-    "county": "kaliski",
-    "city": "Stropieszyn",
-    "coordinates": {
-      "lat": 51.76793667632647,
-      "lng": 18.078535451922228
-    },
-    "isNearBorder": false,
-    "areaM2": 150,
-    "plotAreaM2": 5700,
-    "currentPrice": 449000,
-    "currentPricePerM2": 2993.33,
-    "initialPrice": 449000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-16",
-        "price": 449000,
-        "pricePerM2": 2993.33
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-16T16:19:44.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inl6Mm1laW45bGJsNTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zwZK6T4lU4VdsiWH4p7-3M_l9FeWaaXzBbq4fAdaNiM/image;s=655x491;q=80",
-    "isDirectOwner": true
-  },
-  {
-    "id": "otodom-68538696",
-    "source": "otodom",
-    "sourceId": "68538696",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-glebocku-gm-m-goslina-2ha-ID4DA2Q",
-    "propertyType": "habitat",
-    "title": "siedlisko w Głębocku gm. M. Goślina - 2ha",
-    "voivodeship": "wielkopolskie",
-    "county": "poznański",
-    "city": "Głębocko",
-    "coordinates": {
-      "lat": 52.57378991356479,
-      "lng": 17.006130247476637
-    },
-    "isNearBorder": false,
-    "areaM2": 85,
-    "currentPrice": 1050000,
-    "currentPricePerM2": 12352.94,
-    "initialPrice": 1050000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-10-18",
-        "price": 1050000,
-        "pricePerM2": 12352.94
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-10-18T06:49:23.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJmazV6MHU4NGsxbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.bD5ot5iAOpLk2qoTISMfku7sMVkLCyg3y8ZLoZsbSLQ/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68538699",
-    "source": "otodom",
-    "sourceId": "68538699",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/zabudowa-mieszkaniowa-pod-lasem-i-zagrodowa-ID4DA2T",
-    "propertyType": "habitat",
-    "title": "zabudowa mieszkaniowa pod lasem i zagrodowa",
-    "voivodeship": "wielkopolskie",
-    "county": "szamotulski",
-    "city": "Chojno-Błota Małe",
-    "coordinates": {
-      "lat": 52.71643395460569,
-      "lng": 16.383321896031845
-    },
-    "isNearBorder": false,
-    "areaM2": 19100,
-    "currentPrice": 680000,
-    "currentPricePerM2": 35.6,
-    "initialPrice": 680000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-10-18",
-        "price": 680000,
-        "pricePerM2": 35.6
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-10-18T06:51:31.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjlhdXRjdXpxYzVhNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.3Y8B8IgEK1dtN6DngZQ0u81ocPa4Ro1p0sI6_UZyzcA/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "adresowo-4286924",
-    "source": "adresowo",
-    "sourceId": "4286924",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-wronki-chojno-blota-male-1-ha-e3j1g4",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Chojno-Błota Małe",
-    "voivodeship": "wielkopolskie",
-    "county": "szamotulski",
-    "city": "Chojno-Błota Małe",
-    "coordinates": {
-      "lat": 52.60935035478637,
-      "lng": 16.582534586877227
-    },
-    "isNearBorder": false,
-    "areaM2": 19100,
-    "currentPrice": 680000,
-    "currentPricePerM2": 35.6,
-    "initialPrice": 969000,
-    "priceChangeAmount": -289000,
-    "priceChangePercent": -29.8,
-    "priceHistory": [
-      {
-        "date": "2026-10-05",
-        "price": 969000,
-        "pricePerM2": 50.73
-      },
-      {
-        "date": "2026-10-19",
-        "price": 680000,
-        "pricePerM2": 35.6
-      }
-    ],
-    "status": "price_drop",
-    "firstSeenAt": "2026-10-05T12:05:09.421Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/21/1b/4169cc_3513_cover@2x-dzialka-siedliskowa-szamotulski-chojno-blota-male.webp",
-    "isDirectOwner": true,
-    "previousPrice": 969000
-  },
-  {
-    "id": "otodom-68471062",
-    "source": "otodom",
-    "sourceId": "68471062",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-idealna-lokalizacja-dla-twojego-domu-lub-firmy-ID4DirY",
-    "propertyType": "habitat",
-    "title": "Siedlisko z idealną lokalizacją dla Twojego domu lub firmy",
-    "voivodeship": "wielkopolskie",
-    "county": "koniński",
-    "city": "Żdżary",
-    "street": "Konińska",
-    "coordinates": {
-      "lat": 52.183231520716724,
-      "lng": 18.223463789194234
-    },
-    "isNearBorder": false,
-    "areaM2": 65,
-    "plotAreaM2": 11785,
-    "currentPrice": 595000,
-    "currentPricePerM2": 9153.85,
-    "initialPrice": 595000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-29",
-        "price": 595000,
-        "pricePerM2": 9153.85
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-29T10:01:55.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNnN2dqd29tcWNuMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.OC9vCXxSRLPtzIzXWa2ofsS_2BUcNBzKpWxYorlrOJM/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "otodom-68340997",
-    "source": "otodom",
-    "sourceId": "68340997",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-piekne-siedlisko-dom-100-m2-i-budynki-staw-przedecz-ID4CKC9",
-    "propertyType": "habitat",
-    "title": "Sprzedam piękne siedlisko dom 100 m2 i budynki + staw - Przedecz",
-    "voivodeship": "wielkopolskie",
-    "county": "kolski",
-    "city": "Zbijewo-Kolonia",
-    "street": "Zbijewo Kolonia",
-    "coordinates": {
-      "lat": 52.195214891297766,
-      "lng": 18.642487559474905
-    },
-    "isNearBorder": false,
-    "areaM2": 100,
-    "plotAreaM2": 1812,
-    "currentPrice": 659000,
-    "currentPricePerM2": 6590,
-    "initialPrice": 659000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-21",
-        "price": 659000,
-        "pricePerM2": 6590
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-21T18:35:40.000Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFoOTd4dHVubG56LUVDT1NZU1RFTSIsInciOlt7ImZuIjoiZW52ZnFxZTFheTRrMS1BUEwiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.Zd4O9nI01pLEJu9HyeFM3_m5_D4rah6CVBct5G6NeFg/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
-    "id": "adresowo-4306526",
-    "source": "adresowo",
-    "sourceId": "4306526",
-    "sourceUrl": "https://adresowo.pl/o/dzialka-siedliskowa-slupca-kochowo-3-540-m2-t4l3t5",
-    "propertyType": "habitat",
-    "title": "Siedlisko — Kochowo",
-    "voivodeship": "wielkopolskie",
-    "county": "slupecki",
-    "city": "Kochowo",
-    "coordinates": {
-      "lat": 52.28514908358071,
-      "lng": 17.864260346669216
-    },
-    "isNearBorder": false,
-    "areaM2": 3540,
-    "currentPrice": 350000,
-    "currentPricePerM2": 98.87,
-    "initialPrice": 350000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-10-19",
-        "price": 350000,
-        "pricePerM2": 98.87
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-10-19T10:30:08.627Z",
-    "lastSeenAt": "2026-10-20T10:00:52.552Z",
-    "imageUrl": "https://s2.adresowa.pl/oi/72/61/41b65e_29fd_cover@2x-dzialka-siedliskowa-slupecki-kochowo.webp",
     "isDirectOwner": true
   },
   {
@@ -4991,11 +5104,12 @@
         "pricePerM2": 50
       }
     ],
-    "status": "active",
+    "status": "removed",
     "firstSeenAt": "2026-09-23T09:16:50.655Z",
     "lastSeenAt": "2026-10-13T12:21:03.922Z",
     "imageUrl": "https://s2.adresowa.pl/oi/72/57/400a2e_efed_cover@2x-dzialka-siedliskowa-wagrowiecki-roszkowo.webp",
-    "isDirectOwner": true
+    "isDirectOwner": true,
+    "removedAt": "2026-10-21T10:03:23.477Z"
   },
   {
     "id": "adresowo-3321998",
@@ -5026,11 +5140,12 @@
         "pricePerM2": 142.86
       }
     ],
-    "status": "active",
+    "status": "removed",
     "firstSeenAt": "2026-09-23T09:17:34.622Z",
     "lastSeenAt": "2026-10-13T12:21:03.922Z",
     "imageUrl": "https://s2.adresowa.pl/oi/3b/1d/32b08e_a51e_cover@2x-dzialka-inwestycyjna-grodziski-grodzisk-wielkopolski.webp",
-    "isDirectOwner": true
+    "isDirectOwner": true,
+    "removedAt": "2026-10-21T10:03:23.477Z"
   },
   {
     "id": "otodom-9000062218",
@@ -5060,10 +5175,11 @@
         "pricePerM2": 2993.33
       }
     ],
-    "status": "active",
+    "status": "removed",
     "firstSeenAt": "1999-03-01T00:00:01.000Z",
     "lastSeenAt": "2026-10-13T12:21:03.922Z",
-    "isDirectOwner": true
+    "isDirectOwner": true,
+    "removedAt": "2026-10-21T10:03:23.477Z"
   },
   {
     "id": "adresowo-4115568",
