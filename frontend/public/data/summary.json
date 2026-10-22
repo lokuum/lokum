@@ -1,12 +1,12 @@
 {
-  "totalHouses": 41779,
-  "totalPlots": 64357,
-  "totalHabitats": 3717,
-  "totalPriceDrops": 7693,
-  "avgHousePricePerM2": 7362,
+  "totalHouses": 40859,
+  "totalPlots": 63673,
+  "totalHabitats": 3666,
+  "totalPriceDrops": 7912,
+  "avgHousePricePerM2": 7352,
   "avgPlotPricePerM2": 241,
-  "avgHabitatPricePerM2": 1959,
-  "lastUpdated": "2026-10-21T10:07:29.578Z",
+  "avgHabitatPricePerM2": 1951,
+  "lastUpdated": "2026-10-22T10:09:44.800Z",
   "topPriceDrops": [
     {
       "id": "otodom-68541690",
@@ -44,7 +44,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-19T09:56:00.000Z",
-      "lastSeenAt": "2026-10-21T09:33:07.148Z",
+      "lastSeenAt": "2026-10-22T09:34:23.736Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjY5cnBxZmlpZzY2bDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Usz7oAV_Jwf7HOpp2CL6VpnTgkO-iQ1Yb91Fl-UJvYA/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 1180000000
@@ -125,88 +125,10 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-26T12:09:48.000Z",
-      "lastSeenAt": "2026-10-21T10:03:23.288Z",
+      "lastSeenAt": "2026-10-22T10:05:28.490Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims2ajBnZTZqNWkxYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wqT53kSc4lZeorRzIGZWNkI3s-yBz_ourBp53PKVi5Q/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 995000000
-    },
-    {
-      "id": "otodom-9000062224",
-      "source": "otodom",
-      "sourceId": "9000062224",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/nieruchomosc-pod-inwestycje-mieszkaniowa-ul-gen-maczka-bialystok-ID4Ch3e",
-      "propertyType": "plot",
-      "title": "Nieruchomość pod inwestycję mieszkaniową - ul. Gen. Maczka, Białystok",
-      "voivodeship": "podlaskie",
-      "county": "białostocki",
-      "city": "Białystok",
-      "coordinates": {
-        "lat": 53.1375934203786,
-        "lng": 23.168006489603425
-      },
-      "isNearBorder": true,
-      "areaM2": 20000,
-      "currentPrice": 60000,
-      "currentPricePerM2": 9.87,
-      "initialPrice": 23990000,
-      "priceChangeAmount": -23930000,
-      "priceChangePercent": -99.7,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 23990000,
-          "pricePerM2": 1199.5
-        },
-        {
-          "date": "2026-10-15",
-          "price": 60000,
-          "pricePerM2": 9.87
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-15T09:27:05.270Z",
-      "isDirectOwner": true,
-      "previousPrice": 50000
-    },
-    {
-      "id": "otodom-9000062224",
-      "source": "otodom",
-      "sourceId": "9000062224",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/235-ha-ziemi-rolnnej-klasa-iv-ID4u4Lx",
-      "propertyType": "plot",
-      "title": "235 ha ziemi rolnnej klasa IV",
-      "voivodeship": "warminsko-mazurskie",
-      "county": "ełcki",
-      "city": "Grabnik-Osada",
-      "coordinates": {
-        "lat": 53.83380469894717,
-        "lng": 22.36080420590084
-      },
-      "isNearBorder": false,
-      "areaM2": 2350000,
-      "currentPrice": 150000,
-      "currentPricePerM2": 112.36,
-      "initialPrice": 18555000,
-      "priceChangeAmount": -18405000,
-      "priceChangePercent": -99.2,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 18555000,
-          "pricePerM2": 7.9
-        },
-        {
-          "date": "2026-10-15",
-          "price": 150000,
-          "pricePerM2": 112.36
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-15T09:43:37.476Z",
-      "isDirectOwner": true,
-      "previousPrice": 75000
     },
     {
       "id": "otodom-9000062239",
@@ -405,46 +327,6 @@
       "previousPrice": 266000
     },
     {
-      "id": "otodom-9000062221",
-      "source": "otodom",
-      "sourceId": "9000062221",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/teren-produkcyjno-uslugowy-w-centrum-miasta-ID4DvGk",
-      "propertyType": "plot",
-      "title": "Teren produkcyjno-usługowy w centrum miasta",
-      "voivodeship": "lodzkie",
-      "county": "zduńskowolski",
-      "city": "Zduńska Wola",
-      "street": "Łaska",
-      "coordinates": {
-        "lat": 51.593285582034426,
-        "lng": 18.936245244299897
-      },
-      "isNearBorder": false,
-      "areaM2": 15309,
-      "currentPrice": 110000,
-      "currentPricePerM2": 131.58,
-      "initialPrice": 2950360,
-      "priceChangeAmount": -2840360,
-      "priceChangePercent": -96.3,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 2950360,
-          "pricePerM2": 192.72
-        },
-        {
-          "date": "2026-10-14",
-          "price": 110000,
-          "pricePerM2": 131.58
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-14T09:31:28.675Z",
-      "isDirectOwner": false,
-      "previousPrice": 52900
-    },
-    {
       "id": "otodom-9000062239",
       "source": "otodom",
       "sourceId": "9000062239",
@@ -485,6 +367,45 @@
       "previousPrice": 1950000
     },
     {
+      "id": "otodom-9000062245",
+      "source": "otodom",
+      "sourceId": "9000062245",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-uslug-komercyjnych-przy-ul-ledzian-slawin-ID4DE0k",
+      "propertyType": "plot",
+      "title": "Działka usług komercyjnych przy ul. Lędzian/Sławin",
+      "voivodeship": "lubelskie",
+      "county": "lubelski",
+      "city": "Lublin",
+      "coordinates": {
+        "lat": 51.24738843280024,
+        "lng": 22.572560293967715
+      },
+      "isNearBorder": false,
+      "areaM2": 4227,
+      "currentPrice": 99000,
+      "currentPricePerM2": 87.53,
+      "initialPrice": 2536000,
+      "priceChangeAmount": -2437000,
+      "priceChangePercent": -96.1,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 2536000,
+          "pricePerM2": 599.95
+        },
+        {
+          "date": "2026-10-22",
+          "price": 99000,
+          "pricePerM2": 87.53
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-22T09:17:01.301Z",
+      "isDirectOwner": false,
+      "previousPrice": 130000
+    },
+    {
       "id": "otodom-9000062227",
       "source": "otodom",
       "sourceId": "9000062227",
@@ -523,45 +444,6 @@
       "lastSeenAt": "2026-10-16T09:00:31.911Z",
       "isDirectOwner": true,
       "previousPrice": 1750000
-    },
-    {
-      "id": "otodom-9000062224",
-      "source": "otodom",
-      "sourceId": "9000062224",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/grunt-inwestycyjny-przy-kielcach-ID4CYR2",
-      "propertyType": "plot",
-      "title": "Grunt inwestycyjny przy Kielcach",
-      "voivodeship": "swietokrzyskie",
-      "county": "kielecki",
-      "city": "Domaszowice",
-      "coordinates": {
-        "lat": 50.87050731579907,
-        "lng": 20.633497388099816
-      },
-      "isNearBorder": false,
-      "areaM2": 14943,
-      "currentPrice": 234500,
-      "currentPricePerM2": 35,
-      "initialPrice": 4154154,
-      "priceChangeAmount": -3919654,
-      "priceChangePercent": -94.4,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 4154154,
-          "pricePerM2": 278
-        },
-        {
-          "date": "2026-10-15",
-          "price": 234500,
-          "pricePerM2": 35
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-15T09:39:16.873Z",
-      "isDirectOwner": true,
-      "previousPrice": 149000
     },
     {
       "id": "otodom-9000062236",
@@ -682,6 +564,46 @@
       "previousPrice": 1490000
     },
     {
+      "id": "otodom-9000062245",
+      "source": "otodom",
+      "sourceId": "9000062245",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/piekna-dzialka-niepolomice-okolice-puszczy-ID4Cy6w",
+      "propertyType": "plot",
+      "title": "Piękna działka Niepołomice okolice puszczy",
+      "voivodeship": "malopolskie",
+      "county": "wielicki",
+      "city": "Niepołomice",
+      "street": "ul. Ples",
+      "coordinates": {
+        "lat": 50.028908075910735,
+        "lng": 20.21569385466342
+      },
+      "isNearBorder": false,
+      "areaM2": 1300,
+      "currentPrice": 70000,
+      "currentPricePerM2": 24.74,
+      "initialPrice": 870000,
+      "priceChangeAmount": -800000,
+      "priceChangePercent": -92,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 870000,
+          "pricePerM2": 669.23
+        },
+        {
+          "date": "2026-10-22",
+          "price": 70000,
+          "pricePerM2": 24.74
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-22T09:29:19.103Z",
+      "isDirectOwner": true,
+      "previousPrice": 700000
+    },
+    {
       "id": "otodom-9000062233",
       "source": "otodom",
       "sourceId": "9000062233",
@@ -722,123 +644,6 @@
       "previousPrice": 140000
     },
     {
-      "id": "otodom-9000062221",
-      "source": "otodom",
-      "sourceId": "9000062221",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-pod-zabudowe-szeregowa-na-oporowie-ID4DvDE",
-      "propertyType": "plot",
-      "title": "Działka pod zabudowę szeregową na Oporowie",
-      "voivodeship": "dolnoslaskie",
-      "county": "wrocławski",
-      "city": "Wrocław",
-      "coordinates": {
-        "lat": 51.107241491411806,
-        "lng": 17.040289765287373
-      },
-      "isNearBorder": false,
-      "areaM2": 1340,
-      "currentPrice": 199000,
-      "currentPricePerM2": 39.8,
-      "initialPrice": 2460000,
-      "priceChangeAmount": -2261000,
-      "priceChangePercent": -91.9,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 2460000,
-          "pricePerM2": 1835.82
-        },
-        {
-          "date": "2026-10-14",
-          "price": 199000,
-          "pricePerM2": 39.8
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-14T09:15:43.550Z",
-      "isDirectOwner": false,
-      "previousPrice": 800000
-    },
-    {
-      "id": "otodom-9000062224",
-      "source": "otodom",
-      "sourceId": "9000062224",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/ceglany-dom-pod-lasem-na-warmii-ID4C0vD",
-      "propertyType": "house",
-      "title": "Ceglany dom pod lasem na Warmii",
-      "voivodeship": "warminsko-mazurskie",
-      "county": "olsztyński",
-      "city": "Wrzesina",
-      "coordinates": {
-        "lat": 53.77251291627471,
-        "lng": 20.480932703761265
-      },
-      "isNearBorder": false,
-      "areaM2": 174.75,
-      "currentPrice": 180000,
-      "currentPricePerM2": 2196.19,
-      "initialPrice": 2190000,
-      "priceChangeAmount": -2010000,
-      "priceChangePercent": -91.8,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 2190000,
-          "pricePerM2": 12532.19
-        },
-        {
-          "date": "2026-10-15",
-          "price": 180000,
-          "pricePerM2": 2196.19
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-15T09:43:37.422Z",
-      "isDirectOwner": false,
-      "previousPrice": 2140000
-    },
-    {
-      "id": "otodom-9000062224",
-      "source": "otodom",
-      "sourceId": "9000062224",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/hala-585m-dzialka-1980m-pv-9-96kw-3-bramy-miedzyrzecz-ID4DxK9",
-      "propertyType": "plot",
-      "title": "Hala 585m² | działka 1980m² | PV 9,96kW | 3 bramy | Międzyrzecz",
-      "voivodeship": "lubuskie",
-      "county": "międzyrzecki",
-      "city": "Międzyrzecz",
-      "coordinates": {
-        "lat": 52.44762609509743,
-        "lng": 15.582962131966905
-      },
-      "isNearBorder": false,
-      "areaM2": 1980,
-      "currentPrice": 120000,
-      "currentPricePerM2": 119.05,
-      "initialPrice": 1390000,
-      "priceChangeAmount": -1270000,
-      "priceChangePercent": -91.4,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 1390000,
-          "pricePerM2": 702.02
-        },
-        {
-          "date": "2026-10-15",
-          "price": 120000,
-          "pricePerM2": 119.05
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-15T09:01:42.799Z",
-      "isDirectOwner": true,
-      "previousPrice": 112680
-    },
-    {
       "id": "adresowo-4143232",
       "source": "adresowo",
       "sourceId": "4143232",
@@ -873,7 +678,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:07:49.692Z",
-      "lastSeenAt": "2026-10-21T09:06:40.193Z",
+      "lastSeenAt": "2026-10-22T09:08:44.407Z",
       "imageUrl": "https://s2.adresowa.pl/oi/48/7f/3f3880_853b_cover@2x-dzialka-budowlana-wolowski-bukowice.webp",
       "isDirectOwner": true,
       "previousPrice": 176000
@@ -916,45 +721,6 @@
       "lastSeenAt": "2026-10-17T09:08:21.336Z",
       "isDirectOwner": false,
       "previousPrice": 1295000
-    },
-    {
-      "id": "otodom-9000062224",
-      "source": "otodom",
-      "sourceId": "9000062224",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/nowoczesny-dom-224-m-30-arow-siedliska-ID4CX0t",
-      "propertyType": "habitat",
-      "title": "NOWOCZESNY DOM 224 m² | 30 ARÓW | SIEDLISKA",
-      "voivodeship": "podkarpackie",
-      "county": "rzeszowski",
-      "city": "Siedliska",
-      "coordinates": {
-        "lat": 49.951175912137664,
-        "lng": 21.94994600253437
-      },
-      "isNearBorder": false,
-      "areaM2": 224,
-      "currentPrice": 189000,
-      "currentPricePerM2": 62.96,
-      "initialPrice": 1950000,
-      "priceChangeAmount": -1761000,
-      "priceChangePercent": -90.3,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 1950000,
-          "pricePerM2": 8705.36
-        },
-        {
-          "date": "2026-10-15",
-          "price": 189000,
-          "pricePerM2": 62.96
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-15T09:23:20.768Z",
-      "isDirectOwner": false,
-      "previousPrice": 1950000
     },
     {
       "id": "otodom-9000062227",
@@ -1030,7 +796,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:12:18.827Z",
-      "lastSeenAt": "2026-10-21T09:15:14.524Z",
+      "lastSeenAt": "2026-10-22T09:17:01.301Z",
       "imageUrl": "https://s2.adresowa.pl/oi/3b/24/3c384a_a4ec_cover@2x-dzialka-budowlana-lubelski-motycz.webp",
       "isDirectOwner": true,
       "county": "lubelski",
@@ -1072,7 +838,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-16T16:11:02.000Z",
-      "lastSeenAt": "2026-10-21T09:27:56.824Z",
+      "lastSeenAt": "2026-10-22T09:29:19.103Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im02bHVuMW4yY2JoNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8WbapaIGU-GwLdubMzLnUGqkaypuEi-r0jGwVfWs7cc/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 28750000
@@ -1112,7 +878,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-09T07:51:37.000Z",
-      "lastSeenAt": "2026-10-21T09:43:25.686Z",
+      "lastSeenAt": "2026-10-22T09:44:38.273Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhrZXhiOTJnZGFtbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.aZgFAInh0YeFnbFOs6dU4yAcB4bXUArxEDjCwq14F1A/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 10500000
@@ -1197,7 +963,7 @@
       ],
       "status": "price_increase",
       "firstSeenAt": "2026-09-17T22:17:41.977Z",
-      "lastSeenAt": "2026-10-21T09:43:25.624Z",
+      "lastSeenAt": "2026-10-22T09:44:38.180Z",
       "imageUrl": "https://s2.adresowa.pl/oi/4c/4e/1b2410_f146_cover@2x-dzialka-budowlana-bielski-augustowo.webp",
       "isDirectOwner": true,
       "county": "bielski",
@@ -1239,50 +1005,10 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-19T10:00:04.000Z",
-      "lastSeenAt": "2026-10-21T10:07:25.167Z",
+      "lastSeenAt": "2026-10-22T10:09:41.428Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRmcWl5dWJwZ2w3MDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zhAYbWjYpZR2xzEYbzbCcCm20n8ktopFmfR-N8p1JhU/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 17499000
-    },
-    {
-      "id": "otodom-9000062221",
-      "source": "otodom",
-      "sourceId": "9000062221",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowy-pensjonat-400m2-panorama-kazimierza-ID4DvFD",
-      "propertyType": "house",
-      "title": "WYJĄTKOWY PENSJONAT | 400M2 | PANORAMA KAZIMIERZA",
-      "voivodeship": "lubelskie",
-      "county": "puławski",
-      "city": "Kazimierz Dolny",
-      "street": "ul. Plebanka",
-      "coordinates": {
-        "lat": 51.327043279531644,
-        "lng": 21.95069921476227
-      },
-      "isNearBorder": false,
-      "areaM2": 400,
-      "currentPrice": 1100000,
-      "currentPricePerM2": 9166.67,
-      "initialPrice": 10600000,
-      "priceChangeAmount": -9500000,
-      "priceChangePercent": -89.6,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 10600000,
-          "pricePerM2": 26500
-        },
-        {
-          "date": "2026-10-14",
-          "price": 1100000,
-          "pricePerM2": 9166.67
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-14T09:23:57.024Z",
-      "isDirectOwner": false,
-      "previousPrice": 495000
     },
     {
       "id": "otodom-68062003",
@@ -1320,7 +1046,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-11T17:18:24.000Z",
-      "lastSeenAt": "2026-10-21T09:27:56.824Z",
+      "lastSeenAt": "2026-10-22T09:29:19.103Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImYxNGxtbG9tNmkzNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7j-z7ur-BLa28p_HOBmliWiVNBgmjbGUQiB84U-mv2g/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 560000
@@ -1365,46 +1091,6 @@
       "previousPrice": 220000
     },
     {
-      "id": "otodom-9000062224",
-      "source": "otodom",
-      "sourceId": "9000062224",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-krakow-nowa-huta-ID4oZlP",
-      "propertyType": "plot",
-      "title": "Działka budowlana Kraków Nowa Huta",
-      "voivodeship": "malopolskie",
-      "county": "krakowski",
-      "city": "Kraków",
-      "street": "Branice",
-      "coordinates": {
-        "lat": 50.06179409762557,
-        "lng": 19.936646751587347
-      },
-      "isNearBorder": false,
-      "areaM2": 5927,
-      "currentPrice": 85000,
-      "currentPricePerM2": 34,
-      "initialPrice": 700000,
-      "priceChangeAmount": -615000,
-      "priceChangePercent": -87.9,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 700000,
-          "pricePerM2": 118.1
-        },
-        {
-          "date": "2026-10-15",
-          "price": 85000,
-          "pricePerM2": 34
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-15T09:11:04.823Z",
-      "isDirectOwner": true,
-      "previousPrice": 1250000
-    },
-    {
       "id": "otodom-9000062227",
       "source": "otodom",
       "sourceId": "9000062227",
@@ -1442,45 +1128,6 @@
       "lastSeenAt": "2026-10-16T09:17:14.590Z",
       "isDirectOwner": false,
       "previousPrice": 289000
-    },
-    {
-      "id": "otodom-9000062224",
-      "source": "otodom",
-      "sourceId": "9000062224",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/2-ha-widokowej-dzialki-z-mozliwoscia-zabudowy-ID4AbBl",
-      "propertyType": "plot",
-      "title": "2 ha widokowej dzialki z mozliwoscia zabudowy!",
-      "voivodeship": "slaskie",
-      "county": "żywiecki",
-      "city": "Pewel Wielka",
-      "coordinates": {
-        "lat": 49.687139708418215,
-        "lng": 19.193212910000334
-      },
-      "isNearBorder": true,
-      "areaM2": 20100,
-      "currentPrice": 89000,
-      "currentPricePerM2": 224.75,
-      "initialPrice": 699000,
-      "priceChangeAmount": -610000,
-      "priceChangePercent": -87.3,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 699000,
-          "pricePerM2": 34.78
-        },
-        {
-          "date": "2026-10-15",
-          "price": 89000,
-          "pricePerM2": 224.75
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-15T09:35:53.657Z",
-      "isDirectOwner": false,
-      "previousPrice": 167000
     },
     {
       "id": "otodom-9000062242",
@@ -1562,45 +1209,6 @@
       "previousPrice": 199000
     },
     {
-      "id": "otodom-9000062221",
-      "source": "otodom",
-      "sourceId": "9000062221",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-w-sercu-mazur-slow-life-w-naturze-ID4B8ly",
-      "propertyType": "habitat",
-      "title": "Siedlisko w sercu mazur – slow life w naturze",
-      "voivodeship": "warminsko-mazurskie",
-      "county": "mrągowski",
-      "city": "Surmówka",
-      "coordinates": {
-        "lat": 53.86595558087053,
-        "lng": 21.31085347630066
-      },
-      "isNearBorder": false,
-      "areaM2": 148.63,
-      "currentPrice": 349000,
-      "currentPricePerM2": 43.61,
-      "initialPrice": 2500000,
-      "priceChangeAmount": -2151000,
-      "priceChangePercent": -86,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 2500000,
-          "pricePerM2": 16820.29
-        },
-        {
-          "date": "2026-10-14",
-          "price": 349000,
-          "pricePerM2": 43.61
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-14T10:06:14.286Z",
-      "isDirectOwner": false,
-      "previousPrice": 2900000
-    },
-    {
       "id": "otodom-9000062230",
       "source": "otodom",
       "sourceId": "9000062230",
@@ -1675,49 +1283,10 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:54.592Z",
-      "lastSeenAt": "2026-10-21T09:33:07.148Z",
+      "lastSeenAt": "2026-10-22T09:34:23.736Z",
       "imageUrl": "https://s2.adresowa.pl/oi/52/19/3eb548_e2eb_cover@2x-dzialka-budowlana-grojecki-warka.webp",
       "isDirectOwner": true,
       "previousPrice": 1995000
-    },
-    {
-      "id": "otodom-9000062224",
-      "source": "otodom",
-      "sourceId": "9000062224",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/grunt-rolny-niezabudowany-244-ha-w-jednym-rozlogu-ID4CYXB",
-      "propertyType": "plot",
-      "title": "grunt rolny niezabudowany 244 ha w jednym rozłogu",
-      "voivodeship": "zachodniopomorskie",
-      "county": "koszaliński",
-      "city": "Janowiec",
-      "coordinates": {
-        "lat": 54.199350088598834,
-        "lng": 16.173417118654612
-      },
-      "isNearBorder": false,
-      "areaM2": 2448015,
-      "currentPrice": 1680000,
-      "currentPricePerM2": 1010.83,
-      "initialPrice": 10900000,
-      "priceChangeAmount": -9220000,
-      "priceChangePercent": -84.6,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 10900000,
-          "pricePerM2": 4.45
-        },
-        {
-          "date": "2026-10-15",
-          "price": 1680000,
-          "pricePerM2": 1010.83
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-15T09:52:35.452Z",
-      "isDirectOwner": true,
-      "previousPrice": 963200
     },
     {
       "id": "otodom-9000062239",
@@ -1758,48 +1327,6 @@
       "lastSeenAt": "2026-10-20T09:18:22.042Z",
       "isDirectOwner": true,
       "previousPrice": 90090
-    },
-    {
-      "id": "otodom-68415651",
-      "source": "otodom",
-      "sourceId": "68415651",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/przestronny-dom-na-16-arowej-dzialce-mielec-ul-wolnosci-ID4D42f",
-      "propertyType": "house",
-      "title": "Przestronny dom na 16-arowej działce | Mielec, ul. Wolności!",
-      "voivodeship": "podkarpackie",
-      "county": "mielecki",
-      "city": "Mielec",
-      "street": "ul. Wolności",
-      "coordinates": {
-        "lat": 50.28890624892309,
-        "lng": 21.42982608578056
-      },
-      "isNearBorder": false,
-      "areaM2": 250,
-      "plotAreaM2": 1600,
-      "currentPrice": 150000,
-      "currentPricePerM2": 2000,
-      "initialPrice": 880000,
-      "priceChangeAmount": -730000,
-      "priceChangePercent": -83,
-      "priceHistory": [
-        {
-          "date": "2026-09-17",
-          "price": 880000,
-          "pricePerM2": 3520
-        },
-        {
-          "date": "2026-09-29",
-          "price": 150000,
-          "pricePerM2": 2000
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "2026-09-14T09:50:24.000Z",
-      "lastSeenAt": "2026-10-14T09:47:22.692Z",
-      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZpOXpqazJkbDh4bzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xPF97f-oWQGyMAg-UnbzEvZXjNs0__gHQDJqgouQ5Ew/image;s=655x491;q=80",
-      "isDirectOwner": false,
-      "previousPrice": 880000
     },
     {
       "id": "otodom-9000062233",
@@ -1876,49 +1403,10 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-11T13:37:14.000Z",
-      "lastSeenAt": "2026-10-21T10:07:25.246Z",
+      "lastSeenAt": "2026-10-22T10:09:41.529Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InI1MzJ4ZWEwcWpjMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.OXUL50rn9gkIXDrf4XembPbnZJaYtXJE9-Psdgk-RGA/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 650000
-    },
-    {
-      "id": "otodom-9000062224",
-      "source": "otodom",
-      "sourceId": "9000062224",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-plan-miejscowy-nawet-2-blizniaki-ID4BVk6",
-      "propertyType": "plot",
-      "title": "Działka budowlana - Plan miejscowy - nawet 2 bliźniaki",
-      "voivodeship": "lodzkie",
-      "county": "łódzki wschodni",
-      "city": "Łódź",
-      "coordinates": {
-        "lat": 51.76667109953954,
-        "lng": 19.46182943740014
-      },
-      "isNearBorder": false,
-      "areaM2": 2071,
-      "currentPrice": 80000,
-      "currentPricePerM2": 111.42,
-      "initialPrice": 420000,
-      "priceChangeAmount": -340000,
-      "priceChangePercent": -81,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 420000,
-          "pricePerM2": 202.8
-        },
-        {
-          "date": "2026-10-15",
-          "price": 80000,
-          "pricePerM2": 111.42
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-15T09:06:17.522Z",
-      "isDirectOwner": true,
-      "previousPrice": 64900
     },
     {
       "id": "adresowo-4200498",
@@ -1956,7 +1444,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:36.907Z",
-      "lastSeenAt": "2026-10-21T09:33:07.148Z",
+      "lastSeenAt": "2026-10-22T09:34:23.736Z",
       "imageUrl": "https://s2.adresowa.pl/oi/5f/58/401832_ff4f_cover@2x-dzialka-inwestycyjna-przasnyski-przasnysz.webp",
       "isDirectOwner": true,
       "previousPrice": 1260000
@@ -2000,6 +1488,528 @@
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVnM3p5d25rMWR0MzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vAbHT5FX-PwnSMSiCvn0ROJOAXkEDBXaFihFiLcEk5k/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 629000
+    },
+    {
+      "id": "otodom-9000062230",
+      "source": "otodom",
+      "sourceId": "9000062230",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-z-wlasna-linia-brzegowa-jeziora-mala-kalwa-w-pasymiu-ID4BtJf",
+      "propertyType": "plot",
+      "title": "Działka budowlana z własną linią brzegową jeziora Mała Kalwa w Pasymiu",
+      "voivodeship": "warminsko-mazurskie",
+      "county": "szczycieński",
+      "city": "Pasym",
+      "street": "ul. Ostrów",
+      "coordinates": {
+        "lat": 53.557019612551045,
+        "lng": 20.9888263561297
+      },
+      "isNearBorder": false,
+      "areaM2": 2000,
+      "currentPrice": 109000,
+      "currentPricePerM2": 49.55,
+      "initialPrice": 550000,
+      "priceChangeAmount": -441000,
+      "priceChangePercent": -80.2,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 550000,
+          "pricePerM2": 275
+        },
+        {
+          "date": "2026-10-17",
+          "price": 109000,
+          "pricePerM2": 49.55
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-17T09:08:21.267Z",
+      "isDirectOwner": true,
+      "previousPrice": 252000
+    },
+    {
+      "id": "adresowo-3612464",
+      "source": "adresowo",
+      "sourceId": "3612464",
+      "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-starachowice-ul-nowowiejska-q9a1s3",
+      "propertyType": "plot",
+      "title": "Działka — Starachowice Górniki, ul. Nowowiejska",
+      "voivodeship": "swietokrzyskie",
+      "county": "starachowicki",
+      "city": "Starachowice Górniki",
+      "street": "ul. Nowowiejska",
+      "coordinates": {
+        "lat": 51.04257919000217,
+        "lng": 21.062417095816066
+      },
+      "isNearBorder": false,
+      "areaM2": 5290,
+      "currentPrice": 100000,
+      "currentPricePerM2": 111.11,
+      "initialPrice": 500000,
+      "priceChangeAmount": -400000,
+      "priceChangePercent": -80,
+      "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 500000,
+          "pricePerM2": 94.52
+        },
+        {
+          "date": "2026-10-04",
+          "price": 450000,
+          "pricePerM2": 85.07
+        },
+        {
+          "date": "2026-10-14",
+          "price": 100000,
+          "pricePerM2": 111.11
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-24T21:11:01.541Z",
+      "lastSeenAt": "2026-10-22T09:56:32.013Z",
+      "imageUrl": "https://s2.adresowa.pl/oi/1e/5f/371f30_47ef_cover@2x-dzialka-rolno-budowlana-starachowicki-starachowice.webp",
+      "isDirectOwner": true,
+      "previousPrice": 450000
+    },
+    {
+      "id": "adresowo-4277998",
+      "source": "adresowo",
+      "sourceId": "4277998",
+      "sourceUrl": "https://adresowo.pl/o/dzialka-rolno-budowlana-puchaczow-turowola-kolonia-9-865-m2-g8f4t2",
+      "propertyType": "plot",
+      "title": "Działka — Turowola-Kolonia",
+      "voivodeship": "lubelskie",
+      "county": "leczynski",
+      "city": "Turowola-Kolonia",
+      "coordinates": {
+        "lat": 51.30305655994088,
+        "lng": 22.882338682589904
+      },
+      "isNearBorder": false,
+      "areaM2": 9865,
+      "currentPrice": 115000,
+      "currentPricePerM2": 67.73,
+      "initialPrice": 570000,
+      "priceChangeAmount": -455000,
+      "priceChangePercent": -79.8,
+      "priceHistory": [
+        {
+          "date": "2026-09-29",
+          "price": 570000,
+          "pricePerM2": 57.78
+        },
+        {
+          "date": "2026-10-21",
+          "price": 115000,
+          "pricePerM2": 67.73
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-29T10:30:26.039Z",
+      "lastSeenAt": "2026-10-22T09:17:01.301Z",
+      "imageUrl": "https://s2.adresowa.pl/oi/21/4b/4146ee_fa4b_cover@2x-dzialka-rolno-budowlana-leczynski-turowola-kolonia.webp",
+      "isDirectOwner": true,
+      "previousPrice": 570000
+    },
+    {
+      "id": "adresowo-4058048",
+      "source": "adresowo",
+      "sourceId": "4058048",
+      "sourceUrl": "https://adresowo.pl/o/dzialka-budowlana-olesnica-sokolowice-4-600-m2-v8g6d7",
+      "propertyType": "plot",
+      "title": "Działka — Sokołowice",
+      "voivodeship": "dolnoslaskie",
+      "county": "olesnicki",
+      "city": "Sokołowice",
+      "coordinates": {
+        "lat": 51.204099753612454,
+        "lng": 17.388417533911788
+      },
+      "isNearBorder": false,
+      "areaM2": 4600,
+      "currentPrice": 227452,
+      "currentPricePerM2": 247.5,
+      "initialPrice": 1100000,
+      "priceChangeAmount": -872548,
+      "priceChangePercent": -79.3,
+      "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1100000,
+          "pricePerM2": 239.13
+        },
+        {
+          "date": "2026-10-21",
+          "price": 227452,
+          "pricePerM2": 247.5
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-24T20:07:44.987Z",
+      "lastSeenAt": "2026-10-22T09:08:44.407Z",
+      "imageUrl": "https://s2.adresowa.pl/oi/46/41/3debc0_2f4f_cover@2x-dzialka-budowlana-olesnicki-sokolowice.webp",
+      "isDirectOwner": true,
+      "previousPrice": 1100000
+    },
+    {
+      "id": "otodom-9000062245",
+      "source": "otodom",
+      "sourceId": "9000062245",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/nowoczesny-dom-150-m-dobrzyjalowo-ID4DE2L",
+      "propertyType": "house",
+      "title": "Nowoczesny dom 150 m² | Dobrzyjałowo",
+      "voivodeship": "podlaskie",
+      "county": "łomżyński",
+      "city": "Dobrzyjałowo",
+      "coordinates": {
+        "lat": 53.176050861345395,
+        "lng": 22.056644078033067
+      },
+      "isNearBorder": false,
+      "areaM2": 187.46,
+      "currentPrice": 250000,
+      "currentPricePerM2": 1683.5,
+      "initialPrice": 1199000,
+      "priceChangeAmount": -949000,
+      "priceChangePercent": -79.1,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 1199000,
+          "pricePerM2": 6396.03
+        },
+        {
+          "date": "2026-10-22",
+          "price": 250000,
+          "pricePerM2": 1683.5
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-22T09:44:38.124Z",
+      "isDirectOwner": false,
+      "previousPrice": 1300000
+    },
+    {
+      "id": "otodom-9000062245",
+      "source": "otodom",
+      "sourceId": "9000062245",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/elegancki-dom-z-pieknym-ogrodem-i-okolica-1-km-od-krasnegostawu-ID4zuiV",
+      "propertyType": "house",
+      "title": "ELegancki dom z pięknym ogrodem i okolicą, 1 km od Krasnegostawu",
+      "voivodeship": "lubelskie",
+      "county": "krasnostawski",
+      "city": "Małochwiej Duży",
+      "coordinates": {
+        "lat": 50.9869822344359,
+        "lng": 23.177489886117176
+      },
+      "isNearBorder": true,
+      "areaM2": 186,
+      "currentPrice": 210000,
+      "currentPricePerM2": 5391.53,
+      "initialPrice": 950000,
+      "priceChangeAmount": -740000,
+      "priceChangePercent": -77.9,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 950000,
+          "pricePerM2": 5107.53
+        },
+        {
+          "date": "2026-10-22",
+          "price": 210000,
+          "pricePerM2": 5391.53
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-22T09:17:01.207Z",
+      "isDirectOwner": true,
+      "previousPrice": 1620000
+    },
+    {
+      "id": "otodom-9000062236",
+      "source": "otodom",
+      "sourceId": "9000062236",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/prywatna-enklawa-w-gorach-swietokrzyskich-ID4CjuO",
+      "propertyType": "house",
+      "title": "Prywatna enklawa w Górach Świętokrzyskich",
+      "voivodeship": "swietokrzyskie",
+      "county": "starachowicki",
+      "city": "Bronkowice",
+      "coordinates": {
+        "lat": 51.47264748333281,
+        "lng": 17.655911261908184
+      },
+      "isNearBorder": false,
+      "areaM2": 162,
+      "currentPrice": 521250,
+      "currentPricePerM2": 4714.21,
+      "initialPrice": 2340000,
+      "priceChangeAmount": -1818750,
+      "priceChangePercent": -77.7,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 2340000,
+          "pricePerM2": 14444.44
+        },
+        {
+          "date": "2026-10-19",
+          "price": 521250,
+          "pricePerM2": 4714.21
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-19T10:22:17.462Z",
+      "isDirectOwner": false,
+      "previousPrice": 1750000
+    },
+    {
+      "id": "otodom-68323927",
+      "source": "otodom",
+      "sourceId": "68323927",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-do-zabudowy-mieszkaniowej-i-borowa-wies-piwna-ID4CGaP",
+      "propertyType": "plot",
+      "title": "Działka budowlana - do zabudowy mieszkaniowej I Borowa Wieś - Piwna",
+      "voivodeship": "slaskie",
+      "county": "mikołowski",
+      "city": "Mikołów",
+      "street": "ul. Piwna",
+      "coordinates": {
+        "lat": 50.170466276068154,
+        "lng": 18.905733770318694
+      },
+      "isNearBorder": false,
+      "areaM2": 6412,
+      "currentPrice": 389000,
+      "currentPricePerM2": 449.19,
+      "initialPrice": 1650000,
+      "priceChangeAmount": -1261000,
+      "priceChangePercent": -76.4,
+      "priceHistory": [
+        {
+          "date": "2026-10-05",
+          "price": 1650000,
+          "pricePerM2": 257.33
+        },
+        {
+          "date": "2026-10-21",
+          "price": 389000,
+          "pricePerM2": 449.19
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-10-05T12:42:53.000Z",
+      "lastSeenAt": "2026-10-22T09:53:17.132Z",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpneGdseGM4aDZydDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Efuhba48jPsCwanvV9xExQJjrcNVo2GGTQkBy87iUoY/image;s=655x491;q=80",
+      "isDirectOwner": false,
+      "previousPrice": 1650000
+    },
+    {
+      "id": "otodom-9000062242",
+      "source": "otodom",
+      "sourceId": "9000062242",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/suchy-bor-przestronna-dzialka-budowlana-z-potencjalem-inwestycyjnym-ID4DD1K",
+      "propertyType": "plot",
+      "title": "SUCHY BÓR. Przestronna działka budowlana z potencjałem inwestycyjnym.",
+      "voivodeship": "opolskie",
+      "county": "opolski",
+      "city": "Suchy Bór",
+      "street": "ul. Ogrodowa",
+      "coordinates": {
+        "lat": 51.14973291199567,
+        "lng": 21.963742368236346
+      },
+      "isNearBorder": false,
+      "areaM2": 3325,
+      "currentPrice": 310000,
+      "currentPricePerM2": 73.81,
+      "initialPrice": 1299000,
+      "priceChangeAmount": -989000,
+      "priceChangePercent": -76.1,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 1299000,
+          "pricePerM2": 390.68
+        },
+        {
+          "date": "2026-10-21",
+          "price": 310000,
+          "pricePerM2": 73.81
+        }
+      ],
+      "status": "price_increase",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-21T09:35:37.314Z",
+      "isDirectOwner": false,
+      "previousPrice": 108000
+    },
+    {
+      "id": "otodom-9000062242",
+      "source": "otodom",
+      "sourceId": "9000062242",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/gruszczyn-gm-swarzedz-dzialka-budowlana-ID4DCcz",
+      "propertyType": "plot",
+      "title": "Gruszczyn gm. Swarzędz działka budowlana",
+      "voivodeship": "wielkopolskie",
+      "county": "poznański",
+      "city": "Gruszczyn",
+      "street": "ul. Katarzyńska",
+      "coordinates": {
+        "lat": 52.43419492073425,
+        "lng": 17.06452568325483
+      },
+      "isNearBorder": false,
+      "areaM2": 1273,
+      "currentPrice": 125000,
+      "currentPricePerM2": 120.42,
+      "initialPrice": 521900,
+      "priceChangeAmount": -396900,
+      "priceChangePercent": -76,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 521900,
+          "pricePerM2": 409.98
+        },
+        {
+          "date": "2026-10-21",
+          "price": 125000,
+          "pricePerM2": 120.42
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-21T10:03:23.402Z",
+      "isDirectOwner": false,
+      "previousPrice": 383145
+    },
+    {
+      "id": "otodom-9000062227",
+      "source": "otodom",
+      "sourceId": "9000062227",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/spektakularna-dzialka-budowlana-w-szczawnicy-ID4DyLu",
+      "propertyType": "plot",
+      "title": "Spektakularna działka budowlana w Szczawnicy",
+      "voivodeship": "malopolskie",
+      "county": "nowotarski",
+      "city": "Jaworki",
+      "street": "Pod Homolami",
+      "coordinates": {
+        "lat": 49.48737530215858,
+        "lng": 20.04153099080246
+      },
+      "isNearBorder": true,
+      "areaM2": 8424,
+      "currentPrice": 725000,
+      "currentPricePerM2": 250,
+      "initialPrice": 2999999,
+      "priceChangeAmount": -2274999,
+      "priceChangePercent": -75.8,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 2999999,
+          "pricePerM2": 356.13
+        },
+        {
+          "date": "2026-10-16",
+          "price": 725000,
+          "pricePerM2": 250
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-16T09:05:17.995Z",
+      "isDirectOwner": false,
+      "previousPrice": 11561000
+    },
+    {
+      "id": "otodom-9000062236",
+      "source": "otodom",
+      "sourceId": "9000062236",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-rekreacyjna-z-domkiem-letniskowym-nad-jeziorem-dejguny-ID4DAOM",
+      "propertyType": "plot",
+      "title": "Działka rekreacyjna z domkiem letniskowym nad jeziorem Dejguny",
+      "voivodeship": "warminsko-mazurskie",
+      "county": "giżycki",
+      "city": "Sterławki Małe",
+      "coordinates": {
+        "lat": 54.04137853873087,
+        "lng": 21.76797643478933
+      },
+      "isNearBorder": false,
+      "areaM2": 908,
+      "currentPrice": 109000,
+      "currentPricePerM2": 49.55,
+      "initialPrice": 450000,
+      "priceChangeAmount": -341000,
+      "priceChangePercent": -75.8,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 450000,
+          "pricePerM2": 495.59
+        },
+        {
+          "date": "2026-10-19",
+          "price": 109000,
+          "pricePerM2": 49.55
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-19T10:26:49.864Z",
+      "isDirectOwner": false,
+      "previousPrice": 158000
+    },
+    {
+      "id": "otodom-9000062242",
+      "source": "otodom",
+      "sourceId": "9000062242",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/piekna-dzialka-w-sasiedztwie-zagajnika-ID4Ceu4",
+      "propertyType": "plot",
+      "title": "Piękna działka w sąsiedztwie zagajnika",
+      "voivodeship": "malopolskie",
+      "county": "bocheński",
+      "city": "Stary Wiśnicz",
+      "coordinates": {
+        "lat": 49.9639250304482,
+        "lng": 20.437241835773882
+      },
+      "isNearBorder": false,
+      "areaM2": 1060,
+      "currentPrice": 60000,
+      "currentPricePerM2": 42.31,
+      "initialPrice": 240000,
+      "priceChangeAmount": -180000,
+      "priceChangePercent": -75,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 240000,
+          "pricePerM2": 226.42
+        },
+        {
+          "date": "2026-10-21",
+          "price": 60000,
+          "pricePerM2": 42.31
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-21T09:27:56.824Z",
+      "isDirectOwner": false,
+      "previousPrice": 440000
     }
   ]
 }

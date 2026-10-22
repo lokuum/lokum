@@ -1,41 +1,5 @@
 [
   {
-    "id": "otodom-67734339",
-    "source": "otodom",
-    "sourceId": "67734339",
-    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-pokaznym-terenem-ID4AcNl",
-    "propertyType": "habitat",
-    "title": "Siedlisko z pokaźnym terenem.",
-    "voivodeship": "opolskie",
-    "county": "kędzierzyńsko-kozielski",
-    "city": "Kędzierzyn-Koźle",
-    "street": "Polska Cerekiew",
-    "coordinates": {
-      "lat": 50.34289552555292,
-      "lng": 18.212155154642772
-    },
-    "isNearBorder": false,
-    "areaM2": 110,
-    "plotAreaM2": 2022,
-    "currentPrice": 160000,
-    "currentPricePerM2": 1454.55,
-    "initialPrice": 160000,
-    "priceChangeAmount": 0,
-    "priceChangePercent": 0,
-    "priceHistory": [
-      {
-        "date": "2026-09-15",
-        "price": 160000,
-        "pricePerM2": 1454.55
-      }
-    ],
-    "status": "active",
-    "firstSeenAt": "2026-09-15T04:31:28.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
-    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA0YTAwZW9zejFqbjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yunpUWwZ0DDUYtzhEOn22yO9uWfwHNQ8UHo0lVyZd9A/image;s=655x491;q=80",
-    "isDirectOwner": false
-  },
-  {
     "id": "otodom-68121728",
     "source": "otodom",
     "sourceId": "68121728",
@@ -66,7 +30,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-06-18T15:00:49.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijk0NmJ0bHFqc2pzaDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nmHHPCl6Ai3KC_KX6BsGsUEYRkaxxpPXVum9woAFAyU/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -101,7 +65,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-06-15T12:54:07.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRqYm1vaDkzcmZwMjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lv0rpj6Lr97Cz-619Rk9lsxgsdRxnZYxwMPxyHQT95g/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -136,7 +100,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-03-27T13:39:50.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV2MDFqb3piYzBhMjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CfFaIbRzkpNnx7Hzal52Zg5m7bShNZIYYBRoFxoikCk/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -170,7 +134,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:00.022Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/4f/68/411858_b11f_cover@2x-dom-nyski-sowin.webp",
     "isDirectOwner": true
   },
@@ -209,7 +173,7 @@
     ],
     "status": "price_drop",
     "firstSeenAt": "2026-09-24T20:45:00.022Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/24/59/4104a4_befa_cover@2x-dom-nyski-gieralcice.webp",
     "isDirectOwner": true,
     "previousPrice": 1290000
@@ -244,7 +208,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:01.893Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/4e/7a/40e7e6_eb32_cover@2x-dom-kluczborski-proslice.webp",
     "isDirectOwner": true
   },
@@ -279,7 +243,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:01.893Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/2d/4e/40a670_cbb8_cover@2x-dom-oleski-kadlub-wolny.webp",
     "isDirectOwner": true
   },
@@ -313,7 +277,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:01.893Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/5a/35/3d4ec6_dc65_cover@2x-dom-kluczborski-szumirad.webp",
     "isDirectOwner": true
   },
@@ -347,7 +311,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:01.893Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/66/63/405548_f168_cover@2x-dom-glubczycki-slawoszow.webp",
     "isDirectOwner": true
   },
@@ -381,7 +345,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:06.501Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/68/2c/3d5fa0_e219_cover@2x-dom-nyski-jasienica-dolna.webp",
     "isDirectOwner": true
   },
@@ -415,7 +379,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:06.501Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/50/15/3d1aac_61c6_cover@2x-dom-glubczycki-dobieszow.webp",
     "isDirectOwner": true
   },
@@ -449,7 +413,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:06.501Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/2a/5c/3c9862_288d_cover@2x-dom-glubczycki-bliszczyce.webp",
     "isDirectOwner": true
   },
@@ -483,7 +447,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:06.501Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/50/7c/3c6dc8_b1c3_cover@2x-dom-nyski-bodzanow.webp",
     "isDirectOwner": true
   },
@@ -518,7 +482,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:06.501Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/54/74/3bb458_7a21_cover@2x-dom-opolski-siedliska.webp",
     "isDirectOwner": true
   },
@@ -552,7 +516,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:06.501Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/2a/3c/3b3022_4399_cover@2x-dom-nyski-domaszkowice.webp",
     "isDirectOwner": true
   },
@@ -587,7 +551,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:06.501Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/12/55/39f8ac_6abe_cover@2x-dom-strzelecki-centawa.webp",
     "isDirectOwner": true
   },
@@ -621,7 +585,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:08.488Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/7e/6b/37240e_857f_cover@2x-dom-nyski-jarnoltowek.webp",
     "isDirectOwner": true
   },
@@ -655,7 +619,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:11.055Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/40/7e/aea19_6544_cover@2x-dom-opolski-rybna.webp",
     "isDirectOwner": true
   },
@@ -689,7 +653,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-02T16:17:29.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IngwbGprYjdwc3V0aDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zrAbUkdjHjt2QJTcQS5gPWH8psuAwtX8nrLwftM-hJo/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -724,7 +688,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-01T11:24:28.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFjM2Y3bG9mZHliejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jtnoEN0HgoCm6k2KWA5q2OctbR_m7qGnGfSLR0rVans/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -758,7 +722,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2020-05-28T23:10:27.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InljMDdscHhiMXl0OTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6GgW3-AwHMYJ5w6dWK7GDwWBwWcOxvxWehZ-_AAC6Wk/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -793,7 +757,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:53.968Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/11/30/410f56_7f32_cover@2x-dzialka-siedliskowa-namyslowski-domaradz.webp",
     "isDirectOwner": true
   },
@@ -827,7 +791,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:56.297Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/42/28/40e382_3057_cover@2x-dzialka-siedliskowa-prudnicki-smicz.webp",
     "isDirectOwner": true
   },
@@ -861,7 +825,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:56.297Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/37/42/3ff884_622f_cover@2x-dzialka-rolno-budowlana-brzeski-blota.webp",
     "isDirectOwner": true
   },
@@ -895,7 +859,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:58.687Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/3a/70/3fae7a_fadd_cover@2x-dzialka-rolna-brzeski-pawlow.webp",
     "isDirectOwner": true
   },
@@ -929,7 +893,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:58.687Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/28/5a/3f1890_6a9d_cover@2x-dzialka-rolno-budowlana-brzeski-krzyzowice.webp",
     "isDirectOwner": true
   },
@@ -963,7 +927,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:58.687Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/4d/25/3eef64_5dae_cover@2x-dzialka-siedliskowa-nyski-bodzanow.webp",
     "isDirectOwner": true
   },
@@ -997,7 +961,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:45:58.687Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/7d/2f/3e99ce_e924_cover@2x-dzialka-siedliskowa-oleski-zdziechowice.webp",
     "isDirectOwner": true
   },
@@ -1032,7 +996,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:46:00.200Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/28/62/3db53c_d119_cover@2x-dzialka-rolno-budowlana-opolski-siedliska.webp",
     "isDirectOwner": true
   },
@@ -1066,7 +1030,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:46:00.200Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/13/6f/3d94de_8585_cover@2x-dzialka-rekreacyjna-nyski-laka.webp",
     "isDirectOwner": true
   },
@@ -1100,7 +1064,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:46:00.200Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/3a/54/3d5070_d79f_cover@2x-dzialka-rolna-nyski-sekowice.webp",
     "isDirectOwner": true
   },
@@ -1135,7 +1099,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:46:00.200Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/62/38/3c60f0_ea72_cover@2x-dzialka-budowlana-opolski-siedliska.webp",
     "isDirectOwner": true
   },
@@ -1169,7 +1133,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:46:00.200Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/28/22/3c591e_eed9_cover@2x-dzialka-budowlana-opolski-siedliska.webp",
     "isDirectOwner": true
   },
@@ -1203,7 +1167,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:46:00.200Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/1d/6c/3b5578_3b76_cover@2x-dzialka-rolna-brzeski-rogalice.webp",
     "isDirectOwner": true
   },
@@ -1237,7 +1201,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:46:02.041Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/6b/20/3aa722_cbe9_cover@2x-dzialka-rolno-budowlana-kluczborski-skalagi.webp",
     "isDirectOwner": true
   },
@@ -1271,7 +1235,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:46:02.041Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/40/23/3a8716_da58_cover@2x-dzialka-budowlana-nyski-kuropas.webp",
     "isDirectOwner": true
   },
@@ -1311,7 +1275,7 @@
     ],
     "status": "price_drop",
     "firstSeenAt": "2026-09-24T20:46:02.041Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/63/51/3a3b4a_b058_cover@2x-dzialka-rolno-budowlana-namyslowski-woskowice-male.webp",
     "isDirectOwner": true,
     "previousPrice": 1750000
@@ -1347,7 +1311,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:46:02.041Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/34/22/38c39c_d1fb_cover@2x-dzialka-budowlana-nyski-konradow.webp",
     "isDirectOwner": true
   },
@@ -1381,7 +1345,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:46:02.041Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/32/41/37990a_f26f_cover@2x-dzialka-budowlana-opolski-siedliska.webp",
     "isDirectOwner": true
   },
@@ -1415,7 +1379,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:46:02.041Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/6d/25/37824c_ccfe_cover@2x-dzialka-budowlana-brzeski-piastowice.webp",
     "isDirectOwner": true
   },
@@ -1450,7 +1414,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:46:02.041Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/5c/78/373ea2_8b26_cover@2x-dzialka-siedliskowa-opolski-kup.webp",
     "isDirectOwner": true
   },
@@ -1485,7 +1449,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:46:04.495Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/2a/25/309fe4_39cb_cover@2x-dzialka-siedliskowa-opolski-siedliska.webp",
     "isDirectOwner": true
   },
@@ -1519,7 +1483,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-09-24T20:46:06.340Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/34/63/2eb89a_d2ef_cover@2x-dzialka-budowlana-brzeski-koscierzyce.webp",
     "isDirectOwner": true
   },
@@ -1553,7 +1517,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-10-01T10:26:18.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imdud2FjbGo0NTlhZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7c3FWWErMExuFKKOacyCf4gEc1EYmEIldPfDps20rXc/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -1587,7 +1551,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-10-02T10:26:09.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InY3eW44NzhtMDQ3eTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.hcUyLCFWIBznkuA83Kz4cSiAaXDxmobzTrKXL68re0c/image;s=655x491;q=80",
     "isDirectOwner": false,
     "plotAreaM2": 16779
@@ -1622,7 +1586,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-10-03T10:08:45.260Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/35/5c/41614a_d7cd_cover@2x-dom-kluczborski-ciecierzyn.webp",
     "isDirectOwner": true
   },
@@ -1657,7 +1621,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2025-07-31T14:07:08.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ind1eGpvanZjNHViODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.HbUP3CMgtU2C3UNJuUZ14MbQtQFDdKwAByNdaEHONi8/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -1692,7 +1656,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-10-06T11:24:53.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVueWR6dWM3cW5peS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.fBM8gBjzfeh7rFK3oHiabg0mGinXPCmcU49xp94EXF0/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -1726,7 +1690,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-10-09T11:35:21.967Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/1a/44/418694_fc9f_cover@2x-dom-kluczborski-chudoba.webp",
     "isDirectOwner": true
   },
@@ -1761,7 +1725,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-10-11T11:00:54.474Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://s2.adresowa.pl/oi/4f/7f/418a62_676c_cover@2x-dom-strzelecki-piotrowka.webp",
     "isDirectOwner": true
   },
@@ -1796,7 +1760,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2025-07-13T17:04:36.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InR0NTJ2ZDYwdHVuNi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.E4MzhHx_Z5fhEH8uhziHncAVN9ZHD4yExYVWhegF7JM/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -1830,7 +1794,7 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-10-14T10:53:53.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRsNXVsamVsMGNiMDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.CZRook4uJxKrqFFi8TVUwR3Olrpgpc5xdwttnVpyzVA/image;s=655x491;q=80",
     "isDirectOwner": false
   },
@@ -1870,7 +1834,7 @@
     ],
     "status": "price_drop",
     "firstSeenAt": "2026-09-12T08:36:09.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJiNXRrYmw3YjlnMzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.O50HhsDDPacBAcaGVZm9xbPJDmKyxV2lpBjJmsZxd6M/image;s=655x491;q=80",
     "isDirectOwner": true,
     "previousPrice": 1290000
@@ -1905,8 +1869,111 @@
     ],
     "status": "active",
     "firstSeenAt": "2026-05-25T05:43:53.000Z",
-    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1zNW9qNXY2aWh2bi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.zbstrlz0g0V6yT9bR62CPUGriiJ7WrD_ljWLqSPgEww/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-68550335",
+    "source": "otodom",
+    "sourceId": "68550335",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-zabudowa-zagrodowa-i-extra-3-ha-ziemi-ID4DD4z",
+    "propertyType": "habitat",
+    "title": "Dom, zabudowa zagrodowa i extra 3 Ha ziemi!",
+    "voivodeship": "opolskie",
+    "county": "głubczycki",
+    "city": "Klisino",
+    "coordinates": {
+      "lat": 50.19979439610692,
+      "lng": 17.81911076401705
+    },
+    "isNearBorder": true,
+    "areaM2": 124,
+    "currentPrice": 299000,
+    "currentPricePerM2": 2411.29,
+    "initialPrice": 299000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-10-21",
+        "price": 299000,
+        "pricePerM2": 2411.29
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-10-21T10:01:15.000Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjIzZjIwbHU2MGI2aC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.YERx8TA4jVc9pyNF-WObWh3S7N3SRYC9qnuUbSAfoBE/image;s=655x491;q=80",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-9000062245",
+    "source": "otodom",
+    "sourceId": "9000062245",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/gospodarstwo-rolne-z-zabudowaniami-do-sprzedazy-ID4DlUa",
+    "propertyType": "habitat",
+    "title": "Gospodarstwo rolne z zabudowaniami do sprzedaży",
+    "voivodeship": "opolskie",
+    "county": "kluczborski",
+    "city": "Ciecierzyn",
+    "coordinates": {
+      "lat": 51.31797846836898,
+      "lng": 22.616652620880274
+    },
+    "isNearBorder": false,
+    "areaM2": 254,
+    "currentPrice": 249000,
+    "currentPricePerM2": 980.31,
+    "initialPrice": 249000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "1999-03-01",
+        "price": 249000,
+        "pricePerM2": 980.31
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "1999-03-01T00:00:01.000Z",
+    "lastSeenAt": "2026-10-22T09:36:49.280Z",
+    "isDirectOwner": false
+  },
+  {
+    "id": "otodom-67734339",
+    "source": "otodom",
+    "sourceId": "67734339",
+    "sourceUrl": "https://www.otodom.pl/pl/oferta/siedlisko-z-pokaznym-terenem-ID4AcNl",
+    "propertyType": "habitat",
+    "title": "Siedlisko z pokaźnym terenem.",
+    "voivodeship": "opolskie",
+    "county": "kędzierzyńsko-kozielski",
+    "city": "Kędzierzyn-Koźle",
+    "street": "Polska Cerekiew",
+    "coordinates": {
+      "lat": 50.34289552555292,
+      "lng": 18.212155154642772
+    },
+    "isNearBorder": false,
+    "areaM2": 110,
+    "plotAreaM2": 2022,
+    "currentPrice": 160000,
+    "currentPricePerM2": 1454.55,
+    "initialPrice": 160000,
+    "priceChangeAmount": 0,
+    "priceChangePercent": 0,
+    "priceHistory": [
+      {
+        "date": "2026-09-15",
+        "price": 160000,
+        "pricePerM2": 1454.55
+      }
+    ],
+    "status": "active",
+    "firstSeenAt": "2026-09-15T04:31:28.000Z",
+    "lastSeenAt": "2026-10-21T09:35:37.340Z",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA0YTAwZW9zejFqbjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yunpUWwZ0DDUYtzhEOn22yO9uWfwHNQ8UHo0lVyZd9A/image;s=655x491;q=80",
     "isDirectOwner": false
   },
   {
@@ -2040,11 +2107,12 @@
         "pricePerM2": 3250
       }
     ],
-    "status": "active",
+    "status": "removed",
     "firstSeenAt": "2026-09-15T18:17:44.000Z",
     "lastSeenAt": "2026-10-15T09:19:06.154Z",
     "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpoaG1jNXB1bzlmYS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.EW2xNdE7jWv5fFXWIOOzfRiHfqxlC4I-UgVaYVKT3xU/image;s=655x491;q=80",
-    "isDirectOwner": false
+    "isDirectOwner": false,
+    "removedAt": "2026-10-22T09:36:49.280Z"
   },
   {
     "id": "otodom-9000062221",
@@ -2074,10 +2142,11 @@
         "pricePerM2": 6562.5
       }
     ],
-    "status": "active",
+    "status": "removed",
     "firstSeenAt": "1999-03-01T00:00:01.000Z",
     "lastSeenAt": "2026-10-14T09:43:21.385Z",
-    "isDirectOwner": false
+    "isDirectOwner": false,
+    "removedAt": "2026-10-22T09:36:49.280Z"
   },
   {
     "id": "otodom-9000062218",
