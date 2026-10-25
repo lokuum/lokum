@@ -1,12 +1,12 @@
 {
-  "totalHouses": 41327,
-  "totalPlots": 64173,
-  "totalHabitats": 3675,
-  "totalPriceDrops": 8335,
-  "avgHousePricePerM2": 7200,
+  "totalHouses": 41005,
+  "totalPlots": 63928,
+  "totalHabitats": 3668,
+  "totalPriceDrops": 8384,
+  "avgHousePricePerM2": 7194,
   "avgPlotPricePerM2": 240,
-  "avgHabitatPricePerM2": 1956,
-  "lastUpdated": "2026-10-24T09:38:15.065Z",
+  "avgHabitatPricePerM2": 1948,
+  "lastUpdated": "2026-10-25T10:00:19.026Z",
   "topPriceDrops": [
     {
       "id": "otodom-68541690",
@@ -44,7 +44,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-19T09:56:00.000Z",
-      "lastSeenAt": "2026-10-24T09:03:21.923Z",
+      "lastSeenAt": "2026-10-25T09:23:40.833Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjY5cnBxZmlpZzY2bDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Usz7oAV_Jwf7HOpp2CL6VpnTgkO-iQ1Yb91Fl-UJvYA/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 1180000000
@@ -125,7 +125,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-26T12:09:48.000Z",
-      "lastSeenAt": "2026-10-24T09:34:07.518Z",
+      "lastSeenAt": "2026-10-25T09:55:57.256Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims2ajBnZTZqNWkxYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wqT53kSc4lZeorRzIGZWNkI3s-yBz_ourBp53PKVi5Q/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 995000000
@@ -208,45 +208,6 @@
       "lastSeenAt": "2026-10-19T10:26:49.946Z",
       "isDirectOwner": false,
       "previousPrice": 499000
-    },
-    {
-      "id": "otodom-9000062233",
-      "source": "otodom",
-      "sourceId": "9000062233",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-inwestycyjna-trasa-s8-gm-zabia-wola-ID4B7Ed",
-      "propertyType": "plot",
-      "title": "Działka inwestycyjna Trasa S8 – gm. Żabia Wola",
-      "voivodeship": "mazowieckie",
-      "county": "grodziski",
-      "city": "Słubica A",
-      "coordinates": {
-        "lat": 51.12607722107005,
-        "lng": 22.523084286674745
-      },
-      "isNearBorder": false,
-      "areaM2": 18200,
-      "currentPrice": 205050,
-      "currentPricePerM2": 150,
-      "initialPrice": 7300000,
-      "priceChangeAmount": -7094950,
-      "priceChangePercent": -97.2,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 7300000,
-          "pricePerM2": 401.1
-        },
-        {
-          "date": "2026-10-18",
-          "price": 205050,
-          "pricePerM2": 150
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-18T08:58:57.642Z",
-      "isDirectOwner": true,
-      "previousPrice": 2812420
     },
     {
       "id": "otodom-9000062242",
@@ -482,7 +443,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-09T12:03:03.205Z",
-      "lastSeenAt": "2026-10-24T09:34:07.619Z",
+      "lastSeenAt": "2026-10-25T09:55:57.379Z",
       "imageUrl": "https://s2.adresowa.pl/oi/4c/4f/418624_cadd_cover@2x-dzialka-budowlana-ostrowski-przygodzice.webp",
       "isDirectOwner": true,
       "previousPrice": 1200000
@@ -567,45 +528,6 @@
       "previousPrice": 195000
     },
     {
-      "id": "otodom-9000062233",
-      "source": "otodom",
-      "sourceId": "9000062233",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/historyczna-willa-na-zalesiu-z-projektem-remontu-ID4DA4l",
-      "propertyType": "house",
-      "title": "Historyczna willa na Zalesiu z projektem remontu",
-      "voivodeship": "dolnoslaskie",
-      "county": "wrocławski",
-      "city": "Wrocław",
-      "coordinates": {
-        "lat": 51.10844913729252,
-        "lng": 17.046324487819493
-      },
-      "isNearBorder": false,
-      "areaM2": 548,
-      "currentPrice": 769000,
-      "currentPricePerM2": 7146.84,
-      "initialPrice": 9999999,
-      "priceChangeAmount": -9230999,
-      "priceChangePercent": -92.3,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 9999999,
-          "pricePerM2": 18248.17
-        },
-        {
-          "date": "2026-10-18",
-          "price": 769000,
-          "pricePerM2": 7146.84
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-18T08:32:20.795Z",
-      "isDirectOwner": false,
-      "previousPrice": 1490000
-    },
-    {
       "id": "otodom-9000062245",
       "source": "otodom",
       "sourceId": "9000062245",
@@ -644,46 +566,6 @@
       "lastSeenAt": "2026-10-22T09:29:19.103Z",
       "isDirectOwner": true,
       "previousPrice": 700000
-    },
-    {
-      "id": "otodom-9000062233",
-      "source": "otodom",
-      "sourceId": "9000062233",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-w-siadle-dolnymmpzp982-mwidok-na-odremediahit-ID4CR7P",
-      "propertyType": "plot",
-      "title": "||Działka w Siadle Dolnym|MPZP|982 m²|Widok na Odrę|Media|HIT!||",
-      "voivodeship": "zachodniopomorskie",
-      "county": "policki",
-      "city": "Siadło Dolne",
-      "street": "Nad Odrą",
-      "coordinates": {
-        "lat": 53.555291866355596,
-        "lng": 14.573787739293845
-      },
-      "isNearBorder": true,
-      "areaM2": 982,
-      "currentPrice": 75900,
-      "currentPricePerM2": 74.27,
-      "initialPrice": 949000,
-      "priceChangeAmount": -873100,
-      "priceChangePercent": -92,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 949000,
-          "pricePerM2": 966.4
-        },
-        {
-          "date": "2026-10-18",
-          "price": 75900,
-          "pricePerM2": 74.27
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-18T09:34:41.580Z",
-      "isDirectOwner": false,
-      "previousPrice": 140000
     },
     {
       "id": "otodom-9000062251",
@@ -759,7 +641,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:07:49.692Z",
-      "lastSeenAt": "2026-10-24T08:37:19.658Z",
+      "lastSeenAt": "2026-10-25T08:56:46.269Z",
       "imageUrl": "https://s2.adresowa.pl/oi/48/7f/3f3880_853b_cover@2x-dzialka-budowlana-wolowski-bukowice.webp",
       "isDirectOwner": true,
       "previousPrice": 176000
@@ -798,7 +680,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:12:18.827Z",
-      "lastSeenAt": "2026-10-24T08:45:44.333Z",
+      "lastSeenAt": "2026-10-25T09:05:42.182Z",
       "imageUrl": "https://s2.adresowa.pl/oi/3b/24/3c384a_a4ec_cover@2x-dzialka-budowlana-lubelski-motycz.webp",
       "isDirectOwner": true,
       "county": "lubelski",
@@ -840,7 +722,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-16T16:11:02.000Z",
-      "lastSeenAt": "2026-10-24T08:58:11.357Z",
+      "lastSeenAt": "2026-10-25T09:18:32.609Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im02bHVuMW4yY2JoNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8WbapaIGU-GwLdubMzLnUGqkaypuEi-r0jGwVfWs7cc/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 28750000
@@ -919,7 +801,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-09T07:51:37.000Z",
-      "lastSeenAt": "2026-10-24T09:13:24.588Z",
+      "lastSeenAt": "2026-10-25T09:34:25.430Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhrZXhiOTJnZGFtbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.aZgFAInh0YeFnbFOs6dU4yAcB4bXUArxEDjCwq14F1A/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 10500000
@@ -959,7 +841,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:28:57.814Z",
-      "lastSeenAt": "2026-10-24T09:38:11.039Z",
+      "lastSeenAt": "2026-10-25T10:00:14.534Z",
       "imageUrl": "https://s2.adresowa.pl/oi/39/29/3b8ff4_2bd1_cover@2x-dzialka-rolna-bialogardzki-redlino.webp",
       "isDirectOwner": true,
       "previousPrice": 300000
@@ -1004,7 +886,7 @@
       ],
       "status": "price_increase",
       "firstSeenAt": "2026-09-17T22:17:41.977Z",
-      "lastSeenAt": "2026-10-24T09:13:24.532Z",
+      "lastSeenAt": "2026-10-25T09:34:25.373Z",
       "imageUrl": "https://s2.adresowa.pl/oi/4c/4e/1b2410_f146_cover@2x-dzialka-budowlana-bielski-augustowo.webp",
       "isDirectOwner": true,
       "county": "bielski",
@@ -1046,7 +928,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-19T10:00:04.000Z",
-      "lastSeenAt": "2026-10-24T09:38:10.966Z",
+      "lastSeenAt": "2026-10-25T10:00:14.456Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRmcWl5dWJwZ2w3MDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zhAYbWjYpZR2xzEYbzbCcCm20n8ktopFmfR-N8p1JhU/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 17499000
@@ -1087,7 +969,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-21T18:40:15.000Z",
-      "lastSeenAt": "2026-10-24T08:58:11.256Z",
+      "lastSeenAt": "2026-10-25T09:18:32.513Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNzcGlqbHdrZHc4ei1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.1VUOlXWSWlJodOVE1U4PNQrUkK6_tabLojM3wDvj-lo/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 10050000
@@ -1128,10 +1010,50 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-11T17:18:24.000Z",
-      "lastSeenAt": "2026-10-24T08:58:11.357Z",
+      "lastSeenAt": "2026-10-25T09:18:32.609Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImYxNGxtbG9tNmkzNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7j-z7ur-BLa28p_HOBmliWiVNBgmjbGUQiB84U-mv2g/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 560000
+    },
+    {
+      "id": "otodom-9000062254",
+      "source": "otodom",
+      "sourceId": "9000062254",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowa-inwestycyjna-dzialka-w-dobrzewinie-ID4zWpL",
+      "propertyType": "plot",
+      "title": "Wyjątkowa inwestycyjna działka w Dobrzewinie",
+      "voivodeship": "pomorskie",
+      "county": "wejherowski",
+      "city": "Karczemki",
+      "street": "Wejherowska",
+      "coordinates": {
+        "lat": 54.6131027563603,
+        "lng": 18.227842347661635
+      },
+      "isNearBorder": false,
+      "areaM2": 6000,
+      "currentPrice": 210000,
+      "currentPricePerM2": 219.67,
+      "initialPrice": 1800000,
+      "priceChangeAmount": -1590000,
+      "priceChangePercent": -88.3,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 1800000,
+          "pricePerM2": 300
+        },
+        {
+          "date": "2026-10-25",
+          "price": 210000,
+          "pricePerM2": 219.67
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-25T09:39:02.026Z",
+      "isDirectOwner": false,
+      "previousPrice": 400000
     },
     {
       "id": "otodom-9000062236",
@@ -1252,6 +1174,46 @@
       "previousPrice": 199000
     },
     {
+      "id": "adresowo-1597477",
+      "source": "adresowo",
+      "sourceId": "1597477",
+      "sourceUrl": "https://adresowo.pl/o/dzialka-rolna-przystajn-kaminsko-5-346-m2-y7h6t3",
+      "propertyType": "plot",
+      "title": "Działka — Kamińsko",
+      "voivodeship": "slaskie",
+      "county": "klobucki",
+      "city": "Kamińsko",
+      "coordinates": {
+        "lat": 50.90879271600047,
+        "lng": 18.940575025518086
+      },
+      "isNearBorder": false,
+      "areaM2": 5346,
+      "currentPrice": 50000,
+      "currentPricePerM2": 9.35,
+      "initialPrice": 350000,
+      "priceChangeAmount": -300000,
+      "priceChangePercent": -85.7,
+      "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 350000,
+          "pricePerM2": 65.47
+        },
+        {
+          "date": "2026-10-25",
+          "price": 50000,
+          "pricePerM2": 9.35
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-09-24T21:08:07.884Z",
+      "lastSeenAt": "2026-10-25T09:43:22.809Z",
+      "imageUrl": "https://s2.adresowa.pl/oi/78/35/186025_e16b_cover@2x-dzialka-rolna-klobucki-kaminsko.webp",
+      "isDirectOwner": true,
+      "previousPrice": 350000
+    },
+    {
       "id": "adresowo-4109640",
       "source": "adresowo",
       "sourceId": "4109640",
@@ -1287,10 +1249,129 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:54.592Z",
-      "lastSeenAt": "2026-10-24T09:03:21.923Z",
+      "lastSeenAt": "2026-10-25T09:23:40.833Z",
       "imageUrl": "https://s2.adresowa.pl/oi/52/19/3eb548_e2eb_cover@2x-dzialka-budowlana-grojecki-warka.webp",
       "isDirectOwner": true,
       "previousPrice": 1995000
+    },
+    {
+      "id": "otodom-9000062254",
+      "source": "otodom",
+      "sourceId": "9000062254",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-inwestycyjna-w-toruniu-ID4BpyX",
+      "propertyType": "plot",
+      "title": "DZIAŁKA inwestycyjna w Toruniu.",
+      "voivodeship": "kujawsko-pomorskie",
+      "county": "toruński",
+      "city": "Toruń",
+      "street": "ul. Nad Rzeczką",
+      "coordinates": {
+        "lat": 53.020752316896235,
+        "lng": 18.58871348201568
+      },
+      "isNearBorder": false,
+      "areaM2": 1654,
+      "currentPrice": 150000,
+      "currentPricePerM2": 175.23,
+      "initialPrice": 989000,
+      "priceChangeAmount": -839000,
+      "priceChangePercent": -84.8,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 989000,
+          "pricePerM2": 597.94
+        },
+        {
+          "date": "2026-10-25",
+          "price": 150000,
+          "pricePerM2": 175.23
+        }
+      ],
+      "status": "price_increase",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-25T09:01:01.537Z",
+      "isDirectOwner": false,
+      "previousPrice": 69000
+    },
+    {
+      "id": "otodom-9000062254",
+      "source": "otodom",
+      "sourceId": "9000062254",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/elegancja-codziennosci-czyli-wyjatkowy-dom-z-basenem-pod-lodzia-ID4Dn76",
+      "propertyType": "house",
+      "title": "Elegancja codzienności, czyli wyjątkowy dom z basenem pod Łodzią.",
+      "voivodeship": "lodzkie",
+      "county": "pabianicki",
+      "city": "Piątkowisko",
+      "coordinates": {
+        "lat": 51.66276111910227,
+        "lng": 19.364994214786442
+      },
+      "isNearBorder": false,
+      "areaM2": 198.5,
+      "currentPrice": 350000,
+      "currentPricePerM2": 5102.78,
+      "initialPrice": 2290000,
+      "priceChangeAmount": -1940000,
+      "priceChangePercent": -84.7,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 2290000,
+          "pricePerM2": 11536.52
+        },
+        {
+          "date": "2026-10-25",
+          "price": 350000,
+          "pricePerM2": 5102.78
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-25T09:13:53.725Z",
+      "isDirectOwner": false,
+      "previousPrice": 710000
+    },
+    {
+      "id": "otodom-9000062254",
+      "source": "otodom",
+      "sourceId": "9000062254",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-szybki-dojazd-z-dwoch-stron-do-lodzi-ID4CD0X",
+      "propertyType": "plot",
+      "title": "Działka budowlana - szybki dojazd z dwóch stron do Łodzi",
+      "voivodeship": "lodzkie",
+      "county": "zgierski",
+      "city": "Zgierz",
+      "street": "ul. Koszarowa",
+      "coordinates": {
+        "lat": 51.8616059123419,
+        "lng": 19.415977484425028
+      },
+      "isNearBorder": false,
+      "areaM2": 2046,
+      "currentPrice": 79000,
+      "currentPricePerM2": 74.53,
+      "initialPrice": 480000,
+      "priceChangeAmount": -401000,
+      "priceChangePercent": -83.5,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 480000,
+          "pricePerM2": 234.6
+        },
+        {
+          "date": "2026-10-25",
+          "price": 79000,
+          "pricePerM2": 74.53
+        }
+      ],
+      "status": "price_increase",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-25T09:13:53.803Z",
+      "isDirectOwner": true,
+      "previousPrice": 49000
     },
     {
       "id": "otodom-9000062239",
@@ -1372,45 +1453,6 @@
       "previousPrice": 269000
     },
     {
-      "id": "otodom-9000062233",
-      "source": "otodom",
-      "sourceId": "9000062233",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/podlaskie-siedlisko-w-puszczy-bialowieskiej-ID4CO9t",
-      "propertyType": "habitat",
-      "title": "Podlaskie siedlisko w Puszczy Białowieskiej :)",
-      "voivodeship": "podlaskie",
-      "county": "hajnowski",
-      "city": "Skupowo",
-      "coordinates": {
-        "lat": 52.83206623341572,
-        "lng": 23.70029571155837
-      },
-      "isNearBorder": true,
-      "areaM2": 235,
-      "currentPrice": 280000,
-      "currentPricePerM2": 40.64,
-      "initialPrice": 1539000,
-      "priceChangeAmount": -1259000,
-      "priceChangePercent": -81.8,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 1539000,
-          "pricePerM2": 6548.94
-        },
-        {
-          "date": "2026-10-18",
-          "price": 280000,
-          "pricePerM2": 40.64
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-18T09:09:44.727Z",
-      "isDirectOwner": false,
-      "previousPrice": 450000
-    },
-    {
       "id": "otodom-68409128",
       "source": "otodom",
       "sourceId": "68409128",
@@ -1446,7 +1488,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-11T13:37:14.000Z",
-      "lastSeenAt": "2026-10-24T09:38:11.039Z",
+      "lastSeenAt": "2026-10-25T10:00:14.534Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InI1MzJ4ZWEwcWpjMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.OXUL50rn9gkIXDrf4XembPbnZJaYtXJE9-Psdgk-RGA/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 650000
@@ -1487,7 +1529,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:36.907Z",
-      "lastSeenAt": "2026-10-24T09:03:21.923Z",
+      "lastSeenAt": "2026-10-25T09:23:40.833Z",
       "imageUrl": "https://s2.adresowa.pl/oi/5f/58/401832_ff4f_cover@2x-dzialka-inwestycyjna-przasnyski-przasnysz.webp",
       "isDirectOwner": true,
       "previousPrice": 1260000
@@ -1572,6 +1614,85 @@
       "previousPrice": 629000
     },
     {
+      "id": "otodom-9000062254",
+      "source": "otodom",
+      "sourceId": "9000062254",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-puszczykowo-gorne-3-708m2-przy-wpn-uzbroj-ID4C4bb",
+      "propertyType": "plot",
+      "title": "Działka Puszczykowo Górne 3 708m2 przy Wpn, uzbroj",
+      "voivodeship": "wielkopolskie",
+      "county": "poznański",
+      "city": "Puszczykowo",
+      "street": "Rumiankowa",
+      "coordinates": {
+        "lat": 52.282923881178135,
+        "lng": 16.8559469199922
+      },
+      "isNearBorder": false,
+      "areaM2": 3708,
+      "currentPrice": 463500,
+      "currentPricePerM2": 747.58,
+      "initialPrice": 2420000,
+      "priceChangeAmount": -1956500,
+      "priceChangePercent": -80.8,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 2420000,
+          "pricePerM2": 652.64
+        },
+        {
+          "date": "2026-10-25",
+          "price": 463500,
+          "pricePerM2": 747.58
+        }
+      ],
+      "status": "price_increase",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-25T09:55:57.379Z",
+      "isDirectOwner": false,
+      "previousPrice": 324000
+    },
+    {
+      "id": "otodom-9000062254",
+      "source": "otodom",
+      "sourceId": "9000062254",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/2-domki-w-bieszczadach-na-sprzedaz-gotowiec-inwest-ID4zuMj",
+      "propertyType": "plot",
+      "title": "2 domki w Bieszczadach NA SPRZEDAŻ gotowiec inwest",
+      "voivodeship": "podkarpackie",
+      "county": "bieszczadzki",
+      "city": "Ustjanowa Górna",
+      "coordinates": {
+        "lat": 49.42121299885416,
+        "lng": 22.539249957445424
+      },
+      "isNearBorder": true,
+      "areaM2": 3000,
+      "currentPrice": 180000,
+      "currentPricePerM2": 54.55,
+      "initialPrice": 900000,
+      "priceChangeAmount": -720000,
+      "priceChangePercent": -80,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 900000,
+          "pricePerM2": 300
+        },
+        {
+          "date": "2026-10-25",
+          "price": 180000,
+          "pricePerM2": 54.55
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-25T09:30:30.310Z",
+      "isDirectOwner": false,
+      "previousPrice": 2030000
+    },
+    {
       "id": "adresowo-3612464",
       "source": "adresowo",
       "sourceId": "3612464",
@@ -1612,7 +1733,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:11:01.541Z",
-      "lastSeenAt": "2026-10-24T09:25:15.062Z",
+      "lastSeenAt": "2026-10-25T09:46:50.269Z",
       "imageUrl": "https://s2.adresowa.pl/oi/1e/5f/371f30_47ef_cover@2x-dzialka-rolno-budowlana-starachowicki-starachowice.webp",
       "isDirectOwner": true,
       "previousPrice": 450000
@@ -1652,10 +1773,50 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-29T10:30:26.039Z",
-      "lastSeenAt": "2026-10-24T08:45:44.333Z",
+      "lastSeenAt": "2026-10-25T09:05:42.182Z",
       "imageUrl": "https://s2.adresowa.pl/oi/21/4b/4146ee_fa4b_cover@2x-dzialka-rolno-budowlana-leczynski-turowola-kolonia.webp",
       "isDirectOwner": true,
       "previousPrice": 570000
+    },
+    {
+      "id": "otodom-9000062254",
+      "source": "otodom",
+      "sourceId": "9000062254",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-nr-1-139-w-skarzysku-kamiennej-ID4xkq7",
+      "propertyType": "plot",
+      "title": "Działka nr 1/139 w Skarżysku-Kamiennej",
+      "voivodeship": "swietokrzyskie",
+      "county": "skarżyski",
+      "city": "Skarżysko-Kamienna",
+      "street": "al. Józefa Piłsudskiego",
+      "coordinates": {
+        "lat": 51.121341935021945,
+        "lng": 20.867831547124723
+      },
+      "isNearBorder": false,
+      "areaM2": 5021,
+      "currentPrice": 234500,
+      "currentPricePerM2": 35,
+      "initialPrice": 1140000,
+      "priceChangeAmount": -905500,
+      "priceChangePercent": -79.4,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 1140000,
+          "pricePerM2": 227.05
+        },
+        {
+          "date": "2026-10-25",
+          "price": 234500,
+          "pricePerM2": 35
+        }
+      ],
+      "status": "price_increase",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-25T09:46:50.269Z",
+      "isDirectOwner": false,
+      "previousPrice": 149000
     },
     {
       "id": "adresowo-4058048",
@@ -1692,7 +1853,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:07:44.987Z",
-      "lastSeenAt": "2026-10-24T08:37:19.658Z",
+      "lastSeenAt": "2026-10-25T08:56:46.269Z",
       "imageUrl": "https://s2.adresowa.pl/oi/46/41/3debc0_2f4f_cover@2x-dzialka-budowlana-olesnicki-sokolowice.webp",
       "isDirectOwner": true,
       "previousPrice": 1100000
@@ -1850,168 +2011,10 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-05T12:42:53.000Z",
-      "lastSeenAt": "2026-10-24T09:22:03.067Z",
+      "lastSeenAt": "2026-10-25T09:43:22.809Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpneGdseGM4aDZydDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Efuhba48jPsCwanvV9xExQJjrcNVo2GGTQkBy87iUoY/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 1650000
-    },
-    {
-      "id": "otodom-9000062242",
-      "source": "otodom",
-      "sourceId": "9000062242",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/suchy-bor-przestronna-dzialka-budowlana-z-potencjalem-inwestycyjnym-ID4DD1K",
-      "propertyType": "plot",
-      "title": "SUCHY BÓR. Przestronna działka budowlana z potencjałem inwestycyjnym.",
-      "voivodeship": "opolskie",
-      "county": "opolski",
-      "city": "Suchy Bór",
-      "street": "ul. Ogrodowa",
-      "coordinates": {
-        "lat": 51.14973291199567,
-        "lng": 21.963742368236346
-      },
-      "isNearBorder": false,
-      "areaM2": 3325,
-      "currentPrice": 310000,
-      "currentPricePerM2": 73.81,
-      "initialPrice": 1299000,
-      "priceChangeAmount": -989000,
-      "priceChangePercent": -76.1,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 1299000,
-          "pricePerM2": 390.68
-        },
-        {
-          "date": "2026-10-21",
-          "price": 310000,
-          "pricePerM2": 73.81
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-21T09:35:37.314Z",
-      "isDirectOwner": false,
-      "previousPrice": 108000
-    },
-    {
-      "id": "otodom-9000062242",
-      "source": "otodom",
-      "sourceId": "9000062242",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/gruszczyn-gm-swarzedz-dzialka-budowlana-ID4DCcz",
-      "propertyType": "plot",
-      "title": "Gruszczyn gm. Swarzędz działka budowlana",
-      "voivodeship": "wielkopolskie",
-      "county": "poznański",
-      "city": "Gruszczyn",
-      "street": "ul. Katarzyńska",
-      "coordinates": {
-        "lat": 52.43419492073425,
-        "lng": 17.06452568325483
-      },
-      "isNearBorder": false,
-      "areaM2": 1273,
-      "currentPrice": 125000,
-      "currentPricePerM2": 120.42,
-      "initialPrice": 521900,
-      "priceChangeAmount": -396900,
-      "priceChangePercent": -76,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 521900,
-          "pricePerM2": 409.98
-        },
-        {
-          "date": "2026-10-21",
-          "price": 125000,
-          "pricePerM2": 120.42
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-21T10:03:23.402Z",
-      "isDirectOwner": false,
-      "previousPrice": 383145
-    },
-    {
-      "id": "otodom-9000062236",
-      "source": "otodom",
-      "sourceId": "9000062236",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-rekreacyjna-z-domkiem-letniskowym-nad-jeziorem-dejguny-ID4DAOM",
-      "propertyType": "plot",
-      "title": "Działka rekreacyjna z domkiem letniskowym nad jeziorem Dejguny",
-      "voivodeship": "warminsko-mazurskie",
-      "county": "giżycki",
-      "city": "Sterławki Małe",
-      "coordinates": {
-        "lat": 54.04137853873087,
-        "lng": 21.76797643478933
-      },
-      "isNearBorder": false,
-      "areaM2": 908,
-      "currentPrice": 109000,
-      "currentPricePerM2": 49.55,
-      "initialPrice": 450000,
-      "priceChangeAmount": -341000,
-      "priceChangePercent": -75.8,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 450000,
-          "pricePerM2": 495.59
-        },
-        {
-          "date": "2026-10-19",
-          "price": 109000,
-          "pricePerM2": 49.55
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-19T10:26:49.864Z",
-      "isDirectOwner": false,
-      "previousPrice": 158000
-    },
-    {
-      "id": "otodom-9000062242",
-      "source": "otodom",
-      "sourceId": "9000062242",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/piekna-dzialka-w-sasiedztwie-zagajnika-ID4Ceu4",
-      "propertyType": "plot",
-      "title": "Piękna działka w sąsiedztwie zagajnika",
-      "voivodeship": "malopolskie",
-      "county": "bocheński",
-      "city": "Stary Wiśnicz",
-      "coordinates": {
-        "lat": 49.9639250304482,
-        "lng": 20.437241835773882
-      },
-      "isNearBorder": false,
-      "areaM2": 1060,
-      "currentPrice": 60000,
-      "currentPricePerM2": 42.31,
-      "initialPrice": 240000,
-      "priceChangeAmount": -180000,
-      "priceChangePercent": -75,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 240000,
-          "pricePerM2": 226.42
-        },
-        {
-          "date": "2026-10-21",
-          "price": 60000,
-          "pricePerM2": 42.31
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-21T09:27:56.824Z",
-      "isDirectOwner": false,
-      "previousPrice": 440000
     }
   ]
 }
