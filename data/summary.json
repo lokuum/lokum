@@ -1,12 +1,12 @@
 {
-  "totalHouses": 41005,
-  "totalPlots": 63928,
-  "totalHabitats": 3668,
-  "totalPriceDrops": 8384,
-  "avgHousePricePerM2": 7194,
-  "avgPlotPricePerM2": 240,
-  "avgHabitatPricePerM2": 1948,
-  "lastUpdated": "2026-10-25T10:00:19.026Z",
+  "totalHouses": 40731,
+  "totalPlots": 63561,
+  "totalHabitats": 3632,
+  "totalPriceDrops": 8471,
+  "avgHousePricePerM2": 7193,
+  "avgPlotPricePerM2": 241,
+  "avgHabitatPricePerM2": 1944,
+  "lastUpdated": "2026-10-26T10:37:43.613Z",
   "topPriceDrops": [
     {
       "id": "otodom-68541690",
@@ -44,50 +44,10 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-19T09:56:00.000Z",
-      "lastSeenAt": "2026-10-25T09:23:40.833Z",
+      "lastSeenAt": "2026-10-26T10:02:18.506Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjY5cnBxZmlpZzY2bDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Usz7oAV_Jwf7HOpp2CL6VpnTgkO-iQ1Yb91Fl-UJvYA/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 1180000000
-    },
-    {
-      "id": "otodom-9000062236",
-      "source": "otodom",
-      "sourceId": "9000062236",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-dzialka-o-powierzchni-1475-m-polozona-w-jablonnie-w-rej-ID4DAP8",
-      "propertyType": "plot",
-      "title": "Na sprzedaż działka o powierzchni 1475 m², położona w Jabłonnie, w rej",
-      "voivodeship": "mazowieckie",
-      "county": "legionowski",
-      "city": "Jabłonna",
-      "street": "Zacisze",
-      "coordinates": {
-        "lat": 52.402588958486206,
-        "lng": 20.92617629375214
-      },
-      "isNearBorder": false,
-      "areaM2": 1475,
-      "currentPrice": 850000,
-      "currentPricePerM2": 1020.41,
-      "initialPrice": 1180000000,
-      "priceChangeAmount": -1179150000,
-      "priceChangePercent": -99.9,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 1180000000,
-          "pricePerM2": 800000
-        },
-        {
-          "date": "2026-10-19",
-          "price": 850000,
-          "pricePerM2": 1020.41
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-19T09:59:51.881Z",
-      "isDirectOwner": false,
-      "previousPrice": 150000
     },
     {
       "id": "otodom-68463451",
@@ -125,10 +85,50 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-26T12:09:48.000Z",
-      "lastSeenAt": "2026-10-25T09:55:57.256Z",
+      "lastSeenAt": "2026-10-26T10:33:09.719Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims2ajBnZTZqNWkxYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wqT53kSc4lZeorRzIGZWNkI3s-yBz_ourBp53PKVi5Q/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 995000000
+    },
+    {
+      "id": "otodom-9000062257",
+      "source": "otodom",
+      "sourceId": "9000062257",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/uslugi-produkcja-w-sercu-przemyslowej-strefy-ID4ABJm",
+      "propertyType": "plot",
+      "title": "Usługi - Produkcja - w sercu przemysłowej strefy.",
+      "voivodeship": "opolskie",
+      "county": "kędzierzyńsko-kozielski",
+      "city": "Stare Koźle",
+      "street": "ul. Okrężna",
+      "coordinates": {
+        "lat": 50.34312467450824,
+        "lng": 18.223761499350644
+      },
+      "isNearBorder": false,
+      "areaM2": 9631,
+      "currentPrice": 20000,
+      "currentPricePerM2": 7.08,
+      "initialPrice": 1599000,
+      "priceChangeAmount": -1579000,
+      "priceChangePercent": -98.7,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 1599000,
+          "pricePerM2": 166.03
+        },
+        {
+          "date": "2026-10-26",
+          "price": 20000,
+          "pricePerM2": 7.08
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-26T10:04:40.570Z",
+      "isDirectOwner": false,
+      "previousPrice": 138500
     },
     {
       "id": "otodom-9000062239",
@@ -169,45 +169,6 @@
       "lastSeenAt": "2026-10-20T09:52:32.299Z",
       "isDirectOwner": true,
       "previousPrice": 21000
-    },
-    {
-      "id": "otodom-9000062236",
-      "source": "otodom",
-      "sourceId": "9000062236",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/4772m2-siedlisko-z-linia-brzegowa-jezioro-dauby-ID4BMQC",
-      "propertyType": "habitat",
-      "title": "4772m2, siedlisko z linią brzegową, jezioro Dauby",
-      "voivodeship": "warminsko-mazurskie",
-      "county": "iławski",
-      "city": "Mozgowo",
-      "coordinates": {
-        "lat": 53.59532593977193,
-        "lng": 19.563719250276975
-      },
-      "isNearBorder": false,
-      "areaM2": 250,
-      "currentPrice": 129000,
-      "currentPricePerM2": 806.25,
-      "initialPrice": 6700000,
-      "priceChangeAmount": -6571000,
-      "priceChangePercent": -98.1,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 6700000,
-          "pricePerM2": 26800
-        },
-        {
-          "date": "2026-10-19",
-          "price": 129000,
-          "pricePerM2": 806.25
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-19T10:26:49.946Z",
-      "isDirectOwner": false,
-      "previousPrice": 499000
     },
     {
       "id": "otodom-9000062242",
@@ -328,6 +289,45 @@
       "previousPrice": 130000
     },
     {
+      "id": "otodom-9000062257",
+      "source": "otodom",
+      "sourceId": "9000062257",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialki-inwestycyjne-zlokalizowane-przy-obwodnicy-ID4wddV",
+      "propertyType": "plot",
+      "title": "Działki inwestycyjne zlokalizowane przy obwodnicy.",
+      "voivodeship": "kujawsko-pomorskie",
+      "county": "grudziądzki",
+      "city": "Grudziądz",
+      "coordinates": {
+        "lat": 53.47841757894043,
+        "lng": 18.760313672367523
+      },
+      "isNearBorder": false,
+      "areaM2": 9802,
+      "currentPrice": 133125,
+      "currentPricePerM2": 75,
+      "initialPrice": 2800000,
+      "priceChangeAmount": -2666875,
+      "priceChangePercent": -95.2,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 2800000,
+          "pricePerM2": 285.66
+        },
+        {
+          "date": "2026-10-26",
+          "price": 133125,
+          "pricePerM2": 75
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-26T09:41:30.426Z",
+      "isDirectOwner": true,
+      "previousPrice": 169000
+    },
+    {
       "id": "otodom-9000062248",
       "source": "otodom",
       "sourceId": "9000062248",
@@ -443,49 +443,10 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-09T12:03:03.205Z",
-      "lastSeenAt": "2026-10-25T09:55:57.379Z",
+      "lastSeenAt": "2026-10-26T10:33:09.881Z",
       "imageUrl": "https://s2.adresowa.pl/oi/4c/4f/418624_cadd_cover@2x-dzialka-budowlana-ostrowski-przygodzice.webp",
       "isDirectOwner": true,
       "previousPrice": 1200000
-    },
-    {
-      "id": "otodom-9000062236",
-      "source": "otodom",
-      "sourceId": "9000062236",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-dzialki-w-zaborowie-gm-gorzno-12-30ha-mozliwosc-budowy-ID4C3ar",
-      "propertyType": "plot",
-      "title": "Na sprzedaż działki w Zaborowie, Gm. Górzno, 12,30ha możliwość budowy",
-      "voivodeship": "kujawsko-pomorskie",
-      "county": "brodnicki",
-      "city": "Zaborowo",
-      "coordinates": {
-        "lat": 53.25596657793535,
-        "lng": 19.388135620655788
-      },
-      "isNearBorder": false,
-      "areaM2": 123000,
-      "currentPrice": 78180,
-      "currentPricePerM2": 60,
-      "initialPrice": 1100000,
-      "priceChangeAmount": -1021820,
-      "priceChangePercent": -92.9,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 1100000,
-          "pricePerM2": 8.94
-        },
-        {
-          "date": "2026-10-19",
-          "price": 78180,
-          "pricePerM2": 60
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-19T09:37:55.361Z",
-      "isDirectOwner": true,
-      "previousPrice": 77000
     },
     {
       "id": "otodom-9000062242",
@@ -641,7 +602,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:07:49.692Z",
-      "lastSeenAt": "2026-10-25T08:56:46.269Z",
+      "lastSeenAt": "2026-10-26T09:37:35.901Z",
       "imageUrl": "https://s2.adresowa.pl/oi/48/7f/3f3880_853b_cover@2x-dzialka-budowlana-wolowski-bukowice.webp",
       "isDirectOwner": true,
       "previousPrice": 176000
@@ -680,7 +641,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:12:18.827Z",
-      "lastSeenAt": "2026-10-25T09:05:42.182Z",
+      "lastSeenAt": "2026-10-26T09:45:45.966Z",
       "imageUrl": "https://s2.adresowa.pl/oi/3b/24/3c384a_a4ec_cover@2x-dzialka-budowlana-lubelski-motycz.webp",
       "isDirectOwner": true,
       "county": "lubelski",
@@ -722,7 +683,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-16T16:11:02.000Z",
-      "lastSeenAt": "2026-10-25T09:18:32.609Z",
+      "lastSeenAt": "2026-10-26T09:57:17.119Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im02bHVuMW4yY2JoNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8WbapaIGU-GwLdubMzLnUGqkaypuEi-r0jGwVfWs7cc/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 28750000
@@ -801,7 +762,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-09T07:51:37.000Z",
-      "lastSeenAt": "2026-10-25T09:34:25.430Z",
+      "lastSeenAt": "2026-10-26T10:12:32.989Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhrZXhiOTJnZGFtbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.aZgFAInh0YeFnbFOs6dU4yAcB4bXUArxEDjCwq14F1A/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 10500000
@@ -841,7 +802,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:28:57.814Z",
-      "lastSeenAt": "2026-10-25T10:00:14.534Z",
+      "lastSeenAt": "2026-10-26T10:37:39.093Z",
       "imageUrl": "https://s2.adresowa.pl/oi/39/29/3b8ff4_2bd1_cover@2x-dzialka-rolna-bialogardzki-redlino.webp",
       "isDirectOwner": true,
       "previousPrice": 300000
@@ -886,7 +847,7 @@
       ],
       "status": "price_increase",
       "firstSeenAt": "2026-09-17T22:17:41.977Z",
-      "lastSeenAt": "2026-10-25T09:34:25.373Z",
+      "lastSeenAt": "2026-10-26T10:12:32.919Z",
       "imageUrl": "https://s2.adresowa.pl/oi/4c/4e/1b2410_f146_cover@2x-dzialka-budowlana-bielski-augustowo.webp",
       "isDirectOwner": true,
       "county": "bielski",
@@ -928,7 +889,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-19T10:00:04.000Z",
-      "lastSeenAt": "2026-10-25T10:00:14.456Z",
+      "lastSeenAt": "2026-10-26T10:37:39.001Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRmcWl5dWJwZ2w3MDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zhAYbWjYpZR2xzEYbzbCcCm20n8ktopFmfR-N8p1JhU/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 17499000
@@ -969,7 +930,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-21T18:40:15.000Z",
-      "lastSeenAt": "2026-10-25T09:18:32.513Z",
+      "lastSeenAt": "2026-10-26T09:57:17.006Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNzcGlqbHdrZHc4ei1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.1VUOlXWSWlJodOVE1U4PNQrUkK6_tabLojM3wDvj-lo/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 10050000
@@ -1010,7 +971,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-11T17:18:24.000Z",
-      "lastSeenAt": "2026-10-25T09:18:32.609Z",
+      "lastSeenAt": "2026-10-26T09:57:17.119Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImYxNGxtbG9tNmkzNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7j-z7ur-BLa28p_HOBmliWiVNBgmjbGUQiB84U-mv2g/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 560000
@@ -1054,45 +1015,6 @@
       "lastSeenAt": "2026-10-25T09:39:02.026Z",
       "isDirectOwner": false,
       "previousPrice": 400000
-    },
-    {
-      "id": "otodom-9000062236",
-      "source": "otodom",
-      "sourceId": "9000062236",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/nowoczesny-komfortowy-dom-wolnostojacy-siedlisko-nad-stawem-ID4DzAM",
-      "propertyType": "habitat",
-      "title": "Nowoczesny komfortowy dom wolnostojący siedlisko nad stawem",
-      "voivodeship": "swietokrzyskie",
-      "county": "konecki",
-      "city": "Kołoniec",
-      "coordinates": {
-        "lat": 51.1877879787264,
-        "lng": 20.417287818553007
-      },
-      "isNearBorder": false,
-      "areaM2": 75,
-      "currentPrice": 59000,
-      "currentPricePerM2": 13.68,
-      "initialPrice": 490000,
-      "priceChangeAmount": -431000,
-      "priceChangePercent": -88,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 490000,
-          "pricePerM2": 6533.33
-        },
-        {
-          "date": "2026-10-19",
-          "price": 59000,
-          "pricePerM2": 13.68
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-19T10:22:17.560Z",
-      "isDirectOwner": true,
-      "previousPrice": 220000
     },
     {
       "id": "otodom-9000062242",
@@ -1174,6 +1096,45 @@
       "previousPrice": 199000
     },
     {
+      "id": "otodom-9000062257",
+      "source": "otodom",
+      "sourceId": "9000062257",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/nowy-dom-nad-jez-blanki-z-pomostem-i-pozwoleniem-na-2-kolejne-domy-ID4DoI8",
+      "propertyType": "house",
+      "title": "Nowy dom nad jez. Blanki z pomostem i pozwoleniem na 2 kolejne domy",
+      "voivodeship": "warminsko-mazurskie",
+      "county": "lidzbarski",
+      "city": "Blanki",
+      "coordinates": {
+        "lat": 54.13364676365656,
+        "lng": 20.574062540798828
+      },
+      "isNearBorder": false,
+      "areaM2": 54,
+      "currentPrice": 180000,
+      "currentPricePerM2": 2196.19,
+      "initialPrice": 1299000,
+      "priceChangeAmount": -1119000,
+      "priceChangePercent": -86.1,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 1299000,
+          "pricePerM2": 24055.56
+        },
+        {
+          "date": "2026-10-26",
+          "price": 180000,
+          "pricePerM2": 2196.19
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-26T10:28:46.767Z",
+      "isDirectOwner": false,
+      "previousPrice": 3500000
+    },
+    {
       "id": "adresowo-1597477",
       "source": "adresowo",
       "sourceId": "1597477",
@@ -1208,7 +1169,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:08:07.884Z",
-      "lastSeenAt": "2026-10-25T09:43:22.809Z",
+      "lastSeenAt": "2026-10-26T10:21:17.064Z",
       "imageUrl": "https://s2.adresowa.pl/oi/78/35/186025_e16b_cover@2x-dzialka-rolna-klobucki-kaminsko.webp",
       "isDirectOwner": true,
       "previousPrice": 350000
@@ -1249,7 +1210,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:54.592Z",
-      "lastSeenAt": "2026-10-25T09:23:40.833Z",
+      "lastSeenAt": "2026-10-26T10:02:18.506Z",
       "imageUrl": "https://s2.adresowa.pl/oi/52/19/3eb548_e2eb_cover@2x-dzialka-budowlana-grojecki-warka.webp",
       "isDirectOwner": true,
       "previousPrice": 1995000
@@ -1488,10 +1449,89 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-11T13:37:14.000Z",
-      "lastSeenAt": "2026-10-25T10:00:14.534Z",
+      "lastSeenAt": "2026-10-26T10:37:39.093Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InI1MzJ4ZWEwcWpjMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.OXUL50rn9gkIXDrf4XembPbnZJaYtXJE9-Psdgk-RGA/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 650000
+    },
+    {
+      "id": "otodom-9000062257",
+      "source": "otodom",
+      "sourceId": "9000062257",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/zamieszkaj-lub-zainwestuj-w-owczarni-obok-podkowy-ID4DAEo",
+      "propertyType": "plot",
+      "title": "Zamieszkaj lub zainwestuj w Owczarni obok Podkowy",
+      "voivodeship": "mazowieckie",
+      "county": "pruszkowski",
+      "city": "Owczarnia",
+      "coordinates": {
+        "lat": 52.17314056390231,
+        "lng": 20.812773923411324
+      },
+      "isNearBorder": false,
+      "areaM2": 1285,
+      "currentPrice": 155000,
+      "currentPricePerM2": 516.67,
+      "initialPrice": 820000,
+      "priceChangeAmount": -665000,
+      "priceChangePercent": -81.1,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 820000,
+          "pricePerM2": 638.13
+        },
+        {
+          "date": "2026-10-26",
+          "price": 155000,
+          "pricePerM2": 516.67
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-26T10:02:18.506Z",
+      "isDirectOwner": false,
+      "previousPrice": 2608700
+    },
+    {
+      "id": "otodom-9000062257",
+      "source": "otodom",
+      "sourceId": "9000062257",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/czaniec-dom-z-potencjalem-inwestycyjnym-ID4DGVY",
+      "propertyType": "house",
+      "title": "Czaniec – dom z potencjałem inwestycyjnym",
+      "voivodeship": "slaskie",
+      "county": "bielski",
+      "city": "Czaniec",
+      "street": "Karpacka 9",
+      "coordinates": {
+        "lat": 52.762549903274454,
+        "lng": 23.18345457787374
+      },
+      "isNearBorder": false,
+      "areaM2": 200,
+      "currentPrice": 128500,
+      "currentPricePerM2": 1285,
+      "initialPrice": 680000,
+      "priceChangeAmount": -551500,
+      "priceChangePercent": -81.1,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 680000,
+          "pricePerM2": 3400
+        },
+        {
+          "date": "2026-10-26",
+          "price": 128500,
+          "pricePerM2": 1285
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-26T10:21:16.941Z",
+      "isDirectOwner": false,
+      "previousPrice": 649000
     },
     {
       "id": "adresowo-4200498",
@@ -1529,7 +1569,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:36.907Z",
-      "lastSeenAt": "2026-10-25T09:23:40.833Z",
+      "lastSeenAt": "2026-10-26T10:02:18.506Z",
       "imageUrl": "https://s2.adresowa.pl/oi/5f/58/401832_ff4f_cover@2x-dzialka-inwestycyjna-przasnyski-przasnysz.webp",
       "isDirectOwner": true,
       "previousPrice": 1260000
@@ -1733,7 +1773,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:11:01.541Z",
-      "lastSeenAt": "2026-10-25T09:46:50.269Z",
+      "lastSeenAt": "2026-10-26T10:24:32.411Z",
       "imageUrl": "https://s2.adresowa.pl/oi/1e/5f/371f30_47ef_cover@2x-dzialka-rolno-budowlana-starachowicki-starachowice.webp",
       "isDirectOwner": true,
       "previousPrice": 450000
@@ -1773,7 +1813,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-29T10:30:26.039Z",
-      "lastSeenAt": "2026-10-25T09:05:42.182Z",
+      "lastSeenAt": "2026-10-26T09:45:45.966Z",
       "imageUrl": "https://s2.adresowa.pl/oi/21/4b/4146ee_fa4b_cover@2x-dzialka-rolno-budowlana-leczynski-turowola-kolonia.webp",
       "isDirectOwner": true,
       "previousPrice": 570000
@@ -1853,7 +1893,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:07:44.987Z",
-      "lastSeenAt": "2026-10-25T08:56:46.269Z",
+      "lastSeenAt": "2026-10-26T09:37:35.901Z",
       "imageUrl": "https://s2.adresowa.pl/oi/46/41/3debc0_2f4f_cover@2x-dzialka-budowlana-olesnicki-sokolowice.webp",
       "isDirectOwner": true,
       "previousPrice": 1100000
@@ -1937,45 +1977,6 @@
       "previousPrice": 1620000
     },
     {
-      "id": "otodom-9000062236",
-      "source": "otodom",
-      "sourceId": "9000062236",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/prywatna-enklawa-w-gorach-swietokrzyskich-ID4CjuO",
-      "propertyType": "house",
-      "title": "Prywatna enklawa w Górach Świętokrzyskich",
-      "voivodeship": "swietokrzyskie",
-      "county": "starachowicki",
-      "city": "Bronkowice",
-      "coordinates": {
-        "lat": 51.47264748333281,
-        "lng": 17.655911261908184
-      },
-      "isNearBorder": false,
-      "areaM2": 162,
-      "currentPrice": 521250,
-      "currentPricePerM2": 4714.21,
-      "initialPrice": 2340000,
-      "priceChangeAmount": -1818750,
-      "priceChangePercent": -77.7,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 2340000,
-          "pricePerM2": 14444.44
-        },
-        {
-          "date": "2026-10-19",
-          "price": 521250,
-          "pricePerM2": 4714.21
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-19T10:22:17.462Z",
-      "isDirectOwner": false,
-      "previousPrice": 1750000
-    },
-    {
       "id": "otodom-68323927",
       "source": "otodom",
       "sourceId": "68323927",
@@ -2011,7 +2012,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-05T12:42:53.000Z",
-      "lastSeenAt": "2026-10-25T09:43:22.809Z",
+      "lastSeenAt": "2026-10-26T10:21:17.064Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpneGdseGM4aDZydDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Efuhba48jPsCwanvV9xExQJjrcNVo2GGTQkBy87iUoY/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 1650000
