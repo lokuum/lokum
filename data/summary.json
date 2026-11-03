@@ -1,54 +1,13 @@
 {
-  "totalHouses": 41006,
-  "totalPlots": 63688,
-  "totalHabitats": 3655,
-  "totalPriceDrops": 9845,
-  "avgHousePricePerM2": 7175,
+  "totalHouses": 41316,
+  "totalPlots": 63756,
+  "totalHabitats": 3671,
+  "totalPriceDrops": 9989,
+  "avgHousePricePerM2": 7336,
   "avgPlotPricePerM2": 241,
-  "avgHabitatPricePerM2": 1979,
-  "lastUpdated": "2026-11-02T12:59:27.009Z",
+  "avgHabitatPricePerM2": 1994,
+  "lastUpdated": "2026-11-03T12:38:16.550Z",
   "topPriceDrops": [
-    {
-      "id": "otodom-68541690",
-      "source": "otodom",
-      "sourceId": "68541690",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-dzialka-o-powierzchni-1475-m-polozona-w-jablonnie-w-rej-ID4DAP8",
-      "propertyType": "plot",
-      "title": "Na sprzedaż działka o powierzchni 1475 m², położona w Jabłonnie, w rej",
-      "voivodeship": "mazowieckie",
-      "county": "legionowski",
-      "city": "Jabłonna",
-      "street": "Zacisze",
-      "coordinates": {
-        "lat": 52.392701676191855,
-        "lng": 20.943090174613914
-      },
-      "isNearBorder": false,
-      "areaM2": 1475,
-      "currentPrice": 1180000,
-      "currentPricePerM2": 800,
-      "initialPrice": 1180000000,
-      "priceChangeAmount": -1178820000,
-      "priceChangePercent": -99.9,
-      "priceHistory": [
-        {
-          "date": "2026-10-19",
-          "price": 1180000000,
-          "pricePerM2": 800000
-        },
-        {
-          "date": "2026-10-20",
-          "price": 1180000,
-          "pricePerM2": 800
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "2026-10-19T09:56:00.000Z",
-      "lastSeenAt": "2026-10-27T10:00:43.160Z",
-      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjY5cnBxZmlpZzY2bDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Usz7oAV_Jwf7HOpp2CL6VpnTgkO-iQ1Yb91Fl-UJvYA/image;s=655x491;q=80",
-      "isDirectOwner": false,
-      "previousPrice": 1180000000
-    },
     {
       "id": "otodom-68332091",
       "source": "otodom",
@@ -85,7 +44,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-08-20T09:11:54.000Z",
-      "lastSeenAt": "2026-11-02T12:34:54.784Z",
+      "lastSeenAt": "2026-11-03T12:12:57.477Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InptYWVsamhyaTVpNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.LR19Ryh9SsFJphgv4HC2w-xBI78ViAddsc6e9rPMh08/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 800000000
@@ -136,49 +95,10 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-26T12:09:48.000Z",
-      "lastSeenAt": "2026-11-02T12:55:11.483Z",
+      "lastSeenAt": "2026-11-03T12:33:45.802Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims2ajBnZTZqNWkxYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wqT53kSc4lZeorRzIGZWNkI3s-yBz_ourBp53PKVi5Q/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 980000
-    },
-    {
-      "id": "otodom-9000062260",
-      "source": "otodom",
-      "sourceId": "9000062260",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/grunt-rolny-niezabudowany-244-ha-w-jednym-rozlogu-ID4CYXB",
-      "propertyType": "plot",
-      "title": "grunt rolny niezabudowany 244 ha w jednym rozłogu",
-      "voivodeship": "zachodniopomorskie",
-      "county": "koszaliński",
-      "city": "Janowiec",
-      "coordinates": {
-        "lat": 54.18742585921784,
-        "lng": 16.18135219149805
-      },
-      "isNearBorder": false,
-      "areaM2": 2448015,
-      "currentPrice": 89000,
-      "currentPricePerM2": 18.17,
-      "initialPrice": 10900000,
-      "priceChangeAmount": -10811000,
-      "priceChangePercent": -99.2,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 10900000,
-          "pricePerM2": 4.45
-        },
-        {
-          "date": "2026-10-27",
-          "price": 89000,
-          "pricePerM2": 18.17
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-27T10:38:16.077Z",
-      "isDirectOwner": true,
-      "previousPrice": 59000
     },
     {
       "id": "otodom-9000062272",
@@ -254,7 +174,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-25T09:12:42.823Z",
-      "lastSeenAt": "2026-11-02T12:15:04.695Z",
+      "lastSeenAt": "2026-11-03T11:52:32.821Z",
       "imageUrl": "https://s2.adresowa.pl/oi/71/5e/41e5d8_81dc_cover@2x-dzialka-budowlana-lodzki-wschodni-nowe-skoszewy.webp",
       "isDirectOwner": true,
       "previousPrice": 24120065
@@ -577,45 +497,6 @@
       "previousPrice": 949000
     },
     {
-      "id": "otodom-9000062260",
-      "source": "otodom",
-      "sourceId": "9000062260",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/pole-rolne-11-6410-ha-w-jednym-kawalku-lasowice-wielkie-ID4DI5O",
-      "propertyType": "plot",
-      "title": "Pole rolne 11,6410 ha w jednym kawałku – Lasowice Wielkie",
-      "voivodeship": "opolskie",
-      "county": "kluczborski",
-      "city": "Lasowice Wielkie",
-      "coordinates": {
-        "lat": 50.96602323522844,
-        "lng": 18.219447046195324
-      },
-      "isNearBorder": false,
-      "areaM2": 11641,
-      "currentPrice": 65100,
-      "currentPricePerM2": 62,
-      "initialPrice": 999000,
-      "priceChangeAmount": -933900,
-      "priceChangePercent": -93.5,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 999000,
-          "pricePerM2": 85.82
-        },
-        {
-          "date": "2026-10-27",
-          "price": 65100,
-          "pricePerM2": 62
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-27T10:03:45.570Z",
-      "isDirectOwner": false,
-      "previousPrice": 199000
-    },
-    {
       "id": "otodom-9000062272",
       "source": "otodom",
       "sourceId": "9000062272",
@@ -691,49 +572,10 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-09T12:03:03.205Z",
-      "lastSeenAt": "2026-11-02T12:55:11.617Z",
+      "lastSeenAt": "2026-11-03T12:33:45.965Z",
       "imageUrl": "https://s2.adresowa.pl/oi/4c/4f/418624_cadd_cover@2x-dzialka-budowlana-ostrowski-przygodzice.webp",
       "isDirectOwner": true,
       "previousPrice": 1200000
-    },
-    {
-      "id": "otodom-9000062260",
-      "source": "otodom",
-      "sourceId": "9000062260",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-nad-woda-ID4DfVZ",
-      "propertyType": "house",
-      "title": "dom nad wodą",
-      "voivodeship": "warminsko-mazurskie",
-      "county": "giżycki",
-      "city": "Kozin",
-      "coordinates": {
-        "lat": 54.03759327645202,
-        "lng": 21.75741863604799
-      },
-      "isNearBorder": false,
-      "areaM2": 208,
-      "currentPrice": 469000,
-      "currentPricePerM2": 6236.7,
-      "initialPrice": 6700000,
-      "priceChangeAmount": -6231000,
-      "priceChangePercent": -93,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 6700000,
-          "pricePerM2": 32211.54
-        },
-        {
-          "date": "2026-10-27",
-          "price": 469000,
-          "pricePerM2": 6236.7
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-27T10:29:15.306Z",
-      "isDirectOwner": false,
-      "previousPrice": 850000
     },
     {
       "id": "otodom-9000062275",
@@ -978,7 +820,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:17:41.977Z",
-      "lastSeenAt": "2026-11-02T12:34:54.849Z",
+      "lastSeenAt": "2026-11-03T12:12:57.543Z",
       "imageUrl": "https://s2.adresowa.pl/oi/4c/4e/1b2410_f146_cover@2x-dzialka-budowlana-bielski-augustowo.webp",
       "isDirectOwner": true,
       "county": "bielski",
@@ -1019,7 +861,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:12:15.011Z",
-      "lastSeenAt": "2026-11-02T12:07:28.649Z",
+      "lastSeenAt": "2026-11-03T11:44:34.146Z",
       "imageUrl": "https://s2.adresowa.pl/oi/12/7c/3d9d3a_6795_cover@2x-dzialka-rolno-budowlana-chelmski-aleksandria-krzywowolska.webp",
       "isDirectOwner": true,
       "county": "chelmski",
@@ -1059,7 +901,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:12:18.827Z",
-      "lastSeenAt": "2026-11-02T12:07:28.649Z",
+      "lastSeenAt": "2026-11-03T11:44:34.146Z",
       "imageUrl": "https://s2.adresowa.pl/oi/3b/24/3c384a_a4ec_cover@2x-dzialka-budowlana-lubelski-motycz.webp",
       "isDirectOwner": true,
       "county": "lubelski",
@@ -1100,7 +942,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:26:37.927Z",
-      "lastSeenAt": "2026-11-02T12:15:04.596Z",
+      "lastSeenAt": "2026-11-03T11:52:32.707Z",
       "imageUrl": "https://s2.adresowa.pl/oi/51/29/317c6c_ceb8_cover@2x-dom-sieradzki-inczew.webp",
       "isDirectOwner": true,
       "previousPrice": 1900000
@@ -1141,7 +983,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-16T16:11:02.000Z",
-      "lastSeenAt": "2026-11-02T12:19:33.470Z",
+      "lastSeenAt": "2026-11-03T11:57:15.125Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im02bHVuMW4yY2JoNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8WbapaIGU-GwLdubMzLnUGqkaypuEi-r0jGwVfWs7cc/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 28750000
@@ -1221,7 +1063,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-09T07:51:37.000Z",
-      "lastSeenAt": "2026-11-02T12:34:54.934Z",
+      "lastSeenAt": "2026-11-03T12:12:57.645Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhrZXhiOTJnZGFtbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.aZgFAInh0YeFnbFOs6dU4yAcB4bXUArxEDjCwq14F1A/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 10500000
@@ -1261,7 +1103,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:28:57.814Z",
-      "lastSeenAt": "2026-11-02T12:59:22.014Z",
+      "lastSeenAt": "2026-11-03T12:38:12.751Z",
       "imageUrl": "https://s2.adresowa.pl/oi/39/29/3b8ff4_2bd1_cover@2x-dzialka-rolna-bialogardzki-redlino.webp",
       "isDirectOwner": true,
       "previousPrice": 300000
@@ -1540,7 +1382,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-11T17:18:24.000Z",
-      "lastSeenAt": "2026-11-02T12:19:33.470Z",
+      "lastSeenAt": "2026-11-03T11:57:15.125Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImYxNGxtbG9tNmkzNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7j-z7ur-BLa28p_HOBmliWiVNBgmjbGUQiB84U-mv2g/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 560000
@@ -1626,6 +1468,46 @@
       "previousPrice": 1399000
     },
     {
+      "id": "otodom-9000062281",
+      "source": "otodom",
+      "sourceId": "9000062281",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-budowlana-wydane-warunki-zabudowy-ID4l2cy",
+      "propertyType": "plot",
+      "title": "Działka budowlana wydane warunki zabudowy",
+      "voivodeship": "zachodniopomorskie",
+      "county": "koszaliński",
+      "city": "Gąski",
+      "street": "ul. Perłowa",
+      "coordinates": {
+        "lat": 54.26277167445508,
+        "lng": 16.0518249951186
+      },
+      "isNearBorder": false,
+      "areaM2": 1000,
+      "currentPrice": 73372,
+      "currentPricePerM2": 68,
+      "initialPrice": 590000,
+      "priceChangeAmount": -516628,
+      "priceChangePercent": -87.6,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 590000,
+          "pricePerM2": 590
+        },
+        {
+          "date": "2026-11-03",
+          "price": 73372,
+          "pricePerM2": 68
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-11-03T12:38:12.751Z",
+      "isDirectOwner": true,
+      "previousPrice": 899000
+    },
+    {
       "id": "adresowo-3133886",
       "source": "adresowo",
       "sourceId": "3133886",
@@ -1661,7 +1543,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:08:26.289Z",
-      "lastSeenAt": "2026-11-02T11:59:07.110Z",
+      "lastSeenAt": "2026-11-03T11:36:15.878Z",
       "imageUrl": "https://s2.adresowa.pl/oi/78/35/2fd1be_d9ae_cover@2x-dzialka-budowlana-wroclawski-swieta-katarzyna.webp",
       "isDirectOwner": true,
       "previousPrice": 5000000
@@ -1865,45 +1747,6 @@
       "previousPrice": 159800
     },
     {
-      "id": "otodom-9000062260",
-      "source": "otodom",
-      "sourceId": "9000062260",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/lublin-szerokie-dzialka-1556m-z-wz-i-mediami-ID4CPUD",
-      "propertyType": "plot",
-      "title": "Lublin, Szerokie, Działka 1556m² z WZ i mediami",
-      "voivodeship": "lubelskie",
-      "county": "lubelski",
-      "city": "Szerokie",
-      "coordinates": {
-        "lat": 51.2457587044955,
-        "lng": 22.477705898645628
-      },
-      "isNearBorder": false,
-      "areaM2": 1761,
-      "currentPrice": 122000,
-      "currentPricePerM2": 64.21,
-      "initialPrice": 870000,
-      "priceChangeAmount": -748000,
-      "priceChangePercent": -86,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 870000,
-          "pricePerM2": 494.04
-        },
-        {
-          "date": "2026-10-27",
-          "price": 122000,
-          "pricePerM2": 64.21
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-27T09:42:54.091Z",
-      "isDirectOwner": false,
-      "previousPrice": 119000
-    },
-    {
       "id": "adresowo-1597477",
       "source": "adresowo",
       "sourceId": "1597477",
@@ -1938,7 +1781,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:08:07.884Z",
-      "lastSeenAt": "2026-11-02T12:43:37.546Z",
+      "lastSeenAt": "2026-11-03T12:21:26.577Z",
       "imageUrl": "https://s2.adresowa.pl/oi/78/35/186025_e16b_cover@2x-dzialka-rolna-klobucki-kaminsko.webp",
       "isDirectOwner": true,
       "previousPrice": 350000
@@ -1979,7 +1822,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:54.592Z",
-      "lastSeenAt": "2026-11-02T12:24:42.668Z",
+      "lastSeenAt": "2026-11-03T12:02:33.544Z",
       "imageUrl": "https://s2.adresowa.pl/oi/52/19/3eb548_e2eb_cover@2x-dzialka-budowlana-grojecki-warka.webp",
       "isDirectOwner": true,
       "previousPrice": 1995000
@@ -2022,6 +1865,166 @@
       "lastSeenAt": "2026-11-02T12:59:22.014Z",
       "isDirectOwner": false,
       "previousPrice": 280000
+    },
+    {
+      "id": "otodom-9000062272",
+      "source": "otodom",
+      "sourceId": "9000062272",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowy-dom-w-stylu-dworkowym-w-warznie-ID4Dgk7",
+      "propertyType": "house",
+      "title": "Wyjątkowy Dom W Stylu Dworkowym W Warznie",
+      "voivodeship": "pomorskie",
+      "county": "wejherowski",
+      "city": "Warzno",
+      "street": "Dębowa",
+      "coordinates": {
+        "lat": 54.60487823762636,
+        "lng": 18.23032747181707
+      },
+      "isNearBorder": false,
+      "areaM2": 250,
+      "currentPrice": 269000,
+      "currentPricePerM2": 3736.11,
+      "initialPrice": 1690000,
+      "priceChangeAmount": -1421000,
+      "priceChangePercent": -84.1,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 1690000,
+          "pricePerM2": 6760
+        },
+        {
+          "date": "2026-10-31",
+          "price": 269000,
+          "pricePerM2": 3736.11
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-10-31T10:50:14.598Z",
+      "isDirectOwner": false,
+      "previousPrice": 1590000
+    },
+    {
+      "id": "otodom-68486079",
+      "source": "otodom",
+      "sourceId": "68486079",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/nowoczesna-rezydencja-z-basenem-unikat-pod-lasem-blisko-warszawy-ID4Dmmb",
+      "propertyType": "house",
+      "title": "Nowoczesna REZYDENCJA z basenem. Unikat pod LASEM blisko Warszawy.",
+      "voivodeship": "mazowieckie",
+      "county": "pruszkowski",
+      "city": "Komorów",
+      "coordinates": {
+        "lat": 52.16924485558321,
+        "lng": 20.806329280094566
+      },
+      "isNearBorder": false,
+      "areaM2": 300,
+      "plotAreaM2": 2600,
+      "currentPrice": 798900,
+      "currentPricePerM2": 9742.68,
+      "initialPrice": 4898000,
+      "priceChangeAmount": -4099100,
+      "priceChangePercent": -83.7,
+      "priceHistory": [
+        {
+          "date": "2026-10-02",
+          "price": 4898000,
+          "pricePerM2": 16326.67
+        },
+        {
+          "date": "2026-10-27",
+          "price": 798900,
+          "pricePerM2": 9742.68
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-10-02T16:52:10.000Z",
+      "lastSeenAt": "2026-10-28T10:45:07.702Z",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhrZmJ1NW1zaDRrdS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.qt19j1aPc3wRHb5M2YzGrTqDTjiro9rjfQrX44tAHXM/image;s=655x491;q=80",
+      "isDirectOwner": true,
+      "previousPrice": 4898000
+    },
+    {
+      "id": "otodom-9000062275",
+      "source": "otodom",
+      "sourceId": "9000062275",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-5200m-z-wz-wymiary-ok70x80m-media-w-granicy-mozliwy-podzial-ID4C7Wi",
+      "propertyType": "plot",
+      "title": "Działka 5200m² z WZ, wymiary ok70x80m, media w granicy.Możliwy podział",
+      "voivodeship": "swietokrzyskie",
+      "county": "kielecki",
+      "city": "Łopuszno",
+      "coordinates": {
+        "lat": 50.86948493843356,
+        "lng": 20.633099380376272
+      },
+      "isNearBorder": false,
+      "areaM2": 5200,
+      "currentPrice": 49000,
+      "currentPricePerM2": 6.9,
+      "initialPrice": 299000,
+      "priceChangeAmount": -250000,
+      "priceChangePercent": -83.6,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 299000,
+          "pricePerM2": 57.5
+        },
+        {
+          "date": "2026-11-01",
+          "price": 49000,
+          "pricePerM2": 6.9
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-11-01T11:49:30.028Z",
+      "isDirectOwner": true,
+      "previousPrice": 125090
+    },
+    {
+      "id": "otodom-9000062275",
+      "source": "otodom",
+      "sourceId": "9000062275",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-wolnostojacy-wolice-ID4DMqo",
+      "propertyType": "house",
+      "title": "Dom wolnostojący Wolice",
+      "voivodeship": "kujawsko-pomorskie",
+      "county": "żniński",
+      "city": "Wolice",
+      "street": "Wolice",
+      "coordinates": {
+        "lat": 52.85726387377099,
+        "lng": 17.710129486716184
+      },
+      "isNearBorder": false,
+      "areaM2": 125,
+      "currentPrice": 204000,
+      "currentPricePerM2": 5828.57,
+      "initialPrice": 1199000,
+      "priceChangeAmount": -995000,
+      "priceChangePercent": -83,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 1199000,
+          "pricePerM2": 9592
+        },
+        {
+          "date": "2026-11-01",
+          "price": 204000,
+          "pricePerM2": 5828.57
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-11-01T11:05:44.128Z",
+      "isDirectOwner": true,
+      "previousPrice": 650000
     }
   ]
 }
