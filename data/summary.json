@@ -1,12 +1,12 @@
 {
-  "totalHouses": 41451,
-  "totalPlots": 63695,
-  "totalHabitats": 3665,
-  "totalPriceDrops": 10711,
-  "avgHousePricePerM2": 7181,
-  "avgPlotPricePerM2": 235,
-  "avgHabitatPricePerM2": 1996,
-  "lastUpdated": "2026-11-06T12:46:11.857Z",
+  "totalHouses": 41491,
+  "totalPlots": 63573,
+  "totalHabitats": 3650,
+  "totalPriceDrops": 10891,
+  "avgHousePricePerM2": 7196,
+  "avgPlotPricePerM2": 238,
+  "avgHabitatPricePerM2": 2000,
+  "lastUpdated": "2026-11-07T11:57:46.090Z",
   "topPriceDrops": [
     {
       "id": "otodom-66391141",
@@ -43,7 +43,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2025-01-23T22:43:18.000Z",
-      "lastSeenAt": "2026-11-06T11:47:14.836Z",
+      "lastSeenAt": "2026-11-07T10:54:37.230Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjY0eTZ0d2d3emM3bzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1mhlUSD4yCHuzTSzWsgvHAOz3EBgq4YXlLaYlKH1_OI/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 1250000000
@@ -84,7 +84,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-08-20T09:11:54.000Z",
-      "lastSeenAt": "2026-11-06T12:22:29.468Z",
+      "lastSeenAt": "2026-11-07T11:31:56.422Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InptYWVsamhyaTVpNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.LR19Ryh9SsFJphgv4HC2w-xBI78ViAddsc6e9rPMh08/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 800000000
@@ -135,49 +135,10 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-26T12:09:48.000Z",
-      "lastSeenAt": "2026-11-06T12:41:51.155Z",
+      "lastSeenAt": "2026-11-07T11:53:31.939Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims2ajBnZTZqNWkxYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wqT53kSc4lZeorRzIGZWNkI3s-yBz_ourBp53PKVi5Q/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 980000
-    },
-    {
-      "id": "otodom-9000062272",
-      "source": "otodom",
-      "sourceId": "9000062272",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-inwest-budow-mikolajki-z-linia-brzegowa-j-talty-ID4DM5b",
-      "propertyType": "plot",
-      "title": "Działka INWEST.-budow.MIKOŁAJKI-z linią brzegową j. TAŁTY",
-      "voivodeship": "warminsko-mazurskie",
-      "county": "mrągowski",
-      "city": "Mikołajki",
-      "coordinates": {
-        "lat": 53.798874766779,
-        "lng": 21.557375990596036
-      },
-      "isNearBorder": false,
-      "areaM2": 5485,
-      "currentPrice": 79000,
-      "currentPricePerM2": 22.74,
-      "initialPrice": 8999000,
-      "priceChangeAmount": -8920000,
-      "priceChangePercent": -99.1,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 8999000,
-          "pricePerM2": 1640.66
-        },
-        {
-          "date": "2026-10-31",
-          "price": 79000,
-          "pricePerM2": 22.74
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-31T11:02:09.676Z",
-      "isDirectOwner": true,
-      "previousPrice": 49000
     },
     {
       "id": "adresowo-4318680",
@@ -214,7 +175,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-25T09:12:42.823Z",
-      "lastSeenAt": "2026-11-06T12:03:21.004Z",
+      "lastSeenAt": "2026-11-07T11:11:08.961Z",
       "imageUrl": "https://s2.adresowa.pl/oi/71/5e/41e5d8_81dc_cover@2x-dzialka-budowlana-lodzki-wschodni-nowe-skoszewy.webp",
       "isDirectOwner": true,
       "previousPrice": 24120065
@@ -260,43 +221,43 @@
       "previousPrice": 250000
     },
     {
-      "id": "otodom-9000062272",
+      "id": "otodom-9000062293",
       "source": "otodom",
-      "sourceId": "9000062272",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/smerek-bieszczady-40-ar-z-panorama-gor-i-pozwoleniem-na-budowe-ID4DArf",
+      "sourceId": "9000062293",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/sprzedam-dzialke-1-92ha-wraz-z-domem-i-hurtownia-ID4qmB5",
       "propertyType": "plot",
-      "title": "SMEREK, BIESZCZADY – 40 AR. Z PANORAMĄ GÓR I POZWOLENIEM NA BUDOWĘ",
-      "voivodeship": "podkarpackie",
-      "county": "leski",
-      "city": "Smerek",
+      "title": "Sprzedam działkę 1,92ha wraz z domem i hurtownią.",
+      "voivodeship": "lodzkie",
+      "county": "łódzki wschodni",
+      "city": "Gospodarz",
       "coordinates": {
-        "lat": 49.21922152588771,
-        "lng": 22.322576671175312
+        "lat": 51.68092373323449,
+        "lng": 19.558630183775964
       },
-      "isNearBorder": true,
-      "areaM2": 4006,
-      "currentPrice": 49000,
-      "currentPricePerM2": 34.22,
-      "initialPrice": 1400000,
-      "priceChangeAmount": -1351000,
-      "priceChangePercent": -96.5,
+      "isNearBorder": false,
+      "areaM2": 19200,
+      "currentPrice": 22000,
+      "currentPricePerM2": 4.17,
+      "initialPrice": 1600000,
+      "priceChangeAmount": -1578000,
+      "priceChangePercent": -98.6,
       "priceHistory": [
         {
           "date": "1999-03-01",
-          "price": 1400000,
-          "pricePerM2": 349.48
+          "price": 1600000,
+          "pricePerM2": 83.33
         },
         {
-          "date": "2026-10-31",
-          "price": 49000,
-          "pricePerM2": 34.22
+          "date": "2026-11-07",
+          "price": 22000,
+          "pricePerM2": 4.17
         }
       ],
       "status": "price_drop",
       "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-31T10:42:22.789Z",
+      "lastSeenAt": "2026-11-07T11:11:08.961Z",
       "isDirectOwner": true,
-      "previousPrice": 279000
+      "previousPrice": 138000
     },
     {
       "id": "otodom-9000062275",
@@ -379,46 +340,6 @@
       "previousPrice": 949000
     },
     {
-      "id": "otodom-9000062272",
-      "source": "otodom",
-      "sourceId": "9000062272",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/atrakcyjne-dzialki-polozone-obok-siebie-na-sprzedaz-osobno-lub-razem-ID4DCC0",
-      "propertyType": "plot",
-      "title": "atrakcyjne działki położone obok siebie: na sprzedaż osobno lub razem",
-      "voivodeship": "zachodniopomorskie",
-      "county": "koszaliński",
-      "city": "Mielno",
-      "street": "ul. Wakacyjna",
-      "coordinates": {
-        "lat": 54.26162230268254,
-        "lng": 16.057901477160073
-      },
-      "isNearBorder": false,
-      "areaM2": 2776,
-      "currentPrice": 69000,
-      "currentPricePerM2": 63.95,
-      "initialPrice": 1050000,
-      "priceChangeAmount": -981000,
-      "priceChangePercent": -93.4,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 1050000,
-          "pricePerM2": 378.24
-        },
-        {
-          "date": "2026-10-31",
-          "price": 69000,
-          "pricePerM2": 63.95
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-31T11:11:02.783Z",
-      "isDirectOwner": true,
-      "previousPrice": 1150000
-    },
-    {
       "id": "adresowo-4294180",
       "source": "adresowo",
       "sourceId": "4294180",
@@ -454,7 +375,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-09T12:03:03.205Z",
-      "lastSeenAt": "2026-11-06T12:41:51.308Z",
+      "lastSeenAt": "2026-11-07T11:53:32.078Z",
       "imageUrl": "https://s2.adresowa.pl/oi/4c/4f/418624_cadd_cover@2x-dzialka-budowlana-ostrowski-przygodzice.webp",
       "isDirectOwner": true,
       "previousPrice": 1200000
@@ -620,6 +541,46 @@
       "previousPrice": 609999
     },
     {
+      "id": "otodom-9000062293",
+      "source": "otodom",
+      "sourceId": "9000062293",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-dzialka-budowlana-nysa-ul-wiosenna-ID4AXTx",
+      "propertyType": "plot",
+      "title": "Na sprzedaż działka budowlana – Nysa, ul. Wiosenna",
+      "voivodeship": "opolskie",
+      "county": "nyski",
+      "city": "Nysa",
+      "street": "ul. Wiosenna",
+      "coordinates": {
+        "lat": 50.469624091341636,
+        "lng": 17.328023736366628
+      },
+      "isNearBorder": true,
+      "areaM2": 625,
+      "currentPrice": 20000,
+      "currentPricePerM2": 7.08,
+      "initialPrice": 239000,
+      "priceChangeAmount": -219000,
+      "priceChangePercent": -91.6,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 239000,
+          "pricePerM2": 382.4
+        },
+        {
+          "date": "2026-11-07",
+          "price": 20000,
+          "pricePerM2": 7.08
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-11-07T11:23:39.970Z",
+      "isDirectOwner": true,
+      "previousPrice": 108000
+    },
+    {
       "id": "adresowo-1778704",
       "source": "adresowo",
       "sourceId": "1778704",
@@ -664,11 +625,52 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:17:41.977Z",
-      "lastSeenAt": "2026-11-06T12:22:29.523Z",
+      "lastSeenAt": "2026-11-07T11:31:56.485Z",
       "imageUrl": "https://s2.adresowa.pl/oi/4c/4e/1b2410_f146_cover@2x-dzialka-budowlana-bielski-augustowo.webp",
       "isDirectOwner": true,
       "county": "bielski",
       "previousPrice": 74560
+    },
+    {
+      "id": "adresowo-4335574",
+      "source": "adresowo",
+      "sourceId": "4335574",
+      "sourceUrl": "https://adresowo.pl/o/dzialka-rod-bielawa-ul-wladyslawa-sikorskiego-w8k8t7",
+      "propertyType": "plot",
+      "title": "Działka — Bielawa, ul. Władysława Sikorskiego",
+      "voivodeship": "dolnoslaskie",
+      "county": "dzierzoniowski",
+      "city": "Bielawa",
+      "street": "ul. Władysława Sikorskiego",
+      "coordinates": {
+        "lat": 50.6922204206656,
+        "lng": 16.610277075160003
+      },
+      "isNearBorder": false,
+      "areaM2": 100,
+      "currentPrice": 7500,
+      "currentPricePerM2": 75,
+      "initialPrice": 75000,
+      "priceChangeAmount": -67500,
+      "priceChangePercent": -90,
+      "priceHistory": [
+        {
+          "date": "2026-11-05",
+          "price": 75000,
+          "pricePerM2": 750
+        },
+        {
+          "date": "2026-11-07",
+          "price": 7500,
+          "pricePerM2": 75
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-11-05T11:48:15.352Z",
+      "lastSeenAt": "2026-11-07T10:54:37.230Z",
+      "imageUrl": "https://s2.adresowa.pl/oi/7c/20/4227d6_c4d4_cover@2x-dzialka-rod-dzierzoniowski-bielawa.webp",
+      "isDirectOwner": true,
+      "previousPrice": 75000
     },
     {
       "id": "adresowo-4037946",
@@ -705,7 +707,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:12:15.011Z",
-      "lastSeenAt": "2026-11-06T11:55:38.308Z",
+      "lastSeenAt": "2026-11-07T11:03:11.453Z",
       "imageUrl": "https://s2.adresowa.pl/oi/12/7c/3d9d3a_6795_cover@2x-dzialka-rolno-budowlana-chelmski-aleksandria-krzywowolska.webp",
       "isDirectOwner": true,
       "county": "chelmski",
@@ -745,7 +747,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-17T22:12:18.827Z",
-      "lastSeenAt": "2026-11-06T11:55:38.308Z",
+      "lastSeenAt": "2026-11-07T11:03:11.453Z",
       "imageUrl": "https://s2.adresowa.pl/oi/3b/24/3c384a_a4ec_cover@2x-dzialka-budowlana-lubelski-motycz.webp",
       "isDirectOwner": true,
       "county": "lubelski",
@@ -786,7 +788,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:26:37.927Z",
-      "lastSeenAt": "2026-11-06T12:03:20.908Z",
+      "lastSeenAt": "2026-11-07T11:11:08.869Z",
       "imageUrl": "https://s2.adresowa.pl/oi/51/29/317c6c_ceb8_cover@2x-dom-sieradzki-inczew.webp",
       "isDirectOwner": true,
       "previousPrice": 1900000
@@ -827,7 +829,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-16T16:11:02.000Z",
-      "lastSeenAt": "2026-11-06T12:07:34.688Z",
+      "lastSeenAt": "2026-11-07T11:15:50.799Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im02bHVuMW4yY2JoNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8WbapaIGU-GwLdubMzLnUGqkaypuEi-r0jGwVfWs7cc/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 28750000
@@ -867,7 +869,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-09T07:51:37.000Z",
-      "lastSeenAt": "2026-11-06T12:22:29.602Z",
+      "lastSeenAt": "2026-11-07T11:31:56.563Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhrZXhiOTJnZGFtbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.aZgFAInh0YeFnbFOs6dU4yAcB4bXUArxEDjCwq14F1A/image;s=655x491;q=80",
       "isDirectOwner": false,
       "previousPrice": 10500000
@@ -907,7 +909,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:28:57.814Z",
-      "lastSeenAt": "2026-11-06T12:46:08.689Z",
+      "lastSeenAt": "2026-11-07T11:57:41.066Z",
       "imageUrl": "https://s2.adresowa.pl/oi/39/29/3b8ff4_2bd1_cover@2x-dzialka-rolna-bialogardzki-redlino.webp",
       "isDirectOwner": true,
       "previousPrice": 300000
@@ -950,45 +952,6 @@
       "lastSeenAt": "2026-11-02T12:10:44.484Z",
       "isDirectOwner": false,
       "previousPrice": 385000
-    },
-    {
-      "id": "otodom-9000062272",
-      "source": "otodom",
-      "sourceId": "9000062272",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/na-sprzedaz-dzialki-w-zaborowie-gm-gorzno-12-30ha-mozliwosc-budowy-ID4C3ar",
-      "propertyType": "plot",
-      "title": "Na sprzedaż działki w Zaborowie, Gm. Górzno, 12,30ha możliwość budowy",
-      "voivodeship": "kujawsko-pomorskie",
-      "county": "brodnicki",
-      "city": "Zaborowo",
-      "coordinates": {
-        "lat": 53.255025985823394,
-        "lng": 19.39334934072435
-      },
-      "isNearBorder": false,
-      "areaM2": 123000,
-      "currentPrice": 103000,
-      "currentPricePerM2": 91.15,
-      "initialPrice": 1000000,
-      "priceChangeAmount": -897000,
-      "priceChangePercent": -89.7,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 1000000,
-          "pricePerM2": 8.13
-        },
-        {
-          "date": "2026-10-31",
-          "price": 103000,
-          "pricePerM2": 91.15
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-31T10:14:31.606Z",
-      "isDirectOwner": true,
-      "previousPrice": 230000
     },
     {
       "id": "otodom-9000062278",
@@ -1104,7 +1067,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-30T13:56:16.000Z",
-      "lastSeenAt": "2026-11-06T12:26:33.365Z",
+      "lastSeenAt": "2026-11-07T11:36:21.143Z",
       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJseGdpOXV2bWl2cDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Uadkh6kk8H8DN791ORlpuJhXV16qopGcP1G_9L4c_OY/image;s=655x491;q=80",
       "isDirectOwner": true,
       "previousPrice": 910000
@@ -1190,86 +1153,6 @@
       "previousPrice": 560000
     },
     {
-      "id": "otodom-9000062272",
-      "source": "otodom",
-      "sourceId": "9000062272",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/dzialka-inwestycyjna-5471-m2-wroclaw-ID4DyqO",
-      "propertyType": "plot",
-      "title": "Działka inwestycyjna 5471 m2 Wrocław",
-      "voivodeship": "dolnoslaskie",
-      "county": "wrocławski",
-      "city": "Wrocław",
-      "street": "Prezydenta Ryszarda Kaczorowskiego",
-      "coordinates": {
-        "lat": 51.11524131091923,
-        "lng": 17.03359791171969
-      },
-      "isNearBorder": false,
-      "areaM2": 5471,
-      "currentPrice": 225000,
-      "currentPricePerM2": 77.59,
-      "initialPrice": 1914850,
-      "priceChangeAmount": -1689850,
-      "priceChangePercent": -88.2,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 1914850,
-          "pricePerM2": 350
-        },
-        {
-          "date": "2026-10-31",
-          "price": 225000,
-          "pricePerM2": 77.59
-        }
-      ],
-      "status": "price_increase",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-31T10:10:14.967Z",
-      "isDirectOwner": false,
-      "previousPrice": 15000
-    },
-    {
-      "id": "otodom-9000062272",
-      "source": "otodom",
-      "sourceId": "9000062272",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowy-dom-i-3-garaze-i-fotowoltaika-i-kluczbork-ID4C1qM",
-      "propertyType": "house",
-      "title": "Wyjątkowy dom I 3 Garaże I Fotowoltaika I Kluczbork",
-      "voivodeship": "opolskie",
-      "county": "kluczborski",
-      "city": "Kluczbork",
-      "street": "ul. Ligonia",
-      "coordinates": {
-        "lat": 50.975767527108765,
-        "lng": 18.205153508781148
-      },
-      "isNearBorder": false,
-      "areaM2": 400,
-      "currentPrice": 240000,
-      "currentPricePerM2": 2553.19,
-      "initialPrice": 1930000,
-      "priceChangeAmount": -1690000,
-      "priceChangePercent": -87.6,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 1930000,
-          "pricePerM2": 4825
-        },
-        {
-          "date": "2026-10-31",
-          "price": 240000,
-          "pricePerM2": 2553.19
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-31T10:38:24.487Z",
-      "isDirectOwner": true,
-      "previousPrice": 1399000
-    },
-    {
       "id": "otodom-9000062281",
       "source": "otodom",
       "sourceId": "9000062281",
@@ -1345,7 +1228,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:08:26.289Z",
-      "lastSeenAt": "2026-11-06T11:47:14.836Z",
+      "lastSeenAt": "2026-11-07T10:54:37.230Z",
       "imageUrl": "https://s2.adresowa.pl/oi/78/35/2fd1be_d9ae_cover@2x-dzialka-budowlana-wroclawski-swieta-katarzyna.webp",
       "isDirectOwner": true,
       "previousPrice": 5000000
@@ -1391,43 +1274,43 @@
       "previousPrice": 599000
     },
     {
-      "id": "otodom-9000062272",
+      "id": "otodom-9000062293",
       "source": "otodom",
-      "sourceId": "9000062272",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/atrakcyjne-siedlisko-na-mazurach-ID4Dkbb",
+      "sourceId": "9000062293",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-czy-gospodarstwo-nie-musisz-wybierac-masz-to-i-to-ID4CZzE",
       "propertyType": "habitat",
-      "title": "Atrakcyjne siedlisko na Mazurach",
-      "voivodeship": "warminsko-mazurskie",
-      "county": "gołdapski",
-      "city": "Sapałówka",
+      "title": "Dom czy gospodarstwo ? Nie musisz wybierać, masz to i to :)",
+      "voivodeship": "lubelskie",
+      "county": "chełmski",
+      "city": "Leśniczówka",
       "coordinates": {
-        "lat": 54.307819861877924,
-        "lng": 22.295473848954227
+        "lat": 51.23187202056261,
+        "lng": 23.59405084112427
       },
       "isNearBorder": true,
-      "areaM2": 350,
+      "areaM2": 99.9,
       "currentPrice": 129000,
-      "currentPricePerM2": 806.25,
-      "initialPrice": 990000,
-      "priceChangeAmount": -861000,
+      "currentPricePerM2": 22.63,
+      "initialPrice": 994000,
+      "priceChangeAmount": -865000,
       "priceChangePercent": -87,
       "priceHistory": [
         {
           "date": "1999-03-01",
-          "price": 990000,
-          "pricePerM2": 2828.57
+          "price": 994000,
+          "pricePerM2": 9949.95
         },
         {
-          "date": "2026-10-31",
+          "date": "2026-11-07",
           "price": 129000,
-          "pricePerM2": 806.25
+          "pricePerM2": 22.63
         }
       ],
       "status": "price_drop",
       "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-31T11:02:09.758Z",
+      "lastSeenAt": "2026-11-07T11:03:11.563Z",
       "isDirectOwner": false,
-      "previousPrice": 430000
+      "previousPrice": 170000
     },
     {
       "id": "otodom-9000062284",
@@ -1544,7 +1427,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:08:07.884Z",
-      "lastSeenAt": "2026-11-06T12:30:42.449Z",
+      "lastSeenAt": "2026-11-07T11:40:35.515Z",
       "imageUrl": "https://s2.adresowa.pl/oi/78/35/186025_e16b_cover@2x-dzialka-rolna-klobucki-kaminsko.webp",
       "isDirectOwner": true,
       "previousPrice": 350000
@@ -1585,7 +1468,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T20:42:54.592Z",
-      "lastSeenAt": "2026-11-06T12:12:28.564Z",
+      "lastSeenAt": "2026-11-07T11:21:13.257Z",
       "imageUrl": "https://s2.adresowa.pl/oi/52/19/3eb548_e2eb_cover@2x-dzialka-budowlana-grojecki-warka.webp",
       "isDirectOwner": true,
       "previousPrice": 1995000
@@ -1669,46 +1552,6 @@
       "previousPrice": 45000
     },
     {
-      "id": "otodom-9000062272",
-      "source": "otodom",
-      "sourceId": "9000062272",
-      "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowy-dom-w-stylu-dworkowym-w-warznie-ID4Dgk7",
-      "propertyType": "house",
-      "title": "Wyjątkowy Dom W Stylu Dworkowym W Warznie",
-      "voivodeship": "pomorskie",
-      "county": "wejherowski",
-      "city": "Warzno",
-      "street": "Dębowa",
-      "coordinates": {
-        "lat": 54.60487823762636,
-        "lng": 18.23032747181707
-      },
-      "isNearBorder": false,
-      "areaM2": 250,
-      "currentPrice": 269000,
-      "currentPricePerM2": 3736.11,
-      "initialPrice": 1690000,
-      "priceChangeAmount": -1421000,
-      "priceChangePercent": -84.1,
-      "priceHistory": [
-        {
-          "date": "1999-03-01",
-          "price": 1690000,
-          "pricePerM2": 6760
-        },
-        {
-          "date": "2026-10-31",
-          "price": 269000,
-          "pricePerM2": 3736.11
-        }
-      ],
-      "status": "price_drop",
-      "firstSeenAt": "1999-03-01T00:00:01.000Z",
-      "lastSeenAt": "2026-10-31T10:50:14.598Z",
-      "isDirectOwner": false,
-      "previousPrice": 1590000
-    },
-    {
       "id": "adresowo-1215107",
       "source": "adresowo",
       "sourceId": "1215107",
@@ -1743,7 +1586,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-09-24T21:02:18.281Z",
-      "lastSeenAt": "2026-11-06T12:26:33.365Z",
+      "lastSeenAt": "2026-11-07T11:36:21.143Z",
       "imageUrl": "https://s2.adresowa.pl/oi/29/6c/128a83_5e8d_cover@2x-dzialka-rolna-kwidzynski-rakowieckie-pole.webp",
       "isDirectOwner": true,
       "previousPrice": 378000
@@ -1783,7 +1626,7 @@
       ],
       "status": "price_drop",
       "firstSeenAt": "2026-10-03T10:03:29.468Z",
-      "lastSeenAt": "2026-11-06T12:12:28.315Z",
+      "lastSeenAt": "2026-11-07T11:21:13.010Z",
       "imageUrl": "https://s2.adresowa.pl/oi/5c/3d/4162be_d048_cover@2x-dom-pruszkowski-komorow.webp",
       "isDirectOwner": true,
       "previousPrice": 4898000
@@ -1908,6 +1751,46 @@
       "previousPrice": 2999999
     },
     {
+      "id": "otodom-9000062293",
+      "source": "otodom",
+      "sourceId": "9000062293",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dys-gm-niemce-nowoczesny-wolnostojacy-dom-165-m2-dzialka-960-m2-ID4BLSI",
+      "propertyType": "house",
+      "title": "Dys, gm. Niemce, nowoczesny wolnostojący dom 165 m2 | Działka 960 m2",
+      "voivodeship": "lubelskie",
+      "county": "lubelski",
+      "city": "Dys",
+      "street": "ul. Słoneczna",
+      "coordinates": {
+        "lat": 51.31905492201828,
+        "lng": 22.56815414161368
+      },
+      "isNearBorder": false,
+      "areaM2": 165,
+      "currentPrice": 260000,
+      "currentPricePerM2": 2047.24,
+      "initialPrice": 1429759,
+      "priceChangeAmount": -1169759,
+      "priceChangePercent": -81.8,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 1429759,
+          "pricePerM2": 8665.21
+        },
+        {
+          "date": "2026-11-07",
+          "price": 260000,
+          "pricePerM2": 2047.24
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-11-07T11:03:11.359Z",
+      "isDirectOwner": false,
+      "previousPrice": 1199000
+    },
+    {
       "id": "otodom-9000062284",
       "source": "otodom",
       "sourceId": "9000062284",
@@ -2025,6 +1908,126 @@
       "lastSeenAt": "2026-11-03T12:12:57.543Z",
       "isDirectOwner": false,
       "previousPrice": 150000
+    },
+    {
+      "id": "otodom-9000062275",
+      "source": "otodom",
+      "sourceId": "9000062275",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/dom-jednorodzinny-na-bardzo-atrakcyjnej-dzialce-17a-w-olesnie-ID4CiJW",
+      "propertyType": "house",
+      "title": "Dom jednorodzinny na bardzo atrakcyjnej działce 17a w Oleśnie",
+      "voivodeship": "opolskie",
+      "county": "oleski",
+      "city": "Olesno",
+      "street": "ul. Stobrówki",
+      "coordinates": {
+        "lat": 50.880065989068484,
+        "lng": 18.42756570434482
+      },
+      "isNearBorder": false,
+      "areaM2": 270,
+      "currentPrice": 149000,
+      "currentPricePerM2": 2980,
+      "initialPrice": 795000,
+      "priceChangeAmount": -646000,
+      "priceChangePercent": -81.3,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 795000,
+          "pricePerM2": 2944.44
+        },
+        {
+          "date": "2026-11-01",
+          "price": 149000,
+          "pricePerM2": 2980
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-11-01T11:30:17.424Z",
+      "isDirectOwner": true,
+      "previousPrice": 349000
+    },
+    {
+      "id": "otodom-68571252",
+      "source": "otodom",
+      "sourceId": "68571252",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/wyjatkowy-dom-duzy-parking-30-ar-mozliwosc-prowadzenia-wlasnej-firmy-ID4DIwV",
+      "propertyType": "house",
+      "title": "Wyjątkowy dom| Duży Parking, 30 ar Możliwość prowadzenia własnej firmy",
+      "voivodeship": "opolskie",
+      "county": "opolski",
+      "city": "Lędziny",
+      "coordinates": {
+        "lat": 51.14054204761517,
+        "lng": 21.969829652662057
+      },
+      "isNearBorder": false,
+      "areaM2": 244,
+      "currentPrice": 370000,
+      "currentPricePerM2": 1927.08,
+      "initialPrice": 1960000,
+      "priceChangeAmount": -1590000,
+      "priceChangePercent": -81.1,
+      "priceHistory": [
+        {
+          "date": "2026-10-27",
+          "price": 1960000,
+          "pricePerM2": 8032.79
+        },
+        {
+          "date": "2026-10-29",
+          "price": 370000,
+          "pricePerM2": 1927.08
+        }
+      ],
+      "status": "price_drop",
+      "firstSeenAt": "2026-10-27T13:19:41.000Z",
+      "lastSeenAt": "2026-11-07T11:23:39.919Z",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJ0OXNpN3NjNmJ1bjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.2Av_mH1aB1RmAIcXLEvqb5oHRPtq8Od9sMmWO8ZkFWM/image;s=655x491;q=80",
+      "isDirectOwner": false,
+      "previousPrice": 1960000
+    },
+    {
+      "id": "otodom-9000062284",
+      "source": "otodom",
+      "sourceId": "9000062284",
+      "sourceUrl": "https://www.otodom.pl/pl/oferta/teren-inwestycyjny-w-lomzy-pod-zabudowe-wielorodzinna-z-war-zabudowy-ID4DPPW",
+      "propertyType": "plot",
+      "title": "Teren inwestycyjny w Łomży pod zabudowę wielorodzinną z war. zabudowy",
+      "voivodeship": "podlaskie",
+      "county": "łomżyński",
+      "city": "Łomża",
+      "street": "ul. Akademicka",
+      "coordinates": {
+        "lat": 53.180194830835276,
+        "lng": 22.0580541083559
+      },
+      "isNearBorder": false,
+      "areaM2": 1000,
+      "currentPrice": 170000,
+      "currentPricePerM2": 150.71,
+      "initialPrice": 900000,
+      "priceChangeAmount": -730000,
+      "priceChangePercent": -81.1,
+      "priceHistory": [
+        {
+          "date": "1999-03-01",
+          "price": 900000,
+          "pricePerM2": 900
+        },
+        {
+          "date": "2026-11-04",
+          "price": 170000,
+          "pricePerM2": 150.71
+        }
+      ],
+      "status": "price_increase",
+      "firstSeenAt": "1999-03-01T00:00:01.000Z",
+      "lastSeenAt": "2026-11-04T12:27:37.876Z",
+      "isDirectOwner": false,
+      "previousPrice": 130000
     }
   ]
 }
